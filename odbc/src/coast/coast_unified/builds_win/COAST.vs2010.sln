@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COAST", "COAST.vs2010.vcxproj", "{E4020104-5DB9-485B-8071-8A055D74BB58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ANSI|Win32 = ANSI|Win32
+		ANSI|x64 = ANSI|x64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		UNICODE_release|Win32 = UNICODE_release|Win32
+		UNICODE_release|x64 = UNICODE_release|x64
+		UNICODE|Win32 = UNICODE|Win32
+		UNICODE|x64 = UNICODE|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.ANSI|Win32.ActiveCfg = ANSI|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.ANSI|Win32.Build.0 = ANSI|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.ANSI|x64.ActiveCfg = ANSI|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.ANSI|x64.Build.0 = ANSI|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Debug|Win32.Build.0 = Debug|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Debug|x64.ActiveCfg = Debug|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Debug|x64.Build.0 = Debug|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Release|Win32.ActiveCfg = Debug|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Release|x64.ActiveCfg = Release|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Release|x64.Build.0 = Release|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.UNICODE_release|Win32.ActiveCfg = UNICODE_release|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.UNICODE_release|Win32.Build.0 = UNICODE_release|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.UNICODE_release|x64.ActiveCfg = UNICODE_release|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.UNICODE_release|x64.Build.0 = UNICODE_release|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.UNICODE|Win32.ActiveCfg = UNICODE|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.UNICODE|Win32.Build.0 = UNICODE|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.UNICODE|x64.ActiveCfg = UNICODE_release|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.UNICODE|x64.Build.0 = UNICODE_release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

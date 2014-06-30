@@ -1,0 +1,723 @@
+allochandle.c:	henv = pTestInfo->henv;
+allochandle.c: 	hdbc = pTestInfo->hdbc;
+allochandle.c:			hstmt[i] = (SQLHANDLE)pTestInfo->hstmt;
+allochandle.c:			hstmt[i] = (SQLHANDLE)pTestInfo->hstmt;
+allochandle.c:		hstmt[i] = (SQLHANDLE)pTestInfo->hstmt;
+alocstmt.c:	henv = pTestInfo->henv;
+alocstmt.c: 	hdbc = pTestInfo->hdbc;
+alocstmt.c:			hstmt[i] = (SQLHANDLE)pTestInfo->hstmt;
+alocstmt.c:			hstmt[i] = (SQLHANDLE)pTestInfo->hstmt;
+alocstmt.c:			hstmt[i] = (SQLHANDLE)pTestInfo->hstmt;
+bindcol.c:	henv = pTestInfo->henv;
+bindcol.c: 	hdbc = pTestInfo->hdbc;
+bindcol.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+bindpara.c:	henv = pTestInfo->henv;
+bindpara.c: 	hdbc = pTestInfo->hdbc;
+bindpara.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+browse.c:	//_tcscat(connstr,pTestInfo->DataSource);
+browse.c:	//_tcscat(connstr,pTestInfo->UserID);
+browse.c:	//_tcscat(connstr,pTestInfo->Password);
+browse.c:    _stprintf(connstr, _T("DSN=%s;UID=%s;PWD=%s;"),pTestInfo->DataSource,pTestInfo->UserID,pTestInfo->Password);
+browse.c:	returncode = SQLBrowseConnect(hdbc, szConnStrIn, (SWORD)(_tcslen(pTestInfo->DataSource)+4), szConnStrOut, BRWS_LEN, &cbConnStrOut);
+browse.c:	_tcscat(connstr,pTestInfo->UserID);
+browse.c:	_tcscat(connstr,pTestInfo->Password);
+browse.c:	_stprintf(tstConnStr,_T("DSN=%s;"),pTestInfo->DataSource);
+browse.c:	_tcscat(tstConnStr,pTestInfo->UserID);
+browse.c:		_tcscat(tstConnStr,pTestInfo->Password);
+closecursor.c:	henv = pTestInfo->henv;
+closecursor.c: 	hdbc = pTestInfo->hdbc;
+closecursor.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+COAST.cpp:	_tcscpy (pTestInfo->DataSource,(const TCHAR *)DSN);
+COAST.cpp:	_tcscpy (pTestInfo->UserID,(const TCHAR *)USR);
+COAST.cpp:	_tcscpy (pTestInfo->Password,(const TCHAR *)PWD);
+COAST.cpp:	pTestInfo->henv = (SQLHANDLE) NULL;
+COAST.cpp:	pTestInfo->hstmt =(SQLHANDLE) NULL;
+COAST.cpp:	pTestInfo->hdbc = (SQLHANDLE) NULL;
+COAST.cpp:	pTestInfo->Trace=TRUE;
+COAST.cpp:	pTestInfo->Trace=FALSE;
+COAST.cpp:	pTestInfo->Trace = FALSE;
+COAST.cpp:	pTestInfo->Trace=FALSE;
+colpriv.c:	henv = pTestInfo->henv;
+colpriv.c: 	hdbc = pTestInfo->hdbc;
+colpriv.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+colpriv.c:	_tcscpy(TableQualifier,pTestInfo->Catalog);
+colpriv.c:	_tcscpy(TableOwner,pTestInfo->Schema);
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--"),_T("--")},
+columns.c:							{pTestInfo->Catalog, (SWORD)-1, pTestInfo->Schema,(SWORD)-1, _T(""),(SWORD)-1, _T(""), (SWORD)-1},
+columns.c:	henv = pTestInfo->henv;
+columns.c: 	hdbc = pTestInfo->hdbc;
+columns.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+columns.c:	_tcscpy(TableQualifier,pTestInfo->Catalog);
+columns.c:	_tcscpy(TableOwner,pTestInfo->Schema);
+common.c:   _stprintf(ConnectStringIn, _T("DSN=%s;UID=%s;PWD=%s;"),pTestInfo->DataSource,pTestInfo->UserID,pTestInfo->Password);
+common.c:   returncode = SQLConnect(hdbc,pTestInfo->DataSource,_tcslen(pTestInfo->DataSource)*2,
+common.c:		   pTestInfo->UserID,_tcslen(pTestInfo->UserID)*2,
+common.c:		   pTestInfo->Password,_tcslen(pTestInfo->Password)*2);
+common.c:	   _tcscpy(pTestInfo->DataSource,TempString);
+common.c:	   _tcscpy(pTestInfo->DataSource,_T(""));
+common.c:	   _tcscpy(pTestInfo->Server,TempString);
+common.c:	   _tcscpy(pTestInfo->Server,_T(""));
+common.c:      _tcscpy(pTestInfo->Port,TempString);
+common.c:	  _tcscpy(pTestInfo->Port,_T(""));
+common.c:	   _tcscpy(pTestInfo->UserID,TempString);
+common.c:	   _tcscpy(pTestInfo->UserID,_T(""));
+common.c:	   _tcscpy((TCHAR *)pTestInfo->Password,TempString);
+common.c:	   _tcscpy((TCHAR *)pTestInfo->Password,_T(""));
+common.c:	  _tcscpy((TCHAR *)pTestInfo->Database,TempString);
+common.c:	  _tcscpy((TCHAR *)pTestInfo->Database,_T("MASTER"));
+common.c:	   _tcscpy((TCHAR *)pTestInfo->Catalog,TempString);
+common.c:	  _tcscpy((TCHAR *)pTestInfo->Catalog,_T("NEO"));
+common.c:	   _tcscpy((TCHAR *)pTestInfo->Schema,TempString);
+common.c:  //	   _tcscpy((TCHAR *)pTestInfo->Schema,pTestInfo->Schema);
+common.c:  pTestInfo->henv = henv;
+common.c:  pTestInfo->hdbc = hdbc;
+common.c:                           (SQLTCHAR*)pTestInfo->DataSource,(SWORD)_tcslen(pTestInfo->DataSource),
+common.c:                           (SQLTCHAR*)pTestInfo->UserID,(SWORD)_tcslen(pTestInfo->UserID),
+common.c:                           (SQLTCHAR*)pTestInfo->Password,(SWORD)_tcslen(pTestInfo->Password)
+common.c:   pTestInfo->henv = (SQLHANDLE)henv;
+common.c:   pTestInfo->hdbc = (SQLHANDLE)hdbc;
+common.c:                           (SQLTCHAR*)pTestInfo->DataSource,(SWORD)_tcslen(pTestInfo->DataSource),
+common.c:                           (SQLTCHAR*)pTestInfo->UserID,(SWORD)_tcslen(pTestInfo->UserID),
+common.c:                           (SQLTCHAR*)pTestInfo->Password,(SWORD)_tcslen(pTestInfo->Password)
+common.c:	pTestInfo->henv = (SQLHANDLE)henv;
+common.c:	pTestInfo->hdbc = (SQLHANDLE)hdbc;
+common.c:  returncode = SQLDisconnect((SQLHANDLE)pTestInfo->hdbc);
+common.c:		LogAllErrors(pTestInfo->henv,pTestInfo->hdbc,pTestInfo->hstmt);
+common.c:  returncode = SQLFreeConnect((SQLHANDLE)pTestInfo->hdbc);
+common.c:		LogAllErrors(pTestInfo->henv,pTestInfo->hdbc,pTestInfo->hstmt);
+common.c:  returncode = SQLFreeEnv((SQLHANDLE)pTestInfo->henv);
+common.c:		LogAllErrors(pTestInfo->henv,pTestInfo->hdbc,pTestInfo->hstmt);
+common.c:  returncode = SQLDisconnect((SQLHANDLE)pTestInfo->hdbc);
+common.c:		LogAllErrors(pTestInfo->henv,pTestInfo->hdbc,pTestInfo->hstmt);
+common.c:  returncode = SQLFreeHandle(SQL_HANDLE_DBC, (SQLHANDLE)pTestInfo->hdbc);
+common.c:		LogAllErrors(pTestInfo->henv,pTestInfo->hdbc,pTestInfo->hstmt);
+common.c:  returncode = SQLFreeHandle(SQL_HANDLE_ENV, (SQLHANDLE)pTestInfo->henv);
+common.c:		LogAllErrors(pTestInfo->henv,pTestInfo->hdbc,pTestInfo->hstmt);
+common.c:	LogMsg(NONE, _T("Data Source : %s\n"), pTestInfo->DataSource);
+common.c:	LogMsg(NONE, _T("Server : %s\n"), pTestInfo->Server);
+common.c:	LogMsg(NONE, _T("Port : %s\n"), pTestInfo->Port);
+common.c:	LogMsg(NONE, _T("UserID : %s\n"), pTestInfo->UserID);
+common.c:	LogMsg(NONE, _T("Database : %s\n"), pTestInfo->Database);
+common.c:	LogMsg(NONE, _T("Catalog : %s\n"), pTestInfo->Catalog);
+common.c:	LogMsg(NONE, _T("Schema : %s\n"), pTestInfo->Schema);
+common.c:	henv = pTestInfo->henv;
+common.c: 	hdbc = pTestInfo->hdbc;
+common.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+connect.c:	returncode = SQLConnect(badhdbc,(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+connect.c:	returncode = SQLConnect(hdbc,NULL,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+connect.c:	returncode = SQLConnect(hdbc,(SQLTCHAR*)pTestInfo->DataSource,(SWORD)(_tcslen(pTestInfo->DataSource)/2),(SQLTCHAR*)pTestInfo->UserID,(SWORD)_tcslen(pTestInfo->UserID),(SQLTCHAR*)pTestInfo->Password,(SWORD)_tcslen(pTestInfo->Password));
+connect.c:	returncode = SQLConnect(hdbc,(SQLTCHAR*)tempstr,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+connect.c:	returncode = SQLConnect(hdbc,(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+connect.c:	returncode = SQLConnect(hdbc,(SQLTCHAR*)pTestInfo->DataSource,(SWORD)_tcslen(pTestInfo->DataSource),(SQLTCHAR*)pTestInfo->UserID,(SWORD)_tcslen(pTestInfo->UserID),(SQLTCHAR*)pTestInfo->Password,(SWORD)_tcslen(pTestInfo->Password));
+connect.c:		returncode = SQLConnect(hdbc,(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+connect.c:				returncode = SQLConnect(hdbc,(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+connect.c:				returncode = SQLConnect(hdbc,(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+connect.c:				returncode = SQLConnect(hdbc,(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+connect.c:		returncode = SQLConnect(hdbc1[i],(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+connect.c:			returncode = SQLConnect(hdbc1[j * NUM_CONN_HND + i],(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+connect.c:		returncode = SQLConnect(hdbc,(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,
+connect.c:									(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+connect.c:		if (_tcscmp(pTestInfo->Password, invalidPWD[i]) != 0) {
+connect.c:			returncode = SQLConnect(hdbc,(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,
+connect.c:										(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,
+connect.c:	//		if (!SQL_SUCCEEDED((returncode = SQLAllocEnv(&pTestInfo->henv)))){
+connect.c:	//		if (!SQL_SUCCEEDED((returncode = SQLSetEnvAttr(pTestInfo->henv, SQL_ATTR_ODBC_VERSION, (void*)SQL_OV_ODBC3, 0))))
+connect.c:	//		if (!SQL_SUCCEEDED((returncode = SQLAllocConnect( pTestInfo->henv, &pTestInfo->hdbc)))){
+connect.c:	//			returncode = SQLConnect( pTestInfo->hdbc,
+connect.c:	//							(SQLTCHAR*)pTestInfo->DataSource, SQL_NTS, 
+connect.c:	//							(SQLTCHAR*)pTestInfo->UserID, SQL_NTS, 
+connect.c:	//							(SQLTCHAR*)pTestInfo->Password, SQL_NTS );
+connect.c:	//			_stprintf(connstr, "DSN=%s;UID=%s;PWD=%s", pTestInfo->DataSource,	pTestInfo->UserID, pTestInfo->Password);
+connect.c:	//			returncode = SQLDriverConnect(pTestInfo->hdbc, NULL, (SQLTCHAR*)connstr, _tcslen(connstr),
+connect.c:	//		_stprintf(buffer, "%s,%s,%s", pTestInfo->Password, testMatrix[i].newpwd, testMatrix[i].newpwdvalidation);
+connect.c:	//			returncode = SQLConnect( pTestInfo->hdbc,
+connect.c:	//							(SQLTCHAR*)pTestInfo->DataSource, SQL_NTS, 
+connect.c:	//							(SQLTCHAR*)pTestInfo->UserID, SQL_NTS, 
+connect.c:	//			_stprintf(connstr, "DSN=%s;UID=%s;PWD=%s", pTestInfo->DataSource,	pTestInfo->UserID, buffer);
+connect.c:	//			returncode = SQLDriverConnect(pTestInfo->hdbc, NULL, (SQLTCHAR*)connstr, _tcslen(connstr),
+connect.c:	//			returncode = SQLConnect( pTestInfo->hdbc,
+connect.c:	//							(SQLTCHAR*)pTestInfo->DataSource, SQL_NTS, 
+connect.c:	//							(SQLTCHAR*)pTestInfo->UserID, SQL_NTS, 
+connect.c:	//			_stprintf(connstr, "DSN=%s;UID=%s;PWD=%s", pTestInfo->DataSource,	pTestInfo->UserID, testMatrix[i].newpwd);
+connect.c:	//			returncode = SQLDriverConnect(pTestInfo->hdbc, NULL, (SQLTCHAR*)connstr, _tcslen(connstr),
+connect.c:	//		_stprintf(buffer, "%s,%s,%s", testMatrix[i].newpwd, pTestInfo->Password, pTestInfo->Password);
+connect.c:	//			returncode = SQLConnect( pTestInfo->hdbc,
+connect.c:	//							(SQLTCHAR*)pTestInfo->DataSource, SQL_NTS, 
+connect.c:	//							(SQLTCHAR*)pTestInfo->UserID, SQL_NTS, 
+connect.c:	//			_stprintf(connstr, "DSN=%s;UID=%s;PWD=%s", pTestInfo->DataSource,	pTestInfo->UserID, buffer);
+connect.c:	//			returncode = SQLDriverConnect(pTestInfo->hdbc, NULL, (SQLTCHAR*)connstr, _tcslen(connstr),
+copydesc.c:	henv = pTestInfo->henv;
+copydesc.c: 	hdbc = pTestInfo->hdbc;
+copydesc.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+desparam.c:	henv = pTestInfo->henv;
+desparam.c: 	hdbc = pTestInfo->hdbc;
+desparam.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+diagrec.c: henv = pTestInfo->henv;
+diagrec.c: hdbc = pTestInfo->hdbc;
+diagrec.c: hstmt = (SQLHANDLE)pTestInfo->hstmt;
+drvconn.c:	_tcscat(connstr,pTestInfo->DataSource);
+drvconn.c:	_tcscat(connstr,pTestInfo->UserID);
+drvconn.c:	_tcscat(connstr,pTestInfo->Password);
+drvconn.c:	_tcscat(connstr,pTestInfo->DataSource);
+drvconn.c:	_tcscat(connstr,pTestInfo->UserID);
+drvconn.c:	_tcscat(connstr,pTestInfo->Password);
+drvconn.c:	_tcscat(connstr,pTestInfo->UserID);
+drvconn.c:	_tcscat(connstr,pTestInfo->Password);
+drvconn.c:	_tcscat(connstr,pTestInfo->DataSource);
+drvconn.c:	_tcscat(connstr,pTestInfo->UserID);
+drvconn.c:	_tcscat(connstr,pTestInfo->DataSource);
+drvconn.c:	_tcscat(connstr,pTestInfo->Server);
+drvconn.c:	_tcscat(connstr,pTestInfo->Port);
+drvconn.c:	_tcscat(connstr,pTestInfo->UserID);
+drvconn.c:	_tcscat(connstr,pTestInfo->Password);
+drvconn.c:	if (_tcslen(pTestInfo->Catalog) == 0)
+drvconn.c:		_tcscat(connstr,pTestInfo->Catalog);
+drvconn.c:	_tcscat(connstr,pTestInfo->Schema);
+drvconn.c:	if (_tcsstr(pTestInfo->Schema, _T(".")) != NULL)
+drvconn.c:	  // pTestInfo->Schema already has catalog name.  connstr1 will be
+drvconn.c:            _tcscat(connstr1,pTestInfo->Catalog);
+drvconn.c:            _tcscat(connstr1,pTestInfo->Schema);
+endtran.c:	henv = pTestInfo->henv;
+endtran.c: 	hdbc = pTestInfo->hdbc;
+endtran.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+error.c:  if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+error.c:	henv = pTestInfo->henv;
+error.c: 	hdbc = pTestInfo->hdbc;
+error.c: 	hstmt = pTestInfo->hstmt;
+execdir.c:	if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+execdir.c:	henv = pTestInfo->henv;
+execdir.c: 	hdbc = pTestInfo->hdbc;
+execdir.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+execdir.c:	if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+execute.c:	henv = pTestInfo->henv;
+execute.c: 	hdbc = pTestInfo->hdbc;
+execute.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+fetch.c:	henv = pTestInfo->henv;
+fetch.c: 	hdbc = pTestInfo->hdbc;
+fetch.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+fetch.c:			henv = pTestInfo->henv;
+fetch.c: 			hdbc = pTestInfo->hdbc;
+fetch.c: 			hstmt = (SQLHANDLE)pTestInfo->hstmt;
+fetchscroll.c:	henv = pTestInfo->henv;
+fetchscroll.c: 	hdbc = pTestInfo->hdbc;
+fetchscroll.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+forkeys.c:	henv = pTestInfo->henv;
+forkeys.c: 	hdbc = pTestInfo->hdbc;
+forkeys.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+forkeys.c:	_tcscpy(Results[0],pTestInfo->Catalog);		
+forkeys.c:	_tcscpy(Results[1],pTestInfo->Schema);
+forkeys.c:	_tcscpy(Results[4],pTestInfo->Catalog);		
+forkeys.c:	_tcscpy(Results[5],pTestInfo->Schema);
+getdata.c:	henv = pTestInfo->henv;
+getdata.c: 	hdbc = pTestInfo->hdbc;
+getdata.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+getdescrec.c:	henv = pTestInfo->henv;
+getdescrec.c: 	hdbc = pTestInfo->hdbc;
+getdiagfield.c:	henv = pTestInfo->henv;
+getdiagfield.c: 	hdbc = pTestInfo->hdbc;
+getdiagfield.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+getfunc.c:  if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+getfunc.c:	henv = pTestInfo->henv;
+getfunc.c: 	hdbc = pTestInfo->hdbc;
+getfunc.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+getinfo.c:	if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+getinfo.c:	henv = pTestInfo->henv;
+getinfo.c:	hdbc = pTestInfo->hdbc;
+getinfo.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+getinfo.c:				_tcscpy(data_source_name,pTestInfo->DataSource);
+getinfo.c:				_tcscpy(database_name,pTestInfo->Catalog);
+getinfo.c:				_tcscpy(user_name,pTestInfo->UserID);
+getinfo.c:				//_tcscpy(user_name,pTestInfo->Schema);
+gettypei.c:	henv = pTestInfo->henv;
+gettypei.c: 	hdbc = pTestInfo->hdbc;
+gettypei.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+gettypeiR18.c:	henv = pTestInfo->henv;
+gettypeiR18.c:	hdbc = pTestInfo->hdbc;
+gettypeiR18.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+hash2.cpp:					   (SQLTCHAR*)pTestInfo->DataSource,(SWORD)_tcslen(pTestInfo->DataSource),
+hash2.cpp:					   (SQLTCHAR*)pTestInfo->UserID,(SWORD)_tcslen(pTestInfo->UserID),
+hash2.cpp:					   (SQLTCHAR*)pTestInfo->Password,(SWORD)_tcslen(pTestInfo->Password)
+infostats.cpp:    returncode = SQLAllocStmt((SQLHANDLE)pTestInfo->hdbc, &(pTestInfo->hstmt));	
+infostats.cpp:    returncode = SQLAllocStmt((SQLHANDLE)pTestInfo->hdbc, &secHandle);
+infostats.cpp:                returncode = SQLExecDirect(pTestInfo->hstmt, (SQLTCHAR*)strs[0], SQL_NTS);
+infostats.cpp:	            returncode = SQLExecDirect(pTestInfo->hstmt, (SQLTCHAR*)strs[1], SQL_NTS);
+infostats.cpp:	            returncode = SQLExecDirect(pTestInfo->hstmt, (SQLTCHAR*)strs[2], SQL_NTS);
+infostats.cpp:	            returncode = SQLEndTran(SQL_HANDLE_DBC, pTestInfo->hdbc, SQL_COMMIT);
+infostats.cpp:	            returncode = SQLFreeStmt(pTestInfo->hstmt, SQL_CLOSE);
+infostats.cpp:	        returncode = SQLPrepare(pTestInfo->hstmt, (SQLTCHAR*)strs[3], SQL_NTS);
+infostats.cpp:	        returncode = SQLGetCursorName(pTestInfo->hstmt, (SQLTCHAR*)cursorName, sizeof(cursorName), &outLen);
+infostats.cpp:                LogAllErrors(pTestInfo->henv, pTestInfo->hdbc, pTestInfo->hstmt);
+infostats.cpp:	        returncode = SQLExecute(pTestInfo->hstmt);
+infostats.cpp:	        returncode = SQLFreeStmt(pTestInfo->hstmt,SQL_CLOSE);
+infostats.cpp:        returncode = SQLExecDirect(pTestInfo->hstmt, (SQLTCHAR*)strs[0], SQL_NTS);
+infostats.cpp:		LogAllErrors (pTestInfo->henv, pTestInfo->hdbc, secHandle);
+infostats.cpp:			//LogAllErrors (pTestInfo->henv, pTestInfo->hdbc, secHandle);
+largeblock.cpp:	henv = pTestInfo->henv;
+largeblock.cpp: 	hdbc = pTestInfo->hdbc;
+largeblock.cpp: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+moreres.c:   if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+moreres.c:	henv = pTestInfo->henv;
+moreres.c: 	hdbc = pTestInfo->hdbc;
+moreres.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+mxcancel.c:	henv = pTestInfo->henv;
+mxcancel.c: 	hdbc = pTestInfo->hdbc;
+mxcancel.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+mxcancel.c:							henv = pTestInfo->henv;
+mxcancel.c: 							hdbc = pTestInfo->hdbc;
+mxcancel.c: 							hstmt = (SQLHANDLE)pTestInfo->hstmt;
+mxcancel.c:					henv = pTestInfo->henv;
+mxcancel.c:					hdbc = pTestInfo->hdbc;
+mxcancel.c:					hstmt = (SQLHANDLE)pTestInfo->hstmt;
+mxcancel.c:				henv = pTestInfo->henv;
+mxcancel.c:				hdbc = pTestInfo->hdbc;
+mxcancel.c:				hstmt = (SQLHANDLE)pTestInfo->hstmt;
+mxcancel.c:				henv = pTestInfo->henv;
+mxcancel.c:				hdbc = pTestInfo->hdbc;
+mxcancel.c:				hstmt = (SQLHANDLE)pTestInfo->hstmt;
+mxcolatt.c:					{0, 1, NUMBER_OF_COLUMNS,  10,  10, 0, 1,  10,  0, 3,  1, 1, 2,columnName[0]  ,_T("CHAR"),            pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[0]},
+mxcolatt.c:					{0, 1, NUMBER_OF_COLUMNS,  10,  10, 0, 1,  10,  0, 3, 12, 1, 2,columnName[1]  ,_T("VARCHAR"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[1]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  12,  12, 1, 1,  10,  5, 2,  3, 0, 2,columnName[2]  ,_T("DECIMAL"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[2]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,   7,   7, 1, 1,   5,  2, 2,  3, 1, 2,columnName[3]  ,_T("DECIMAL"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[3]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  12,  12, 1, 1,  10,  5, 2,  2, 0, 2,columnName[4]  ,_T("NUMERIC"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[4]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,   7,   7, 1, 1,   5,  2, 2,  2, 1, 2,columnName[5]  ,_T("NUMERIC"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[5]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,   6,   2, 0, 1,   5,  0, 2,  5, 0, 2,columnName[6]  ,_T("SMALLINT"),        pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[6]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  11,   4, 0, 1,  10,  0, 2,  4, 0, 2,columnName[7]  ,_T("INTEGER"),		  pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[7]},					
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  11,   4, 0, 1,  10,  0, 2,  4, 0, 2,columnName[8]  ,_T("INTEGER"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[8]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  20,  20, 0, 1,  19,  0, 2, -5, 0, 2,columnName[9]  ,_T("BIGINT"),		      pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[9]},				
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  13,   4, 0, 1,   7,  0, 2,  7, 0, 2,columnName[10] ,_T("REAL"),            pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[10]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  22,   8, 0, 1,  15,  0, 2,  8, 0, 2,columnName[11] ,_T("DOUBLE PRECISION"),pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[11]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  22,   8, 0, 1,  15,  0, 2,  8, 0, 2,columnName[12] ,_T("DOUBLE PRECISION"),pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[12]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  10,   6, 0, 1,  10,  0, 2,  9, 1, 2,columnName[13] ,_T("DATE"),            pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[13]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,   8,   6, 0, 1,   8,  0, 2, 10, 1, 2,columnName[14] ,_T("TIME"),            pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[14]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  26,  16, 0, 1,  26,  6, 2, 11, 1, 2,columnName[15] ,_T("TIMESTAMP"),       pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[15]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  20,  20, 0, 1,  19,  0, 2, -5, 0, 2,columnName[16] ,_T("BIGINT"),          pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[16]},
+mxcolatt.c:					{0, 1, NUMBER_OF_COLUMNS,2000,2000, 0, 1,2000,  0, 3, 12, 1, 2,columnName[17] ,_T("VARCHAR"),		  pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[17]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  21,  21, 0, 1,  19,  0, 2,  2, 0, 2,columnName[18] ,_T("NUMERIC"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[18]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  21,  21, 1, 1,  19,  6, 2,  2, 0, 2,columnName[19] ,_T("NUMERIC"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[19]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS, 130, 130, 0, 1, 128,  0, 2,  2, 0, 2,columnName[20] ,_T("NUMERIC"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[20]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS, 130, 130, 1, 1, 128,128, 2,  2, 0, 2,columnName[21] ,_T("NUMERIC"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[21]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS, 130, 130, 1, 1, 128, 64, 2,  2, 0, 2,columnName[22] ,_T("NUMERIC"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[22]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  12,  12, 1, 1,  10,  5, 2,  2, 1, 2,columnName[23] ,_T("NUMERIC"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[23]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  20,  20, 1, 1,  18,  5, 2,  2, 1, 2,columnName[24] ,_T("NUMERIC"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[24]},
+mxcolatt.c:					{0, 0, NUMBER_OF_COLUMNS,  32,  32, 1, 1,  30, 10, 2,  2, 1, 2,columnName[25] ,_T("NUMERIC"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[25]},
+mxcolatt.c:					{0, 1, NUMBER_OF_COLUMNS,  40,  40, 0, 1,  40,  0, 3,  1, 1, 2,columnName[26] , _T("CHAR (10) CHARACTER SET UTF8"),			pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[26]},
+mxcolatt.c:					{0, 1, NUMBER_OF_COLUMNS,  40,  40, 0, 1,  40,  0, 3, 12, 1, 2,columnName[27] ,_T("VARCHAR (10) CHARACTER SET UTF8"),		pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[27]},
+mxcolatt.c:					{0, 1, NUMBER_OF_COLUMNS,2000,2000, 0, 1,2000,  0, 3, 12, 1, 2,columnName[28] ,_T("VARCHAR (500) CHARACTER SET UTF8"),		pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[28]}
+mxcolatt.c:					{0, 1, NUMBER_OF_COLUMNS,  10,  20, 0, 1,  10,  0, 3,  -8, 1, 2,columnName[26] ,_T("CHAR (10) CHARACTER SET UCS2"),			pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[26]},
+mxcolatt.c:					{0, 1, NUMBER_OF_COLUMNS,  10,  20, 0, 1,  10,  0, 3,  -9, 1, 2,columnName[27] ,_T("VARCHAR (10) CHARACTER SET UCS2"),	pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[27]},
+mxcolatt.c:					{0, 1, NUMBER_OF_COLUMNS,2000,4000, 0, 1,2000,  0, 3,  -9, 1, 2,columnName[28] ,_T("VARCHAR (2000) CHARACTER SET UCS2"),	pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[28]}
+mxcolatt.c:	henv = pTestInfo->henv;
+mxcolatt.c: 	hdbc = pTestInfo->hdbc;
+mxcolatt.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+mxcolattr3.c:					{0, 1, NUMBER_OF_COLUMNS,  10,  10, 0, 1,  10,  0, 3,  1,  1, 1, 2,columnName[0] ,_T("CHAR (10) CHARACTER SET UCS2"),            pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[0]},
+mxcolattr3.c:					{0, 1, NUMBER_OF_COLUMNS,  10,  10, 0, 1,  10,  0, 3, 12, 12, 1, 2,columnName[1] ,_T("VARCHAR (10) CHARACTER SET UCS2"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[1]},
+mxcolattr3.c:					{0, 1, NUMBER_OF_COLUMNS,  10,  10, 0, 1,  10,  0, 3,  1,  1, 1, 2,columnName[0] ,_T("CHAR"),            pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[0]},
+mxcolattr3.c:					{0, 1, NUMBER_OF_COLUMNS,  10,  10, 0, 1,  10,  0, 3, 12, 12, 1, 2,columnName[1] ,_T("VARCHAR"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[1]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  12,  12, 1, 1,  10,  5, 2,  3,  3, 0, 2,columnName[2] ,_T("DECIMAL"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[2]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,   7,   7, 1, 1,   5,  2, 2,  3,  3, 1, 2,columnName[3] ,_T("DECIMAL"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[3]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  12,  12, 1, 1,  10,  5, 2,  2,  2, 0, 2,columnName[4] ,_T("NUMERIC"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[4]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,   7,   7, 1, 1,   5,  2, 2,  2,  2, 1, 2,columnName[5] ,_T("NUMERIC"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[5]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,   6,   2, 0, 1,   5,  0, 2,  5,  5, 0, 2,columnName[6] ,_T("SMALLINT"),        pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[6]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,   5,   2, 0, 1,   5,  0, 2,  5,  5, 1, 2,columnName[7] ,_T("SMALLINT"),        pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[7]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  11,   4, 0, 1,  10,  0, 2,  4,  4, 0, 2,columnName[8] ,_T("INTEGER"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[8]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  10,   4, 0, 1,  10,  0, 2,  4,  4, 1, 2,columnName[9] ,_T("INTEGER"),         pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[9]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  13,   4, 0, 1,   7,  0, 2,  7,  7, 0, 2,columnName[10],_T("REAL"),            pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[10]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  22,   8, 0, 1,  15,  0, 2,  8,  8, 0, 2,columnName[11],_T("DOUBLE PRECISION"),pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[11]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  22,   8, 0, 1,  15,  0, 2,  8,  8, 0, 2,columnName[12],_T("DOUBLE PRECISION"),pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[12]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  10,  10, 0, 1,   0,  0, 2,  9, 91, 1, 2,columnName[13],_T("DATE"),            pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[13]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,   8,   8, 0, 1,   0,  0, 2,  9, 92, 1, 2,columnName[14],_T("TIME"),            pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[14]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  26,  26, 0, 1,   6,  0, 2,  9, 93, 1, 2,columnName[15],_T("TIMESTAMP"),       pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[15]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  20,  20, 0, 1,  19,  0, 2, -5, -5, 0, 2,columnName[16],_T("BIGINT"),          pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[16]},
+mxcolattr3.c:					{0, 1, NUMBER_OF_COLUMNS,2000,2000, 0, 1,2000,  0, 3, 12, 12, 1, 2,columnName[17],_T("VARCHAR (2000) CHARACTER SET UCS2"),		 pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[17]},
+mxcolattr3.c:					{0, 1, NUMBER_OF_COLUMNS,2000,2000, 0, 1,2000,  0, 3, 12, 12, 1, 2,columnName[17],_T("VARCHAR"),		 pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[17]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  21,  21, 0, 1,  19,  0, 2,  2,  2, 0, 2,columnName[18] ,_T("NUMERIC"),        pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[18]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  21,  21, 1, 1,  19,  6, 2,  2,  2, 0, 2,columnName[19] ,_T("NUMERIC"),        pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[19]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS, 130, 130, 0, 1, 128,  0, 2,  2,  2, 0, 2,columnName[20] ,_T("NUMERIC"),        pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[20]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS, 130, 130, 1, 1, 128,128, 2,  2,  2, 0, 2,columnName[21] ,_T("NUMERIC"),        pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[21]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS, 130, 130, 1, 1, 128, 64, 2,  2,  2, 0, 2,columnName[22] ,_T("NUMERIC"),        pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[22]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  12,  12, 1, 1,  10,  5, 2,  2,  2, 1, 2,columnName[23] ,_T("NUMERIC"),        pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[23]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  20,  20, 1, 1,  18,  5, 2,  2,  2, 1, 2,columnName[24] ,_T("NUMERIC"),        pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[24]},
+mxcolattr3.c:					{0, 0, NUMBER_OF_COLUMNS,  32,  32, 1, 1,  30, 10, 2,  2,  2, 1, 2,columnName[25] ,_T("NUMERIC"),        pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[25]},
+mxcolattr3.c:					{0, 1, NUMBER_OF_COLUMNS,  40,  40, 0, 1,  40,  0, 3, 1,   1, 1, 2,columnName[26] ,_T("CHAR (10) CHARACTER SET UTF8"),			pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[26]},
+mxcolattr3.c:					{0, 1, NUMBER_OF_COLUMNS,  40,  40, 0, 1,  40,  0, 3, 12, 12, 1, 2,columnName[27] ,_T("VARCHAR (10) CHARACTER SET UTF8"),		pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[27]},
+mxcolattr3.c:					{0, 1, NUMBER_OF_COLUMNS,2000,2000, 0, 1,2000,  0, 3, 12, 12, 1, 2,columnName[28] ,_T("VARCHAR (500) CHARACTER SET UTF8"),		pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[28]}
+mxcolattr3.c:					{0, 1, NUMBER_OF_COLUMNS,  10,  10, 0, 1,  10,  0, 3, 1,   1, 1, 2,columnName[26] ,_T("CHAR (10) CHARACTER SET UCS2"),			pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[26]},
+mxcolattr3.c:					{0, 1, NUMBER_OF_COLUMNS,  10,  10, 0, 1,  10,  0, 3, 12, 12, 1, 2,columnName[27] ,_T("VARCHAR (10) CHARACTER SET UCS2"),		pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[27]},
+mxcolattr3.c:					{0, 1, NUMBER_OF_COLUMNS,2000,2000, 0, 1,2000,  0, 3, 12, 12, 1, 2,columnName[28] ,_T("VARCHAR (2000) CHARACTER SET UCS2"),		pTestInfo->Schema, pTestInfo->Catalog,tableName, columnName[28]}
+mxcolattr3.c:	henv = pTestInfo->henv;
+mxcolattr3.c: 	hdbc = pTestInfo->hdbc;
+mxcolattr3.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+mxdescfields.c://		{ SQL_FALSE,		_T("PROJCODE"),			_T("PROJECT"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_INTEGER,		0,						0,							10,				SQL_FALSE,			_T("Project/Code"),			/* SEAQUEST 10 */4,		_T(""),		_T(""),		_T(""),			_T("PROJCODE"),			SQL_NO_NULLS,	/* SEAQUEST 0 */10,				4,			10,			0,		pTestInfo->Schema,	SQL_PRED_BASIC,		_T("PROJECT"),	SQL_INTEGER,	_T("INTEGER"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+mxdescfields.c://		{ SQL_FALSE,		_T("EMPNUM"),			_T("PROJECT"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_INTEGER,		0,						0,							10,				SQL_FALSE,			_T("Employee/Number"),		/* SEAQUEST 10 */4,		_T(""),		_T(""),		_T(""),			_T("EMPNUM"),			SQL_NO_NULLS,	/* SEAQUEST 0 */10,				4,			10,			0,		pTestInfo->Schema,	SQL_PRED_BASIC,		_T("PROJECT"),	SQL_INTEGER,	_T("INTEGER"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+mxdescfields.c://		{ SQL_FALSE,		_T("PROJDESC"),			_T("PROJECT"),			SQL_TRUE,		pTestInfo->Catalog,		/* SEAQUEST SQL_WCHAR */SQL_VARCHAR,			0,						0,							18,				SQL_FALSE,			_T("Project/Description"),	/* SEAQUEST 13 */18,		/* SEAQUEST _T("N'") */_T("'"),	_T("'"),	/* SEAQUEST _T("") */ _T("VARCHAR CHARACTER SET ISO88591"),			_T("PROJDESC"),			SQL_NO_NULLS,	0,				/* SEAQUEST 24 */18,			/* SEAQUEST 0 */18,			0,		pTestInfo->Schema,	SQL_PRED_SEARCHABLE,_T("PROJECT"),	/* SEAQUEST SQL_WCHAR */SQL_VARCHAR,		_T("VARCHAR"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+mxdescfields.c://		{ SQL_FALSE,		_T("START_DATE"),		_T("PROJECT"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_TYPE_DATE,		SQL_CODE_DATE,			0,							10,				SQL_FALSE,			_T("Start/Date"),			10,		_T("{d'"),	_T("'}"),	_T(""),			_T("START_DATE"),		SQL_NO_NULLS,	0,				6,			0,			0,		pTestInfo->Schema,	SQL_PRED_BASIC,		_T("PROJECT"),	SQL_DATETIME,	_T("DATE"),		SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+mxdescfields.c://		{ SQL_FALSE,		_T("SHIP_TIMESTAMP"),	_T("PROJECT"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_TYPE_TIMESTAMP, SQL_CODE_TIMESTAMP,		0,							26,				SQL_FALSE,			_T("Timestamp/Shipped"),	26,		_T("{ts'"),	_T("'}"),	_T(""),			_T("SHIP_TIMESTAMP"),	SQL_NO_NULLS,	0,				16,			6,			0,		pTestInfo->Schema,	SQL_PRED_BASIC,		_T("PROJECT"),	SQL_DATETIME,	_T("TIMESTAMP"),SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN}
+mxdescfields.c:		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_INTEGER,						0,						0,							10,				SQL_FALSE,			_T("--"),	/* SEAQUEST 10 */4,		_T(""),							_T(""),			_T(""),														_T("--"),	SQL_NO_NULLS,	/* SEAQUEST 0 */10,	4,					10,					0,			pTestInfo->Schema,	SQL_PRED_BASIC,		_T("--"),	SQL_INTEGER,						_T("INTEGER"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+mxdescfields.c:		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_INTEGER,						0,						0,							10,				SQL_FALSE,			_T("--"),	/* SEAQUEST 10 */4,		_T(""),							_T(""),			_T(""),														_T("--"),	SQL_NO_NULLS,	/* SEAQUEST 0 */10,	4,					10,					0,			pTestInfo->Schema,	SQL_PRED_BASIC,		_T("--"),	SQL_INTEGER,						_T("INTEGER"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+mxdescfields.c:		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_TRUE,		pTestInfo->Catalog,		/* SEAQUEST SQL_WCHAR */SQL_VARCHAR,0,						0,							18,				SQL_FALSE,			_T("--"),	/* SEAQUEST 13 */18,	/* SEAQUEST _T("N'") */_T("'"),	_T("'"),		/* SEAQUEST _T("") */ _T("VARCHAR CHARACTER SET ISO88591"),	_T("--"),	SQL_NO_NULLS,	0,					/* SEAQUEST 24 */18,/* SEAQUEST 0 */18,	0,			pTestInfo->Schema,	SQL_PRED_SEARCHABLE,_T("--"),	/* SEAQUEST SQL_WCHAR */SQL_VARCHAR,_T("VARCHAR"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+mxdescfields.c:		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_TYPE_DATE,						SQL_CODE_DATE,			0,							10,				SQL_FALSE,			_T("--"),	10,						_T("{d'"),						_T("'}"),		_T(""),														_T("--"),	SQL_NO_NULLS,	0,					6,					0,					0,			pTestInfo->Schema,	SQL_PRED_BASIC,		_T("--"),	SQL_DATETIME,						_T("DATE"),		SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+mxdescfields.c:		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_TYPE_TIMESTAMP,					SQL_CODE_TIMESTAMP,		0,							26,				SQL_FALSE,			_T("--"),	26,						_T("{ts'"),						_T("'}"),		_T(""),														_T("--"),	SQL_NO_NULLS,	0,					16,					6,					0,			pTestInfo->Schema,	SQL_PRED_BASIC,		_T("--"),	SQL_DATETIME,						_T("TIMESTAMP"),SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN}
+mxdescfields.c:	henv = pTestInfo->henv;
+mxdescfields.c: 	hdbc = pTestInfo->hdbc;
+mxdescol.c:	henv = pTestInfo->henv;
+mxdescol.c: 	hdbc = pTestInfo->hdbc;
+mxdescol.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+MXProc.c:	henv = pTestInfo->henv;
+MXProc.c: 	hdbc = pTestInfo->hdbc;
+MXProc.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+MXProc.c:	_tcscat (createSchStr, pTestInfo->Catalog);
+MXProc.c:	_tcscat (setSchStr, pTestInfo->Catalog);
+MXProc.c:	_tcscat (dropSchStr, pTestInfo->Catalog);
+MXProc.c:	returncode = SQLProcedures(hstmt,(SQLTCHAR*)pTestInfo->Catalog,(SWORD)_tcslen(pTestInfo->Catalog),(SQLTCHAR*)/* SEAQUEST pTestInfo->Schema */ myTestSch,(SWORD)_tcslen(/* SEAQUEST pTestInfo->Schema */ myTestSch),(SQLTCHAR *)_T("%"),(SWORD)1);
+MXProc.c:					if ((_tcsicmp(pTestInfo->Catalog,opqua) == 0) 
+MXProc.c:					&& (_tcsicmp(/* SEAQUEST pTestInfo->Schema */ myTestSch,opowner) == 0) 
+MXProc.c:						LogMsg(NONE,_T("Catalog Name expect: %s and actual: %s are matched\n"),pTestInfo->Catalog,opqua);
+MXProc.c:						LogMsg(NONE,_T("Schema Name expect: %s and actual: %s are matched\n"),/* SEAQUEST pTestInfo->Schema */ myTestSch,opowner);
+MXProc.c:						if (_tcsicmp(pTestInfo->Catalog,opqua) != 0)
+MXProc.c:							LogMsg(ERRMSG,_T("Catalog Name expect: %s and actual: %s are not matched\n"),pTestInfo->Catalog,opqua);
+MXProc.c:						if (_tcsicmp(/* SEAQUEST pTestInfo->Schema */ myTestSch,opowner) != 0) 
+MXProc.c:							LogMsg(ERRMSG,_T("Schema Name expect: %s and actual: %s are not matched\n"),/* SEAQUEST pTestInfo->Schema */ myTestSch,opowner);
+MXProc.c:	returncode = SQLProcedures(hstmt,(SQLTCHAR*)pTestInfo->Catalog,(SWORD)_tcslen(pTestInfo->Catalog),(SQLTCHAR*)/* SEAQUEST pTestInfo->Schema */ myTestSch,(SWORD)_tcslen(/* SEAQUEST pTestInfo->Schema */ myTestSch),(SQLTCHAR*)ProcName,(SWORD)_tcslen(ProcName));
+MXProcCol.c:	henv = pTestInfo->henv;
+MXProcCol.c: 	hdbc = pTestInfo->hdbc;
+MXProcCol.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+MXProcCol.c:        _tcscat (createSchStr, pTestInfo->Catalog);
+MXProcCol.c:        _tcscat (setSchStr, pTestInfo->Catalog);
+MXProcCol.c:        _tcscat (dropSchStr, pTestInfo->Catalog);
+MXProcCol.c:	_tcscpy(ProcCatalog, pTestInfo->Catalog);
+MXProcCol.c:	_tcscpy(ProcSchema, myTestSch /*SEAQUEST pTestInfo->Schema*/);
+MXProcCol.c:	returncode = SQLProcedureColumns(hstmt,(SQLTCHAR*)pTestInfo->Catalog,(SWORD)_tcslen(pTestInfo->Catalog),(SQLTCHAR*)myTestSch/* SEAQUEST pTestInfo->Schema*/,(SWORD)_tcslen(myTestSch/* SEAQUEST pTestInfo->Schema*/),(SQLTCHAR *)_T("%"),(SWORD)1,(SQLTCHAR *)_T("%"),(SWORD)1);
+MXProcCol.c:	returncode = SQLProcedureColumns(hstmt,(SQLTCHAR*)pTestInfo->Catalog,(SWORD)_tcslen(pTestInfo->Catalog),(SQLTCHAR*)myTestSch /* SEAQUEST pTestInfo->Schema */,(SWORD)_tcslen(myTestSch /* SEAQUEST pTestInfo->Schema*/),(SQLTCHAR*)ProcName,(SWORD)_tcslen(ProcName),(SQLTCHAR*)ColName,(SWORD)_tcslen(ColName));
+mxputdata.c:	henv = pTestInfo->henv;
+mxputdata.c: 	hdbc = pTestInfo->hdbc;
+mxputdata.c: 	hstmt = pTestInfo->hstmt;
+mxresgov.c:	henv1 = pTestInfo->henv;
+mxresgov.c: 	hdbc1 = pTestInfo->hdbc;
+mxresgov.c: 	hstmt1 = (SQLHANDLE)pTestInfo->hstmt;
+mxresgov.c:	_tcscat(DataSource,pTestInfo->DataSource);
+natsql.c:   if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+natsql.c:	henv = pTestInfo->henv;
+natsql.c: 	hdbc = pTestInfo->hdbc;
+natsql.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+numpar.c:  if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+numpar.c:	henv = pTestInfo->henv;
+numpar.c: 	hdbc = pTestInfo->hdbc;
+numpar.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+numres.c:	henv = pTestInfo->henv;
+numres.c: 	hdbc = pTestInfo->hdbc;
+numres.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+PartialDateTimeInput.c:	henv = pTestInfo->henv;
+PartialDateTimeInput.c: 	hdbc = pTestInfo->hdbc;
+PartialDateTimeInput.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+PartialDateTimeOutput.c:	henv = pTestInfo->henv;
+PartialDateTimeOutput.c: 	hdbc = pTestInfo->hdbc;
+PartialDateTimeOutput.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+prepare.c:	henv = pTestInfo->henv;
+prepare.c: 	hdbc = pTestInfo->hdbc;
+prepare.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+prikeys.c:	henv = pTestInfo->henv;
+prikeys.c: 	hdbc = pTestInfo->hdbc;
+prikeys.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+prikeys.c:	_tcscpy(Results[0],pTestInfo->Catalog);		
+prikeys.c:	_tcscpy(Results[1],pTestInfo->Schema);
+QueryID.cpp:	henv = pTestInfo->henv;
+QueryID.cpp: 	hdbc = pTestInfo->hdbc;
+QueryID.cpp: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+QueryID.cpp:							   (SQLTCHAR*)pTestInfo->DataSource,(SWORD)_tcslen(pTestInfo->DataSource),
+QueryID.cpp:							   (SQLTCHAR*)pTestInfo->UserID,(SWORD)_tcslen(pTestInfo->UserID),
+QueryID.cpp:							   (SQLTCHAR*)pTestInfo->Password,(SWORD)_tcslen(pTestInfo->Password)
+QueryID.cpp:						   (SQLTCHAR*)pTestInfo->DataSource,(SWORD)_tcslen(pTestInfo->DataSource),
+QueryID.cpp:						   (SQLTCHAR*)pTestInfo->UserID,(SWORD)_tcslen(pTestInfo->UserID),
+QueryID.cpp:						   (SQLTCHAR*)pTestInfo->Password,(SWORD)_tcslen(pTestInfo->Password)
+QueryID.cpp:						   (SQLTCHAR*)pTestInfo->DataSource,(SWORD)_tcslen(pTestInfo->DataSource),
+QueryID.cpp:						   (SQLTCHAR*)pTestInfo->UserID,(SWORD)_tcslen(pTestInfo->UserID),
+QueryID.cpp:						   (SQLTCHAR*)pTestInfo->Password,(SWORD)_tcslen(pTestInfo->Password)
+QueryID.cpp://	henv = pTestInfo->henv;
+QueryID.cpp:// 	hdbc = pTestInfo->hdbc;
+QueryID.cpp:// 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+rowcount.c:	henv = pTestInfo->henv;
+rowcount.c: 	hdbc = pTestInfo->hdbc;
+rowcount.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+setenv.c:	returncode = SQLDisconnect((SQLHANDLE)pTestInfo->hdbc);
+setenv.c:	if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+setenv.c:	henv = pTestInfo->henv;
+setenv.c: 	hdbc = pTestInfo->hdbc;
+setenv.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+setenv.c:	hstmt1 = (SQLHANDLE)pTestInfo->hstmt;
+setenv.c:															(SQLTCHAR*)pTestInfo->DataSource, SQL_NTS,
+setenv.c:															(SQLTCHAR*)pTestInfo->UserID, SQL_NTS,
+setenv.c:															(SQLTCHAR*)pTestInfo->Password, SQL_NTS);
+setenv.c:											(SQLTCHAR*)pTestInfo->DataSource, SQL_NTS,
+setenv.c:											(SQLTCHAR*)pTestInfo->UserID, SQL_NTS,
+setenv.c:											(SQLTCHAR*)pTestInfo->Password, SQL_NTS);
+setgetco.c:	if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+setgetco.c:	henv = pTestInfo->henv;
+setgetco.c: 	hdbc = pTestInfo->hdbc;
+setgetco.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+setgetco.c:	hstmt1 = (SQLHANDLE)pTestInfo->hstmt;
+setgetco.c:										returncode = SQLConnect((SQLHANDLE)hdbc1,(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+setgetco.c:										returncode = SQLConnect((SQLHANDLE)hdbc1,(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+setgetconnattr.c:	henv = pTestInfo->henv;
+setgetconnattr.c: 	hdbc = pTestInfo->hdbc;
+setgetconnattr.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+setgetconnattr.c:	hstmt1 = (SQLHANDLE)pTestInfo->hstmt;
+setgetconnattr.c:										returncode = SQLConnect((SQLHANDLE)hdbc1,(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+setgetconnattr.c:										returncode = SQLConnect((SQLHANDLE)hdbc1,(SQLTCHAR*)pTestInfo->DataSource,SQL_NTS,(SQLTCHAR*)pTestInfo->UserID,SQL_NTS,(SQLTCHAR*)pTestInfo->Password,SQL_NTS);
+setgetcu.c:	if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+setgetcu.c:	henv = pTestInfo->henv;
+setgetcu.c:	hdbc = pTestInfo->hdbc;
+setgetcu.c:	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+setgetst.c:	if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+setgetst.c:	henv = pTestInfo->henv;
+setgetst.c: 	hdbc = pTestInfo->hdbc;
+setgetst.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+setstmtattr.c:	henv = pTestInfo->henv;
+setstmtattr.c: 	hdbc = pTestInfo->hdbc;
+setstmtattr.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+specol.c:	henv = pTestInfo->henv;
+specol.c: 	hdbc = pTestInfo->hdbc;
+specol.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+specol.c:		_tcscpy(TQualifier,pTestInfo->Catalog);
+specol.c:		_tcscpy(TOwner,pTestInfo->Schema);
+specol.c:		_tcscpy(TOwner,pTestInfo->UserID);
+specol.c:	_tcscpy(TOwner,pTestInfo->UserID);
+sqlbindcolinterval.c:	henv = pTestInfo->henv;
+sqlbindcolinterval.c: 	hdbc = pTestInfo->hdbc;
+sqlbindcolinterval.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+sqlbindcolVer3.c:	henv = pTestInfo->henv;
+sqlbindcolVer3.c: 	hdbc = pTestInfo->hdbc;
+sqlbindcolVer3.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+sqlbindparameterver3.c:	henv = pTestInfo->henv;
+sqlbindparameterver3.c: 	hdbc = pTestInfo->hdbc;
+sqlbindparameterver3.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+sqlbindparaminterval.c:	henv = pTestInfo->henv;
+sqlbindparaminterval.c: 	hdbc = pTestInfo->hdbc;
+sqlbindparaminterval.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+sqldescribecolver3.c:	henv = pTestInfo->henv;
+sqldescribecolver3.c:	hdbc = pTestInfo->hdbc;
+sqldescribecolver3.c:	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+SQLExtendedFetch.c:	henv = pTestInfo->henv;
+SQLExtendedFetch.c: 	hdbc = pTestInfo->hdbc;
+SQLExtendedFetch.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+sqlgetdatainterval.c:	henv = pTestInfo->henv;
+sqlgetdatainterval.c: 	hdbc = pTestInfo->hdbc;
+sqlgetdatainterval.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+sqlgetdataver3.c:	henv = pTestInfo->henv;
+sqlgetdataver3.c: 	hdbc = pTestInfo->hdbc;
+sqlgetdataver3.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+sqlgetinfover3.c:	henv = pTestInfo->henv;
+sqlgetinfover3.c:	hdbc = pTestInfo->hdbc;
+sqlgetinfover3.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+sqlgetinfover3.c:				_tcscpy(data_source_name,pTestInfo->DataSource);
+sqlgetinfover3.c:				_tcscpy(database_name,pTestInfo->Catalog);
+sqlgetinfover3.c:				_tcscpy(user_name,pTestInfo->UserID);
+sqlgetinfover3.c:				//_tcscpy(user_name,pTestInfo->Schema);
+sqlmoreresultsver3.c:	if (pTestInfo->hdbc == (SQLHANDLE)NULL)
+sqlmoreresultsver3.c:	henv = pTestInfo->henv;
+sqlmoreresultsver3.c:	hdbc = pTestInfo->hdbc;
+sqlmoreresultsver3.c:	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+stat.c:							//{"TANDEM_SYSTEM_NSK",pTestInfo->Schema,""},
+stat.c:							//{"",pTestInfo->Schema,""}, 
+stat.c:							//{"",pTestInfo->Schema,"OBJECTS"}, 
+stat.c:							//{"",pTestInfo->Schema,""}, 
+stat.c:							//{"TANDEM_SYSTEM_NSK",pTestInfo->Schema,""},
+stat.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--")},
+stat.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--")},
+stat.c:							{pTestInfo->Catalog, (SWORD)-1, pTestInfo->Schema,(SWORD)-1, _T("--"),(SWORD)-1},
+stat.c:						  //{"TANDEM_SYSTEM_NSK", (SWORD)4, pTestInfo->Schema,(SWORD)2, "OBJECTS",(SWORD)2},
+stat.c:						  //{"TANDEM_SYSTEM_NSK", (SWORD)0, pTestInfo->Schema,(SWORD)0, "OBJECTS",(SWORD)0},
+stat.c:							//{"TANDEM_SYSTEM_NSK",pTestInfo->Schema,""},
+stat.c:							//{"",pTestInfo->Schema,""}, 
+stat.c:							//{"",pTestInfo->Schema,"OBJECTS"}, 
+stat.c:							//{"",pTestInfo->Schema,""}, 
+stat.c:							//{"TANDEM_SYSTEM_NSK",pTestInfo->Schema,""},
+stat.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--")},
+stat.c:							{pTestInfo->Catalog,pTestInfo->Schema,_T("--")},
+stat.c:	henv = pTestInfo->henv;
+stat.c: 	hdbc = pTestInfo->hdbc;
+stat.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+stat.c:	_tcscpy(TQualifier,pTestInfo->Catalog);
+stat.c:	_tcscpy(TOwner,pTestInfo->Schema);
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//3
+tables.c:							{pTestInfo->Catalog	,_T(SQL_ALL_SCHEMAS),_T("--")	,_T(SQL_ALL_TABLE_TYPES)	,-1},		//4
+tables.c:							{pTestInfo->Catalog	,_T(SQL_ALL_SCHEMAS),_T("--")	,_T(SQL_ALL_TABLE_TYPES)	,-1},		//5
+tables.c:							{pTestInfo->Catalog	,_T(SQL_ALL_SCHEMAS),_T("--")	,_T("TABLE")				,-1},		//6
+tables.c:							{pTestInfo->Catalog	,_T(SQL_ALL_SCHEMAS),_T("--")	,_T(SQL_ALL_TABLE_TYPES)	,-1},		//7
+tables.c:							{pTestInfo->Catalog	,_T(SQL_ALL_SCHEMAS),_T("--")	,_T(SQL_ALL_TABLE_TYPES)	,-1},		//8
+tables.c:							{pTestInfo->Catalog	,_T(SQL_ALL_SCHEMAS),_T("--")	,_T("TABLE")				,-1},		//9
+tables.c:							{pTestInfo->Catalog	,_T("--")			,_T("--")	,_T("TABLE")				,1},		//10
+tables.c:							{pTestInfo->Catalog	,_T("--")			,_T("--")	,_T("TABLE")				,1},		//11
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//12
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//13
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T(SQL_ALL_TABLE_TYPES)	,-1},		//14
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//15
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//16
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//17
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//18
+tables.c:							{pTestInfo->Catalog	,_T(SQL_ALL_SCHEMAS),_T("--")	,_T(SQL_ALL_TABLE_TYPES)	,-1},		//19
+tables.c:							{pTestInfo->Catalog	,_T(SQL_ALL_SCHEMAS),_T("--")	,_T("TABLE")				,-1},		//20
+tables.c:							{pTestInfo->Catalog	,_T(SQL_ALL_SCHEMAS),_T("--")	,_T("TABLE")				,-1},		//21
+tables.c:							{pTestInfo->Catalog	,_T("--")			,_T("--")	,_T("TABLE")				,1},		//22
+tables.c:							{pTestInfo->Catalog	,_T(SQL_ALL_SCHEMAS),_T("--")	,_T("TABLE")				,-1},		//23
+tables.c:							{pTestInfo->Catalog	,_T("--")			,_T("--")	,_T("TABLE")				,1},		//24
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//25
+tables.c:							{pTestInfo->Catalog	,_T("--")			,_T("--")	,_T("TABLE")				,1},		//26
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("VIEW")					,-1},		//27
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//28
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T(SQL_ALL_TABLE_TYPES)	,-1},		//29
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//30
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("VIEW")					,-1},		//31
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//32
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//33
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//34
+tables.c:							{_T("NULL")			,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//35
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//36
+tables.c:							{pTestInfo->Catalog	,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//37
+tables.c:							{_T("NULL")			,pTestInfo->Schema	,_T("--")	,_T("TABLE")				,-1},		//39
+tables.c:							{pTestInfo->Catalog	,_T("--")			,_T("--")	,_T(SQL_ALL_TABLE_TYPES)	,0},		//41
+tables.c:							{pTestInfo->Catalog	,_T("--")			,_T("--")	,_T(SQL_ALL_TABLE_TYPES)	,0},		//42
+tables.c:							{pTestInfo->Catalog	,_T("--")			,_T("--")	,_T(SQL_ALL_TABLE_TYPES)	,2},		//43
+tables.c:							{pTestInfo->Catalog, (SWORD)-1, pTestInfo->Schema,(SWORD)-1, _T("--"),(SWORD)-1, _T(""), (SWORD)-1},
+tables.c:							//{pTestInfo->Catalog, (SWORD)4, pTestInfo->Schema,(SWORD)2, "OBJECTS",(SWORD)2, _T(""), (SWORD)2},
+tables.c:							//{pTestInfo->Catalog, (SWORD)3, pTestInfo->Schema,(SWORD)7, "OBJECTS",(SWORD)3, _T(""), (SWORD)0},
+tables.c:	int len = _tcslen(pTestInfo->Schema);
+tables.c:		_mbsncpy(schemaList[0],pTestInfo->Schema,myInd);
+tables.c:		_mbsncpy(schemaList[1],pTestInfo->Schema,myInd+1);
+tables.c:		_tcsncpy(schemaList[0],pTestInfo->Schema,myInd);
+tables.c:		_tcsncpy(schemaList[1],pTestInfo->Schema,myInd+1);
+tables.c:		if (pTestInfo->Schema[myInd] == '_')
+tables.c:		schemaList[2][len++] = pTestInfo->Schema[myInd];
+tables.c:	} while (pTestInfo->Schema[myInd++] != '\0');
+tables.c:		_stprintf(tmpSchema, _T("\"SQLTABLES_%s\""), pTestInfo->Schema);
+tables.c:		_stprintf(tmpSchema, _T("SQLTABLES_%s"), pTestInfo->Schema);
+tables.c:	henv = pTestInfo->henv;
+tables.c: 	hdbc = pTestInfo->hdbc;
+tables.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+tables.c:        _stprintf(Heading,_T("drop schema %s.%s cascade"),pTestInfo->Catalog,tmpSchema);
+tables.c:        _stprintf(Heading,_T("create schema %s.%s"),pTestInfo->Catalog,tmpSchema);
+tables.c:        _stprintf(Heading,_T("set schema %s.%s"),pTestInfo->Catalog,tmpSchema);
+tables.c:		_tcscpy(TableQualifier,pTestInfo->Catalog);
+tables.c:        _stprintf(Heading,_T("drop schema %s.%s cascade"),pTestInfo->Catalog,tmpSchema);
+tables.c:			_stprintf(Heading,_T("set schema %s.\"%s\""),pTestInfo->Catalog,pTestInfo->Schema);
+tables.c:			_stprintf(Heading,_T("set schema %s.%s"),pTestInfo->Catalog,pTestInfo->Schema);
+tabpriv.c:	henv = pTestInfo->henv;
+tabpriv.c: 	hdbc = pTestInfo->hdbc;
+tabpriv.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+tabpriv.c:	_tcscpy(TableQualifier,pTestInfo->Catalog);
+tabpriv.c:	_tcscpy(TableOwner,pTestInfo->Schema);
+transact.c:	henv = pTestInfo->henv;
+transact.c: 	hdbc = pTestInfo->hdbc;
+transact.c: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+Unicode.cpp:	henv = pTestInfo->henv;
+Unicode.cpp: 	hdbc = pTestInfo->hdbc;
+Unicode.cpp: 	hstmt = (SQLHANDLE)pTestInfo->hstmt;
+Unicode.cpp:	retcode = SQLAllocHandle(SQL_HANDLE_STMT, (SQLHANDLE)pTestInfo->hdbc, &hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:	retcode = SQLAllocHandle(SQL_HANDLE_STMT, (SQLHANDLE)pTestInfo->hdbc, &hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:	retcode = SQLAllocHandle(SQL_HANDLE_STMT, (SQLHANDLE)pTestInfo->hdbc, &hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:	retcode = SQLAllocHandle(SQL_HANDLE_STMT, (SQLHANDLE)pTestInfo->hdbc, &hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:	retcode = SQLAllocHandle(SQL_HANDLE_STMT, (SQLHANDLE)pTestInfo->hdbc, &hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:			LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:				LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:	retcode = SQLAllocHandle(SQL_HANDLE_STMT, (SQLHANDLE)pTestInfo->hdbc, &hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:			LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:				LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:	retcode = SQLAllocHandle(SQL_HANDLE_STMT, (SQLHANDLE)pTestInfo->hdbc, &hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:			LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:	retcode = SQLAllocHandle(SQL_HANDLE_STMT, (SQLHANDLE)pTestInfo->hdbc, &hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:			LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
+Unicode.cpp:	retcode = SQLAllocHandle(SQL_HANDLE_STMT, (SQLHANDLE)pTestInfo->hdbc, &hstmt);	
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);
+Unicode.cpp:		LogAllErrorsVer3(pTestInfo->henv,pTestInfo->hdbc,hstmt);	
