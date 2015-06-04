@@ -1,0 +1,72 @@
+<section_begin>  s1
+
+QTY         CITY           
+----------- ---------------
+<group_begin>
+        100 London         
+        200 London         
+        300 London         
+        400 London         
+        500 London         
+        600 London         
+        700 London         
+        800 London         
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+QTY         CITY           
+----------- ---------------
+<group_begin>
+          0 London         
+          0 London         
+          0 London         
+          0 London         
+          0 London         
+          0 London         
+          0 London         
+          0 London         
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  s5
+
+QTY         CITY           
+----------- ---------------
+<group_begin>
+          0 London         
+          0 London         
+          0 London         
+          0 London         
+          0 London         
+          0 London         
+          0 London         
+          0 London         
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  s6
+
+QTY         CITY           
+----------- ---------------
+<group_begin>
+        100 London         
+        200 London         
+        300 London         
+        400 London         
+        500 London         
+        600 London         
+        700 London         
+        800 London         
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

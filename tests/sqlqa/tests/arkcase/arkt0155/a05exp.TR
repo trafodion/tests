@@ -1,0 +1,220 @@
+<section_begin>  a05s0
+
+ORDERING
+--------
+<group_begin>
+       1
+       2
+       3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+ORDERING (EXPR)
+-------- ------
+<group_begin>
+       1 A     
+       2 NULL  
+       3 NULL  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+ORDERING (EXPR)  
+-------- --------
+<group_begin>
+       1 ABCDEFGH
+       2 NULL    
+       3 NULL    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+ORDERING (EXPR)
+-------- ------
+<group_begin>
+       1 AB    
+       2 AZ    
+       3 ZY    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+ORDERING (EXPR)
+-------- ------
+<group_begin>
+       1 ABC   
+       2 ZZ    
+       3 ZY    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+PIC_X_A COL_4
+------- -----
+<group_begin>
+joe     amy  
+sue     cathy
+deb     debra
+can     debby
+box     debbi
+red     cammy
+why     tammy
+not     pammy
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+PIC_X_A COL_4
+------- -----
+<group_begin>
+red     cammy
+why     tammy
+not     pammy
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+PIC_X_A COL_1
+------- -----
+<group_begin>
+joe     pablo
+sue     peggy
+deb     lowry
+can     lowry
+box     howie
+red     lowry
+why     lowry
+not     lowry
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+PIC_X_A COL_1
+------- -----
+<group_begin>
+deb     lowry
+can     lowry
+red     lowry
+why     lowry
+not     lowry
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+PIC_X_A COL_1
+------- -----
+<group_begin>
+deb     lowry
+can     lowry
+red     lowry
+why     lowry
+not     lowry
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+PIC_X_A COL_1 (EXPR)
+------- ----- ------
+<group_begin>
+box     howie HOWIE 
+can     lowry LOWRY 
+deb     lowry LOWRY 
+joe     pablo PABLO 
+not     lowry LOWRY 
+red     lowry LOWRY 
+sue     peggy PEGGY 
+why     lowry LOWRY 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+PIC_X_A COL_1 (EXPR)
+------- ----- ------
+<group_begin>
+box     howie LOWRY 
+can     lowry LOWRY 
+deb     lowry LOWRY 
+joe     pablo LOWRY 
+not     lowry LOWRY 
+red     lowry LOWRY 
+sue     peggy LOWRY 
+why     lowry LOWRY 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+PIC_X_A COL_1 (EXPR)                                                                                                                          
+------- ----- --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+box     howie LOWRY                                                                                                                           
+can     lowry LOWRY                                                                                                                           
+deb     lowry LOWRY                                                                                                                           
+joe     pablo LOWRY                                                                                                                           
+not     lowry LOWRY                                                                                                                           
+red     lowry LOWRY                                                                                                                           
+sue     peggy LOWRY                                                                                                                           
+why     lowry LOWRY                                                                                                                           
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+PIC_X_A COL_1
+------- -----
+<group_begin>
+box     howie
+can     lowry
+deb     lowry
+joe     pablo
+not     lowry
+red     lowry
+sue     peggy
+why     lowry
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s14
+myparam1 'Lowry'
+
+<section_end>

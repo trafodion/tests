@@ -1,0 +1,91 @@
+<section_begin>  a06ns0
+
+DATE1
+----------
+<group_begin>
+1988-10-25
+0100-01-01
+0100-01-01
+9999-01-01
+0001-01-01
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06ns1
+
+(EXPR)
+------
+<group_begin>
+     3
+     6
+     6
+     6
+     2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06ns2
+
+Y     D   
+----- ----
+   1   1  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06ns3
+
+(EXPR)
+------
+  5   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06ns4
+
+(EXPR)
+------
+  5   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06ns5
+
+Y_TO_MO   MI_TO_S       
+--------- --------------
+<group_begin>
+ 1998-01   52:39.000000 
+ 1984-02   53:38.000000 
+ 1985-03   53:38.000000 
+  811-08    7:51.000000 
+   11-01   -3:20.000000 
+ 1994-01   -3:20.000000 
+ 1999-10   -3:20.000000 
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a06ns6
+
+(EXPR)
+----------
+<group_begin>
+  1998-11 
+  1985-00 
+  1986-01 
+   812-06 
+    11-11 
+  1994-11 
+  2000-08 
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

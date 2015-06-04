@@ -1,0 +1,223 @@
+<section_begin>  a8
+
+COPAYMENT INSNAME            MAXCOPAYMENT
+--------- ------------------ ------------
+<group_begin>
+    25.25 BlueCross                 25.25
+    35.35 Kaiser                    35.35
+    40.40 BlueCross                 40.40
+    40.55 Kaiser                    40.55
+    44.33 BlueCross                 44.33
+    50.50 BlueCross                 50.50
+    55.55 BlueCross                 55.55
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11
+
+COPAYMENT INSNAME            MAXPAY  MAXCOPAYMENT
+--------- ------------------ ------- ------------
+<group_begin>
+    40.55 Kaiser               40.55        40.55
+    35.35 Kaiser               35.35        35.35
+    25.25 BlueCross            25.25        25.25
+    40.40 BlueCross            40.40        40.40
+    50.50 BlueCross            50.50        50.50
+    44.33 BlueCross            44.33        44.33
+    55.55 BlueCross            55.55        55.55
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a12
+
+COPAYMENT INSNAME            MAXPAY  MAXCOPAYMENT
+--------- ------------------ ------- ------------
+<group_begin>
+    35.35 Kaiser               35.35        35.35
+    40.55 Kaiser               40.55        40.55
+    55.55 BlueCross            55.55        55.55
+    44.33 BlueCross            44.33        55.55
+    50.50 BlueCross            50.50        55.55
+    40.40 BlueCross            40.40        55.55
+    25.25 BlueCross            25.25        55.55
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a13
+
+COPAYMENT INSNAME            MAXCOPAYMENT
+--------- ------------------ ------------
+<group_begin>
+    25.25 BlueCross                 25.25
+    35.35 Kaiser                    35.35
+    40.40 BlueCross                 40.40
+    40.55 Kaiser                    40.55
+    44.33 BlueCross                 44.33
+    44.33 BlueCross                 44.33
+    50.50 BlueCross                 50.50
+    55.55 BlueCross                 55.55
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a16
+
+COPAYMENT INSNAME            MAXPAY  MAXCOPAYMENT
+--------- ------------------ ------- ------------
+<group_begin>
+    35.35 Kaiser               35.35        35.35
+    40.55 Kaiser               40.55        40.55
+    55.55 BlueCross            55.55        55.55
+    50.50 BlueCross            50.50        50.50
+    44.33 BlueCross            44.33        44.33
+    44.33 BlueCross            44.33        44.33
+    40.40 BlueCross            40.40        40.40
+    25.25 BlueCross            25.25        25.25
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a17
+
+COPAYMENT INSNAME            MAXPAY  MAXCOPAYMENT
+--------- ------------------ ------- ------------
+<group_begin>
+    35.35 Kaiser               35.35        55.55
+    40.55 Kaiser               40.55        55.55
+    55.55 BlueCross            55.55        55.55
+    44.33 BlueCross            44.33        55.55
+    50.50 BlueCross            50.50        55.55
+    40.40 BlueCross            40.40        55.55
+    25.25 BlueCross            25.25        55.55
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a18
+
+COPAYMENT INSNAME            MAXPAY  MAXCOPAYMENT
+--------- ------------------ ------- ------------
+<group_begin>
+    35.35 Kaiser               35.35        55.55
+    40.55 Kaiser               40.55        55.55
+    55.55 BlueCross            55.55        55.55
+    44.33 BlueCross            44.33        55.55
+    50.50 BlueCross            50.50        55.55
+    40.40 BlueCross            40.40        55.55
+    25.25 BlueCross            25.25        55.55
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a19
+
+COPAYMENT INSNAME            MAXPAY  MAXCOPAYMENT
+--------- ------------------ ------- ------------
+<group_begin>
+    25.25 BlueCross            25.25        25.25
+    40.40 BlueCross            40.40        40.40
+    50.50 BlueCross            50.50        50.50
+    44.33 BlueCross            44.33        50.50
+    55.55 BlueCross            55.55        55.55
+    40.55 Kaiser               40.55        55.55
+    35.35 Kaiser               35.35        55.55
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a20
+
+COPAYMENT INSNAME            MAXPAY  MAXCOPAYMENT
+--------- ------------------ ------- ------------
+<group_begin>
+    25.25 BlueCross            25.25        25.25
+    40.40 BlueCross            40.40        40.40
+    50.50 BlueCross            50.50        50.50
+    44.33 BlueCross            44.33        50.50
+    55.55 BlueCross            55.55        55.55
+    40.55 Kaiser               40.55        55.55
+    35.35 Kaiser               35.35        55.55
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a21
+
+COPAYMENT INSNAME            MAXPAY  MAXCOPAYMENT
+--------- ------------------ ------- ------------
+<group_begin>
+    25.25 BlueCross            25.25         NULL
+    40.40 BlueCross            40.40         NULL
+    50.50 BlueCross            50.50         NULL
+    44.33 BlueCross            44.33         NULL
+    55.55 BlueCross            55.55        25.25
+    40.55 Kaiser               40.55        40.40
+    35.35 Kaiser               35.35        50.50
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a22
+
+COPAYMENT INSNAME            MAXPAY  MAXCOPAYMENT
+--------- ------------------ ------- ------------
+<group_begin>
+    25.25 BlueCross            25.25         NULL
+    40.40 BlueCross            40.40         NULL
+    50.50 BlueCross            50.50         NULL
+    44.33 BlueCross            44.33         NULL
+    55.55 BlueCross            55.55        25.25
+    40.55 Kaiser               40.55        40.40
+    35.35 Kaiser               35.35        50.50
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a23
+
+COPAYMENT INSNAME            MAXPAY  MAXCOPAYMENT
+--------- ------------------ ------- ------------
+<group_begin>
+    35.35 Kaiser               35.35        55.55
+    40.55 Kaiser               40.55        55.55
+    55.55 BlueCross            55.55        55.55
+    44.33 BlueCross            44.33        55.55
+    50.50 BlueCross            50.50        55.55
+    40.40 BlueCross            40.40        55.55
+    25.25 BlueCross            25.25        55.55
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a24
+
+COPAYMENT INSNAME            MAXPAY  MAXCOPAYMENT
+--------- ------------------ ------- ------------
+<group_begin>
+    25.25 BlueCross            25.25        50.50
+    40.40 BlueCross            40.40        55.55
+    50.50 BlueCross            50.50        55.55
+    44.33 BlueCross            44.33        55.55
+    55.55 BlueCross            55.55        55.55
+    40.55 Kaiser               40.55        55.55
+    35.35 Kaiser               35.35        55.55
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

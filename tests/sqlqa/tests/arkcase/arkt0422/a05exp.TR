@@ -1,0 +1,194 @@
+<section_begin>  a05s0
+
+SUPPNAME
+------------------
+<group_begin>
+INFOMATION STORAGE
+DATADRIVE         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFOMATION STORAGE
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+DATA TERMINAL CO  
+INFOMATION STORAGE
+MAGNETICS CORP    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFOMATION STORAGE
+DATA TERMINAL CO  
+MAGNETICS CORP    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+SUPPNAME
+------------------
+<group_begin>
+DISPLAY INC       
+STEELWORK INC     
+TANDEM COMPUTERS  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+SUPPNAME
+------------------
+DATADRIVE         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+SUPPNAME
+------------------
+<group_begin>
+DATA TERMINAL CO  
+DATADRIVE         
+DISPLAY INC       
+INFOMATION STORAGE
+TANDEM COMPUTERS  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+EMPNAME            JOB         
+------------------ ------------
+<group_begin>
+THOMAS RUDLOFF     MANAGER     
+KLAUS SAFFERT      MANAGER     
+PETER SMITH        MANAGER     
+DONALD TAYLOR      MANAGER     
+STEVE COOK         MANAGER     
+SHERRIE WONG       MANAGER     
+TONY CRAFT         MANAGER     
+GEORGE FORSTER     SALESMAN    
+RICHARD BARTON     SALESMAN    
+JIMMY SCHNEIDER    SYS.-ANAL.  
+WALTER LANCASTER   SALESMAN    
+JOHN JONES         SYS.-ANAL.  
+MARLENE BONNY      SYS.-ANAL.  
+GEORGE FRENCHMAN   SALESMAN    
+DAVID TERRY        PROGRAMMER  
+KARL HELMSTED      SALESMAN    
+HEIDI WEIGL        SECRETARY   
+XAVER SEDLMEYER    SYST.-ANAL  
+DAVE CLARK         MANAGER     
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+PARTNUM
+-------
+<group_begin>
+   4102
+   4103
+   5504
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+COL_1
+------
+  4103
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+PARTNUM
+-------
+   4103
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+SALESMAN ORDERNUM
+-------- --------
+<group_begin>
+     205       66
+     207       41
+     212       45
+     221      122
+     225       48
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+SALESMAN ORDERNUM
+-------- --------
+<group_begin>
+     205       66
+     207       41
+     212       45
+     221      122
+     225       48
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+SALESMAN ORDERNUM
+-------- --------
+<group_begin>
+     205       66
+     207       41
+     212       45
+     221      122
+     225       48
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

@@ -1,0 +1,20 @@
+<section_begin>  s1
+
+EMPNUM PNUM HOURS   GRADE  CITY            HOURS   GRADE  PNUM GRADE  COL2
+------ ---- ------- ------ --------------- ------- ------ ---- ------ ----
+<group_begin>
+E1     P1        40     12 Deale                40     12 P1       12 A   
+E1     P2        20     12 Deale                20     12 P2       12 A   
+E1     P3        80     12 Deale                80     12 P3       12 A   
+E1     P4        20     12 Deale                20     12 P4       12 A   
+E1     P5        12     12 Deale                12     12 P5       12 A   
+E1     P6        12     12 Deale                12     12 P6       12 A   
+E3     P2        20     13 Vienna               20     13 P2       13 A   
+E4     P2        20     12 Deale                20     12 P2       12 A   
+E4     P4        40     12 Deale                40     12 P4       12 A   
+E4     P5        80     12 Deale                80     12 P5       12 A   
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>

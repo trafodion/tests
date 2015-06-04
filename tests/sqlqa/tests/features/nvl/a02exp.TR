@@ -1,0 +1,73 @@
+<section_begin>  a02s7
+
+Z        VC1             B1                      
+-------- --------------- ------------------------
+<group_begin>
+NULLS    LName B                            99.12
+Row01    LName B                            99.12
+Row02    LName B                            99.12
+Row03    LName B                            99.12
+Row04    LName B                            99.12
+Row05    LName B                            99.12
+Row06    LName B                            99.12
+Row07    LName B                            99.12
+Row08    LName B                            99.12
+ZEROS    LName B                            99.12
+NULL     LName B                            99.12
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+(EXPR)       (EXPR)       (EXPR)                                         
+------------ ------------ -----------------------------------------------
+<group_begin>
+65000.64     HOWARD       what is A                                      
+65000.64     HOWARD       what is A                                      
+65000.64     HOWARD       what is A                                      
+65000.64     HOWARD       what is A                                      
+65000.64     HOWARD       what is A                                      
+65000.64     HOWARD       what is A                                      
+65000.64     HOWARD       what is A                                      
+65000.64     HOWARD       what is A                                      
+65000.64     HOWARD       what is A                                      
+65000.64     HOWARD       what is A                                      
+65000.64     HOWARD       what is A                                      
+65000.64     HOWARD       what is A                                      
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+(EXPR)       (EXPR)       (EXPR)         
+------------ ------------ ---------------
+<group_begin>
+65000.64     65000.64     2006-05-08     
+65000.64     65000.64     2006-05-08     
+65000.64     65000.64     2006-05-08     
+65000.64     65000.64     2006-05-08     
+65000.64     65000.64     2006-05-08     
+65000.64     65000.64     2006-05-08     
+65000.64     65000.64     2006-05-08     
+65000.64     65000.64     2006-05-08     
+65000.64     65000.64     2006-05-08     
+65000.64     65000.64     2006-05-08     
+65000.64     65000.64     2006-05-08     
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a02s15
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>

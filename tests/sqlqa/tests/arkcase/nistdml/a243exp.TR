@@ -1,0 +1,18 @@
+<section_begin>  a243s0
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a243s1
+
+SMALLTEST
+---------
+    -9999
+
+--- 1 row(s) selected.
+
+<section_end>

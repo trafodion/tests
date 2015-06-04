@@ -1,0 +1,56 @@
+<section_begin>  a06s0
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+clark      dinah          9000      37000              3
+crinar     jessica        8000      39500              2
+green      roger          9000     175500              2
+howard     jerry          4000      65000              1
+velcro     judy           2000      40000              3
+zann       kathy          3000      80000              1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+LAST_NAME  DEPT_NUM CASE1   CASE2             
+---------- -------- ------- ------------------
+<group_begin>
+clark          9000 Value D Uncertain state   
+crinar         8000 Value D unknown           
+green          9000 Value D salary is > 500000
+howard         4000 Value B salary is > 500000
+velcro         2000 Value D Uncertain state   
+zann           3000 Value A salary is > 500000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+LAST_NAME  DEPT_NUM (EXPR)  CASE1             
+---------- -------- ------- ------------------
+<group_begin>
+velcro         2000 Value D Uncertain state   
+zann           3000 Value A salary is > 500000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+CSIMPLE CSEARCHED         
+------- ------------------
+<group_begin>
+Value A salary is > 500000
+Value D Uncertain state   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

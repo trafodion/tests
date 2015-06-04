@@ -1,0 +1,152 @@
+<section_begin>  a06s0
+
+REGNUM BRANCHNUM (EXPR)              
+------ --------- --------------------
+     4         1                38750
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+REGNUM BRANCHNUM (EXPR)              
+------ --------- --------------------
+    99         1                28191
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+JOB          (EXPR)              
+------------ --------------------
+<group_begin>
+SALESMAN                       35
+SYS.-ANAL.                     31
+MANAGER                        36
+ENGINEER                       30
+PROGRAMMER                     31
+SYST.-ANAL                     35
+SECRETARY                      30
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+JOB          (EXPR)              
+------------ --------------------
+<group_begin>
+SALESMAN                    29071
+SYS.-ANAL.                  27600
+MANAGER                     37000
+ENGINEER                    29333
+PROGRAMMER                  22666
+SYST.-ANAL                  31407
+SECRETARY                   22142
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+JOB          (EXPR)               (EXPR)              
+------------ -------------------- --------------------
+<group_begin>
+SALESMAN                    29071                   35
+SYS.-ANAL.                  27600                   31
+MANAGER                     37000                   36
+ENGINEER                    29333                   30
+PROGRAMMER                  22666                   31
+SYST.-ANAL                  31407                   35
+SECRETARY                   22142                   30
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+JOB          (EXPR)               (EXPR)              
+------------ -------------------- --------------------
+<group_begin>
+MANAGER                     37000                   36
+ENGINEER                    29333                   31
+SYST.-ANAL                  31407                   35
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+SALARY   (EXPR)
+-------- ------
+<group_begin>
+   39500     37
+   50000     21
+   37000     34
+   39000     31
+   31000     32
+   32222     36
+   36000     39
+   35000     35
+   32000     28
+   33000     31
+   38000     39
+   40000     41
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+SALARY   (EXPR)
+-------- ------
+<group_begin>
+   39500     37
+   50000     21
+   37000     34
+   39000     31
+   32222     36
+   36000     39
+   35000     35
+   32000     28
+   33000     31
+   38000     39
+   40000     41
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+SALARY   (EXPR)
+-------- ------
+<group_begin>
+   39500     37
+   22000     55
+   32222     36
+   36000     39
+   35000     35
+   27000     37
+   38000     39
+   40000     41
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+SALARY   (EXPR)              
+-------- --------------------
+   32000                    6
+
+--- 1 row(s) selected.
+
+<section_end>

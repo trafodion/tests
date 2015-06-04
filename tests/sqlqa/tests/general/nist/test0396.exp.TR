@@ -1,0 +1,12 @@
+<section_begin>  test0396
+
+EMPNUM (EXPR)               (EXPR) 
+------ -------------------- -------
+<group_begin>
+E1                       30      12
+E4                       46      20
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

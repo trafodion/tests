@@ -1,0 +1,18 @@
+<section_begin>  test0135b
+
+EMPNUM PNUM
+------ ----
+UPP    low 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0135e
+
+(EXPR)
+--------------------
+                  12
+
+--- 1 row(s) selected.
+
+<section_end>

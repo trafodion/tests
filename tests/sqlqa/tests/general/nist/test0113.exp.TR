@@ -1,0 +1,31 @@
+<section_begin>  test0113b
+
+EMPNUM PNUM
+------ ----
+<group_begin>
+E1     P1  
+E1     P2  
+E1     P3  
+E1     P4  
+E1     P5  
+E1     P6  
+E2     P1  
+E2     P2  
+E3     P2  
+E4     P2  
+E4     P4  
+E4     P5  
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  test0113d
+
+(EXPR)
+--------------------
+                  12
+
+--- 1 row(s) selected.
+
+<section_end>

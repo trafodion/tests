@@ -1,0 +1,281 @@
+<section_begin>  a007s0
+
+D_T_M_E                    D_N        M_N        D_OF_Y      W_K    Q_R    YEAR_D      MONTH_D DAY_D  HOUR_D MINUTE_D SECOND_D   
+-------------------------- ---------- ---------- ----------- ------ ------ ----------- ------- ------ ------ -------- -----------
+<group_begin>
+0001-12-13 00:00:00.000000 Wednesday  October              1     39      4        1945      10     29      0        0          40
+1990-10-05 15:19:59.900000 Saturday   January              1     53      3        2106       8     31     12       59           1
+1990-10-05 15:19:59.300000 Saturday   January              1     53      3        2106       8     31     12       59           1
+1990-10-05 15:19:59.300000 Saturday   January              1     53      3        2106       8     31     12       59           1
+1990-10-05 15:19:59.300000 Saturday   January              1     53      3        2106       8     31     12       59           1
+1990-10-05 15:19:59.300000 Saturday   January              1     53      3        2106       8     31     12       59           1
+1990-10-05 15:19:59.300000 Saturday   January              1     53      3        2106       8     31     12       59           1
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a007s1
+
+(EXPR)
+------
+<group_begin>
+    10
+    10
+    10
+    10
+    10
+    10
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a007s1a
+
+(EXPR) (EXPR)    D_N       
+------ --------- ----------
+<group_begin>
+    10 FRIDAY    Saturday  
+    10 FRIDAY    Saturday  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a007s2
+
+(EXPR)
+------
+<group_begin>
+    10
+    10
+    10
+    10
+    10
+    10
+    12
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a007s3
+
+(EXPR)
+------
+<group_begin>
+    12
+    10
+    10
+    24
+    10
+    20
+    10
+    20
+    10
+    10
+    10
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a007s4
+
+MONTH_D MONTH_D
+------- -------
+<group_begin>
+     10      10
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+<group_end>
+
+--- 50 row(s) selected.
+
+<section_end>
+<section_begin>  a007s5
+
+MONTH_D MONTH_D
+------- -------
+<group_begin>
+     10      10
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+<group_end>
+
+--- 50 row(s) selected.
+
+<section_end>
+<section_begin>  a007s6
+
+MONTH_D MONTH_D
+------- -------
+<group_begin>
+     10      10
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+      8       8
+<group_end>
+
+--- 50 row(s) selected.
+
+<section_end>
+<section_begin>  a007s8
+
+MONTH_D
+-------
+<group_begin>
+      8
+      8
+      8
+      8
+      8
+      8
+      8
+     10
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

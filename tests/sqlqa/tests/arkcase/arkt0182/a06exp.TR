@@ -1,0 +1,101 @@
+<section_begin>  a06s0
+
+F_REAL          F_DOUBLE                
+--------------- ------------------------
+<group_begin>
+          123.0                   456.78
+            9.0                 -0.01234
+  1.23456791E17     -1.234567890123457E8
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+NUMER2 NUMER4      NUMER8            SMALLI I          LARGEI               DEC4   DEC12          PIC8      
+------ ----------- ----------------- ------ ---------- -------------------- ------ -------------- ----------
+  -1.2    12345.67      12345.678901 -32768 4294967295  9199999999999998976  123.4 -123456789.012 -123456.78
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+(EXPR)                   (EXPR)                   (EXPR)                  
+------------------------ ------------------------ ------------------------
+                  1230.0                   4560.0    -1.2345678901234567E8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+(EXPR)                   (EXPR)                   (EXPR)                  
+------------------------ ------------------------ ------------------------
+                   357.0                   -123.0                    12.34
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+(EXPR)                   (EXPR)                  
+------------------------ ------------------------
+   4.1152263506362408E16    4.1152263506362408E16
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+(EXPR)                   (EXPR)                  
+------------------------ ------------------------
+<group_begin>
+              -4030464.0       -380.6499999999999
+               -294912.0     0.010283333333333334
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+A
+---------------
+<group_begin>
+  -9.9999998E10
+           -1.0
+            0.0
+            1.0
+   9.9999998E10
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+A
+---------------
+<group_begin>
+  -9.9999998E10
+           -1.0
+            0.0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+A
+---------------
+<group_begin>
+            1.0
+   9.9999998E10
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

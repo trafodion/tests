@@ -1,0 +1,159 @@
+<section_begin>  a01s0
+
+COL_STRING
+----------
+A         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+COL_NUMERIC COL_VARCHAR COL_DATE   COL_FLOAT               
+----------- ----------- ---------- ------------------------
+          2 3           1988-08-29                    5.123
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+COL_NUMERIC COL_VARCHAR COL_DATE   COL_FLOAT               
+----------- ----------- ---------- ------------------------
+          2 3           1988-08-29                    5.123
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+COL_NUMERIC
+-----------
+          3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+COL_NUMERIC
+-----------
+          4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+COL_NUMERIC
+-----------
+          5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+COL_NUMERIC
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+COL_NUMERIC COL_VARCHAR COL_DATE   COL_FLOAT                COL_KEY
+----------- ----------- ---------- ------------------------ -------
+<group_begin>
+          7 7           1988-08-29                    5.123 G      
+          7 NULL        NULL                           NULL H      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+COL_NUMERIC COL_VARCHAR COL_DATE   COL_FLOAT                COL_KEY
+----------- ----------- ---------- ------------------------ -------
+<group_begin>
+          7 7           1988-08-29                    5.123 G      
+          7 NULL        NULL                           NULL H      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+COL_NUMERIC COL_VARCHAR COL_DATE   COL_FLOAT                COL_KEY
+----------- ----------- ---------- ------------------------ -------
+<group_begin>
+          7 7           1988-08-29                    5.123 G      
+          7 NULL        NULL                           NULL H      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+COL_AGG                  COL_VARCHAR COL_MAX_KEY
+------------------------ ----------- -----------
+<group_begin>
+                    NULL NULL        H          
+      12.123000000000001 7           G          
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+COL_AGG                  COL_VARCHAR COL_MAX_KEY
+------------------------ ----------- -----------
+<group_begin>
+                    NULL NULL        H          
+      12.123000000000001 7           G          
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+COL_AGG                  COL_VARCHAR COL_MAX_KEY
+------------------------ ----------- -----------
+<group_begin>
+                    NULL NULL        H          
+      12.123000000000001 7           G          
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+COL_AGG                  COL_VARCHAR COL_MAX_KEY
+------------------------ ----------- -----------
+<group_begin>
+                    NULL NULL        H          
+      12.123000000000001 7           G          
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+COL_AGG                  COL_VARCHAR COL_MAX_KEY
+------------------------ ----------- -----------
+<group_begin>
+                    NULL NULL        H          
+      12.123000000000001 7           G          
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

@@ -1,0 +1,36 @@
+<section_begin>  test0250c
+
+DOUBLETEST
+------------------------
+            0.1073741823
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0250d
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0250g
+
+DOUBLETEST
+------------------------
+           -0.1073741823
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0250h
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>

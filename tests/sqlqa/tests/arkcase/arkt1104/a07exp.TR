@@ -1,0 +1,141 @@
+<section_begin>  a07s0
+
+N1     C2   C3   C4      
+------ ---- ---- --------
+<group_begin>
+ -4344 AA   BA   BA      
+ -3552 BA   AA   AA      
+ -2789 DA   EA   NULL    
+ -2389 BA   AA   AA      
+  NULL NULL BA   BA      
+  NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+N6      V1       N2          C3  
+------- -------- ----------- ----
+-2389.0 AA                 6 DA  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+N6      V1       N2          C3  
+------- -------- ----------- ----
+<group_begin>
+-4344.0 AA                 2 BA  
+-2789.0 DA                 1 NULL
+-2389.0 AA                 6 DA  
+-2389.0 BA                 2 AA  
+   NULL NULL               1 DA  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+V1       N2          C3   N4          C5   N6      V7    N8    
+-------- ----------- ---- ----------- ---- ------- ----- ------
+<group_begin>
+AA                 2 BA          NULL NULL -4344.0 NULL    NULL
+AA                 6 DA          NULL NULL -2389.0 NULL    NULL
+BA                 2 AA          NULL NULL -2389.0 NULL    NULL
+DA                 1 NULL        NULL NULL -2789.0 NULL    NULL
+NULL               1 DA          NULL NULL    NULL NULL    NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+C3   V1      
+---- --------
+<group_begin>
+AA   BA      
+BA   AA      
+DA   AA      
+DA   NULL    
+EA   NULL    
+NULL DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+V1       N2          C3   N4          C5   N6      V7    N8    
+-------- ----------- ---- ----------- ---- ------- ----- ------
+<group_begin>
+AA                 2 BA          NULL NULL -4344.0 NULL    NULL
+AA                 6 DA          NULL NULL -2389.0 NULL    NULL
+BA                 2 AA          NULL NULL -2389.0 NULL    NULL
+DA                 1 NULL        NULL NULL -2789.0 NULL    NULL
+NULL               1 DA          NULL NULL    NULL NULL    NULL
+NULL            NULL EA          NULL NULL    NULL NULL    NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+V1       N2          C3   N4          C5   N6      V7    N8    
+-------- ----------- ---- ----------- ---- ------- ----- ------
+<group_begin>
+AbCdEfG            5 cC          0.09 Cc       2.0 cc         2
+AbCdEfG            5 cC          0.09 Cc       2.0 cc         2
+a                  1 c           0.90         NULL NULL       0
+a                  1 c           0.90         NULL NULL       0
+abcdefg            3 cc          0.09 alph     2.0 cc         1
+abcdefg            3 cc          0.09 alph     2.0 cc         1
+cc                 2 cc          2.00 cc       2.0 cc         2
+cc                 2 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a07s7
+
+V1       N2          C3   N4          C5   N6      V7    N8    
+-------- ----------- ---- ----------- ---- ------- ----- ------
+<group_begin>
+AbCdEfG            5 cC      -2389.00 Cc       2.0 cc         2
+AbCdEfG            5 cC      -2389.00 Cc       2.0 cc         2
+a                  1 c       -2389.00         NULL NULL       0
+a                  1 c       -2389.00         NULL NULL       0
+abcdefg            3 cc      -2389.00 alph     2.0 cc         1
+abcdefg            3 cc      -2389.00 alph     2.0 cc         1
+cc                 2 cc      -2389.00 cc       2.0 cc         2
+cc                 2 cc      -2389.00 cc       2.0 cc         2
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a07s8
+
+V1       V7    N2          N4          N6      N8     C3   C5  
+-------- ----- ----------- ----------- ------- ------ ---- ----
+<group_begin>
+AbCdEfG  cc              5    -2389.00     2.0      2 cC   Cc  
+AbCdEfG  cc              5    -2389.00     2.0      2 cC   Cc  
+a        NULL            1    -2389.00    NULL      0 c        
+a        NULL            1    -2389.00    NULL      0 c        
+abcdefg  cc              3    -2389.00     2.0      1 cc   alph
+abcdefg  cc              3    -2389.00     2.0      1 cc   alph
+cc       cc              2    -2389.00     2.0      2 cc   cc  
+cc       cc              2    -2389.00     2.0      2 cc   cc  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

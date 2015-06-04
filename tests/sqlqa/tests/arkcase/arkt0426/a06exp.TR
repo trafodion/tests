@@ -1,0 +1,495 @@
+<section_begin>  a06s0
+
+X           (EXPR)     
+----------- -----------
+<group_begin>
+          2          20
+          3          30
+          1          10
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+X                    Y           Z                    W   
+-------------------- ----------- -------------------- ----
+<group_begin>
+                   2           2                    1 XYZW
+                   1           1                    1 AB  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+C      B    A                   
+------ ---- --------------------
+<group_begin>
+   100 abc                   100
+   100 abd                   100
+   200 abc                   200
+   200 abd                   200
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+C                    B    A                    (EXPR)             
+-------------------- ---- -------------------- -------------------
+<group_begin>
+                 100 abc                   100 from the 2nd SELECT
+                 100 abc                   100 from the 1st SELECT
+                 100 abd                   100 from the 2nd SELECT
+                 100 abd                   100 from the 1st SELECT
+                 200 abc                   200 from the 2nd SELECT
+                 200 abc                   200 from the 1st SELECT
+                 200 abd                   200 from the 2nd SELECT
+                 200 abd                   200 from the 1st SELECT
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+A                    B    C                    (EXPR)             
+-------------------- ---- -------------------- -------------------
+<group_begin>
+                 100 abc                   100 from the 2nd SELECT
+                 100 abc                   100 from the 1st SELECT
+                 100 abd                   100 from the 2nd SELECT
+                 100 abd                   100 from the 1st SELECT
+                 200 abc                   200 from the 2nd SELECT
+                 200 abc                   200 from the 1st SELECT
+                 200 abd                   200 from the 2nd SELECT
+                 200 abd                   200 from the 1st SELECT
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s12
+
+A                    B    C                    (EXPR)             
+-------------------- ---- -------------------- -------------------
+<group_begin>
+                 100 abc                   100 from the 2nd SELECT
+                 100 abc                   100 from the 1st SELECT
+                 100 abd                   100 from the 2nd SELECT
+                 100 abd                   100 from the 1st SELECT
+                 200 abc                   200 from the 2nd SELECT
+                 200 abc                   200 from the 1st SELECT
+                 200 abd                   200 from the 2nd SELECT
+                 200 abd                   200 from the 1st SELECT
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s14
+
+A
+-----------
+          1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s15
+
+A
+-----------
+          1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s17
+
+A           B           (EXPR)              
+----------- ----------- --------------------
+<group_begin>
+          1           2                    6
+          1           1                    6
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s20
+
+TEXT                 STARTDATE           
+-------------------- --------------------
+<group_begin>
+october date           211526683200000000
+november date          211524091200000000
+december date          211529361600000000
+january date           211532040000000000
+october date 1         211526683200000000
+november date 1        211524091200000000
+december date 1        211529361600000000
+january date  1        211532040000000000
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s21
+
+TEXT                 STARTDATE           
+-------------------- --------------------
+<group_begin>
+october date           211526683200000000
+november date          211524091200000000
+december date          211529361600000000
+january date           211532040000000000
+october date 1         211526683200000000
+november date 1        211524091200000000
+december date 1        211529361600000000
+january date  1        211532040000000000
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s22
+
+STARTDATE            (EXPR)              
+-------------------- --------------------
+<group_begin>
+  211526683200000000                    2
+  211524091200000000                    2
+  211532040000000000                    2
+  211529361600000000                    2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s23
+
+STARTDATE            (EXPR)              
+-------------------- --------------------
+<group_begin>
+  211526683200000000                    2
+  211524091200000000                    2
+  211532040000000000                    2
+  211529361600000000                    2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s24
+
+(EXPR)
+--------------------------
+<group_begin>
+1990-11-30 00:00:00.000000
+1990-10-31 00:00:00.000000
+1990-12-31 00:00:00.000000
+1991-01-31 00:00:00.000000
+1990-11-30 00:00:00.000000
+1990-10-31 00:00:00.000000
+1990-12-31 00:00:00.000000
+1991-01-31 00:00:00.000000
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s25
+
+(EXPR)
+--------------------------
+<group_begin>
+1990-11-30 00:00:00.000000
+1990-10-31 00:00:00.000000
+1990-12-31 00:00:00.000000
+1991-01-31 00:00:00.000000
+1990-11-30 00:00:00.000000
+1990-10-31 00:00:00.000000
+1990-12-31 00:00:00.000000
+1991-01-31 00:00:00.000000
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s26
+
+(EXPR)
+--------------------------
+<group_begin>
+1990-11-30 00:00:00.000000
+1990-10-31 00:00:00.000000
+1990-12-31 00:00:00.000000
+1991-01-31 00:00:00.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s27
+
+(EXPR)                     (EXPR)              
+-------------------------- --------------------
+<group_begin>
+1990-11-30 00:00:00.000000                    2
+1990-10-31 00:00:00.000000                    2
+1991-01-31 00:00:00.000000                    2
+1990-12-31 00:00:00.000000                    2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s28
+
+(EXPR)                     (EXPR)              
+-------------------------- --------------------
+<group_begin>
+1990-11-30 00:00:00.000000                    2
+1990-10-31 00:00:00.000000                    2
+1991-01-31 00:00:00.000000                    2
+1990-12-31 00:00:00.000000                    2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s29
+
+X           Y           Z   
+----------- ----------- ----
+<group_begin>
+         10          10 Row1
+         20          20 Row3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s31
+
+X           Y                          Z   
+----------- -------------------------- ----
+<group_begin>
+         40 1990-12-31 00:00:00.000000 Row4
+         30 1999-12-31 00:00:00.000000 Row3
+         20 1990-01-01 00:00:00.000000 Row2
+         10 1990-01-01 00:00:00.000000 Row1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s32
+
+A           A           A          
+----------- ----------- -----------
+<group_begin>
+          1           1           1
+          1           2           1
+          2           1           1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s34
+
+A           A           A          
+----------- ----------- -----------
+<group_begin>
+          1           2           1
+          2           1           1
+          1           1           1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s36
+
+(EXPR)
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+a                                                                                                                               
+b                                                                                                                               
+bab                                                                                                                             
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s37
+
+(EXPR)
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+a                                                                                                                               
+a                                                                                                                               
+b                                                                                                                               
+bab                                                                                                                             
+bab                                                                                                                             
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s38
+
+(EXPR)
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+a                                                                                                                               
+b                                                                                                                               
+bab                                                                                                                             
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s39
+
+(EXPR)
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+a                                                                                                                               
+a                                                                                                                               
+b                                                                                                                               
+bab                                                                                                                             
+bab                                                                                                                             
+bab                                                                                                                             
+bab                                                                                                                             
+bab                                                                                                                             
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s40
+
+A
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+a                                                                                                                               
+a                                                                                                                               
+abc                                                                                                                             
+abcd                                                                                                                            
+b                                                                                                                               
+b                                                                                                                               
+b                                                                                                                               
+bab                                                                                                                             
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s41
+
+A
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+a                                                                                                                               
+abc                                                                                                                             
+abcd                                                                                                                            
+b                                                                                                                               
+bab                                                                                                                             
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s42
+
+(EXPR) (EXPR)                   (EXPR)                   (EXPR)     (EXPR)
+------ ------------------------ ------------------------ ---------- ------
+<group_begin>
+a                          NULL                      3.0 NULL        1    
+a                          20.0                      3.0 1966-02-06  1    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s43
+
+(EXPR) (EXPR)                   (EXPR)                   (EXPR)     (EXPR)
+------ ------------------------ ------------------------ ---------- ------
+<group_begin>
+a                          NULL                      3.0 NULL        1    
+a                          20.0                      3.0 1966-02-06  1    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s45
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+<group_begin>
+          1           1           2           2
+          2           2           1           1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s48
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+CCAST_ (EXPR)    
+------ ----------
+abcdef         10
+longer         10
+alsoLo         10
+ABCDEF          6
+four            4
+five!           5
+ok              2
+n/a             3
+                0
+                0
+                0
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a06s49
+
+C                                                                (EXPR)    
+---------------------------------------------------------------- ----------
+<group_begin>
+ABCDEF                                                                    6
+four                                                                      4
+five!                                                                     5
+ok                                                                        2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s50
+
+CCAST_ (EXPR)    
+------ ----------
+<group_begin>
+ABCDEF          6
+four            4
+five!           5
+ok              2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

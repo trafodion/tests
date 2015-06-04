@@ -1,0 +1,153 @@
+<section_begin>  a07s0
+
+CHAR_1 PIC_X_1  BINARY_SIGNED BINARY_32_U PIC_COMP_1   PIC_COMP_2 SMALL_INT DECIMAL_1 PIC_DECIMAL_1 PIC_DECIMAL_3
+------ -------- ------------- ----------- ------------ ---------- --------- --------- ------------- -------------
+<group_begin>
+a      Abcdefgh          NULL        NULL         NULL       0.10      NULL         1          NULL          NULL
+D      D                -5000       90.00          500       0.40        90         7           6.1             6
+NULL   NULL              NULL        NULL         NULL       NULL      NULL         1          NULL          NULL
+A      C                   50       50.00           50       0.12        10         4           1.1             1
+NULL   NULL              NULL        NULL         NULL       NULL      NULL      NULL          NULL          NULL
+A      A                   60       60.00           60       0.79      1000         5           2.1             2
+C      maureen           3000       80.00          500       0.50      9000         8           7.1             7
+D      C                 1000       80.00          500       0.20        80         5           4.1             4
+NULL   NULL              NULL        NULL         NULL       0.30      NULL         0          NULL          NULL
+E      Q                 2000       90.00         3000       0.30      2000         1           5.1             5
+NULL   NULL              NULL        NULL         NULL       0.30      NULL      NULL          NULL          NULL
+C      E                 3000       80.00          500       0.50      9000         8           7.1             7
+C      Z                 4000       40.00           50       0.60      8000         9           8.1             8
+D      B                 8000       70.00          500       0.10        90         7           3.1             3
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+CITY           STATE         
+-------------- --------------
+<group_begin>
+CALIFORNIA     CUPERTINO     
+CALIFORNIA     IRVINE        
+CALIFORNIA     PALO ALTO     
+MASS           LEXINGTON     
+WASHINGTON     SEATTLE       
+CALIFORNIA     SUNNYVALE     
+PENN           PHILADELPHIA  
+TEXAS          DALLAS        
+CALIFORNIA     SAN FRANCISCO 
+COLORADO       DENVER        
+TEXAS          LUBBOCK       
+CALIFORNIA     FRESNO        
+GERMANY        FRANKFURT     
+CUPERTINO      CALIFORNIA    
+NEW YORK       NEW YORK      
+PHILADELPHIA   PENN          
+NEBRASKA       LINCOLN       
+IRVINE         CALIFORNIA    
+GERMANY        DUISBURG      
+GERMANY        MUENCHEN      
+ILLINOIS       CHICAGO       
+SAN FRANCISCO  CALIFORNIA    
+PALO ALTO      CALIFORNIA    
+DENVER         COLORADO      
+LEXINGTON      MASS          
+LUBBOCK        TEXAS         
+SEATTLE        WASHINGTON    
+FRESNO         CALIFORNIA    
+SUNNYVALE      CALIFORNIA    
+FRANKFURT      GERMANY       
+DALLAS         TEXAS         
+LINCOLN        NEBRASKA      
+DUISBURG       GERMANY       
+MUENCHEN       GERMANY       
+CHICAGO        ILLINOIS      
+<group_end>
+
+--- 35 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+CITY           STATE       
+-------------- ------------
+<group_begin>
+PHILADELPHIA   PENN        
+SAN FRANCISCO  CALIFORNIA  
+DENVER         COLORADO    
+LUBBOCK        TEXAS       
+FRESNO         CALIFORNIA  
+FRANKFURT      GERMANY     
+NEW YORK       NEW YORK    
+LINCOLN        NEBRASKA    
+DUISBURG       GERMANY     
+MUENCHEN       GERMANY     
+CHICAGO        ILLINOIS    
+DALLAS         TEXAS       
+CUPERTINO      CALIFORNIA  
+IRVINE         CALIFORNIA  
+PALO ALTO      CALIFORNIA  
+LEXINGTON      MASS        
+SEATTLE        WASHINGTON  
+SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+CITY           STATE       
+-------------- ------------
+<group_begin>
+PHILADELPHIA   PENN        
+SAN FRANCISCO  CALIFORNIA  
+DENVER         COLORADO    
+LUBBOCK        TEXAS       
+FRESNO         CALIFORNIA  
+FRANKFURT      GERMANY     
+NEW YORK       NEW YORK    
+LINCOLN        NEBRASKA    
+DUISBURG       GERMANY     
+MUENCHEN       GERMANY     
+CHICAGO        ILLINOIS    
+DALLAS         TEXAS       
+CUPERTINO      CALIFORNIA  
+IRVINE         CALIFORNIA  
+PALO ALTO      CALIFORNIA  
+LEXINGTON      MASS        
+SEATTLE        WASHINGTON  
+SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+CITY           STATE       
+-------------- ------------
+<group_begin>
+PHILADELPHIA   PENN        
+SAN FRANCISCO  CALIFORNIA  
+DENVER         COLORADO    
+LUBBOCK        TEXAS       
+FRESNO         CALIFORNIA  
+FRANKFURT      GERMANY     
+NEW YORK       NEW YORK    
+LINCOLN        NEBRASKA    
+DUISBURG       GERMANY     
+MUENCHEN       GERMANY     
+CHICAGO        ILLINOIS    
+DALLAS         TEXAS       
+CUPERTINO      CALIFORNIA  
+IRVINE         CALIFORNIA  
+PALO ALTO      CALIFORNIA  
+LEXINGTON      MASS        
+SEATTLE        WASHINGTON  
+SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>

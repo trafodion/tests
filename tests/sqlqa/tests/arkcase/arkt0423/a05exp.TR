@@ -1,0 +1,281 @@
+<section_begin>  a05s0
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+PARTNUM
+-------
+<group_begin>
+    212
+    244
+   1403
+   3103
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+PARTNUM
+-------
+<group_begin>
+    212
+    244
+   1403
+   2001
+   2002
+   2003
+   2402
+   2403
+   3102
+   3103
+   3201
+   3302
+   5101
+   5103
+   6201
+   6301
+   6302
+   6401
+   6402
+   6603
+   7301
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+COL_1
+------------------
+<group_begin>
+DISC 10MB         
+MAG TAPE DR 8/16  
+DISC CONT SINGLE  
+MAG TAPE CONT 8/16
+TERM CRT PAGE     
+DECIMAL ARITH     
+TERM CRT CHAR     
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+COL_1
+------------------
+<group_begin>
+MAG TAPE DR 8/16  
+DISC 10MB         
+MAG TAPE CONT 8/16
+DISC CONT SINGLE  
+DECIMAL ARITH     
+TERM CRT CHAR     
+TERM CRT PAGE     
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+COL_1
+------------------
+<group_begin>
+MAG TAPE DR 8/16  
+DISC 10MB         
+DISC CONT SINGLE  
+MAG TAPE CONT 8/16
+DECIMAL ARITH     
+TERM CRT PAGE     
+TERM CRT CHAR     
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+SUPPNUM
+-------
+<group_begin>
+     15
+      6
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+SUPPNUM
+-------
+<group_begin>
+     15
+      6
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+EMPNAME
+------------------
+<group_begin>
+THOMAS RUDLOFF    
+KLAUS SAFFERT     
+PETER SMITH       
+DONALD TAYLOR     
+STEVE COOK        
+SHERRIE WONG      
+TONY CRAFT        
+GEORGE FORSTER    
+RICHARD BARTON    
+JIMMY SCHNEIDER   
+WALTER LANCASTER  
+JOHN JONES        
+MARLENE BONNY     
+GEORGE FRENCHMAN  
+DAVID TERRY       
+KARL HELMSTED     
+HEIDI WEIGL       
+XAVER SEDLMEYER   
+DAVE CLARK        
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+EMPNAME
+------------------
+<group_begin>
+THOMAS RUDLOFF    
+KLAUS SAFFERT     
+PETER SMITH       
+DONALD TAYLOR     
+STEVE COOK        
+SHERRIE WONG      
+TONY CRAFT        
+GEORGE FORSTER    
+RICHARD BARTON    
+JIMMY SCHNEIDER   
+WALTER LANCASTER  
+JOHN JONES        
+MARLENE BONNY     
+GEORGE FRENCHMAN  
+DAVID TERRY       
+KARL HELMSTED     
+HEIDI WEIGL       
+XAVER SEDLMEYER   
+DAVE CLARK        
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+PARTNUM
+-------
+<group_begin>
+   4102
+   4103
+   5504
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s14
+
+COL_1
+------
+  4103
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s15
+
+PARTNUM
+-------
+   4103
+
+--- 1 row(s) selected.
+
+<section_end>

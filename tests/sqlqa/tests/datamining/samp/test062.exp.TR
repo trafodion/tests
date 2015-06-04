@@ -1,0 +1,42 @@
+<section_begin>  s1
+
+EMPID
+------
+<group_begin>
+   123
+  1234
+  2345
+  3455
+  4567
+  4900
+  5678
+  6234
+  6789
+  6798
+  8901
+  9012
+  9123
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+EMPID  SALARY    
+------ ----------
+<group_begin>
+   123   25000.00
+  1234   20000.00
+  3455   45000.00
+  4567   30000.00
+  5678   50000.00
+  6234   20000.00
+  6798   60000.00
+  8901   40000.00
+  9123   20050.00
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>

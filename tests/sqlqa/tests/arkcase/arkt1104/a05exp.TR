@@ -1,0 +1,492 @@
+<section_begin>  a05s0
+
+SUPPNUM SUPPNAME          
+------- ------------------
+<group_begin>
+      1 TANDEM COMPUTERS  
+      2 DATA TERMINAL CO  
+      3 DISPLAY INC       
+      6 INFORMATION STORAG
+      8 MAGNETICS CORP    
+     10 STEELWORK INC     
+     15 DATADRIVE         
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+SUPPNUM PARTNUM PARTCOST  
+------- ------- ----------
+<group_begin>
+      1     212   92000.00
+      1     244   87000.00
+      1    1403   22000.00
+      1    2001    1500.00
+      1    2002    1000.00
+      1    2003     500.00
+      1    2402    7500.00
+      1    2403    9600.00
+      1    3102    4800.00
+      1    3103   10500.00
+      1    3201    4800.00
+      1    3302    2800.00
+      6    4101    6000.00
+     15    4101    6000.00
+      6    4102   10000.00
+      8    4102   12000.00
+     15    4102   11000.00
+      6    4103   20100.00
+      8    4103   19300.00
+     15    4103   19500.00
+      8    5101    5800.00
+     15    5101    5900.00
+      8    5103    6200.00
+     15    5103    6250.00
+      2    5502    9100.00
+      2    5504    1600.00
+      6    5504    1580.00
+     15    5504    1620.00
+     15    5505   33000.00
+      1    6201    5800.00
+      1    6301    2900.00
+      1    6302    4300.00
+      2    6401    1200.00
+      3    6401    1100.00
+      2    6402    1100.00
+      3    6402    1200.00
+      2    6603    2600.00
+     10    7102    6000.00
+      1    7301    2400.00
+<group_end>
+
+--- 39 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFORMATION STORAG
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+SUPPNAME
+------------------
+<group_begin>
+DATA TERMINAL CO  
+DISPLAY INC       
+STEELWORK INC     
+TANDEM COMPUTERS  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+SUPPNUM PARTNUM PARTCOST  
+------- ------- ----------
+<group_begin>
+      2    5504    1600.00
+      2    6402    1100.00
+      3    6401    1100.00
+      6    4101    6000.00
+      6    4102   10000.00
+      6    5504    1580.00
+      8    4103   19300.00
+      8    5101    5800.00
+      8    5103    6200.00
+     15    4101    6000.00
+     15    4102   11000.00
+     15    4103   19500.00
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+SUPPNUM PARTNUM PARTCOST  
+------- ------- ----------
+<group_begin>
+      2    5504    1600.00
+      2    6402    1100.00
+      3    6401    1100.00
+      6    4101    6000.00
+      6    4102   10000.00
+      6    5504    1580.00
+      8    4103   19300.00
+      8    5101    5800.00
+      8    5103    6200.00
+     15    4101    6000.00
+     15    4102   11000.00
+     15    4103   19500.00
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+SUPPNUM PARTNUM PARTCOST  
+------- ------- ----------
+<group_begin>
+      1     212   92000.00
+      1     244   87000.00
+      1    1403   22000.00
+      1    2001    1500.00
+      1    2002    1000.00
+      1    2003     500.00
+      1    2402    7500.00
+      1    2403    9600.00
+      1    3102    4800.00
+      1    3103   10500.00
+      1    3201    4800.00
+      1    3302    2800.00
+      1    6201    5800.00
+      1    6301    2900.00
+      1    6302    4300.00
+      1    7301    2400.00
+      2    5502    9100.00
+      2    6402    1100.00
+      2    6603    2600.00
+      3    6401    1100.00
+      6    4102   10000.00
+      6    5504    1580.00
+      8    4103   19300.00
+      8    5101    5800.00
+      8    5103    6200.00
+     10    7102    6000.00
+     15    5505   33000.00
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+SUPPNUM
+-------
+<group_begin>
+      2
+      6
+      8
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+     10
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s14
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFORMATION STORAG
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s15
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFORMATION STORAG
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s16
+
+SUPPNAME
+------------------
+<group_begin>
+DATA TERMINAL CO  
+DATADRIVE         
+DISPLAY INC       
+INFORMATION STORAG
+MAGNETICS CORP    
+STEELWORK INC     
+TANDEM COMPUTERS  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s17
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFORMATION STORAG
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s18
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFORMATION STORAG
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s19
+
+SUPPNAME
+------------------
+<group_begin>
+DATA TERMINAL CO  
+DISPLAY INC       
+STEELWORK INC     
+TANDEM COMPUTERS  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s20
+
+SUPPNUM
+-------
+<group_begin>
+      6
+     15
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s21
+
+SUPPNUM
+-------
+<group_begin>
+      6
+     15
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s22
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFORMATION STORAG
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s23
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFORMATION STORAG
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s24
+
+SUPPNAME
+------------------
+<group_begin>
+DATA TERMINAL CO  
+DISPLAY INC       
+STEELWORK INC     
+TANDEM COMPUTERS  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s25
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s26
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s27
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

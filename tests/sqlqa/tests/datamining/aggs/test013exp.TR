@@ -1,0 +1,72 @@
+<section_begin>  test013a
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+         -1911260452        -191126045223
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test013b
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                 100          -1911260452
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test013c
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+          1911260451         191126045134
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test013d
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                 100           1911260451
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test013e
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+              -29169             -2916903
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test013f
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                 100               -29169
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test013g
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+               29168              2916814
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test013h
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                 100                29168
+
+--- 1 row(s) selected.
+
+<section_end>

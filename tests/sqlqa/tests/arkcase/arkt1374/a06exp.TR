@@ -1,0 +1,99 @@
+<section_begin>  a06s0
+
+CHAR_1 DECIMAL_1
+------ ---------
+C              8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+CHAR_1 DECIMAL_1
+------ ---------
+C              8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+CHAR_1 DECIMAL_1
+------ ---------
+C              8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+VAR_CHAR                                                                                                                         BINARY_64_S          PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- ------------
+B                                                                                                                                             200.000           50
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+VAR_CHAR                                                                                                                         BINARY_64_S          PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- ------------
+B                                                                                                                                             200.000           50
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+VAR_CHAR                                                                                                                         BINARY_64_S          PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- ------------
+B                                                                                                                                             200.000           50
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+PIC_X_B
+-------
+B      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+COL_6 PIC_X_A COL_1  PIC_X_B PIC_X_C
+----- ------- ------ ------- -------
+   50 joe        100 A       jo     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+PIC_1 LARGE_INT           
+----- --------------------
+B                     1000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s11
+
+PIC_X_5
+-------
+      0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s12
+
+DECIMAL_10
+------------
+          90
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,31 @@
+<section_begin>  a09s01
+
+VCH1 INT2        VCH2 PX3                  PX4  PX5                
+---- ----------- ---- -------------------- ---- -------------------
+<group_begin>
+000            1 #                     100 ABC  NULL               
+111         NULL #                  111000 ABC  NULL               
+444            4 4                  222000 XYZ    16 16:00:00.1234 
+NULL           3 g                     100 GGG  NULL               
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s02
+
+VCH1 INT2        VCH2 PX3                  PX4  PX5                 VCH3    
+---- ----------- ---- -------------------- ---- ------------------- --------
+<group_begin>
+000            1 #                     100 ABC  NULL                Z       
+111         NULL #                  111000 ABC  NULL                Z       
+444            4 4                  222000 XYZ    16 16:00:00.1234  Z       
+555            5 5                  555000 555    15 15:00:00.5555  row_5   
+NULL           3 g                     100 GGG  NULL                Z       
+NULL           6 #                     100 ABC    16 16:00:00.1234  VCH3    
+NULL        NULL p                  123456 PX4  NULL                Z       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

@@ -1,0 +1,18 @@
+<section_begin>  test020b
+
+(EXPR)  (EXPR)
+------- ------
+   NULL E18   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test020c
+
+(EXPR)
+--------------------
+                  12
+
+--- 1 row(s) selected.
+
+<section_end>

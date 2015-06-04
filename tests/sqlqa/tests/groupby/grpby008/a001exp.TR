@@ -1,0 +1,250 @@
+<section_begin>  a01s1
+
+(EXPR)
+--------------------------
+<group_begin>
+1998-04-03 00:00:00.000000
+1999-05-06 00:00:00.000000
+2000-01-02 00:00:00.000000
+2002-12-11 00:00:00.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+(EXPR)
+----------
+<group_begin>
+04/03/1998
+05/06/1999
+01/02/2000
+12/11/2002
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+(EXPR)
+------
+<group_begin>
+     3
+     6
+     2
+    11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+(EXPR)
+---------
+<group_begin>
+Friday   
+Thursday 
+Sunday   
+Wednesday
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+------
+<group_begin>
+     3
+     6
+     2
+    11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)
+------
+<group_begin>
+     6
+     5
+     1
+     4
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+(EXPR)
+-------------
+<group_begin>
+           93
+          126
+            2
+          345
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+(EXPR)
+------
+<group_begin>
+  1998
+  1999
+  2000
+  2002
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+(EXPR)
+------
+<group_begin>
+     4
+     5
+     1
+    12
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+(EXPR)
+------
+<group_begin>
+     3
+     6
+     2
+    11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+(EXPR)
+------
+     0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+(EXPR)
+--------------------
+<group_begin>
+  211758321600000000
+  211792708800000000
+  211813531200000000
+  211906324800000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+(EXPR)
+------
+     0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+(EXPR)
+------
+<group_begin>
+     4
+     5
+     1
+    12
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+(EXPR)
+---------
+<group_begin>
+April    
+May      
+January  
+December 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+(EXPR)
+------
+<group_begin>
+     2
+     1
+     4
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+(EXPR)
+------
+     0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+(EXPR)
+-------------
+<group_begin>
+           14
+           19
+            2
+           50
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+(EXPR)
+------
+<group_begin>
+  1998
+  1999
+  2000
+  2002
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

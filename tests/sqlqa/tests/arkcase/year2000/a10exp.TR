@@ -1,0 +1,24 @@
+<section_begin>  a10s0
+
+DT         JTS                 
+---------- --------------------
+<group_begin>
+2000-01-01   211813444800000000
+2000-02-29   211818542400000000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a10s1
+
+(EXPR)
+--------------------
+<group_begin>
+  211813444800000000
+  211818542400000000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

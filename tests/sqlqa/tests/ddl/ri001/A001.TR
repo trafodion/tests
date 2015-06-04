@@ -1,0 +1,56 @@
+<section_begin>  a1s1
+
+MV_NAME                                  M_NAME                         F_NAME                         D_NAME                         MV_STAR_RATING
+---------------------------------------- ------------------------------ ------------------------------ ------------------------------ --------------
+To Catch a Thief                         Cary Grant                     Grace Kelly                    Alfred Hitchcock               ****          
+Notorious                                Cary Grant                     Ingrid Bergman                 Alfred Hitchcock               ****          
+Unforgiven                               Clint Eastwood                 No female actor                Clint Eastwood                 ***           
+High Noon                                Gary Cooper                    Grace Kelly                    Fred Zinneman                  ****          
+The Women                                No male actor                  Joan Crawford                  George Cukor                   ****          
+The Philadelphia Story                   Cary Grant                     Katherine Hepburn              George Cukor                   ****          
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a3s1
+
+ 
+*
+*
+
+  ( 
+    MV_NO                            INT NO DEFAULT NOT NULL NOT DROPPABLE
+  , MV_NAME                          VARCHAR(40) CHARACTER SET ISO88591 COLLATE
+      DEFAULT NO DEFAULT NOT NULL NOT DROPPABLE
+  , MV_MALESTAR                      INT DEFAULT NULL
+  , MV_FEMALESTAR                    INT DEFAULT NULL
+  , MV_DIRECTOR                      INT DEFAULT 0 NOT NULL NOT DROPPABLE
+  , MV_YEARMADE                      INT DEFAULT NULL
+  , MV_STAR_RATING                   CHAR(4) CHARACTER SET ISO88591 COLLATE
+      DEFAULT DEFAULT NULL
+  , MV_MOVIETYPE                     VARCHAR(15) CHARACTER SET ISO88591 COLLATE
+      DEFAULT DEFAULT NULL
+  , MV_SUBSPECIALTY                  VARCHAR(15) CHARACTER SET ISO88591 COLLATE
+      DEFAULT DEFAULT _ISO88591'Unknown' *
+  )
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a3s3
+
+MV_NAME                                  MV_FEMALESTAR F_NAME                        
+---------------------------------------- ------------- ------------------------------
+<group_begin> 1
+Austin Powers                                       27 NULL                          
+The Philadelphia Story                            6123 Katherine Hepburn             
+Unforgiven                                           0 No female actor               
+Notorious                                         6125 Ingrid Bergman                
+To Catch a Thief                                  6111 Grace Kelly                   
+The Women                                         6124 Joan Crawford                 
+High Noon                                         6111 Grace Kelly                   
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

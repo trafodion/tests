@@ -1,0 +1,24 @@
+<section_begin>  a16s0
+
+BINARY_SIGNED BINARY_32_U (EXPR)               (EXPR)              
+------------- ----------- -------------------- --------------------
+<group_begin>
+         1000       80.00                    1                    1
+         8000       70.00                    2                    3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16s1
+
+BINARY_SIGNED BINARY_32_U (EXPR)               (EXPR)              
+------------- ----------- -------------------- --------------------
+<group_begin>
+         1000       80.00                    1                    1
+         8000       70.00                    3                    3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

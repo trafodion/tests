@@ -1,0 +1,12 @@
+<section_begin>  s1
+
+COL1        COL2       
+----------- -----------
+<group_begin>
+         10          20
+        100         200
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

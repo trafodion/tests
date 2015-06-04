@@ -1,0 +1,344 @@
+<section_begin>  a09s0
+
+EMPNUM EMPNAME            (EXPR)
+------ ------------------ ------
+<group_begin>
+    23 JERRY HOWARD             
+    29 JACK RAYMOND             
+    43 PAUL WINTER              
+    78 SPOT TO FILL             
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+A
+----------
+<group_begin>
+one_      
+ONE%      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s4
+
+A
+----------
+<group_begin>
+one_      
+ONE%      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s5
+
+A
+----------
+ONE%      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s6
+
+A
+----------
+ONE%      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s7
+
+A
+----------
+<group_begin>
+one_      
+ONE%      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s8
+
+A
+----------
+<group_begin>
+one_      
+ONE%      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s9
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s10
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s11
+
+A
+----------
+ONE%      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s12
+
+A
+----------
+ONE%      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s13
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s14
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s15
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s16
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s24
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s25
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s26
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s27
+
+A
+----------
+<group_begin>
+one_      
+ONE%      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s28
+
+A
+----------
+<group_begin>
+one_      
+ONE%      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s29
+
+A
+----------
+ONE%      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s30
+
+A
+----------
+ONE%      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s31
+
+A
+----------
+<group_begin>
+one_      
+ONE%      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s32
+
+A
+----------
+<group_begin>
+one_      
+ONE%      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s33
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s34
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s35
+
+A
+----------
+ONE%      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s36
+
+A
+----------
+ONE%      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s37
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s38
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s39
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s40
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s48
+
+A
+----------
+one_      
+
+--- 1 row(s) selected.
+
+<section_end>

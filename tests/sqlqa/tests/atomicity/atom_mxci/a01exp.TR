@@ -1,0 +1,428 @@
+<section_begin>  a01s1
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I1a    PICX8             1234567.830 333            -7291                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I2a    PICX8               -1273.000 R2A            -8219                 79 R2                 12         0.720                2.3787E13    4.2374229999999995E52 2003-08-01 4291-09   2:04:59.888888 
+I2b    PICX82              22273.111 R2B             8219                709 r2               7333         0.172                5.3787E13              9.237423E52 2003-08-02  291-10  12:14:57.888888 
+I2c    PICX83           38223242.333 R2C             6839                333 Rr               7812         0.436                8.1937E16        922.3229999999999 2003-08-03 7291-09   5:27:33.888888 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I3a    PICX8             1234567.830 333            -7291                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+UPD    PICX8             1234567.830 333             1014                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+IV1    VIEWR1              22273.111 R2B             1014                709 r2               7333         0.172                5.3787E13     9.300000000000001E52 2003-08-02  291-10  12:14:57.888888 
+IV2    VR1              38223242.333 R2C             1014                333 Rr               7812         0.906                8.1937E16               3.22323E12 2003-08-03 7291-09   5:27:33.888888 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I2a    PICX8               -1273.000 R2A            -8219                 79 R2                 12         0.720                2.3787E13    4.2374229999999995E52 2003-08-01 4291-09   2:04:59.888888 
+I2b    PICX82              22273.111 R2B             8219                709 r2               7333         0.172                5.3787E13              9.237423E52 2003-08-02  291-10  12:14:57.888888 
+I2c    PICX83           38223242.333 R2C             6839                333 Rr               7812         0.436                8.1937E16        922.3229999999999 2003-08-03 7291-09   5:27:33.888888 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I3a    PICX8             1234567.830 333             1014                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+IV3    VIEWR3              22273.111 R2B             8219                709 r2               7333         0.172                5.3787E13     9.300000000000001E52 2003-08-02  291-10  12:14:57.888888 
+IV4    VR1              38223242.333 R2C             6839                333 Rr               7812         0.906                8.1937E16               3.22323E12 2003-08-03 7291-09   5:27:33.888888 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6a
+
+
+CONTROL QUERY DEFAULT
+  TABLELOCK                     	OFF
+
+Current DEFAULTS
+  TABLELOCK                     	OFF
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a01s6b
+
+
+CONTROL QUERY DEFAULT
+  QUERY_CACHE_STATEMENT_PINNING 	OFF
+
+Current DEFAULTS
+  QUERY_CACHE_STATEMENT_PINNING 	OFF
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a01s6c
+
+
+CONTROL QUERY DEFAULT
+  QUERY_CACHE_STATEMENT_PINNING 	OFF
+  QUERY_CACHE                   	0
+<section_end>
+<section_begin>  a01s6d
+
+
+CONTROL QUERY DEFAULT
+  TABLELOCK                     	OFF
+
+Current DEFAULTS
+  TABLELOCK                     	OFF
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a01s6e
+
+
+CONTROL QUERY DEFAULT
+  QUERY_CACHE_STATEMENT_PINNING 	OFF
+
+Current DEFAULTS
+  QUERY_CACHE_STATEMENT_PINNING 	OFF
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a01s6f
+
+
+CONTROL QUERY DEFAULT
+  QUERY_CACHE_STATEMENT_PINNING 	OFF
+  QUERY_CACHE                   	0
+<section_end>
+<section_begin>  a01s2
+
+CHAR_3  PIC_X_8   BINARY_64_S            VAR_CHAR_3  SMALL_INT  DECIMAL_3_UNSIGNED  VAR_CHAR_2  MEDIUM_INT  PIC_DECIMAL_2  FLOAT_BASIC                FLOAT_DOUBLE_P             Y_TO_D      IY_TO_MO  IH_TO_S
+------  --------  ---------------------  ----------  ---------  ------------------  ----------  ----------  -------------  -------------------------  -------------------------  ----------  --------  ----------------
+
+<group_begin> 1
+I2a     PICX8                 -1273.000  R2A             -8219                  79  R2                  12           .720   2.37870000000000032E+013   4.23742300000000000E+052  2003-08-01   4291-09    2:04:59.888888
+I2b     PICX82                22273.111  R2B              8219                 709  r2                7333           .172   5.37870000000000000E+013   9.23742300000000000E+052  2003-08-02    291-10   12:14:57.888888
+I2c     PICX83             38223242.333  R2C              6839                 333  Rr                7812           .436   8.19370000000000000E+016   9.22322999999999872E+002  2003-08-03   7291-09    5:27:33.888888
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+CHAR_3  PIC_X_8   BINARY_64_S            VAR_CHAR_3  SMALL_INT  DECIMAL_3_UNSIGNED  VAR_CHAR_2  MEDIUM_INT  PIC_DECIMAL_2  FLOAT_BASIC                FLOAT_DOUBLE_P             Y_TO_D      IY_TO_MO  IH_TO_S
+------  --------  ---------------------  ----------  ---------  ------------------  ----------  ----------  -------------  -------------------------  -------------------------  ----------  --------  ----------------
+
+I3a     PICX8               1234567.830  333             -7291                 382  c2                  10           .823   1.27839000000000016E+018   3.72891119999999936E+023  2003-07-31   4444-01   23:09:12.666666
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I1a    PICX8             1234567.830 333            -7291                382 c2               1110         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I2a    PICX8               -1273.000 R2A            -8219                 79 R2               9999         0.720                2.3787E13    4.2374229999999995E52 2003-08-01 4291-09   2:04:59.888888 
+I2b    PICX82              22273.111 R2B             8219                709 r2               1991         0.172                5.3787E13              9.237423E52 2003-08-02  291-10  12:14:57.888888 
+I2c    PICX83           38223242.333 R2C             6839                333 Rr               1991         0.436                8.1937E16        922.3229999999999 2003-08-03 7291-09   5:27:33.888888 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I3a    PICX8             1234567.830 333            -7291                382 c2               3993         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+T      T8801     555555555555555.333 CCC            12283                392 CC                  5         0.950                 3.369E12                 3.369E12 2005-03-31 1234-11  12:19:27.228836 
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9a0
+
+
+-- Definition of table TRAFODION.SCH_ATOMIMXCI.RECEIVER1
+-- Definition current  *
+
+  (
+    CHAR_3                           CHAR(3) CHARACTER SET ISO88591 COLLATE
+      DEFAULT DEFAULT NULL
+  , PIC_X_8                          CHAR(8) CHARACTER SET ISO88591 COLLATE
+      DEFAULT UPSHIFT NO DEFAULT NOT NULL NOT DROPPABLE
+  , BINARY_64_S                      NUMERIC(18, 3) DEFAULT NULL
+  , VAR_CHAR_3                       VARCHAR(3) CHARACTER SET ISO88591 COLLATE
+      DEFAULT UPSHIFT DEFAULT NULL
+  , SMALL_INT                        SMALLINT DEFAULT NULL
+  , DECIMAL_3_UNSIGNED               DECIMAL(3, 0) UNSIGNED DEFAULT NULL
+  , VAR_CHAR_2                       VARCHAR(2) CHARACTER SET ISO88591 COLLATE
+      DEFAULT DEFAULT NULL
+  , MEDIUM_INT                       INT UNSIGNED DEFAULT NULL
+  , PIC_DECIMAL_2                    DECIMAL(3, 3) UNSIGNED NO DEFAULT NOT NULL
+      NOT DROPPABLE
+  , FLOAT_BASIC                      FLOAT(4) DEFAULT NULL
+  , FLOAT_DOUBLE_P                   DOUBLE PRECISION NO DEFAULT NOT NULL NOT
+      DROPPABLE
+  , Y_TO_D                           DATE DEFAULT NULL
+  , IY_TO_MO                         INTERVAL YEAR(4) TO MONTH DEFAULT NULL
+  , IH_TO_S                          INTERVAL HOUR(2) TO SECOND(6) NO DEFAULT
+      NOT NULL NOT DROPPABLE
+  , NEW_COL                          INTERVAL DAY(5) TO SECOND(4) DEFAULT NULL
+  )
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a01s9a
+
+
+CREATE TABLE TRAFODION.SCH_ATOMIMXCI.RECEIVER1
+  (
+    CHAR_3                           CHAR(3) CHARACTER SET ISO88591 COLLATE
+      DEFAULT DEFAULT NULL
+  , PIC_X_8                          CHAR(8) CHARACTER SET ISO88591 COLLATE
+      DEFAULT UPSHIFT NO DEFAULT -- NOT NULL NOT DROPPABLE
+  , BINARY_64_S                      NUMERIC(18, 3) DEFAULT NULL
+  , VAR_CHAR_3                       VARCHAR(3) CHARACTER SET ISO88591 COLLATE
+      DEFAULT UPSHIFT DEFAULT NULL
+  , SMALL_INT                        SMALLINT DEFAULT NULL
+  , DECIMAL_3_UNSIGNED               DECIMAL(3, 0) UNSIGNED DEFAULT NULL
+  , VAR_CHAR_2                       VARCHAR(2) CHARACTER SET ISO88591 COLLATE
+      DEFAULT DEFAULT NULL
+  , MEDIUM_INT                       INT UNSIGNED DEFAULT NULL
+  , PIC_DECIMAL_2                    DECIMAL(3, 3) UNSIGNED NO DEFAULT
+      -- NOT NULL NOT DROPPABLE
+  , FLOAT_BASIC                      FLOAT(4) DEFAULT NULL
+  , FLOAT_DOUBLE_P                   DOUBLE PRECISION NO DEFAULT
+      -- NOT NULL NOT DROPPABLE
+  , Y_TO_D                           DATE DEFAULT NULL
+  , IY_TO_MO                         INTERVAL YEAR(4) TO MONTH DEFAULT NULL
+  , IH_TO_S                          INTERVAL HOUR(2) TO SECOND(6) NO DEFAULT
+      -- NOT NULL NOT DROPPABLE
+  , CONSTRAINT CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1_*********_**** PRIMARY KEY
+      (PIC_X_8 ASC) NOT DROPPABLE
+  , CONSTRAINT CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1_*********_**** CHECK
+      (CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1.PIC_X_8 IS NOT NULL AND
+      CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1.PIC_DECIMAL_2 IS NOT NULL AND
+      CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1.FLOAT_DOUBLE_P IS NOT NULL AND
+      CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1.IH_TO_S IS NOT NULL) NOT DROPPABLE
+  )
+  LOCATION *
+  NAME *
+  ATTRIBUTES PACKED FORMAT, BLOCKSIZE 32768
+  STORE BY (PIC_X_8 ASC)
+  ;
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a01s7
+
+CHAR_3  PIC_X_8   BINARY_64_S            VAR_CHAR_3  SMALL_INT  DECIMAL_3_UNSIGNED  VAR_CHAR_2  MEDIUM_INT  PIC_DECIMAL_2  FLOAT_BASIC                FLOAT_DOUBLE_P             Y_TO_D      IY_TO_MO  IH_TO_S
+------  --------  ---------------------  ----------  ---------  ------------------  ----------  ----------  -------------  -------------------------  -------------------------  ----------  --------  ----------------
+
+I1a     PICX8               1234567.830  333             -7291                 382  c2                1110           .823   1.27839000000000016E+018   3.72891119999999936E+023  2003-07-31   4444-01   23:09:12.666666
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+CHAR_3  PIC_X_8   BINARY_64_S            VAR_CHAR_3  SMALL_INT  DECIMAL_3_UNSIGNED  VAR_CHAR_2  MEDIUM_INT  PIC_DECIMAL_2  FLOAT_BASIC                FLOAT_DOUBLE_P             Y_TO_D      IY_TO_MO  IH_TO_S
+------  --------  ---------------------  ----------  ---------  ------------------  ----------  ----------  -------------  -------------------------  -------------------------  ----------  --------  ----------------
+
+<group_begin> 1
+I2a     PICX8                 -1273.000  R2A             -8219                  79  R2                9999           .720   2.37870000000000032E+013   4.23742300000000000E+052  2003-08-01   4291-09    2:04:59.888888
+I2b     PICX82                22273.111  R2B              8219                 709  r2                1991           .172   5.37870000000000000E+013   9.23742300000000000E+052  2003-08-02    291-10   12:14:57.888888
+I2c     PICX83             38223242.333  R2C              6839                 333  Rr                1991           .436   8.19370000000000000E+016   9.22322999999999872E+002  2003-08-03   7291-09    5:27:33.888888
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+CHAR_3  PIC_X_8   BINARY_64_S            VAR_CHAR_3  SMALL_INT  DECIMAL_3_UNSIGNED  VAR_CHAR_2  MEDIUM_INT  PIC_DECIMAL_2  FLOAT_BASIC                FLOAT_DOUBLE_P             Y_TO_D      IY_TO_MO  IH_TO_S
+------  --------  ---------------------  ----------  ---------  ------------------  ----------  ----------  -------------  -------------------------  -------------------------  ----------  --------  ----------------
+
+<group_begin> 1
+I3a     PICX8               1234567.830  333             -7291                 382  c2                3993           .823   1.27839000000000016E+018   3.72891119999999936E+023  2003-07-31   4444-01   23:09:12.666666
+T       T8801       555555555555555.333  CCC             12283                 392  CC                   5           .950   3.36900000000000000E+012   3.36900000000000000E+012  2005-03-31   1234-11   12:19:27.228836
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+NULL   ISAGAIN                  NULL NULL            NULL               NULL NULL             NULL         0.823                     NULL               9.11111E18 NULL       NULL     78:00:02.999999 
+I1p    PIC8888R              167.810 533                1                 32 P2                  0         0.300                    88.39                   8720.0 2003-08-01 8444-01   3:29:52.123456 
+I1P    PIC888R2              567.130 633                7                 82 12                 47         0.275                    7.9E8                    689.0 2093-07-31 9446-11  63:27:00.000000 
+I1a    PICX8             1234567.830 333            -7291                382 c2               1110         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I2a    PICX8               -1273.000 R2A            -8219                 79 R2               9999         0.720                2.3787E13    4.2374229999999995E52 2003-08-01 4291-09   2:04:59.888888 
+I2b    PICX82              22273.111 R2B             8219                709 r2               1991         0.172                5.3787E13              9.237423E52 2003-08-02  291-10  12:14:57.888888 
+I2c    PICX83           38223242.333 R2C             6839                333 Rr               1991         0.436                8.1937E16        922.3229999999999 2003-08-03 7291-09   5:27:33.888888 
+E2e    YEAR2003             8932.000 RIA             6714                574 RI               8012         0.478                    5.7E8        830000.0000000001 9993-08-21  302-11  99:14:00.123456 
+R2R    YEAR9023                3.000 RIB               76                330 RJ               5851         0.228                    4.7E8                  6.93E10 1280-02-28 9999-09   0:04:00.123456 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I3a    PICX8             1234567.830 333            -7291                382 c2               3993         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+T      T8801     555555555555555.333 CCC            12283                392 CC                  5         0.950                 3.369E12                 3.369E12 2005-03-31 1234-11  12:19:27.228836 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12a
+<section_end>
+<section_begin>  a01s12b
+<section_end>
+<section_begin>  a01s13
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I1a    PICX8888          1234567.830 333            -7291                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I2b    PICX8882            22273.111 R2B             8219                709 r2               7333         0.172                5.3787E13              9.237423E52 2003-08-02  291-10  12:14:57.888888 
+I2c    PICX8883         38223242.333 R2C             6839                333 Rr               7812         0.436                8.1937E16        922.3229999999999 2003-08-03 7291-09   5:27:33.888888 
+I2a    PICX8888            -1273.000 R2A            -8219                 79 R2                 12         0.720                2.3787E13    4.2374229999999995E52 2003-08-01 4291-09   2:04:59.888888 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I3a    PICX8             1234567.830 333            -7291                382 c2               3993         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+T      T8801     555555555555555.333 CCC            12283                392 CC                  5         0.950                 3.369E12                 3.369E12 2005-03-31 1234-11  12:19:27.228836 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+
+CREATE TABLE TRAFODION.SCH_ATOMIMXCI.RECEIVER1
+  (
+    CHAR_3                           CHAR(3) CHARACTER SET ISO88591 COLLATE
+      DEFAULT DEFAULT NULL
+  , PIC_X_8                          CHAR(8) CHARACTER SET ISO88591 COLLATE
+      DEFAULT UPSHIFT NO DEFAULT -- NOT NULL NOT DROPPABLE
+  , BINARY_64_S                      NUMERIC(18, 3) DEFAULT NULL
+      -- NOT NULL DROPPABLE
+  , VAR_CHAR_3                       VARCHAR(3) CHARACTER SET ISO88591 COLLATE
+      DEFAULT UPSHIFT DEFAULT NULL
+  , SMALL_INT                        SMALLINT DEFAULT NULL
+  , DECIMAL_3_UNSIGNED               DECIMAL(3, 0) UNSIGNED DEFAULT NULL
+  , VAR_CHAR_2                       VARCHAR(2) CHARACTER SET ISO88591 COLLATE
+      DEFAULT DEFAULT NULL
+  , MEDIUM_INT                       INT UNSIGNED DEFAULT NULL
+  , PIC_DECIMAL_2                    DECIMAL(3, 3) UNSIGNED NO DEFAULT
+      -- NOT NULL NOT DROPPABLE
+  , FLOAT_BASIC                      FLOAT(4) DEFAULT NULL
+  , FLOAT_DOUBLE_P                   DOUBLE PRECISION NO DEFAULT
+      -- NOT NULL NOT DROPPABLE
+  , Y_TO_D                           DATE DEFAULT NULL
+  , IY_TO_MO                         INTERVAL YEAR(4) TO MONTH DEFAULT NULL
+  , IH_TO_S                          INTERVAL HOUR(2) TO SECOND(6) NO DEFAULT
+      -- NOT NULL NOT DROPPABLE
+  , CONSTRAINT CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1_*********_**** PRIMARY KEY
+      (PIC_X_8 ASC) NOT DROPPABLE
+  , CONSTRAINT CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1_*********_**** CHECK
+      (CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1.PIC_X_8 IS NOT NULL AND
+      CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1.PIC_DECIMAL_2 IS NOT NULL AND
+      CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1.FLOAT_DOUBLE_P IS NOT NULL AND
+      CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1.IH_TO_S IS NOT NULL) NOT DROPPABLE
+  )
+  LOCATION *
+  NAME *
+  ATTRIBUTES PACKED FORMAT, BLOCKSIZE 32768
+  STORE BY (PIC_X_8 ASC)
+  ;
+ALTER TABLE CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1
+  ADD CONSTRAINT CAT_ATOMMXCI.SCH_ATOMMXCI.TEMP_C CHECK
+      (CAT_ATOMMXCI.SCH_ATOMMXCI.RECEIVER1.BINARY_64_S IS NOT NULL) DROPPABLE ;
+
+--- SQL operation complete.
+
+<section_end>

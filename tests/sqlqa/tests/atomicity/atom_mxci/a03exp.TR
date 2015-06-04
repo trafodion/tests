@@ -1,0 +1,220 @@
+<section_begin>  a03s1
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I1a    PICA8888          1234567.830 333            -7291                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I2a    PICA8888            -1273.000 R2A            -8219                 79 R2                 12         0.720                2.3787E13    4.2374229999999995E52 2003-08-01 4291-09   2:04:59.888888 
+I2b    PICB8882            22273.111 R2B             8219                709 r2               7333         0.172                5.3787E13              9.237423E52 2003-08-02  291-10  12:14:57.888888 
+I2c    PICC8883         38223242.333 R2C             6839                333 Rr               7812         0.436                8.1937E16        922.3229999999999 2003-08-03 7291-09   5:27:33.888888 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I3a    PIC38888          1234567.830 333            -7291                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+UPD    PICA8888          1234567.830 333            -7291                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I2a    PICA8888            -1273.000 R2A            -8219                 79 R2                 12         0.720                2.3787E13    4.2374229999999995E52 2003-08-01 4291-09   2:04:59.888888 
+I2b    PICB8882            22273.111 R2B             8219                709 r2               7333         0.172                5.3787E13              9.237423E52 2003-08-02  291-10  12:14:57.888888 
+I2c    PICC8883         38223242.333 R2C             6839                333 Rr               7812         0.436                8.1937E16        922.3229999999999 2003-08-03 7291-09   5:27:33.888888 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I3a    PIC38888          1234567.830 333            -7291                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6a
+
+
+CONTROL QUERY DEFAULT
+  TABLELOCK                     	OFF
+
+Current DEFAULTS
+  TABLELOCK                     	OFF
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a03s6b
+
+
+CONTROL QUERY DEFAULT
+  QUERY_CACHE_STATEMENT_PINNING 	OFF
+
+Current DEFAULTS
+  QUERY_CACHE_STATEMENT_PINNING 	OFF
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a03s6d
+
+
+CONTROL QUERY DEFAULT
+  TABLELOCK                     	OFF
+
+Current DEFAULTS
+  TABLELOCK                     	OFF
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a03s6e
+
+
+CONTROL QUERY DEFAULT
+  QUERY_CACHE_STATEMENT_PINNING 	OFF
+
+Current DEFAULTS
+  QUERY_CACHE_STATEMENT_PINNING 	OFF
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a03s7a
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I1a    P88888            1234567.830 333            -7291                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7b
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I2b    P88882              22273.111 R2B             8219                709 r2               7333         0.172                5.3787E13              9.237423E52 2003-08-02  291-10  12:14:57.888888 
+I2c    P88883           38223242.333 R2C             6839                333 Rr               7812         0.436                8.1937E16        922.3229999999999 2003-08-03 7291-09   5:27:33.888888 
+I2a    P88888              -1273.000 R2A            -8219                 79 R2                 12         0.720                2.3787E13    4.2374229999999995E52 2003-08-01 4291-09   2:04:59.888888 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7c
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I3a    P88888            1234567.830 333            -7291                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I1a    P88888            1234567.830 333            -7291                382 c2               1110         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I2b    P88882              22273.111 R2B             8219                709 r2               9999         0.172                5.3787E13              9.237423E52 2003-08-02  291-10  12:14:57.888888 
+I2c    P88883           38223242.333 R2C             6839                333 Rr               9999         0.436                8.1937E16        922.3229999999999 2003-08-03 7291-09   5:27:33.888888 
+I2a    P88888              -1273.000 R2A            -8219                 79 R2               9999         0.720                2.3787E13    4.2374229999999995E52 2003-08-01 4291-09   2:04:59.888888 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I3a    P88888            1234567.830 333            -7291                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+I3c    PIC38888  555555555555555.333 333            12283                382 CC                710         0.000                 3.369E12                 3.369E12 2005-03-31 4444-01  12:19:27.228836 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+
+CONTROL QUERY DEFAULT
+  ISOLATION_LEVEL               	READ COMMITTED
+  ISOLATION_LEVEL_FOR_UPDATES   	READ COMMITTED
+<section_end>
+<section_begin>  a03s11
+
+
+CONTROL QUERY DEFAULT
+  QUERY_CACHE_STATEMENT_PINNING 	ON
+  QUERY_CACHE                   	0
+<section_end>
+<section_begin>  a03s12
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I1a    PIC88888          1234567.830 333            -7291                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s13
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+<group_begin> 1
+I2b    PIC88882            22273.111 R2B             8219                709 r2               7333         0.172                5.3787E13              9.237423E52 2003-08-02  291-10  12:14:57.888888 
+I2c    PIC88883         38223242.333 R2C             6839                333 Rr               7812         0.436                8.1937E16        922.3229999999999 2003-08-03 7291-09   5:27:33.888888 
+I2a    PIC88888            -1273.000 R2A            -8219                 79 R2                 12         0.720                2.3787E13    4.2374229999999995E52 2003-08-01 4291-09   2:04:59.888888 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s14
+
+CHAR_3 PIC_X_8  BINARY_64_S          VAR_CHAR_3 SMALL_INT DECIMAL_3_UNSIGNED VAR_CHAR_2 MEDIUM_INT PIC_DECIMAL_2 FLOAT_BASIC              FLOAT_DOUBLE_P           Y_TO_D     IY_TO_MO IH_TO_S         
+------ -------- -------------------- ---------- --------- ------------------ ---------- ---------- ------------- ------------------------ ------------------------ ---------- -------- ----------------
+I3a    PIC88888          1234567.830 333            -7291                382 c2                 10         0.823               1.27839E18    3.7289111999999996E23 2003-07-31 4444-01  23:09:12.666666 
+
+--- 1 row(s) selected.
+
+<section_end>

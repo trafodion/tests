@@ -1,0 +1,33 @@
+<section_begin>  a04s1
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abd                                                           2
+noa                                                          99
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abd                                                           2
+noa                                                          99
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

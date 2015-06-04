@@ -1,0 +1,97 @@
+<section_begin>  a04s1
+
+N1
+------
+<group_begin>
+ -4344
+ -3552
+ -2389
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+N1
+------
+<group_begin>
+ -4344
+ -3552
+ -2389
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+N1     C2   C3   C4      
+------ ---- ---- --------
+<group_begin>
+ -4344 AA   BA   BA      
+ -3552 BA   AA   AA      
+ -2389 BA   AA   AA      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+N1     C2   C3   C4      
+------ ---- ---- --------
+<group_begin>
+ -4344 AA   BA   BA      
+ -3552 BA   AA   AA      
+ -2389 BA   AA   AA      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+(EXPR)
+------
+ -2389
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+(EXPR)
+------
+ -2389
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+(EXPR)
+------
+DA    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s12
+
+(EXPR)
+------
+EA    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s13
+
+(EXPR)
+--------
+DA      
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,131 @@
+<section_begin>  a03s0
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+clark      dinah          9000      37000 3             
+crinar     jessica        3500      39500 2             
+green      roger          9000     175500 2             
+howard     jerry          1000      65000 1             
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+clark      dinah          9000      37000 3             
+crinar     jessica        8000      39500 2             
+green      roger          9000     175500 2             
+howard     jerry          4000      65000 1             
+velcro     judy           2000      40000 3             
+zann       kathy          3000      80000 1             
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+clark      dinah          9000      37000 3             
+green      roger          9000     175500 2             
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+LAST_NAME  FIRST_NAME STATUS             
+---------- ---------- -------------------
+<group_begin>
+clark      dinah      divorced or widowed
+green      roger      married            
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+LAST_NAME  NAME                 DEPT_SYMBOL SALARY     DEPT_NUM
+---------- -------------------- ----------- ---------- --------
+green      roger                310310\$        175500     9000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+LAST_NAME  FIRST_NAME (EXPR)              DEPT_SYMBOL SALARY    
+---------- ---------- ------------------- ----------- ----------
+green      roger      Married             Admin depts     175500
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY    
+---------- ---------- -------- ----------
+<group_begin>
+clark      dinah          9000      37000
+crinar     jessica        3500      39500
+green      roger          9000     175500
+howard     jerry          1000      65000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+clark      dinah          9000      37000 3             
+green      roger          9000     175500 2             
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+(EXPR)
+--------------------
+<group_begin>
+dinah               
+green               
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+NAME
+--------------------
+<group_begin>
+dinah               
+green               
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+(EXPR)
+--------------------
+green               
+
+--- 1 row(s) selected.
+
+<section_end>

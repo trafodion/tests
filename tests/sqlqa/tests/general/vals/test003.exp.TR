@@ -1,0 +1,18 @@
+<section_begin>  test003a
+
+(EXPR) (EXPR) (EXPR) (EXPR)     (EXPR) (EXPR)    
+------ ------ ------ ---------- ------ ----------
+     1      2      3 DOLORES    D      CABEZA    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test003b
+
+(EXPR) (EXPR) (EXPR) (EXPR)     (EXPR) (EXPR)     (EXPR)
+------ ------ ------ ---------- ------ ---------- ------
+     2      3      4 dolores    d      cabeza     NULL  
+
+--- 1 row(s) selected.
+
+<section_end>

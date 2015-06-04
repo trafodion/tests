@@ -1,0 +1,106 @@
+<section_begin>  a10s0
+
+CITY           STATE       
+-------------- ------------
+<group_begin>
+PHILADELPHIA   PENN        
+SAN FRANCISCO  CALIFORNIA  
+DENVER         COLORADO    
+LUBBOCK        TEXAS       
+FRESNO         CALIFORNIA  
+FRANKFURT      GERMANY     
+NEW YORK       NEW YORK    
+LINCOLN        NEBRASKA    
+DUISBURG       GERMANY     
+MUENCHEN       GERMANY     
+CHICAGO        ILLINOIS    
+DALLAS         TEXAS       
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a10s1
+
+CITY           STATE       
+-------------- ------------
+<group_begin>
+CUPERTINO      CALIFORNIA  
+IRVINE         CALIFORNIA  
+PALO ALTO      CALIFORNIA  
+LEXINGTON      MASS        
+SEATTLE        WASHINGTON  
+SUNNYVALE      CALIFORNIA  
+DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a10s2
+
+CITY           STATE        CITY           STATE       
+-------------- ------------ -------------- ------------
+<group_begin>
+SAN FRANCISCO  CALIFORNIA   CUPERTINO      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   SUNNYVALE      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   PALO ALTO      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   IRVINE         CALIFORNIA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a10s3
+
+CITY           STATE        CITY           STATE       
+-------------- ------------ -------------- ------------
+<group_begin>
+PHILADELPHIA   PENN         NULL           NULL        
+SAN FRANCISCO  CALIFORNIA   CUPERTINO      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   IRVINE         CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   PALO ALTO      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   LEXINGTON      MASS        
+SAN FRANCISCO  CALIFORNIA   SEATTLE        WASHINGTON  
+SAN FRANCISCO  CALIFORNIA   SUNNYVALE      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   DALLAS         TEXAS       
+DENVER         COLORADO     NULL           NULL        
+LUBBOCK        TEXAS        NULL           NULL        
+FRESNO         CALIFORNIA   NULL           NULL        
+FRANKFURT      GERMANY      NULL           NULL        
+NEW YORK       NEW YORK     NULL           NULL        
+LINCOLN        NEBRASKA     NULL           NULL        
+DUISBURG       GERMANY      NULL           NULL        
+MUENCHEN       GERMANY      NULL           NULL        
+CHICAGO        ILLINOIS     NULL           NULL        
+DALLAS         TEXAS        NULL           NULL        
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a10s4
+
+CITY           STATE        CITY           STATE       
+-------------- ------------ -------------- ------------
+<group_begin>
+PHILADELPHIA   PENN         NULL           NULL        
+SAN FRANCISCO  CALIFORNIA   CUPERTINO      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   SUNNYVALE      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   PALO ALTO      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   IRVINE         CALIFORNIA  
+DENVER         COLORADO     NULL           NULL        
+LUBBOCK        TEXAS        NULL           NULL        
+FRESNO         CALIFORNIA   NULL           NULL        
+FRANKFURT      GERMANY      NULL           NULL        
+NEW YORK       NEW YORK     NULL           NULL        
+LINCOLN        NEBRASKA     NULL           NULL        
+DUISBURG       GERMANY      NULL           NULL        
+MUENCHEN       GERMANY      NULL           NULL        
+CHICAGO        ILLINOIS     NULL           NULL        
+DALLAS         TEXAS        NULL           NULL        
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>

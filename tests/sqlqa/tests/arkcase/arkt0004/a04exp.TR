@@ -1,0 +1,1000 @@
+<section_begin>  a04s0
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+CNAME                  CDEPT
+---------------------- -----
+<group_begin>
+EMPIRICISM             PHIL 
+RATIONALISM            PHIL 
+EXISTENTIALISM         PHIL 
+SOLIPSISM              PHIL 
+SCHOLASTICISM          THEO 
+FUNDAMENTALISM         THEO 
+HEDONISM               THEO 
+COMMUNISM              THEO 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a04s12
+
+CNAME                  CDEPT
+---------------------- -----
+<group_begin>
+EMPIRICISM             PHIL 
+RATIONALISM            PHIL 
+EXISTENTIALISM         PHIL 
+SOLIPSISM              PHIL 
+SCHOLASTICISM          THEO 
+FUNDAMENTALISM         THEO 
+HEDONISM               THEO 
+COMMUNISM              THEO 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a04s13
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C22  DATA STRUCTURES          50.00
+C33  DISCREET MATHEMATICS      0.00
+C44  DIGITAL CIRCUITS          0.00
+C66  RELATIONAL DATABASES    500.00
+P22  RATIONALISM              50.00
+P33  EXISTENTIALISM          200.00
+P44  SOLIPSISM                 0.00
+T11  SCHOLASTICISM           150.00
+T12  FUNDAMENTALISM           90.00
+T33  HEDONISM                  0.00
+T44  COMMUNISM               200.00
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a04s14
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C22  DATA STRUCTURES          50.00
+C33  DISCREET MATHEMATICS      0.00
+C44  DIGITAL CIRCUITS          0.00
+C66  RELATIONAL DATABASES    500.00
+P22  RATIONALISM              50.00
+P33  EXISTENTIALISM          200.00
+P44  SOLIPSISM                 0.00
+T11  SCHOLASTICISM           150.00
+T12  FUNDAMENTALISM           90.00
+T33  HEDONISM                  0.00
+T44  COMMUNISM               200.00
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a04s15
+
+CNAME                  CDEPT
+---------------------- -----
+<group_begin>
+SCHOLASTICISM          THEO 
+FUNDAMENTALISM         THEO 
+HEDONISM               THEO 
+COMMUNISM              THEO 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s16
+
+CNO  CLABFEE
+---- -------
+<group_begin>
+C22    50.00
+C33     0.00
+C44     0.00
+C66   500.00
+P22    50.00
+P44     0.00
+T11   150.00
+T12    90.00
+T33     0.00
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a04s17
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s18
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s19
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s20
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s21
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s22
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s23
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s24
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a04s25
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a04s26
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a04s27
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a04s28
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a04s29
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a04s30
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a04s31
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a04s32
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a04s33
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a04s34
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a04s35
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a04s36
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a04s37
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a04s38
+
+CNO  CDESCP                    CRED       
+---- ------------------------- -----------
+<group_begin>
+P44  MY SELF AND I                       6
+T44  FOR THE GREEDY                      6
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s39
+
+CNAME                  CDESCP                    CDEPT
+---------------------- ------------------------- -----
+<group_begin>
+EMPIRICISM             SEE IT-BELIEVE IT         PHIL 
+RATIONALISM            FOR CIS MAJORS            PHIL 
+EXISTENTIALISM         FOR CIS MAJORS            PHIL 
+SOLIPSISM              MY SELF AND I             PHIL 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s40
+
+CNAME                  CDESCP                    CDEPT
+---------------------- ------------------------- -----
+<group_begin>
+EMPIRICISM             SEE IT-BELIEVE IT         PHIL 
+RATIONALISM            FOR CIS MAJORS            PHIL 
+EXISTENTIALISM         FOR CIS MAJORS            PHIL 
+SOLIPSISM              MY SELF AND I             PHIL 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s41
+
+CNAME                  CDESCP                    CDEPT
+---------------------- ------------------------- -----
+<group_begin>
+EMPIRICISM             SEE IT-BELIEVE IT         PHIL 
+RATIONALISM            FOR CIS MAJORS            PHIL 
+EXISTENTIALISM         FOR CIS MAJORS            PHIL 
+SOLIPSISM              MY SELF AND I             PHIL 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s42
+
+CNAME                  CDESCP                    CDEPT
+---------------------- ------------------------- -----
+<group_begin>
+EMPIRICISM             SEE IT-BELIEVE IT         PHIL 
+RATIONALISM            FOR CIS MAJORS            PHIL 
+EXISTENTIALISM         FOR CIS MAJORS            PHIL 
+SOLIPSISM              MY SELF AND I             PHIL 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s43
+
+CNAME                  CDESCP                    CDEPT
+---------------------- ------------------------- -----
+<group_begin>
+EMPIRICISM             SEE IT-BELIEVE IT         PHIL 
+RATIONALISM            FOR CIS MAJORS            PHIL 
+EXISTENTIALISM         FOR CIS MAJORS            PHIL 
+SOLIPSISM              MY SELF AND I             PHIL 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s44
+
+CNAME                  CLABFEE
+---------------------- -------
+<group_begin>
+INTRO TO CS             100.00
+COMPUTER ARCH.          100.00
+EMPIRICISM              100.00
+EXISTENTIALISM          200.00
+SCHOLASTICISM           150.00
+COMMUNISM               200.00
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s45
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a04s46
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a04s47
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a04s48
+
+CNO  CLABFEE
+---- -------
+<group_begin>
+C11   100.00
+C22    50.00
+C55   100.00
+P11   100.00
+P22    50.00
+P33   200.00
+T11   150.00
+T12    90.00
+T44   200.00
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a04s49
+
+CNAME                  CLABFEE
+---------------------- -------
+<group_begin>
+DATA STRUCTURES          50.00
+DISCREET MATHEMATICS      0.00
+DIGITAL CIRCUITS          0.00
+RELATIONAL DATABASES    500.00
+RATIONALISM              50.00
+SOLIPSISM                 0.00
+FUNDAMENTALISM           90.00
+HEDONISM                  0.00
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a04s50
+
+CNO  CLABFEE
+---- -------
+<group_begin>
+C33     0.00
+C44     0.00
+C66   500.00
+P44     0.00
+T33     0.00
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s51
+
+CNAME                  CLABFEE
+---------------------- -------
+<group_begin>
+DATA STRUCTURES          50.00
+DISCREET MATHEMATICS      0.00
+DIGITAL CIRCUITS          0.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s52
+
+CDEPT CNAME                  CLABFEE
+----- ---------------------- -------
+<group_begin>
+CIS   COMPUTER ARCH.          100.00
+CIS   DATA STRUCTURES          50.00
+CIS   INTRO TO CS             100.00
+THEO  FUNDAMENTALISM           90.00
+THEO  SCHOLASTICISM           150.00
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s53
+
+CDEPT CNO  CDESCP                   
+----- ---- -------------------------
+<group_begin>
+CIS   C22  VERY USEFUL              
+CIS   C33  ABSOLUTELY NECESSARY     
+CIS   C44  AH HA!                   
+CIS   C66  THE ONLY WAY TO GO       
+THEO  T12  FOR THE CAREFREE         
+THEO  T33  FOR THE SANE             
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s54
+
+ENAME      ETITLE     ESALARY     DEPT
+---------- ---------- ----------- ----
+<group_begin>
+LUKE       EVANGLIST3          53 THEO
+MARK       EVANGLIST2          52 THEO
+MATTHEW    EVANGLIST1          51 THEO
+DICK NIX   CROOK            25001 PHIL
+HANK KISS  JESTER           25000 PHIL
+JOHN       EVANGLIST4          54 THEO
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s55
+
+ENAME      ETITLE     ESALARY     DEPT
+---------- ---------- ----------- ----
+<group_begin>
+LUKE       EVANGLIST3          53 THEO
+JOHN       EVANGLIST4          54 THEO
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s56
+
+ENAME
+----------
+<group_begin>
+LUKE      
+MARK      
+JOHN      
+EUCLID    
+ARCHIMEDES
+DA VINCI  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s57
+
+ENAME      ETITLE    
+---------- ----------
+<group_begin>
+MATTHEW    EVANGLIST1
+JOHN       EVANGLIST4
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s58
+
+ENAME      ESALARY    
+---------- -----------
+<group_begin>
+LUKE                53
+MATTHEW             51
+HANK KISS        25000
+ARCHIMEDES         200
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s59
+
+ENAME      ESALARY    
+---------- -----------
+<group_begin>
+DICK NIX         25001
+HANK KISS        25000
+JOHN                54
+LUKE                53
+MARK                52
+MATTHEW             51
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s60
+
+ENAME      ESALARY    
+---------- -----------
+<group_begin>
+DICK NIX         25001
+HANK KISS        25000
+JOHN                54
+LUKE                53
+MARK                52
+MATTHEW             51
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s61
+
+DEPT
+----
+PHIL
+
+--- 1 row(s) selected.
+
+<section_end>

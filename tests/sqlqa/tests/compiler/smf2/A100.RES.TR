@@ -1,0 +1,809 @@
+<section_begin>  ds3
+
+D_YEAR      BRAND_ID    BRAND                                              EXT_PRICE           
+----------- ----------- -------------------------------------------------- --------------------
+<group_begin>
+       1998    10003004 exportiunivamalg #4                                            19677.68
+       1999    10003004 exportiunivamalg #4                                            26741.81
+       2000    10003004 corpunivamalg #6                                               30891.62
+       2001    10003004 corpunivamalg #6                                               22110.28
+       2002     8006001 scholarnameless #3                                             20204.95
+       2002     7003005 exportibrand #5                                                13370.55
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  ds6
+
+STATE CNT                 
+----- --------------------
+<group_begin>
+NV                      10
+CT                      11
+WY                      12
+UT                      13
+AK                      15
+AZ                      17
+MD                      18
+OR                      19
+MT                      22
+NJ                      23
+NM                      25
+WA                      28
+ND                      30
+NY                      30
+SC                      31
+CO                      36
+LA                      40
+OH                      42
+CA                      45
+AL                      47
+WI                      48
+FL                      49
+WV                      49
+IN                      50
+ID                      51
+OK                      52
+TN                      53
+AR                      54
+IA                      54
+PA                      57
+NC                      59
+SD                      60
+MI                      62
+NULL                    64
+IL                      65
+MS                      68
+NE                      74
+MO                      77
+MN                      82
+KY                      84
+KS                      86
+VA                     108
+GA                     134
+TX                     196
+<group_end>
+
+--- 44 row(s) selected.
+
+<section_end>
+<section_begin>  ds11
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME             C_PREFERRED_CUST_FLAG C_BIRTH_COUNTRY      C_LOGIN      
+---------------- -------------------- ------------------------------ --------------------- -------------------- -------------
+<group_begin>
+AAAAAAAAAANDAAAA Angel                Campbell                       N                     SYRIAN ARAB REPUBLIC NULL         
+AAAAAAAAACJIAAAA Deborah              Mason                          N                     NIUE                 NULL         
+AAAAAAAAAHHHBAAA Jeremy               Travis                         N                     VIET NAM             NULL         
+AAAAAAAAAJKFBAAA John                 Morley                         Y                     KYRGYZSTAN           NULL         
+AAAAAAAAALNABAAA Iris                 Carney                         N                     SLOVAKIA             NULL         
+AAAAAAAAAMHCBAAA Ruben                Dunn                           N                     URUGUAY              NULL         
+AAAAAAAABFGAAAAA Thomas               Bradford                       N                     SENEGAL              NULL         
+AAAAAAAABGFJAAAA Joanna               Matheny                        N                     MALTA                NULL         
+AAAAAAAABGONAAAA Sam                  Driver                         Y                     LEBANON              NULL         
+AAAAAAAABNLCBAAA Horacio              Phillips                       N                     PUERTO RICO          NULL         
+AAAAAAAABOKEBAAA Rebecca              Smith                          Y                     SLOVENIA             NULL         
+AAAAAAAACACPAAAA Rachael              Hill                           Y                     NIUE                 NULL         
+AAAAAAAACAMEAAAA Lee                  Edwards                        N                     SWEDEN               NULL         
+AAAAAAAACDOAAAAA Anna                 Braun                          N                     PUERTO RICO          NULL         
+AAAAAAAACEAOAAAA Aletha               Mcdonnell                      Y                     MARTINIQUE           NULL         
+AAAAAAAACNKDBAAA Joe                  Mccaffrey                      N                     UKRAINE              NULL         
+AAAAAAAADFLFAAAA Rita                 Delong                         N                     BARBADOS             NULL         
+AAAAAAAADFNCBAAA Tammy                Henry                          Y                     KOREA, REPUBLIC OF   NULL         
+AAAAAAAADJKEAAAA Cathy                Mcdonald                       N                     HONDURAS             NULL         
+AAAAAAAADKOBBAAA Lyle                 Madigan                        Y                     GRENADA              NULL         
+AAAAAAAADMBNAAAA Joyce                Blunt                          N                     EGYPT                NULL         
+AAAAAAAADMLNAAAA Fatima               Cone                           N                     MONTSERRAT           NULL         
+AAAAAAAADOJLAAAA Susie                Holguin                        Y                     FIJI                 NULL         
+AAAAAAAAEFEABAAA Gregory              Faber                          Y                     GREENLAND            NULL         
+AAAAAAAAEIHGAAAA Edward               Fournier                       N                     UZBEKISTAN           NULL         
+AAAAAAAAEIPABAAA Pamela               Mcneil                         Y                     BURKINA FASO         NULL         
+AAAAAAAAELNLAAAA Deana                Hanley                         Y                     NIUE                 NULL         
+AAAAAAAAENIJAAAA James                Harvey                         Y                     NAURU                NULL         
+AAAAAAAAEPCEBAAA Robert               Bowen                          N                     IRELAND              NULL         
+AAAAAAAAFEBJAAAA Fay                  Mendez                         Y                     GREENLAND            NULL         
+AAAAAAAAFIMMAAAA Eugene               Gold                           Y                     NIGER                NULL         
+AAAAAAAAFJHKAAAA Martha               Madrid                         Y                     EL SALVADOR          NULL         
+AAAAAAAAFKJEAAAA Steven               Price                          Y                     MACAO                NULL         
+AAAAAAAAFMENAAAA Aubrey               Bryant                         N                     CHILE                NULL         
+AAAAAAAAGBIBAAAA Michelle             Ibarra                         Y                     HUNGARY              NULL         
+AAAAAAAAGGELAAAA Phyllis              Peachey                        N                     LUXEMBOURG           NULL         
+AAAAAAAAGIHHBAAA Marie                Wiley                          N                     NEW CALEDONIA        NULL         
+AAAAAAAAGJKJAAAA Rosalyn              Manning                        Y                     BOUVET ISLAND        NULL         
+AAAAAAAAGKDGAAAA David                Smith                          N                     MALAWI               NULL         
+AAAAAAAAGLJHBAAA William              James                          N                     CROATIA              NULL         
+AAAAAAAAGNEHAAAA Jack                 Armijo                         Y                     SLOVENIA             NULL         
+AAAAAAAAGOALAAAA Rosemarie            Garber                         N                     TAJIKISTAN           NULL         
+AAAAAAAAGPOHBAAA Brian                Ford                           N                     CAMBODIA             NULL         
+AAAAAAAAHAPABAAA Kenneth              Davis                          N                     MOLDOVA, REPUBLIC OF NULL         
+AAAAAAAAHEJFAAAA Nicole               Simon                          N                     UNITED ARAB EMIRATES NULL         
+AAAAAAAAHINEAAAA Alisa                Chance                         Y                     FAROE ISLANDS        NULL         
+AAAAAAAAHJDCAAAA Douglas              Thacker                        Y                     PERU                 NULL         
+AAAAAAAAHLKBAAAA Claudia              Holmes                         Y                     ISLE OF MAN          NULL         
+AAAAAAAAHNAFBAAA Linda                Sanford                        Y                     NAURU                NULL         
+AAAAAAAAHPPEAAAA Michelle             Morris                         Y                     SURINAME             NULL         
+AAAAAAAAIALEBAAA NULL                 Finley                         Y                     NULL                 NULL         
+AAAAAAAAIEMBAAAA Micheal              Colon                          Y                     GAMBIA               NULL         
+AAAAAAAAIJCMAAAA Jeanette             Sibley                         Y                     ALBANIA              NULL         
+AAAAAAAAJDJCBAAA Stephanie            Mcgowan                        N                     CAMBODIA             NULL         
+AAAAAAAAJFFMAAAA Angela               Rudd                           N                     NICARAGUA            NULL         
+AAAAAAAAJLJEBAAA Roy                  Miller                         N                     MALDIVES             NULL         
+AAAAAAAAJNJEBAAA Frank                Benton                         Y                     PAKISTAN             NULL         
+AAAAAAAAKAOBBAAA James                Nichols                        Y                     ESTONIA              NULL         
+AAAAAAAAKECJAAAA Stephanie            Lowery                         NULL                  VENEZUELA            NULL         
+AAAAAAAAKFIABAAA Curtis               Wells                          Y                     ROMANIA              NULL         
+AAAAAAAAKGDEAAAA Ted                  Jones                          Y                     TUVALU               NULL         
+AAAAAAAAKGMGBAAA David                Adair                          N                     ICELAND              NULL         
+AAAAAAAAKIPGAAAA NULL                 Knight                         NULL                  NULL                 NULL         
+AAAAAAAAKPCBAAAA Alice                Kuhn                           Y                     FRENCH POLYNESIA     NULL         
+AAAAAAAALAILAAAA James                Ellsworth                      Y                     SAINT HELENA         NULL         
+AAAAAAAALIHBAAAA NULL                 Ferraro                        NULL                  GRENADA              NULL         
+AAAAAAAALODEBAAA Curtis               Leblanc                        N                     ROMANIA              NULL         
+AAAAAAAALPKHBAAA Robert               Maddox                         N                     TOGO                 NULL         
+AAAAAAAAMDNKAAAA Letha                Small                          Y                     ANTARCTICA           NULL         
+AAAAAAAAMFHABAAA Maurine              Carr                           N                     SAINT HELENA         NULL         
+AAAAAAAAMKHFAAAA Paul                 Lewis                          Y                     NETHERLANDS          NULL         
+AAAAAAAANEOFAAAA Monte                Allen                          Y                     IRELAND              NULL         
+AAAAAAAANHBEAAAA Burton               Fields                         N                     JERSEY               NULL         
+AAAAAAAANHOOAAAA Tatiana              Irizarry                       Y                     NETHERLANDS ANTILLES NULL         
+AAAAAAAANIIHBAAA Trent                Kennedy                        N                     PHILIPPINES          NULL         
+AAAAAAAANKLIAAAA NULL                 Lund                           Y                     PERU                 NULL         
+AAAAAAAANNHCAAAA Marshall             Waters                         Y                     PAKISTAN             NULL         
+AAAAAAAAOLIGBAAA Dustin               Anderson                       Y                     GEORGIA              NULL         
+AAAAAAAAOMHKAAAA Joann                Yates                          Y                     MONACO               NULL         
+AAAAAAAAOMOEAAAA Donna                Carl                           Y                     SYRIAN ARAB REPUBLIC NULL         
+AAAAAAAAPCCEAAAA Arthur               Trevino                        N                     BURUNDI              NULL         
+AAAAAAAAPCFJAAAA Lester               Mott                           Y                     NAMIBIA              NULL         
+AAAAAAAAPEHAAAAA Kelly                Salgado                        N                     POLAND               NULL         
+<group_end>
+
+--- 83 row(s) selected.
+
+<section_end>
+<section_begin>  ds13
+
+(EXPR)               (EXPR)               (EXPR)               (EXPR)              
+-------------------- -------------------- -------------------- --------------------
+                  19              1360.77              1066.19              5330.99
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  ds19
+
+BRAND_ID    BRAND                                              I_MANUFACT_ID I_MANUFACT                                         EXT_PRICE           
+----------- -------------------------------------------------- ------------- -------------------------------------------------- --------------------
+<group_begin>
+    9016008 corpunivamalg #8                                             523 priableanti                                                    37819.68
+    2002002 importoimporto #2                                            261 oughtcallyable                                                 37791.61
+    1002001 edu packexporti #2                                           158 eingantiought                                                  34596.29
+    5004001 scholarbrand #10                                             617 anticallyese                                                   34048.58
+    5003001 amalgmaxi #12                                                163 pricallyought                                                  31778.63
+    4004002 edu packedu pack #2                                          659 n stantically                                                  31410.18
+    8011003 scholarcorp #2                                               595 oughtablepri                                                   29981.57
+    7013005 scholarnameless #6                                           423 ableableese                                                    29803.44
+    7011003 amalgimporto #2                                              218 eingoughtable                                                  29218.12
+    9011010 amalgunivamalg #10                                           219 barn st                                                        28794.71
+    9011010 amalgunivamalg #10                                           606 oughtn stpri                                                   28064.67
+    7014001 exportiamalg #2                                              512 ableoughtanti                                                  27141.46
+    1004001 amalgexporti #2                                               99 barableable                                                    26328.60
+    7004008 edu packbrand #8                                             226 callyableable                                                  26090.79
+    9005010 scholarmaxi #10                                               31 oughtpri                                                       25941.81
+    9015010 scholarunivamalg #10                                         213 prioughtable                                                   25730.83
+    1003002 exportiamalg #2                                              143 prieseought                                                    25616.25
+    7009003 importoedu pack #2                                           234 esepriable                                                     25158.79
+    3001001 importounivamalg #6                                          501 barantically                                                   24801.42
+    4003002 exportiedu pack #2                                           342 ableesepri                                                     24646.25
+    3002001 amalgscholar #2                                              116 callyoughtought                                                24262.86
+    9003002 exportimaxi #2                                               500 barbaranti                                                     24173.10
+    9015002 scholarunivamalg #2                                          862 ablecallyeing                                                  23894.86
+    6012004 importobrand #4                                              560 barcallyanti                                                   22672.80
+    3002001 importoscholar #2                                            434 esepriese                                                      22479.10
+   10007008 brandunivamalg #8                                            137 ationpriought                                                  22424.39
+    2002002 importoimporto #2                                            142 ableeseought                                                   22005.16
+   10015017 scholaramalgamalg #17                                        658 eingantically                                                  21816.13
+   10003007 exportiunivamalg #7                                          239 n stpriable                                                    21556.40
+    3003002 exportiexporti #2                                             31 oughtpri                                                       21449.97
+    3003002 exportiexporti #2                                            237 ationpriable                                                   20958.61
+   10007003 brandunivamalg #3                                            457 ationantiese                                                   20890.16
+    6008005 amalgunivamalg #10                                           291 ableantically                                                  20879.91
+    7003010 exportibrand #10                                             106 callybarought                                                  20575.93
+    7002002 importobrand #2                                              577 ationationanti                                                 20272.42
+    5003002 exportischolar #2                                            811 oughtoughteing                                                 20131.71
+    9002002 importomaxi #2                                               242 ableeseable                                                    19838.82
+    9012004 importounivamalg #4                                          388 n steseanti                                                    19811.13
+    6015006 scholarbrand #6                                               80 bareing                                                        19716.30
+    6010002 univbrand #2                                                  20 barable                                                        19607.45
+    4002002 importoedu pack #2                                           571 oughtationanti                                                 19565.98
+    5003002 exportischolar #2                                            257 ationantiable                                                  19151.03
+    4001001 edu packbrand #4                                             175 antiationought                                                 19110.13
+    2004001 importoedu pack #2                                            68 eingcally                                                      18856.60
+    8001007 importoexporti #2                                             21 n stpriese                                                     18756.57
+    7013006 exportinameless #6                                           262 ablecallyable                                                  18269.39
+    4004002 edu packedu pack #2                                          273 priationable                                                   17686.44
+    3004001 amalgnameless #6                                             660 n stbarable                                                    17518.14
+    9005011 brandnameless #6                                              72 ableation                                                      17514.48
+    1002001 edu packimporto #2                                           765 anticallyation                                                 16963.90
+    3004001 edu packamalg #2                                             146 callyeseought                                                  16954.84
+    9015009 amalgunivamalg #11                                           196 callyn stought                                                 16860.48
+    2002001 brandbrand #8                                                133 pripriought                                                    16482.29
+    2001002 amalgimporto #2                                              484 eseeingese                                                     16481.59
+    2002002 importoimporto #2                                            406 callybarese                                                    16454.85
+   10004005 edu packunivamalg #5                                         207 oughtbarpri                                                    16420.82
+    9002006 importomaxi #6                                               496 callyn stese                                                   15678.70
+    9002002 importomaxi #2                                               806 callybareing                                                   15677.11
+    5003002 exportischolar #2                                            609 n stbarcally                                                   15119.25
+    5002002 importoscholar #2                                            134 esepriought                                                    14751.58
+    6009001 importoimporto #2                                            412 ableoughtese                                                   14692.25
+    2004002 edu packimporto #2                                            89 n steing                                                       14670.42
+    5002001 corpnameless #8                                              655 antiantically                                                  14327.00
+    8003006 exportinameless #6                                           342 ableesepri                                                     13838.48
+    4002002 importoedu pack #2                                           501 oughtbaranti                                                   12563.98
+   10011004 amalgamalgamalg #4                                           577 ationationanti                                                 11866.81
+    2001002 amalgimporto #2                                              173 priantiought                                                   11843.86
+    1003002 exportiamalg #2                                              218 eingoughtable                                                  11826.72
+    8006002 corpnameless #2                                              442 ableeseese                                                     11775.53
+    2004002 edu packimporto #2                                            80 bareing                                                        11722.71
+    1002001 scholarmaxi #6                                                23 priable                                                        11538.15
+    5003001 corpamalgamalg #9                                            162 barationought                                                  11030.96
+    6008004 namelesscorp #4                                              815 antioughteing                                                  10954.66
+    5001002 amalgscholar #2                                              250 barantiable                                                    10846.98
+    9013003 exportiedu pack #2                                           112 ableoughtought                                                 10671.85
+    6011004 amalgbrand #4                                                278 eingationable                                                  10027.93
+    4001002 amalgedu pack #2                                             212 ableoughtable                                                   9992.18
+    3003002 exportiexporti #2                                            102 ablebarought                                                    9613.52
+    2004002 edu packimporto #2                                           331 oughtpripri                                                     8793.14
+    5001002 amalgscholar #2                                              248 eingeseable                                                     8654.98
+    2002002 importoimporto #2                                            475 antiationese                                                    8320.97
+    8015001 edu packbrand #2                                             280 bareingable                                                     8062.66
+    5003001 amalgnameless #10                                            270 priantieing                                                     7645.60
+    2002001 importoscholar #2                                             94 esen st                                                         7634.00
+    8013002 exportimaxi #2                                               652 ableantically                                                   7452.92
+    3003002 exportiexporti #2                                             59 n stanti                                                        7220.64
+    7005008 scholarbrand #8                                              900 ableeinganti                                                    7187.50
+   10009004 amalgnameless #10                                            464 esecallyese                                                     6960.09
+    4003002 exportiedu pack #2                                             5 anti                                                            6890.16
+   10003007 importounivamalg #8                                          306 callyese                                                        6830.60
+    6014002 edu packbrand #2                                             331 callyesecally                                                   6480.26
+    5001002 amalgscholar #2                                               26 ableantipri                                                     6245.40
+    3004002 edu packexporti #2                                           446 callyeseese                                                     6215.95
+    1004002 edu packamalg #2                                             746 callyeseation                                                   5728.59
+    2003002 exportiimporto #2                                            653 priantically                                                    5602.05
+    9016006 corpunivamalg #6                                             298 eingn stable                                                    4831.89
+   10014012 edu packamalgamalg #12                                       101 oughtbarought                                                   3822.94
+    9002003 exportibrand #8                                              610 ablen st                                                        2322.75
+<group_end>
+
+--- 98 row(s) selected.
+
+<section_end>
+<section_begin>  ds22
+
+C_LAST_NAME                    C_FIRST_NAME         SS_TICKET_NUMBER CNT                 
+------------------------------ -------------------- ---------------- --------------------
+<group_begin>
+Cameron                        Shawn                          128627                    4
+Gomes                          Edward                          43917                    4
+Henderson                      Robert                          97067                    4
+Brock                          Steve                           66712                    5
+Crawford                       Lynette                         90513                    5
+Cuevas                         Martha                         188841                    5
+Daly                           Marie                           66990                    5
+Fowler                         Margret                         43460                    5
+Griffin                        Jo                             239568                    5
+Knoll                          Harold                         109480                    5
+Lemus                          Jeffrey                         96372                    5
+Mims                           Brandi                         125765                    5
+Newton                         Michael                        113550                    5
+Richard                        Bertha                          27929                    5
+Roberts                        Francis                        151811                    5
+Santiago                       Catherine                      129592                    5
+Smith                          Matt                           173267                    5
+Stone                          Jerry                           44436                    5
+Timmons                        Gladys                         239492                    5
+Torres                         Alfreda                         81660                    5
+Welch                          Lavern                         101375                    5
+Westfall                       Eduardo                         64266                    5
+Wilson                         Douglas                         89028                    5
+Wise                           Deborah                         56483                    5
+Wood                           Jessica                         80409                    5
+NULL                           John                           226880                    5
+<group_end>
+
+--- 26 row(s) selected.
+
+<section_end>
+<section_begin>  ds25
+
+I_ITEM_ID        I_ITEM_DESC                                                                                                                      S_STORE_ID       S_STORE_NAME                                       STORE_SALES_PROFIT   STORE_RETURNS_LOSS   CATALOG_SALES_PROFIT
+---------------- -------------------------------------------------------------------------------------------------------------------------------- ---------------- -------------------------------------------------- -------------------- -------------------- --------------------
+AAAAAAAAGHMAAAAA Sympathetic, social years can give kindly public, alleged tales. Open members push scottish pictures; open, previous borders ought to travel at all basic, intellectual leaves. Alre AAAAAAAAIAAAAAAA eing                                                              -4.76                89.25              1340.28
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  ds30
+
+C_CUSTOMER_ID    C_SALUTATION C_FIRST_NAME         C_LAST_NAME                    C_PREFERRED_CUST_FLAG C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN       C_EMAIL_ADDRESS                                    C_LAST_REVIEW_DATE CTR_TOTAL_RETURN    
+---------------- ------------ -------------------- ------------------------------ --------------------- ----------- ------------- ------------ -------------------- ------------- -------------------------------------------------- ------------------ --------------------
+<group_begin>
+AAAAAAAAAIKGAAAA Miss         Vernice              Adams                          N                              16             7         1930 TURKMENISTAN         NULL          Vernice.Adams@aCbeIC4Ca5.org                       2452481                         5324.16
+AAAAAAAAAIMGAAAA Dr.          James                Hardy                          Y                               5             4         1949 MADAGASCAR           NULL          James.Hardy@mSxoL7z0c2.edu                         2452600                         4169.75
+AAAAAAAAAJAGBAAA Dr.          Nancy                Smith                          Y                              11            11         1977 LEBANON              NULL          Nancy.Smith@sFUHpULOzznKvTUq.org                   2452368                         4425.10
+AAAAAAAAAKAGAAAA Miss         Helen                Martinez                       N                              13             8         1979 WALLIS AND FUTUNA    NULL          Helen.Martinez@dh4jY.edu                           2452496                         5977.28
+AAAAAAAAAKGNAAAA Dr.          Harold               Mcintosh                       N                               6             5         1962 UNITED KINGDOM       NULL          Harold.Mcintosh@SjAGisd.org                        2452486                         1755.16
+AAAAAAAAALLBBAAA Dr.          Harvey               Watson                         Y                              18             1         1980 BAHRAIN              NULL          Harvey.Watson@tT9oIfVnJp.com                       2452374                         2305.16
+AAAAAAAAANNABAAA Miss         Gloria               Bourne                         Y                              12             7         1967 TRINIDAD AND TOBAGO  NULL          Gloria.Bourne@6f1qLJLqm6eOBNzxM.edu                2452564                         2588.74
+AAAAAAAAANNFAAAA NULL         Sharon               NULL                           Y                               3          NULL         NULL NEW CALEDONIA        NULL          NULL                                               NULL                            2560.74
+AAAAAAAABAEMAAAA Dr.          Liza                 Nickel                         Y                              18             1         1980 SWITZERLAND          NULL          Liza.Nickel@FjGOayykREr.edu                        2452306                         1754.00
+AAAAAAAABBJLAAAA Ms.          NULL                 Mcbride                        Y                              25          NULL         NULL NULL                 NULL          Alyssa.Mcbride@nz2n7.org                           2452350                         2857.95
+AAAAAAAABJOBAAAA Dr.          James                Blankenship                    N                              10            11         1990 PORTUGAL             NULL          James.Blankenship@9.edu                            2452542                         4856.88
+AAAAAAAABMKCBAAA Mr.          Thomas               Hatchett                       N                              24            10         1967 SURINAME             NULL          Thomas.Hatchett@b0RDdAY6CB2ZIykvN.org              2452453                         3486.96
+AAAAAAAABNKCBAAA Sir          Kevin                Rainey                         N                               4             9         1968 LIBERIA              NULL          Kevin.Rainey@9HLk7Zs4db.org                        2452614                         4678.20
+AAAAAAAABPHGAAAA Mrs.         Pauline              Boyer                          N                              26            12         1931 LEBANON              NULL          Pauline.Boyer@gT5E.com                             2452327                         2671.44
+AAAAAAAABPICBAAA Sir          Kenneth              Sharp                          N                              23             8         1963 SAMOA                NULL          Kenneth.Sharp@O.edu                                2452345                         1627.36
+AAAAAAAABPKPAAAA Ms.          Rhonda               Rogers                         Y                               3             2         1991 SAN MARINO           NULL          Rhonda.Rogers@1ZDabF1y97K.com                      2452640                         4563.41
+AAAAAAAACHHJAAAA Dr.          Paul                 Hamilton                       Y                               9             5         1990 BOLIVIA              NULL          Paul.Hamilton@kgkdyMKQhBb7zULrodr.org              2452300                         1783.65
+AAAAAAAACJKDBAAA Sir          James                Carrion                        N                              11             4         1963 SLOVAKIA             NULL          James.Carrion@sp6x84fNqyzgK9zHe.edu                2452540                         2916.12
+AAAAAAAACLDIAAAA Ms.          Kathy                Norman                         N                              28            10         1970 PORTUGAL             NULL          Kathy.Norman@0F1nm0fsiJdHyN.com                    2452418                         3144.96
+AAAAAAAACLFIBAAA Dr.          Dean                 Leahy                          N                               6             9         1942 VIET NAM             NULL          Dean.Leahy@zrEC9FSekrSm.edu                        2452323                         3024.00
+AAAAAAAACNMDBAAA Dr.          Ellen                Mota                           N                              26             1         1955 SIERRA LEONE         NULL          Ellen.Mota@FxPAlXt.com                             2452531                         2454.01
+AAAAAAAACPCDBAAA Mrs.         Kathy                Gilbert                        N                              24             1         1952 AFGHANISTAN          NULL          Kathy.Gilbert@uiOXpKdUURiZ4Y.org                   2452524                         1901.52
+AAAAAAAADACDBAAA Mr.          Jesse                Barnes                         Y                              11             5         1982 BARBADOS             NULL          Jesse.Barnes@TIt3.com                              2452425                         1702.58
+AAAAAAAADDMABAAA Dr.          Matthew              Butler                         N                               1             7         1980 MAURITANIA           NULL          Matthew.Butler@0YGcanKH.com                        2452402                         4734.60
+AAAAAAAADFHBAAAA Ms.          Judith               Patel                          Y                              25             9         1986 GABON                NULL          Judith.Patel@C8yc2Bc26Ls.com                       2452547                         1935.84
+AAAAAAAADFMFAAAA Sir          Dennis               Healey                         N                              30             8         1992 SOLOMON ISLANDS      NULL          Dennis.Healey@0F.edu                               2452493                         9462.88
+AAAAAAAADHIFBAAA Ms.          Donna                Clements                       N                               3             2         1980 CHINA                NULL          Donna.Clements@TVG94.edu                           2452636                         1674.00
+AAAAAAAADKCBBAAA Ms.          Cynthia              Wilson                         Y                              22             1         1986 JAPAN                NULL          Cynthia.Wilson@8rYX.org                            2452340                         4713.24
+AAAAAAAADLPNAAAA Mr.          Paul                 Torres                         Y                              25             2         1950 SIERRA LEONE         NULL          Paul.Torres@kXIfgxf9D.com                          2452489                         3443.79
+AAAAAAAADPIPAAAA Dr.          John                 Hamilton                       Y                              23             5         1958 LATVIA               NULL          John.Hamilton@fr9u97MXCRdJpBJ.com                  2452474                         1660.22
+AAAAAAAAEDAABAAA Dr.          Michael              Coppola                        N                               6             2         1961 SLOVAKIA             NULL          Michael.Coppola@kB0S4v18RJMqF.edu                  2452442                         3463.43
+AAAAAAAAEFJHBAAA Ms.          Jane                 Ayala                          Y                              13             5         1940 SURINAME             NULL          Jane.Ayala@XRKAYAHS6RCqz1M.com                     2452330                         4406.40
+AAAAAAAAEGLHBAAA Mr.          Louis                Crowley                        Y                              25            12         1928 MARSHALL ISLANDS     NULL          Louis.Crowley@IkeYRAz6F5.com                       2452337                         6578.49
+AAAAAAAAEGOCBAAA NULL         NULL                 NULL                           N                               5             8         NULL EL SALVADOR          NULL          Larry.Barker@DNuI.com                              NULL                            4048.20
+AAAAAAAAEJIGAAAA Mr.          David                Byrd                           N                               5             1         1961 MARSHALL ISLANDS     NULL          David.Byrd@CnJ9AMl4zb43p7.edu                      2452595                         3256.76
+AAAAAAAAFKFIAAAA NULL         NULL                 Kowalski                       NULL                            4             3         NULL NULL                 NULL          Mark.Kowalski@fLaulkn7ohYTs9.edu                   NULL                            7069.70
+AAAAAAAAFKOIAAAA Dr.          Jill                 Randolph                       N                              26             1         1951 BURKINA FASO         NULL          Jill.Randolph@X1zBKojHGbHvYY.com                   2452300                         3168.90
+AAAAAAAAFNDBAAAA Miss         Lillian              West                           Y                              28             3         1979 ARMENIA              NULL          Lillian.West@npqhn1hiuR.com                        2452487                         2170.20
+AAAAAAAAGAHNAAAA Sir          Thomas               Wade                           Y                               3             6         1955 QATAR                NULL          Thomas.Wade@1BQf.com                               2452440                         2008.72
+AAAAAAAAGAIKAAAA Mrs.         Juliann              Knutson                        N                              17            12         1958 SWITZERLAND          NULL          Juliann.Knutson@2Z6dHGfkff.com                     2452481                         1578.07
+AAAAAAAAGBAPAAAA Dr.          Brian                Oden                           Y                              13             7         1951 WESTERN SAHARA       NULL          Brian.Oden@GEtDRGBxaoShsZhCagK.edu                 2452386                         2016.80
+AAAAAAAAGDNDAAAA Mrs.         Erika                Hawkins                        Y                              22             8         1929 INDONESIA            NULL          Erika.Hawkins@xEOyD35XM.com                        2452410                         3785.66
+AAAAAAAAGFAHBAAA Dr.          Casey                Schulte                        N                               4             2         1979 FRENCH POLYNESIA     NULL          Casey.Schulte@YLIb6M2r8vq.com                      2452587                         2179.57
+AAAAAAAAGFPGBAAA Dr.          James                Cruz                           N                               5             9         1958 C?TE D'IVOIRE        NULL          James.Cruz@Cvft5Uo8.org                            2452633                         3130.38
+AAAAAAAAGJOHBAAA Mrs.         Cindy                Jernigan                       Y                              18             1         1946 NAMIBIA              NULL          Cindy.Jernigan@vF7TADkC.com                        2452465                         1795.00
+AAAAAAAAGKFCAAAA Sir          Ralph                Barr                           Y                              16             7         1972 DOMINICA             NULL          Ralph.Barr@pB1GEur1QS.org                          2452293                         2701.04
+AAAAAAAAGMHPAAAA Dr.          Freddie              Hutchens                       Y                              29            10         1943 ZAMBIA               NULL          Freddie.Hutchens@jb96BCEOlGMI9e.edu                2452608                         4592.07
+AAAAAAAAGPHAAAAA Dr.          Robert               Mills                          Y                              13            12         1950 SPAIN                NULL          Robert.Mills@Aeo.edu                               2452407                         3967.95
+AAAAAAAAHADEBAAA NULL         NULL                 NULL                           NULL                         NULL             9         1931 NULL                 NULL          Brittney.Bauer@tSL3lCDvLMK9MpB.org                 2452289                         6699.00
+AAAAAAAAHBKCBAAA Dr.          Steven               Kline                          Y                              20             9         1973 AZERBAIJAN           NULL          Steven.Kline@eIn7xGoVP8I.com                       2452595                         2408.34
+AAAAAAAAHDIIAAAA Miss         Andre                Faulkner                       N                              24            12         1926 DJIBOUTI             NULL          Andre.Faulkner@5VXVvTXfFJr.com                     2452350                         3482.25
+AAAAAAAAHDLMAAAA Mr.          Mitchell             Lowman                         Y                              21             2         1984 GREECE               NULL          Mitchell.Lowman@djmyK.org                          2452579                         2218.00
+AAAAAAAAHMKOAAAA Sir          Elmer                Moore                          N                               5             6         1944 BERMUDA              NULL          Elmer.Moore@kuIK1rH.edu                            2452552                         5908.10
+AAAAAAAAHMMABAAA Mr.          Michael              Wright                         Y                              16             5         1945 FINLAND              NULL          Michael.Wright@go1nFhlQJp.com                      2452416                         1689.38
+AAAAAAAAIAKEBAAA Sir          Lewis                Robertson                      N                              28            10         1980 HONG KONG            NULL          Lewis.Robertson@zZ.org                             2452630                         3391.74
+AAAAAAAAIGEMAAAA Dr.          Lester               Carpenter                      N                              13            12         1933 NIGER                NULL          Lester.Carpenter@Oe3Sa3dC7X2ot.com                 2452611                         2845.92
+AAAAAAAAIICJAAAA NULL         NULL                 NULL                           NULL                         NULL          NULL         1944 NULL                 NULL          NULL                                               2452553                         2866.75
+AAAAAAAAIJIEAAAA Dr.          Sally                Jenkins                        N                               5             8         1977 BELGIUM              NULL          Sally.Jenkins@TIgfbvxv1JZ6PlkoCEd.com              2452531                         4275.24
+AAAAAAAAIMACAAAA NULL         NULL                 Sibley                         NULL                         NULL            11         1957 NULL                 NULL          NULL                                               2452563                         1603.36
+AAAAAAAAINCBAAAA Dr.          Larry                NULL                           NULL                         NULL             1         1968 NULL                 NULL          NULL                                               NULL                            1752.18
+AAAAAAAAJANHBAAA Dr.          Lillie               Richardson                     N                              26            11         1973 ANGOLA               NULL          Lillie.Richardson@PnbSeoxaba6.org                  2452295                         2531.52
+AAAAAAAAJCPOAAAA Ms.          Cheryl               Rose                           Y                              29             8         1980 FINLAND              NULL          Cheryl.Rose@EKm5Q.com                              2452323                         8871.76
+AAAAAAAAJDHEAAAA Dr.          Xavier               Jackson                        Y                              25             1         1930 ALAND ISLANDS        NULL          Xavier.Jackson@Xa5p1TbE.edu                        2452383                         2678.67
+AAAAAAAAJEJPAAAA Dr.          Lori                 Taylor                         N                              17            12         1954 GUADELOUPE           NULL          Lori.Taylor@d0D7dO0p0DCm.edu                       2452503                         1767.84
+AAAAAAAAJFNOAAAA Sir          Bob                  Roybal                         N                               8             9         1964 VIET NAM             NULL          Bob.Roybal@Z.com                                   2452516                         7093.84
+AAAAAAAAJINCAAAA Ms.          Rose                 Chappell                       Y                               3            11         1988 PALAU                NULL          Rose.Chappell@TuYbjRlCi.org                        2452645                         2223.84
+AAAAAAAAJJMBBAAA Ms.          Marguerite           Jennings                       Y                              31             7         1965 SWEDEN               NULL          Marguerite.Jennings@8f6tnv.edu                     2452375                         4032.76
+AAAAAAAAJLGNAAAA Dr.          Forrest              Anaya                          N                              16             8         1931 GHANA                NULL          Forrest.Anaya@FNmrSXhj8V54M9tq.com                 2452523                         2193.48
+AAAAAAAAJOCLAAAA Mr.          Alan                 Austin                         Y                              10             4         1950 ALAND ISLANDS        NULL          Alan.Austin@EPELpfxQ.com                           2452379                         2095.68
+AAAAAAAAJOKFBAAA Miss         Marilee              Smith                          Y                               9             1         1965 SOUTH AFRICA         NULL          Marilee.Smith@pMBuSfMqT3LJI8p.org                  2452515                         2147.88
+AAAAAAAAKCGABAAA Miss         Katherine            Nichols                        Y                              18             7         1950 PAKISTAN             NULL          Katherine.Nichols@dp5Y1AiBa.com                    2452503                         1552.00
+AAAAAAAAKDCDBAAA Dr.          Gerald               Waddell                        N                               3             4         1926 BHUTAN               NULL          Gerald.Waddell@dfsutoc2aETx.org                    2452622                         1558.48
+AAAAAAAAKDNGBAAA Dr.          Elaine               Willis                         N                              29             1         1943 CAMEROON             NULL          Elaine.Willis@3KJiFG1.com                          2452589                         3196.80
+AAAAAAAAKDPFBAAA Ms.          Carolyn              Ayres                          Y                               6            10         1955 SINGAPORE            NULL          Carolyn.Ayres@nrUOA6gxyvh1JXVi.edu                 2452487                         1738.80
+AAAAAAAAKEIOAAAA Mrs.         Beverly              Mitchell                       Y                               7             9         1940 GERMANY              NULL          Beverly.Mitchell@eoSY18khJue.com                   2452341                         2805.44
+AAAAAAAAKLKFBAAA Dr.          Genevieve            Ritchey                        N                              22             2         1985 GIBRALTAR            NULL          Genevieve.Ritchey@HKHDTHUpH0IgDS.com               2452426                         4318.08
+AAAAAAAAKMEEAAAA Ms.          Susan                Mendoza                        Y                              15             9         1992 BELIZE               NULL          Susan.Mendoza@oIliJjya.edu                         2452619                        11259.32
+AAAAAAAAKNBPAAAA Sir          Charlie              Waugh                          Y                              25             2         1961 MONGOLIA             NULL          Charlie.Waugh@TLYme.edu                            2452520                         2031.84
+AAAAAAAAKOIEAAAA Sir          Numbers              Williams                       N                              11             9         1943 MARTINIQUE           NULL          Numbers.Williams@YGXDBeRKgRul.org                  2452643                         5157.20
+AAAAAAAALFMFBAAA Mrs.         Aaron                Lewis                          Y                              11             4         1972 HONG KONG            NULL          Aaron.Lewis@98348LetnQ.com                         2452298                         4001.92
+AAAAAAAALGGIAAAA Sir          Robert               Torres                         Y                              17            10         1972 UNITED STATES        NULL          Robert.Torres@42p6UsutVa4qOFGBBY.edu               2452646                         3852.38
+AAAAAAAALGOFBAAA Sir          Joel                 Wolf                           N                              17            12         1929 ZAMBIA               NULL          Joel.Wolf@PDB58naizh1a1.edu                        2452520                         3317.72
+AAAAAAAALJHFAAAA Dr.          Peggy                Moore                          Y                               2            11         1948 BAHAMAS              NULL          Peggy.Moore@Dy0.edu                                2452470                         5572.00
+AAAAAAAALMBFAAAA Dr.          Patrick              Schmidt                        Y                               9             5         1976 EGYPT                NULL          Patrick.Schmidt@joJFh8AjQ.org                      2452534                         2385.54
+AAAAAAAALNENAAAA Sir          Ian                  Ramsey                         Y                               1             5         1938 BELIZE               NULL          Ian.Ramsey@EhhzLPvmoKF.org                         2452410                         3742.50
+AAAAAAAALNPHBAAA Sir          Eduardo              Staton                         Y                               5            10         1955 SWEDEN               NULL          Eduardo.Staton@vD1gA4ahy.org                       2452372                         4125.51
+AAAAAAAAMCMMAAAA Dr.          Hellen               Olson                          N                              26             2         1989 JAPAN                NULL          Hellen.Olson@FQxlIxBGYAi.edu                       2452369                         2381.50
+AAAAAAAAMDAGBAAA Sir          Richard              Wilkins                        Y                               2            11         1980 NAMIBIA              NULL          Richard.Wilkins@7qsmj.edu                          2452621                         1967.49
+AAAAAAAAMENFBAAA Mrs.         Linda                Nguyen                         N                              24             1         1987 LESOTHO              NULL          Linda.Nguyen@7p9Cxg.edu                            2452533                         2819.16
+AAAAAAAAMJCKAAAA Mr.          Roger                Wilson                         Y                              31             3         1940 CAPE VERDE           NULL          Roger.Wilson@ZGx.edu                               2452502                         1793.94
+AAAAAAAAMLAHBAAA Mr.          Joseph               Douglas                        Y                               6             9         1983 CROATIA              NULL          Joseph.Douglas@KOBUJE8IrbFn.org                    2452623                         3680.68
+AAAAAAAAMONDBAAA Dr.          Marcia               Thomas                         Y                              25             5         1940 GIBRALTAR            NULL          Marcia.Thomas@H8MHRER6j.org                        2452329                         3853.18
+AAAAAAAANBOFAAAA Sir          Miguel               Williams                       N                               8             2         1926 UNITED ARAB EMIRATES NULL          Miguel.Williams@m98dM.com                          2452633                         2385.00
+AAAAAAAANBPAAAAA Mr.          Bobby                Palmer                         Y                               1             1         1960 AMERICAN SAMOA       NULL          Bobby.Palmer@sYTqtixfNS9QcRb9g.edu                 2452489                         2706.12
+AAAAAAAANCKFBAAA Dr.          Louise               Mcintosh                       Y                              15             8         1965 PUERTO RICO          NULL          Louise.Mcintosh@AFz5Qh8sdUA.edu                    2452287                         2503.80
+AAAAAAAANDPLAAAA Mr.          Keith                Bryant                         Y                              25             2         1962 SOUTH AFRICA         NULL          Keith.Bryant@654O.org                              2452405                         4551.36
+AAAAAAAANHBGAAAA Mrs.         Celia                Bell                           Y                              11             5         1977 ROMANIA              NULL          Celia.Bell@UvU1hUZFv1.org                          2452395                         8697.78
+AAAAAAAANLBGBAAA Mr.          Garry                French                         N                              24             9         1973 TRINIDAD AND TOBAGO  NULL          Garry.French@2eHZoBx0u.edu                         2452616                         2141.11
+AAAAAAAANMGPAAAA Dr.          Elvin                Dawson                         N                              30             7         1934 ZIMBABWE             NULL          Elvin.Dawson@vm9.com                               2452595                         3233.92
+AAAAAAAANNDBAAAA Mrs.         Tammy                Johnson                        Y                              13             5         1977 TIMOR-LESTE          NULL          Tammy.Johnson@P7LTFO9elLuRfn.edu                   2452529                         1775.48
+AAAAAAAAOCGPAAAA Mrs.         Alisa                Hayes                          N                              10             4         1931 TOGO                 NULL          Alisa.Hayes@4MsuAHCy1XpDQ.com                      2452632                         4688.06
+AAAAAAAAOJNPAAAA Miss         Casandra             Delacruz                       N                               5             1         1968 ARMENIA              NULL          Casandra.Delacruz@xAQ2.org                         2452439                         1863.45
+AAAAAAAAONLNAAAA Miss         Jennifer             Ridley                         N                               3             4         1960 KENYA                NULL          Jennifer.Ridley@ayhud3GbuqQBi.org                  2452285                         4899.96
+AAAAAAAAONLPAAAA Mrs.         Edith                Wilson                         N                              28             2         1933 ANTIGUA AND BARBUDA  NULL          Edith.Wilson@Lq.edu                                2452644                         2721.55
+AAAAAAAAPDFGAAAA Mr.          Donald               Greenwood                      Y                              27             4         1973 PUERTO RICO          NULL          Donald.Greenwood@DuszPRrBqJ.edu                    2452286                         7584.66
+AAAAAAAAPKNLAAAA Dr.          Michael              Hills                          Y                              11             8         1965 SWAZILAND            NULL          Michael.Hills@JuvrdQ560l0uK.org                    2452395                         6105.00
+AAAAAAAAPLLAAAAA Mr.          Peter                Taylor                         Y                              26            12         1924 JORDAN               NULL          Peter.Taylor@hkPIULTn4Y2oP5.edu                    2452485                         2572.17
+AAAAAAAAPLPIAAAA Mrs.         Gloria               Orozco                         Y                              14             3         1953 TOKELAU              NULL          Gloria.Orozco@ECfjxRJBpHShf.org                    2452477                         6468.00
+AAAAAAAAPMGMAAAA Mrs.         Joyce                Johnson                        Y                              22             4         1925 SURINAME             NULL          Joyce.Johnson@b.org                                2452451                         2780.70
+<group_end>
+
+--- 109 row(s) selected.
+
+<section_end>
+<section_begin>  ds31
+
+CA_COUNTY                      D_YEAR      WEB_Q1_Q2_INCREASE   STORE_Q1_Q2_INCREASE WEB_Q2_Q3_INCREASE   STORE_Q2_Q3_INCREASE
+------------------------------ ----------- -------------------- -------------------- -------------------- --------------------
+<group_begin>
+Accomack County                       2000                    2                    1                    2                    2
+Bath County                           2000                    3                    0                    2                    2
+Beltrami County                       2000                    1                    1                    0                    0
+Clearwater County                     2000                    0                    0                    5                    2
+Columbia County                       2000                    1                    0                    3                    1
+Cook County                           2000                    0                    0                    7                    4
+Coos County                           2000                    1                    0                    2                    1
+Cumberland County                     2000                    1                    0                    1                    1
+Denver County                         2000                    0                    0                    2                    1
+Floyd County                          2000                    1                    0                    4                    1
+Franklin County                       2000                    1                    0                    2                    1
+Grand Forks County                    2000                    0                    0                    0                    0
+Halifax County                        2000                    1                    0                    2                    1
+Hall County                           2000                    6                    0                    1                    1
+Hancock County                        2000                    1                    1                    2                    1
+Harlan County                         2000                    3                    1                    2                    0
+Henry County                          2000                    2                    0                    2                    2
+Independence County                   2000                    2                    2                    0                    0
+Jefferson County                      2000                    1                    1                    2                    1
+Johnson County                        2000                    0                    0                    2                    2
+Kootenai County                       2000                    3                    1                    2                    1
+Lake County                           2000                    0                    0                    2                    1
+Lancaster County                      2000                    1                    1                    2                    1
+Langlade County                       2000                    1                    1                    0                    0
+Lowndes County                        2000                    2                    0                    2                    1
+Madison County                        2000                    0                    0                    2                    1
+Magoffin County                       2000                    1                    1                    1                    0
+Miller County                         2000                    3                    0                    1                    1
+Morrison County                       2000                    0                    0                    1                    0
+Musselshell County                    2000                    2                    1                    1                    0
+Orange County                         2000                    1                    0                    3                    2
+Ottawa County                         2000                    1                    1                    1                    0
+Page County                           2000                    1                    0                    0                    0
+Phillips County                       2000                    0                    0                    2                    1
+Ringgold County                       2000                    0                    0                    1                    1
+Roseau County                         2000                    1                    1                    2                    1
+San Augustine County                  2000                    3                    1                    1                    0
+San Juan County                       2000                    0                    0                    4                    4
+Sherman County                        2000                    1                    0                    2                    2
+Sioux County                          2000                    2                    1                    6                    3
+Stone County                          2000                    1                    0                    9                    0
+Sutton County                         2000                    0                    0                    4                    0
+Thomas County                         2000                    1                    0                    2                    1
+Union County                          2000                    1                    0                    3                    3
+Wayne County                          2000                    0                    0                    4                    2
+Yellow Medicine County                2000                    2                    0                    0                    0
+Zavala County                         2000                    1                    0                    3                    2
+<group_end>
+
+--- 47 row(s) selected.
+
+<section_end>
+<section_begin>  ds73
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATION C_PREFERRED_CUST_FLAG SS_TICKET_NUMBER CNT                 
+------------------------------ -------------------- ------------ --------------------- ---------------- --------------------
+<group_begin>
+Richard                        Bertha               Miss         Y                                27929                    5
+Fowler                         Margret              Mrs.         N                                43460                    5
+Wood                           Jessica              Dr.          N                                80409                    5
+Torres                         Alfreda              Miss         Y                                81660                    5
+Griffin                        Jo                   Mrs.         Y                               239568                    5
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  ds74
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME            
+---------------- -------------------- ------------------------------
+<group_begin>
+AAAAAAAAAANDAAAA Angel                Campbell                      
+AAAAAAAAACJIAAAA Deborah              Mason                         
+AAAAAAAAAHHHBAAA Jeremy               Travis                        
+AAAAAAAAAHPAAAAA Joseph               Novak                         
+AAAAAAAAAJDBBAAA Ronald               Davis                         
+AAAAAAAAAJKFBAAA John                 Morley                        
+AAAAAAAAAKKIAAAA Thomas               Eldridge                      
+AAAAAAAAALNABAAA Iris                 Carney                        
+AAAAAAAAAMHCBAAA Ruben                Dunn                          
+AAAAAAAABFGAAAAA Thomas               Bradford                      
+AAAAAAAABGFJAAAA Joanna               Matheny                       
+AAAAAAAABGONAAAA Sam                  Driver                        
+AAAAAAAABNLCBAAA Horacio              Phillips                      
+AAAAAAAABODFBAAA Betty                Phillips                      
+AAAAAAAABOKEBAAA Rebecca              Smith                         
+AAAAAAAABPLEBAAA George               Enos                          
+AAAAAAAACACPAAAA Rachael              Hill                          
+AAAAAAAACAMEAAAA Lee                  Edwards                       
+AAAAAAAACDOAAAAA Anna                 Braun                         
+AAAAAAAACEAOAAAA Aletha               Mcdonnell                     
+AAAAAAAACNKDBAAA Joe                  Mccaffrey                     
+AAAAAAAADFLFAAAA Rita                 Delong                        
+AAAAAAAADFNCBAAA Tammy                Henry                         
+AAAAAAAADJKEAAAA Cathy                Mcdonald                      
+AAAAAAAADKOBBAAA Lyle                 Madigan                       
+AAAAAAAADMBNAAAA Joyce                Blunt                         
+AAAAAAAADOJLAAAA Susie                Holguin                       
+AAAAAAAAEFEABAAA Gregory              Faber                         
+AAAAAAAAEIHGAAAA Edward               Fournier                      
+AAAAAAAAEIPABAAA Pamela               Mcneil                        
+AAAAAAAAEMMBAAAA Scott                Ziegler                       
+AAAAAAAAEPCEBAAA Robert               Bowen                         
+AAAAAAAAFEBJAAAA Fay                  Mendez                        
+AAAAAAAAFIMMAAAA Eugene               Gold                          
+AAAAAAAAFJHKAAAA Martha               Madrid                        
+AAAAAAAAFKJEAAAA Steven               Price                         
+AAAAAAAAFMENAAAA Aubrey               Bryant                        
+AAAAAAAAGBIBAAAA Michelle             Ibarra                        
+AAAAAAAAGDIDBAAA Barbara              Taylor                        
+AAAAAAAAGGELAAAA Phyllis              Peachey                       
+AAAAAAAAGIJABAAA Crystal              Hundley                       
+AAAAAAAAGJKJAAAA Rosalyn              Manning                       
+AAAAAAAAGKDGAAAA David                Smith                         
+AAAAAAAAGKMOAAAA Patrick              Garza                         
+AAAAAAAAGLJHBAAA William              James                         
+AAAAAAAAGOALAAAA Rosemarie            Garber                        
+AAAAAAAAGPOHBAAA Brian                Ford                          
+AAAAAAAAHAPABAAA Kenneth              Davis                         
+AAAAAAAAHEJFAAAA Nicole               Simon                         
+AAAAAAAAHJDCAAAA Douglas              Thacker                       
+AAAAAAAAHLKBAAAA Claudia              Holmes                        
+AAAAAAAAHMEBBAAA Franklin             Thiel                         
+AAAAAAAAHNAFBAAA Linda                Sanford                       
+AAAAAAAAHPPEAAAA Michelle             Morris                        
+AAAAAAAAIALEBAAA NULL                 Finley                        
+AAAAAAAAIEMBAAAA Micheal              Colon                         
+AAAAAAAAIJCMAAAA Jeanette             Sibley                        
+AAAAAAAAILECBAAA Rebecca              Bowling                       
+AAAAAAAAJDJCBAAA Stephanie            Mcgowan                       
+AAAAAAAAJFFMAAAA Angela               Rudd                          
+AAAAAAAAJLJEBAAA Roy                  Miller                        
+AAAAAAAAJNJEBAAA Frank                Benton                        
+AAAAAAAAKAOBBAAA James                Nichols                       
+AAAAAAAAKECJAAAA Stephanie            Lowery                        
+AAAAAAAAKGDEAAAA Ted                  Jones                         
+AAAAAAAAKIPGAAAA NULL                 Knight                        
+AAAAAAAAKJLOAAAA Joseph               Skinner                       
+AAAAAAAAKMNMAAAA Katherine            Kim                           
+AAAAAAAAKPCBAAAA Alice                Kuhn                          
+AAAAAAAALAILAAAA James                Ellsworth                     
+AAAAAAAALHCIAAAA Margaret             Mills                         
+AAAAAAAALODEBAAA Curtis               Leblanc                       
+AAAAAAAALOJFAAAA Donald               Taylor                        
+AAAAAAAALPKHBAAA Robert               Maddox                        
+AAAAAAAAMDNKAAAA Letha                Small                         
+AAAAAAAAMFHABAAA Maurine              Carr                          
+AAAAAAAAMKHFAAAA Paul                 Lewis                         
+AAAAAAAANEOFAAAA Monte                Allen                         
+AAAAAAAANHBEAAAA Burton               Fields                        
+AAAAAAAANHOOAAAA Tatiana              Irizarry                      
+AAAAAAAANIIHBAAA Trent                Kennedy                       
+AAAAAAAAOBFHBAAA David                Pate                          
+AAAAAAAAOLIGBAAA Dustin               Anderson                      
+AAAAAAAAOMHKAAAA Joann                Yates                         
+AAAAAAAAOMOEAAAA Donna                Carl                          
+AAAAAAAAPCCEAAAA Arthur               Trevino                       
+AAAAAAAAPCFJAAAA Lester               Mott                          
+AAAAAAAAPEHAAAAA Kelly                Salgado                       
+AAAAAAAAPOOBAAAA Erma                 NULL                          
+<group_end>
+
+--- 89 row(s) selected.
+
+<section_end>
+<section_begin>  ds75
+
+I_ITEM_ID        I_ITEM_DESC                                                                                                                      I_CURRENT_PRICE
+---------------- -------------------------------------------------------------------------------------------------------------------------------- ---------------
+<group_begin>
+AAAAAAAACDNBAAAA Strings may not know still other, junior actions. Profits ensure never with the illustrations; negotiations                                51.99
+AAAAAAAACOKDAAAA Leading, remaining changes shall not know previously urban years. General places could not see settings; eyes keep; economic patients include later i           45.43
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  ds84
+
+CUSTOMER_ID      CUSTOMERNAME                                        
+---------------- ----------------------------------------------------
+<group_begin>
+AAAAAAAAAELHBAAA Pacheco                       , Andrew              
+AAAAAAAAAFCMAAAA Rivera                        , Patrick             
+AAAAAAAABDHIAAAA Clayton                       , Harriet             
+AAAAAAAABHNFBAAA Mora                          , Marcia              
+AAAAAAAACADHBAAA Seay                          , Michael             
+AAAAAAAACEINAAAA Whiteside                     , Mollie              
+AAAAAAAAEOPGAAAA Garcia                        , Michael             
+AAAAAAAAFFLPAAAA Martino                       , David               
+AAAAAAAAGAPPAAAA Brewer                        , Jacquelyn           
+AAAAAAAAHBHMAAAA Smithson                      , Mark                
+AAAAAAAAKAKDBAAA Russell                       , Zachary             
+AAAAAAAAKHHHAAAA Garcia                        , Joe                 
+AAAAAAAAMGJBBAAA Howard                        , Teresa              
+AAAAAAAAPGJHBAAA Ricci                         , Mariano             
+AAAAAAAAPLIIAAAA Poole                         , Robert              
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  ds85
+
+(EXPR)               (EXPR)               (EXPR)               (EXPR)              
+-------------------- -------------------- -------------------- --------------------
+<group_begin>
+Package was damaged                     4                 3.58                12.09
+it is a girl                            2               128.22                 4.67
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  ds88
+
+H8_30_TO_9           H9_TO_9_30           H9_30_TO_10          H10_TO_10_30         H10_30_TO_11         H11_TO_11_30         H11_30_TO_12         H12_TO_12_30        
+-------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+                2285                 4438                 4806                 6440                 6335                 4179                 3644                 3986
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  ds90
+
+AM_PM_RATIO
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  ds93
+
+Excess Discount Amount
+----------------------
+              10280.54
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  ds96
+
+(EXPR)
+--------------------
+                 839
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  ds97
+
+PROMOTIONS           TOTAL                (EXPR)              
+-------------------- -------------------- --------------------
+                 400                  616                   64
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  ds99
+
+(EXPR)               SM_TYPE                        CC_NAME                                            30 days              31-60 days           61-90 days           91-120 days          >120 days           
+-------------------- ------------------------------ -------------------------------------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+<group_begin>
+Available, final     EXPRESS                        Mid Atlantic                                                       1224                 1344                 1252                    0                    0
+Available, final     EXPRESS                        NY Metro                                                           1224                 1278                 1251                    0                    0
+Available, final     EXPRESS                        North Midwest                                                      1310                 1310                 1308                    0                    0
+Available, final     LIBRARY                        Mid Atlantic                                                        911                  936                  965                    0                    0
+Available, final     LIBRARY                        NY Metro                                                            926                  970                  942                    0                    0
+Available, final     LIBRARY                        North Midwest                                                       902                  951                  946                    0                    0
+Available, final     NEXT DAY                       Mid Atlantic                                                       1218                 1237                 1313                    0                    0
+Available, final     NEXT DAY                       NY Metro                                                           1180                 1285                 1245                    0                    0
+Available, final     NEXT DAY                       North Midwest                                                      1274                 1324                 1335                    0                    0
+Available, final     OVERNIGHT                      Mid Atlantic                                                        894                  964                  996                    0                    0
+Available, final     OVERNIGHT                      NY Metro                                                            913                  969                 1026                    0                    0
+Available, final     OVERNIGHT                      North Midwest                                                       940                  959                  947                    0                    0
+Available, final     REGULAR                        Mid Atlantic                                                        948                  946                  969                    0                    0
+Available, final     REGULAR                        NY Metro                                                            896                  931                  992                    0                    0
+Available, final     REGULAR                        North Midwest                                                       939                  965                  937                    0                    0
+Available, final     TWO DAY                        Mid Atlantic                                                        861                 1020                  998                    0                    0
+Available, final     TWO DAY                        NY Metro                                                            903                  944                 1008                    0                    0
+Available, final     TWO DAY                        North Midwest                                                       918                  931                  959                    0                    0
+Circumstanc          EXPRESS                        Mid Atlantic                                                       1188                 1283                 1270                    0                    0
+Circumstanc          EXPRESS                        NY Metro                                                           1227                 1289                 1312                    0                    0
+Circumstanc          EXPRESS                        North Midwest                                                      1232                 1238                 1301                    0                    0
+Circumstanc          LIBRARY                        Mid Atlantic                                                        976                  979                  964                    0                    0
+Circumstanc          LIBRARY                        NY Metro                                                            932                  941                  979                    0                    0
+Circumstanc          LIBRARY                        North Midwest                                                       903                  991                  966                    0                    0
+Circumstanc          NEXT DAY                       Mid Atlantic                                                       1265                 1238                 1255                    0                    0
+Circumstanc          NEXT DAY                       NY Metro                                                           1260                 1207                 1225                    0                    0
+Circumstanc          NEXT DAY                       North Midwest                                                      1308                 1339                 1329                    0                    0
+Circumstanc          OVERNIGHT                      Mid Atlantic                                                        904                  955                  992                    0                    0
+Circumstanc          OVERNIGHT                      NY Metro                                                            940                  986                  932                    0                    0
+Circumstanc          OVERNIGHT                      North Midwest                                                       927                  968                  921                    0                    0
+Circumstanc          REGULAR                        Mid Atlantic                                                        958                  932                  967                    0                    0
+Circumstanc          REGULAR                        NY Metro                                                            941                  987                  954                    0                    0
+Circumstanc          REGULAR                        North Midwest                                                       943                  984                  966                    0                    0
+Circumstanc          TWO DAY                        Mid Atlantic                                                        930                  963                  887                    0                    0
+Circumstanc          TWO DAY                        NY Metro                                                            903                  918                  973                    0                    0
+Circumstanc          TWO DAY                        North Midwest                                                       953                  905                  977                    0                    0
+Groups could         EXPRESS                        Mid Atlantic                                                       1244                 1329                 1305                    0                    0
+Groups could         EXPRESS                        NY Metro                                                           1153                 1310                 1272                    0                    0
+Groups could         EXPRESS                        North Midwest                                                      1253                 1255                 1290                    0                    0
+Groups could         LIBRARY                        Mid Atlantic                                                       1013                  993                  969                    0                    0
+Groups could         LIBRARY                        NY Metro                                                            947                  920                  982                    0                    0
+Groups could         LIBRARY                        North Midwest                                                       956                 1004                  967                    0                    0
+Groups could         NEXT DAY                       Mid Atlantic                                                       1280                 1255                 1240                    0                    0
+Groups could         NEXT DAY                       NY Metro                                                           1266                 1308                 1301                    0                    0
+Groups could         NEXT DAY                       North Midwest                                                      1265                 1289                 1303                    0                    0
+Groups could         OVERNIGHT                      Mid Atlantic                                                        961                  941                  982                    0                    0
+Groups could         OVERNIGHT                      NY Metro                                                            921                  926                  873                    0                    0
+Groups could         OVERNIGHT                      North Midwest                                                      1033                  954                  915                    0                    0
+Groups could         REGULAR                        Mid Atlantic                                                        929                  920                  936                    0                    0
+Groups could         REGULAR                        NY Metro                                                            908                  946                  949                    0                    0
+Groups could         REGULAR                        North Midwest                                                       888                  949                  964                    0                    0
+Groups could         TWO DAY                        Mid Atlantic                                                        926                  935                  842                    0                    0
+Groups could         TWO DAY                        NY Metro                                                            921                  988                 1003                    0                    0
+Groups could         TWO DAY                        North Midwest                                                       989                  958                  976                    0                    0
+Parents seem a bit   EXPRESS                        Mid Atlantic                                                       1258                 1268                 1286                    0                    0
+Parents seem a bit   EXPRESS                        NY Metro                                                           1211                 1226                 1340                    0                    0
+Parents seem a bit   EXPRESS                        North Midwest                                                      1243                 1264                 1279                    0                    0
+Parents seem a bit   LIBRARY                        Mid Atlantic                                                        874                  902                  918                    0                    0
+Parents seem a bit   LIBRARY                        NY Metro                                                            897                  916                 1042                    0                    0
+Parents seem a bit   LIBRARY                        North Midwest                                                       943                  976                  918                    0                    0
+Parents seem a bit   NEXT DAY                       Mid Atlantic                                                       1254                 1189                 1271                    0                    0
+Parents seem a bit   NEXT DAY                       NY Metro                                                           1186                 1197                 1247                    0                    0
+Parents seem a bit   NEXT DAY                       North Midwest                                                      1274                 1350                 1239                    0                    0
+Parents seem a bit   OVERNIGHT                      Mid Atlantic                                                        944                  959                 1030                    0                    0
+Parents seem a bit   OVERNIGHT                      NY Metro                                                            909                  920                  948                    0                    0
+Parents seem a bit   OVERNIGHT                      North Midwest                                                       934                  912                  966                    0                    0
+Parents seem a bit   REGULAR                        Mid Atlantic                                                        910                  955                  909                    0                    0
+Parents seem a bit   REGULAR                        NY Metro                                                            962                 1004                 1006                    0                    0
+Parents seem a bit   REGULAR                        North Midwest                                                       937                 1015                  938                    0                    0
+Parents seem a bit   TWO DAY                        Mid Atlantic                                                        906                  941                  954                    0                    0
+Parents seem a bit   TWO DAY                        NY Metro                                                            937                  977                  957                    0                    0
+Parents seem a bit   TWO DAY                        North Midwest                                                       948                  931                 1024                    0                    0
+Together slim        EXPRESS                        Mid Atlantic                                                       1229                 1238                 1260                    0                    0
+Together slim        EXPRESS                        NY Metro                                                           1190                 1209                 1264                    0                    0
+Together slim        EXPRESS                        North Midwest                                                      1228                 1279                 1286                    0                    0
+Together slim        LIBRARY                        Mid Atlantic                                                        922                  981                  958                    0                    0
+Together slim        LIBRARY                        NY Metro                                                            940                  929                  970                    0                    0
+Together slim        LIBRARY                        North Midwest                                                       933                  939                  989                    0                    0
+Together slim        NEXT DAY                       Mid Atlantic                                                       1320                 1209                 1306                    0                    0
+Together slim        NEXT DAY                       NY Metro                                                           1249                 1306                 1300                    0                    0
+Together slim        NEXT DAY                       North Midwest                                                      1214                 1275                 1289                    0                    0
+Together slim        OVERNIGHT                      Mid Atlantic                                                        939                  956                  964                    0                    0
+Together slim        OVERNIGHT                      NY Metro                                                            940                  904                  974                    0                    0
+Together slim        OVERNIGHT                      North Midwest                                                       912                  991                  958                    0                    0
+Together slim        REGULAR                        Mid Atlantic                                                        928                  959                  972                    0                    0
+Together slim        REGULAR                        NY Metro                                                            975                  931                  948                    0                    0
+Together slim        REGULAR                        North Midwest                                                       965                  910                  933                    0                    0
+Together slim        TWO DAY                        Mid Atlantic                                                        891                  993                  933                    0                    0
+Together slim        TWO DAY                        NY Metro                                                            904                  981                  951                    0                    0
+Together slim        TWO DAY                        North Midwest                                                       899                  966                  947                    0                    0
+<group_end>
+
+--- 90 row(s) selected.
+
+<section_end>

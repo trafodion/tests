@@ -1,0 +1,5 @@
+1. This driectory contains java source files and a build script to build JAR files for SPJ tests.
+
+2. Run buildspj.sh, it will build the JAR files and save them in this directory.
+
+3. Copy the JAR files to a directory on every node of your cluster.

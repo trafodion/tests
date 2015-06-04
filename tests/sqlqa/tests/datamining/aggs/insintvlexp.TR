@@ -1,0 +1,54 @@
+<section_begin>  insintvla
+
+COUNTSTAR
+--------------------
+                 100
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insintvlb
+
+SUMYEAR             AVGYEAR             MAXYEAR MINYEAR
+------------------- ------------------- ------- -------
+              4334                  45  99      -79    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insintvlc
+
+SUMMON              AVGMON              MAXMON MINMON
+------------------- ------------------- ------ ------
+              4655                  49  99     -71   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insintvld
+
+SUMDAT              AVGDAT              MAXDAT MINDAT
+------------------- ------------------- ------ ------
+              4510                  47  99     -92   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insintvle
+
+SUMMIN              AVGMIN              MAXMIN MINMIN
+------------------- ------------------- ------ ------
+              4003                  42  99     -99   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insintvlf
+
+SUMSEC               AVGSEC               MAXSEC     MINSEC    
+-------------------- -------------------- ---------- ----------
+        4055.000000            42.684210  99.000000  -95.000000
+
+--- 1 row(s) selected.
+
+<section_end>

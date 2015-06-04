@@ -1,0 +1,81 @@
+<section_begin>  s1
+
+(EXPR)
+--------------------
+                  10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+(EXPR)
+--------------------
+                  10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+(EXPR)
+--------------------
+               21290
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+(EXPR)
+--------------------
+               21290
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s5
+
+(EXPR)
+-----------
+        250
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s6
+
+(EXPR)
+-----------
+        250
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s7
+
+(EXPR)
+-----------
+      31145
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s8
+
+(EXPR)
+-----------
+      31145
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s9
+
+(EXPR)
+--------------------
+              212902
+
+--- 1 row(s) selected.
+
+<section_end>

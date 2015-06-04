@@ -1,0 +1,131 @@
+<section_begin>  a04s1
+
+C1         D1        
+---------- ----------
+<group_begin>
+         4          4
+         3          3
+         2          2
+         1          1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+C1         D1        
+---------- ----------
+<group_begin>
+         4          4
+         3          3
+         2          2
+         1          1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+C1         D1        
+---------- ----------
+<group_begin>
+         4          4
+         3          3
+         2          2
+         1          1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+C1         D1        
+---------- ----------
+<group_begin>
+         4          4
+         3          3
+         2          2
+         1          1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+C1         D1        
+---------- ----------
+<group_begin>
+         5       NULL
+         4          4
+         3          3
+         2          2
+         1          1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+C1         D1        
+---------- ----------
+<group_begin>
+         5       NULL
+         4          4
+         3          3
+         2          2
+         1          1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s13
+
+C1         D1        
+---------- ----------
+<group_begin>
+         5       NULL
+         4          4
+         3          3
+         2          2
+         1          1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s15
+
+A           B          
+----------- -----------
+<group_begin>
+          4           4
+          3           3
+          2           2
+          1           1
+          0           0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s17
+
+A           B          
+----------- -----------
+<group_begin>
+          0           0
+          1           1
+          2           2
+          3           3
+          4           4
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

@@ -1,0 +1,269 @@
+<section_begin>  a11s2
+
+C1
+----
+<group_begin>
+    
+AA01
+AA02
+BB01
+BB02
+CC01
+CC02
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+C1
+----
+<group_begin>
+AA01
+AA02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s4
+
+C1
+----
+BB01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+C1
+----
+<group_begin>
+CC01
+CC02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s6
+
+C1
+----
+<group_begin>
+AA01
+AA02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s7
+
+C1
+----
+<group_begin>
+AA01
+AA02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s8
+
+C1
+----
+<group_begin>
+AA01
+AA02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s9
+
+C2
+----
+<group_begin>
+    
+AA01
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s10
+
+C2
+----
+<group_begin>
+AA01
+AA02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s11
+
+C2
+----
+BB01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s12
+
+C2
+----
+<group_begin>
+CC01
+CC02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s13
+
+C2
+----
+<group_begin>
+AA01
+AA02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s14
+
+C2
+----
+<group_begin>
+AA01
+AA02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s15
+
+C2
+----
+<group_begin>
+AA01
+AA02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s16
+
+C1
+----
+BB02
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s17
+
+C2
+----
+BB02
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s18
+
+C1
+----
+<group_begin>
+BB01
+BB02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s19
+
+C1
+----
+<group_begin>
+BB01
+BB02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s20
+
+C1
+----
+<group_begin>
+BB01
+BB02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s21
+
+C1
+----
+<group_begin>
+BB01
+BB02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s22
+
+C1
+----
+<group_begin>
+BB01
+BB02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s23
+
+C1
+----
+<group_begin>
+BB01
+BB02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s24
+
+C1
+----
+<group_begin>
+BB01
+BB02
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

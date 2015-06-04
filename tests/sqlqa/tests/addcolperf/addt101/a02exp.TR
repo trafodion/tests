@@ -1,0 +1,28 @@
+<section_begin>  a02s01
+
+ORDERING    CH1  CH2  CH3  SMA    PX2 
+----------- ---- ---- ---- ------ ----
+<group_begin>
+          1 a    aaa  a         1 0   
+          2 b    bbb  b         2 2   
+          3 c    ch2  NULL   NULL 0   
+          4 d    ddd  d         4 4   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s02
+
+ORDERING    CH1  CH2  CH3  SMA    PX2  CV1 
+----------- ---- ---- ---- ------ ---- ----
+<group_begin>
+          1 a    aaa  a         1 0    Z   
+          2 b    bbb  b         2 2    Z   
+          3 c    ch2  NULL   NULL 0    Z   
+          4 d    ddd  d         4 4    Z   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

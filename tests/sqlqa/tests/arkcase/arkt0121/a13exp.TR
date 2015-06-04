@@ -1,0 +1,37 @@
+<section_begin>  a13s0
+
+PIC_X_A PIC_X_B PIC_X_C
+------- ------- -------
+<group_begin>
+ al     F       al     
+ al     F       di     
+B       A       ed     
+JO      D       em     
+P       P       P      
+al      F       al     
+al      Q       al     
+al      E       bo     
+jo      C       ek     
+jo      Z       jo     
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a13s2
+
+SMALL_INT DATA_93
+--------- -------
+<group_begin>
+     2000     168
+     8500     169
+     8501     170
+     8502     171
+     8503     172
+     8504     173
+     8505     174
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

@@ -1,0 +1,609 @@
+<section_begin>  b02s00
+
+DAT        TIM      INTER           
+---------- -------- ----------------
+<group_begin>
+1989-01-01 16:23:22  8:08:08.000000 
+1989-01-01 16:23:22  0:00:00.000000 
+1989-01-01 16:23:22  0:00:01.000000 
+1989-01-01 16:23:22  0:01:01.000000 
+1989-01-01 16:23:22  1:00:00.000000 
+1989-01-01 00:00:00  0:00:00.000000 
+1989-01-01 00:00:00  0:01:00.000000 
+1989-01-01 00:02:00  0:01:00.000000 
+1989-01-04 03:20:00  3:03:03.000000 
+1990-01-02 16:23:22  0:01:01.000000 
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  b02s01
+
+DAT        TIM      INTER           
+---------- -------- ----------------
+<group_begin>
+1989-01-01 16:23:22  8:08:08.000000 
+1989-01-01 16:23:22  0:00:00.000000 
+1989-01-01 16:23:22  0:00:01.000000 
+1989-01-01 16:23:22  0:01:01.000000 
+1989-01-01 16:23:22  1:00:00.000000 
+1990-01-02 16:23:22  0:01:01.000000 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  b02s02
+
+DAT        TIM      INTER           
+---------- -------- ----------------
+<group_begin>
+1989-01-01 00:00:00  0:00:00.000000 
+1989-01-01 00:00:00  0:01:00.000000 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s03
+
+DAT        TIM      INTER           
+---------- -------- ----------------
+<group_begin>
+1989-01-01 16:23:22  0:01:01.000000 
+1990-01-02 16:23:22  0:01:01.000000 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s04
+
+DAT        TIM      INTER           
+---------- -------- ----------------
+<group_begin>
+1989-01-01 16:23:22  0:01:01.000000 
+1990-01-02 16:23:22  0:01:01.000000 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s0
+
+Y_TO_D
+----------
+<group_begin>
+0001-01-01
+0802-09-07
+1988-01-01
+1999-01-01
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s1
+
+Y_TO_S
+--------------------------
+<group_begin>
+0001-01-01 00:00:00.000000
+0805-12-10 07:59:03.000000
+1979-06-05 14:40:45.000000
+1988-01-01 12:35:30.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s2
+
+Y_TO_F
+-----------------------
+<group_begin>
+0001-01-01 00:00:00.000
+0806-01-11 08:01:04.789
+1980-07-06 15:45:50.678
+1988-01-01 12:35:30.333
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s3
+
+H_TO_S
+--------
+<group_begin>
+00:00:00
+03:53:56
+10:15:30
+18:08:09
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s4
+
+H_TO_F
+------------
+<group_begin>
+00:00:00.000
+04:54:57.345
+10:15:30.555
+19:09:10.234
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s5
+
+Y
+-----
+<group_begin>
+   1 
+   1 
+1000 
+9999 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s6
+
+Y_TO_MO
+--------
+<group_begin>
+   1-01 
+   1-01 
+ 100-01 
+9999-11 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s7
+
+MO
+----
+<group_begin>
+ 1  
+ 1  
+ 1  
+11  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s8
+
+D
+----
+<group_begin>
+ 1  
+ 1  
+15  
+31  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s9
+
+D_TO_H
+------
+<group_begin>
+ 0 00 
+ 1 01 
+15 12 
+30 01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s10
+
+D_TO_MI
+---------
+<group_begin>
+ 0 00:00 
+ 1 01:01 
+16 13:15 
+29 02:59 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s11
+
+D_TO_S
+------------
+<group_begin>
+ 0 00:00:00 
+ 1 01:01:01 
+17 14:16:01 
+28 03:58:59 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s12
+
+D_TO_F
+----------------
+<group_begin>
+ 0 00:00:00.000 
+ 1 01:01:01.100 
+18 15:17:02.123 
+27 04:57:58.999 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s13
+
+H
+----
+<group_begin>
+ 0  
+ 1  
+16  
+23  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s14
+
+H_TO_MI
+-------
+<group_begin>
+ 0:00  
+ 1:01  
+17:18  
+22:56  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s15
+
+H_TO_S
+---------
+<group_begin>
+ 0:00:00 
+ 1:01:01 
+18:19:03 
+21:55:57 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s16
+
+H_TO_F
+-------------
+<group_begin>
+ 0:00:00.000 
+ 1:01:01.100 
+19:20:04.345 
+20:54:56.888 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s17
+
+MI
+----
+<group_begin>
+ 0  
+ 1  
+21  
+59  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s18
+
+MI_TO_S
+-------
+<group_begin>
+ 0:00  
+ 1:01  
+21:05  
+58:59  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s19
+
+MI_TO_F
+----------
+<group_begin>
+ 0:00.000 
+ 1:01.100 
+22:06.444 
+57:58.777 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s20
+
+S
+----
+<group_begin>
+ 0  
+ 1  
+ 7  
+59  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s21
+
+S_TO_F
+-------
+<group_begin>
+ 0.000 
+ 1.100 
+ 8.555 
+58.666 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s22
+
+DATE1
+----------
+<group_begin>
+0100-01-01
+0100-01-01
+1954-05-06
+1988-10-25
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s23
+
+TIME1
+--------
+<group_begin>
+00:00:00
+10:10:10
+22:23:24
+23:59:59
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b02s24
+
+DT1
+----------
+<group_begin>
+1948-06-15
+NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s25
+
+TM1
+--------
+<group_begin>
+NULL    
+NULL    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s26
+
+DT2
+----------
+<group_begin>
+NULL      
+NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s27
+
+TM2
+--------
+<group_begin>
+23:45:45
+NULL    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s28
+
+DT3
+----------
+<group_begin>
+NULL      
+NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s29
+
+TM3
+--------
+<group_begin>
+15:18:24
+23:12:45
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s30
+
+DT4
+----------
+<group_begin>
+1920-05-06
+1985-10-15
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s31
+
+TM4
+--------
+<group_begin>
+01:10:25
+12:35:45
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s32
+
+Y
+----
+<group_begin>
+55  
+NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s33
+
+Y_TO_MO
+-------
+<group_begin>
+ 0-11  
+NULL   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s34
+
+MO
+----
+<group_begin>
+10  
+NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s35
+
+D
+----
+<group_begin>
+23  
+23  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s36
+
+D_TO_H
+------
+<group_begin>
+22 13 
+22 13 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s37
+
+D_TO_MI
+---------
+<group_begin>
+ 0 00:23 
+23 12:55 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s38
+
+D_TO_S
+-------------------
+<group_begin>
+ 0 00:00:45.000000 
+25 14:55:55.000000 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s39
+
+H_TO_MI
+-------
+<group_begin>
+ 0:30  
+12:15  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b02s40
+
+Y_TO_D
+----------
+1774-09-24
+
+--- 1 row(s) selected.
+
+<section_end>

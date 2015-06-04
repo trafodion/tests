@@ -1,0 +1,144 @@
+<section_begin>  a23s7
+
+CNAME                  CNO  CRED        CLABFEE CDESCP                   
+---------------------- ---- ----------- ------- -------------------------
+<group_begin>
+INTRO TO CS            C11            3  100.00 FOR ROOKIES              
+DATA STRUCTURES        C22            3   50.00 VERY USEFUL              
+DISCREET MATHEMATICS   C33            3    0.00 ABSOLUTELY NECESSARY     
+DIGITAL CIRCUITS       C44            3    0.00 AH HA!                   
+COMPUTER ARCH.         C55            3  100.00 VON NEUMANN'S MACH.      
+RELATIONAL DATABASES   C66            3  500.00 THE ONLY WAY TO GO       
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a23s8
+
+FNO  FNAME                FADDR                     FHIRE_DATE FNUM_DEP    FSALARY   FDEPT
+---- -------------------- ------------------------- ---------- ----------- --------- -----
+<group_begin>
+06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a23s9
+
+FNAME                FSALARY   FHIRE_DATE FNUM_DEP   
+-------------------- --------- ---------- -----------
+<group_begin>
+KATHY PEPE            35000.00 1979-01-15           2
+JESSIE MARTYN         45000.00 1982-03-07           1
+JOE COHN              35000.00 1979-07-09           2
+AL HARTLEY            45000.00 1979-09-05           7
+JULIE MARTYN          45000.00 1978-05-17           1
+LISA BOBAK            36000.00 1981-09-17           1
+BARB HLAVATY          35000.00 1982-01-16           3
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a23s10
+
+CNAME                  CLABFEE
+---------------------- -------
+<group_begin>
+COMPUTER ARCH.          100.00
+INTRO TO CS             100.00
+RELATIONAL DATABASES    500.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a23s11
+
+CNUMBER COURSE_NAME            EXPENSIVE_LABFEE
+------- ---------------------- ----------------
+<group_begin>
+C66     RELATIONAL DATABASES             500.00
+P33     EXISTENTIALISM                   200.00
+T44     COMMUNISM                        200.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a23s12
+
+COURSE_NAME            EXPENSIVE_LABFEE
+---------------------- ----------------
+<group_begin>
+COMMUNISM                        200.00
+EXISTENTIALISM                   200.00
+RELATIONAL DATABASES             500.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a23s13
+
+AVG_CLABFEE
+--------------------
+<group_begin>
+              110.00
+               87.50
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a23s14
+
+CDEPT AVG_CLABFEE         
+----- --------------------
+PHIL                 87.50
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a23s15
+
+ENAME      CNAME                  DBLD DROOM
+---------- ---------------------- ---- -----
+<group_begin>
+DICK NIX   EMPIRICISM             HU   100  
+DICK NIX   SOLIPSISM              HU   100  
+DICK NIX   RATIONALISM            HU   100  
+DICK NIX   EXISTENTIALISM         HU   100  
+HANK KISS  EXISTENTIALISM         HU   100  
+HANK KISS  RATIONALISM            HU   100  
+HANK KISS  EMPIRICISM             HU   100  
+HANK KISS  SOLIPSISM              HU   100  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a23s16
+
+ENAME                DEPT ESALARY       
+-------------------- ---- --------------
+<group_begin>
+JESSIE MARTYN        THEO       45000.00
+LUKE                 THEO          53.00
+LISA BOBAK           THEO       36000.00
+MARK                 THEO          52.00
+MATTHEW              THEO          51.00
+JOHN                 THEO          54.00
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

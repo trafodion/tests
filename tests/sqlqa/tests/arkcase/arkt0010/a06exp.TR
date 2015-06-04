@@ -1,0 +1,162 @@
+<section_begin>  a06s0
+
+CHAR_1 DECIMAL_1
+------ ---------
+<group_begin>
+C              8
+D              7
+A              5
+D              5
+A              4
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+CHAR_1 DECIMAL_1
+------ ---------
+<group_begin>
+C              8
+D              7
+A              5
+D              5
+A              4
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+CHAR_1 DECIMAL_1
+------ ---------
+<group_begin>
+C              8
+D              7
+A              5
+D              5
+A              4
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+VAR_CHAR                                                                                                                         BINARY_64_S          PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- ------------
+<group_begin>
+B                                                                                                                                             200.000           50
+B                                                                                                                                            1200.000           60
+jimmy                                                                                                                                        1500.000          500
+marilyn                                                                                                                                      2000.000          500
+thomas                                                                                                                                       2000.000          500
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+VAR_CHAR                                                                                                                         BINARY_64_S          PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- ------------
+<group_begin>
+B                                                                                                                                             200.000           50
+B                                                                                                                                            1200.000           60
+jimmy                                                                                                                                        1500.000          500
+marilyn                                                                                                                                      2000.000          500
+thomas                                                                                                                                       2000.000          500
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+VAR_CHAR                                                                                                                         BINARY_64_S          PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- ------------
+<group_begin>
+B                                                                                                                                             200.000           50
+B                                                                                                                                            1200.000           60
+jimmy                                                                                                                                        1500.000          500
+marilyn                                                                                                                                      2000.000          500
+thomas                                                                                                                                       2000.000          500
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+PIC_X_B
+-------
+<group_begin>
+B      
+D      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+COL_6 PIC_X_A COL_1  PIC_X_B PIC_X_C
+----- ------- ------ ------- -------
+<group_begin>
+   50 joe        100 A       jo     
+   50 joe        100 C       go     
+   50 joe        300 B       to     
+   50 pam        900 D       al     
+   50 sue        200 D       so     
+   50 sue        300 C       by     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+PIC_1 LARGE_INT           
+----- --------------------
+<group_begin>
+B                     1000
+B                     2000
+E                      100
+X                      200
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s11
+
+PIC_X_5
+-------
+<group_begin>
+      0
+      3
+      4
+      5
+      7
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s12
+
+DECIMAL_10
+------------
+<group_begin>
+          90
+         100
+         110
+       10000
+       50000
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

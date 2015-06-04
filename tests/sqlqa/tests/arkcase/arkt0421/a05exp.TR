@@ -1,0 +1,294 @@
+<section_begin>  a05s0
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+SALESMAN ORDERNUM
+-------- --------
+<group_begin>
+     204       32
+     205       21
+     205       66
+     207       41
+     210       51
+     212       25
+     212       45
+     218       38
+     221      122
+     222       30
+     225       48
+     231       35
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+     10
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+     10
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+     10
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+CUSTNUM
+-------
+<group_begin>
+     21
+    123
+    143
+    324
+    543
+    926
+   1234
+   3333
+   5635
+   7654
+   7777
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+CUSTNUM
+-------
+<group_begin>
+     21
+    123
+    143
+    324
+    543
+    926
+   1234
+   3333
+   5635
+   7654
+   7777
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+CUSTNUM
+-------
+<group_begin>
+     21
+    123
+    143
+    324
+    543
+    926
+   1234
+   3333
+   5635
+   7654
+   7777
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+CUSTNUM
+-------
+<group_begin>
+     21
+    123
+    143
+    324
+    543
+    926
+   1234
+   3333
+   5635
+   7654
+   7777
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+SUPPNUM
+-------
+<group_begin>
+      6
+     15
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+SUPPNUM
+-------
+<group_begin>
+      6
+     15
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+SUPPNUM
+-------
+<group_begin>
+      6
+     15
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s14
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+      6
+     15
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s15
+
+AGE
+----
+<group_begin>
+  19
+  22
+  24
+  24
+  26
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s16
+
+SALESMAN
+--------
+<group_begin>
+     204
+     205
+     207
+     210
+     212
+     218
+     221
+     222
+     225
+     231
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a05s17
+
+EMPNAME
+------------------
+<group_begin>
+MARK FOLEY        
+RICHARD BARTON    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

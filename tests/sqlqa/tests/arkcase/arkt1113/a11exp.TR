@@ -1,0 +1,131 @@
+<section_begin>  a11s0
+
+V
+--------
+<group_begin>
+CA      
+CACAAAAA
+CCAA    
+CCCCA   
+CCCCAAAA
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s1
+
+V
+--------
+<group_begin>
+CCAA    
+CCCCA   
+CCCCAAAA
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s2
+
+V
+--------
+<group_begin>
+CCAA    
+CCCCA   
+CCCCAAAA
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+V
+--------
+CCAA    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s4
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s6
+
+VARCHAR13_100 SDEC13_UNIQ CHAR14_20 VARCHAR15_UNIQ
+------------- ----------- --------- --------------
+<group_begin>
+AG                   4217 AB        FGAAAAAB      
+AJAA                 3112 AE        FJAAGAA       
+AM                   3030 AC        BEAAGAAC      
+AM                   3030 AC        BEAAGAAD      
+AM                   3030 AE        BEAAGAAC      
+AM                   3030 AE        BEAAGAAE      
+AM                   3031 AC        BEAAGAAC      
+AM                   3031 AC        BEAAGAAF      
+AM                   3031 AC        BEAAGAAG      
+AM                   3031 AD        BEAAGAAD      
+AM                   3050 AC        BEAAGAAC      
+AN                   3030 AC        BEAAGAAC      
+ARAA                 1413 CC        EJAAJAA       
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a11s7
+
+VARCHAR13_100 SDEC13_UNIQ
+------------- -----------
+<group_begin>
+AG                   4217
+AJAA                 3112
+AM                   3030
+AM                   3031
+AM                   3050
+AN                   3030
+ARAA                 1413
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s8
+
+VARCHAR13_100 SDEC13_UNIQ CHAR14_20 VARCHAR15_UNIQ
+------------- ----------- --------- --------------
+<group_begin>
+AG                   4217 AB        FGAAAAAB      
+AJAA                 3112 AE        FJAAGAA       
+AM                   3030 AC        BEAAGAAC      
+AM                   3030 AC        BEAAGAAD      
+AM                   3030 AE        BEAAGAAC      
+AM                   3030 AE        BEAAGAAE      
+AM                   3031 AC        BEAAGAAC      
+AM                   3031 AC        BEAAGAAF      
+AM                   3031 AC        BEAAGAAG      
+AM                   3031 AD        BEAAGAAD      
+AM                   3050 AC        BEAAGAAC      
+AN                   3030 AC        BEAAGAAC      
+ARAA                 1413 CC        EJAAJAA       
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>

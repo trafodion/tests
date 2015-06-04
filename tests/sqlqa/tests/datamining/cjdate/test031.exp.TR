@@ -1,0 +1,58 @@
+<section_begin>  s1
+
+JNUM
+----
+<group_begin>
+j1  
+j4  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+JNUM
+----
+<group_begin>
+j1  
+j4  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+JNUM
+----
+<group_begin>
+j1  
+j2  
+j3  
+j4  
+j5  
+j6  
+j7  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+JNUM
+----
+<group_begin>
+j1  
+j2  
+j3  
+j4  
+j5  
+j6  
+j7  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

@@ -1,0 +1,45 @@
+<section_begin>  a03s0
+
+DATE1      TIME1    YEAR1
+---------- -------- -----
+1756-11-25 23:55:35 1756 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+DATE1      TIME1    YEAR1
+---------- -------- -----
+2010-10-01 23:55:35 1756 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+(EXPR)     (EXPR)     
+---------- -----------
+10/01/2010 11:55:35 PM
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+(EXPR)     (EXPR)  
+---------- --------
+01.10.2010 23.55.35
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+(EXPR)     (EXPR)  
+---------- --------
+2010-10-01 23:55:35
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,391 @@
+<section_begin>  a1exp
+
+DEPTNUM    COPAYMENT INSNAME      NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                2        89.50                    1
+         2     50.50 BlueShield            3        89.50                    2
+         9     40.55 Kaiser                5        89.50                    3
+         2     40.40 BlueCross             6        89.50                    4
+         5     25.25 Kaiser                7        89.50                    5
+         2     50.00 Kaiser                8        89.50                    6
+         6     30.50 BlueCross             9        89.50                    7
+         9     50.50 Kaiser               12        89.50                    8
+         9     45.45 Kaiser               14        89.50                    9
+         2     35.35 Kaiser               15        89.50                   10
+         5     55.55 BlueCross            16        89.50                   11
+         9     45.55 Kaiser               17        89.50                   12
+         5     55.55 BlueCross            19        89.50                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a3Exp
+
+DEPTNUM    COPAYMENT INSNAME      NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                2         NULL                    1
+         2     50.50 BlueShield            3         NULL                    2
+         9     40.55 Kaiser                5         NULL                    3
+         2     40.40 BlueCross             6         NULL                    4
+         5     25.25 Kaiser                7        89.50                    5
+         2     50.00 Kaiser                8        89.50                    6
+         6     30.50 BlueCross             9        89.50                    7
+         9     50.50 Kaiser               12        89.50                    8
+         9     45.45 Kaiser               14        89.50                    9
+         2     35.35 Kaiser               15        89.50                   10
+         5     55.55 BlueCross            16        89.50                   11
+         9     45.55 Kaiser               17        89.50                   12
+         5     55.55 BlueCross            19        89.50                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a4Exp
+
+DEPTNUM    COPAYMENT INSNAME      NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                2        89.50                    1
+         2     50.50 BlueShield            3        50.50                    2
+         9     40.55 Kaiser                5        40.55                    3
+         2     40.40 BlueCross             6        40.40                    4
+         5     25.25 Kaiser                7        25.25                    5
+         2     50.00 Kaiser                8        50.00                    6
+         6     30.50 BlueCross             9        30.50                    7
+         9     50.50 Kaiser               12        50.50                    8
+         9     45.45 Kaiser               14        45.45                    9
+         2     35.35 Kaiser               15        35.35                   10
+         5     55.55 BlueCross            16        55.55                   11
+         9     45.55 Kaiser               17        45.55                   12
+         5     55.55 BlueCross            19        55.55                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a5Exp
+
+DEPTNUM    COPAYMENT INSNAME      NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                2        89.50                    1
+         2     50.50 BlueShield            3        89.50                    2
+         9     40.55 Kaiser                5        89.50                    3
+         2     40.40 BlueCross             6        89.50                    4
+         5     25.25 Kaiser                7        89.50                    5
+         2     50.00 Kaiser                8        89.50                    6
+         6     30.50 BlueCross             9        50.50                    7
+         9     50.50 Kaiser               12        50.50                    8
+         9     45.45 Kaiser               14        50.50                    9
+         2     35.35 Kaiser               15        50.50                   10
+         5     55.55 BlueCross            16        55.55                   11
+         9     45.55 Kaiser               17        55.55                   12
+         5     55.55 BlueCross            19        55.55                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a6Exp
+
+DEPTNUM    COPAYMENT INSNAME      NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                2         NULL                    1
+         2     50.50 BlueShield            3         NULL                    2
+         9     40.55 Kaiser                5         NULL                    3
+         2     40.40 BlueCross             6         NULL                    4
+         5     25.25 Kaiser                7         NULL                    5
+         2     50.00 Kaiser                8        89.50                    6
+         6     30.50 BlueCross             9        50.50                    7
+         9     50.50 Kaiser               12        40.55                    8
+         9     45.45 Kaiser               14        40.40                    9
+         2     35.35 Kaiser               15        25.25                   10
+         5     55.55 BlueCross            16        50.00                   11
+         9     45.55 Kaiser               17        30.50                   12
+         5     55.55 BlueCross            19        50.50                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a7Exp
+
+DEPTNUM    COPAYMENT INSNAME      NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                2        89.50                    1
+         2     50.50 BlueShield            3        89.50                    2
+         9     40.55 Kaiser                5        89.50                    3
+         2     40.40 BlueCross             6        89.50                    4
+         5     25.25 Kaiser                7        89.50                    5
+         2     50.00 Kaiser                8        89.50                    6
+         6     30.50 BlueCross             9        50.50                    7
+         9     50.50 Kaiser               12        50.50                    8
+         9     45.45 Kaiser               14        50.50                    9
+         2     35.35 Kaiser               15        50.50                   10
+         5     55.55 BlueCross            16        55.55                   11
+         9     45.55 Kaiser               17        55.55                   12
+         5     55.55 BlueCross            19        55.55                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a9Exp
+
+DEPTNUM    COPAYMENT INSNAME                        NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------------------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                                  2        89.50                    1
+         2     50.50 BlueShield                              3        89.50                    2
+         9     40.55 Kaiser                                  5        89.50                    3
+         2     40.40 BlueCross                               6        89.50                    4
+         5     25.25 Kaiser                                  7        89.50                    5
+         2     50.00 Kaiser                                  8        89.50                    6
+         6     30.50 BlueCross                               9        89.50                    7
+         9     50.50 Kaiser                                 12        89.50                    8
+         9     45.45 Kaiser                                 14        89.50                    9
+         2     35.35 Kaiser                                 15        89.50                   10
+         5     55.55 BlueCross                              16        89.50                   11
+         9     45.55 Kaiser                                 17        89.50                   12
+         5     55.55 BlueCross                              19        89.50                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a10Exp
+
+DEPTNUM    COPAYMENT INSNAME                        NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------------------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                                  2        89.50                    1
+         2     50.50 BlueShield                              3        89.50                    2
+         9     40.55 Kaiser                                  5        89.50                    3
+         2     40.40 BlueCross                               6        89.50                    4
+         5     25.25 Kaiser                                  7        89.50                    5
+         2     50.00 Kaiser                                  8        89.50                    6
+         6     30.50 BlueCross                               9        89.50                    7
+         9     50.50 Kaiser                                 12        89.50                    8
+         9     45.45 Kaiser                                 14        89.50                    9
+         2     35.35 Kaiser                                 15        89.50                   10
+         5     55.55 BlueCross                              16        89.50                   11
+         9     45.55 Kaiser                                 17        89.50                   12
+         5     55.55 BlueCross                              19        89.50                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a11Exp
+
+DEPTNUM    COPAYMENT INSNAME                        NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------------------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                                  2        89.50                    1
+         2     50.50 BlueShield                              3        89.50                    2
+         9     40.55 Kaiser                                  5        89.50                    3
+         2     40.40 BlueCross                               6        89.50                    4
+         5     25.25 Kaiser                                  7        89.50                    5
+         2     50.00 Kaiser                                  8        89.50                    6
+         6     30.50 BlueCross                               9        89.50                    7
+         9     50.50 Kaiser                                 12        89.50                    8
+         9     45.45 Kaiser                                 14        89.50                    9
+         2     35.35 Kaiser                                 15        89.50                   10
+         5     55.55 BlueCross                              16        89.50                   11
+         9     45.55 Kaiser                                 17        89.50                   12
+         5     55.55 BlueCross                              19        89.50                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a12Exp
+
+DEPTNUM    COPAYMENT INSNAME                        NUM        MAXCOPAYMENT         DENSERANK           
+---------- --------- ------------------------------ ---------- -------------------- --------------------
+<group_begin>
+         9     89.50 Kaiser                                  2                47.28                    1
+         2     50.50 BlueShield                              3                47.28                    2
+         9     40.55 Kaiser                                  5                47.28                    3
+         2     40.40 BlueCross                               6                47.28                    4
+         5     25.25 Kaiser                                  7                47.28                    5
+         2     50.00 Kaiser                                  8                47.28                    6
+         6     30.50 BlueCross                               9                43.76                    7
+         9     50.50 Kaiser                                 12                43.15                    8
+         9     45.45 Kaiser                                 14                43.41                    9
+         2     35.35 Kaiser                                 15                43.74                   10
+         5     55.55 BlueCross                              16                46.05                   11
+         9     45.55 Kaiser                                 17                45.49                   12
+         5     55.55 BlueCross                              19                47.99                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a12aExp
+
+DEPTNUM    COPAYMENT INSNAME                        NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------------------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                                  2        89.50                    1
+         2     50.50 BlueShield                              3        89.50                    2
+         9     40.55 Kaiser                                  5        89.50                    3
+         2     40.40 BlueCross                               6        89.50                    4
+         5     25.25 Kaiser                                  7        89.50                    5
+         2     50.00 Kaiser                                  8        89.50                    6
+         6     30.50 BlueCross                               9        55.55                    7
+         9     50.50 Kaiser                                 12        55.55                    8
+         9     45.45 Kaiser                                 14        55.55                    9
+         2     35.35 Kaiser                                 15        55.55                   10
+         5     55.55 BlueCross                              16        55.55                   11
+         9     45.55 Kaiser                                 17        55.55                   12
+         5     55.55 BlueCross                              19        55.55                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a13Exp
+
+DEPTNUM    COPAYMENT INSNAME                        NUM        MAXCOPAYMENT         DENSERANK           
+---------- --------- ------------------------------ ---------- -------------------- --------------------
+<group_begin>
+         9     89.50 Kaiser                                  2                47.28                    1
+         2     50.50 BlueShield                              3                43.76                    2
+         9     40.55 Kaiser                                  5                43.15                    3
+         2     40.40 BlueCross                               6                43.41                    4
+         5     25.25 Kaiser                                  7                43.74                    5
+         2     50.00 Kaiser                                  8                46.05                    6
+         6     30.50 BlueCross                               9                45.49                    7
+         9     50.50 Kaiser                                 12                47.99                    8
+         9     45.45 Kaiser                                 14                47.49                    9
+         2     35.35 Kaiser                                 15                48.00                   10
+         5     55.55 BlueCross                              16                52.21                   11
+         9     45.55 Kaiser                                 17                50.55                   12
+         5     55.55 BlueCross                              19                55.55                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a14Exp
+
+DEPTNUM    COPAYMENT INSNAME                        NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------------------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                                  2        89.50                    1
+         2     50.50 BlueShield                              3        50.50                    2
+         9     40.55 Kaiser                                  5        50.00                    3
+         2     40.40 BlueCross                               6        50.50                    4
+         5     25.25 Kaiser                                  7        50.50                    5
+         2     50.00 Kaiser                                  8        50.50                    6
+         6     30.50 BlueCross                               9        55.55                    7
+         9     50.50 Kaiser                                 12        55.55                    8
+         9     45.45 Kaiser                                 14        55.55                    9
+         2     35.35 Kaiser                                 15        55.55                   10
+         5     55.55 BlueCross                              16        55.55                   11
+         9     45.55 Kaiser                                 17        55.55                   12
+         5     55.55 BlueCross                              19        55.55                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a15Exp
+
+DEPTNUM    COPAYMENT INSNAME                        NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------------------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                                  2        40.55                    1
+         2     50.50 BlueShield                              3        50.00                    2
+         9     40.55 Kaiser                                  5        50.00                    3
+         2     40.40 BlueCross                               6        50.50                    4
+         5     25.25 Kaiser                                  7        50.50                    5
+         2     50.00 Kaiser                                  8        50.50                    6
+         6     30.50 BlueCross                               9        55.55                    7
+         9     50.50 Kaiser                                 12        55.55                    8
+         9     45.45 Kaiser                                 14        55.55                    9
+         2     35.35 Kaiser                                 15        55.55                   10
+         5     55.55 BlueCross                              16        55.55                   11
+         9     45.55 Kaiser                                 17         NULL                   12
+         5     55.55 BlueCross                              19         NULL                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a16Exp
+
+DEPTNUM    COPAYMENT INSNAME                        NUM        MAXCOPAYMENT         DENSERANK           
+---------- --------- ------------------------------ ---------- -------------------- --------------------
+<group_begin>
+         9     89.50 Kaiser                                  2                43.15                    1
+         2     50.50 BlueShield                              3                43.41                    2
+         9     40.55 Kaiser                                  5                43.74                    3
+         2     40.40 BlueCross                               6                46.05                    4
+         5     25.25 Kaiser                                  7                45.49                    5
+         2     50.00 Kaiser                                  8                47.99                    6
+         6     30.50 BlueCross                               9                47.49                    7
+         9     50.50 Kaiser                                 12                48.00                    8
+         9     45.45 Kaiser                                 14                52.21                    9
+         2     35.35 Kaiser                                 15                50.55                   10
+         5     55.55 BlueCross                              16                55.55                   11
+         9     45.55 Kaiser                                 17                 NULL                   12
+         5     55.55 BlueCross                              19                 NULL                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a17Exp
+
+DEPTNUM    COPAYMENT INSNAME                        NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------------------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                                  2        89.50                    1
+         2     50.50 BlueShield                              3        89.50                    2
+         9     40.55 Kaiser                                  5        89.50                    3
+         2     40.40 BlueCross                               6        50.50                    4
+         5     25.25 Kaiser                                  7        40.55                    5
+         2     50.00 Kaiser                                  8        50.00                    6
+         6     30.50 BlueCross                               9        50.00                    7
+         9     50.50 Kaiser                                 12        50.50                    8
+         9     45.45 Kaiser                                 14        50.50                    9
+         2     35.35 Kaiser                                 15        50.50                   10
+         5     55.55 BlueCross                              16        55.55                   11
+         9     45.55 Kaiser                                 17        55.55                   12
+         5     55.55 BlueCross                              19        55.55                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a18Exp
+
+DEPTNUM    COPAYMENT INSNAME                        NUM        MAXCOPAYMENT DENSERANK           
+---------- --------- ------------------------------ ---------- ------------ --------------------
+<group_begin>
+         9     89.50 Kaiser                                  2        89.50                    1
+         2     50.50 BlueShield                              3        50.50                    2
+         9     40.55 Kaiser                                  5        40.55                    3
+         2     40.40 BlueCross                               6        40.40                    4
+         5     25.25 Kaiser                                  7        25.25                    5
+         2     50.00 Kaiser                                  8        50.00                    6
+         6     30.50 BlueCross                               9        30.50                    7
+         9     50.50 Kaiser                                 12        50.50                    8
+         9     45.45 Kaiser                                 14        45.45                    9
+         2     35.35 Kaiser                                 15        35.35                   10
+         5     55.55 BlueCross                              16        55.55                   11
+         9     45.55 Kaiser                                 17        45.55                   12
+         5     55.55 BlueCross                              19        55.55                   13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>

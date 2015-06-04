@@ -1,0 +1,65 @@
+<section_begin>  a11s0
+
+(EXPR)               CHAR0_09_UNIQ
+-------------------- -------------
+<group_begin>
+                NULL 00000067     
+                NULL 00000150     
+                NULL 00000375     
+                NULL 00000425     
+                NULL 00000995     
+                NULL 00001016     
+                NULL 00001106     
+                NULL 00001265     
+                NULL 00001382     
+                NULL 00001421     
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a11s1
+
+UBIN1_N2 CHAR0_N10 DATE1_N4   (EXPR)           
+-------- --------- ---------- -----------------
+<group_begin>
+    NULL NULL      NULL       Char0_n10 is null
+       0 AB        NULL       date1_n4 is null 
+       0 AA        NULL       date1_n4 is null 
+    NULL BB        2100-01-01 ubin1_n2  is Null
+    NULL BA        2100-01-03 ubin1_n2  is Null
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s2
+
+UBIN1_N2 CHAR0_N10 DATE1_N4   (EXPR)  
+-------- --------- ---------- --------
+<group_begin>
+    NULL NULL      NULL        is Null
+       0 AB        NULL       its B   
+       0 AA        NULL        is Null
+    NULL BB        2100-01-01  is Null
+    NULL BA        2100-01-03 its B   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+UBIN1_N2 CHAR0_N10 DATE1_N4   (EXPR)  
+-------- --------- ---------- --------
+<group_begin>
+    NULL NULL      NULL        is Null
+       0 AB        NULL       its B   
+       0 AA        NULL       its A   
+    NULL BB        2100-01-01  is Null
+    NULL BA        2100-01-03 its B   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

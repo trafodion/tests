@@ -1,0 +1,740 @@
+<section_begin>  a16s0
+
+E    P     
+---- ------
+<group_begin>
+BBBB BBBBBB
+AAAA BBBBBB
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16s1
+
+E    P     
+---- ------
+<group_begin>
+ABBB BBBBBB
+ABCC BBBBBB
+BBCC BBBBBB
+BBCD BBBBBB
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s2
+
+E    P     
+---- ------
+<group_begin>
+ABBB BBBBBB
+BBBB BBBBBB
+ABCC BBBBBB
+AAAA BBBBBB
+BBCC BBBBBB
+BBCD BBBBBB
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a16s3
+
+E    P     
+---- ------
+<group_begin>
+BBCC BBBBBB
+BBBB BBBBBB
+BBCD BBBBBB
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s4
+
+E    P     
+---- ------
+<group_begin>
+ABBB BBBBBB
+AAAA BBBBBB
+ABCC BBBBBB
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s5
+
+E    P     
+---- ------
+<group_begin>
+BBCC BBBBBB
+BBBB BBBBBB
+BBCD BBBBBB
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s6
+
+E    P     
+---- ------
+<group_begin>
+ABBB BBBBBB
+AAAA BBBBBB
+ABCC BBBBBB
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s7
+
+E    P     
+---- ------
+<group_begin>
+BBBB BBBBBB
+AAAA BBBBBB
+ABBB BBBBBB
+ABCC BBBBBB
+BBCC BBBBBB
+BBCD BBBBBB
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a16s8
+
+E    P     
+---- ------
+<group_begin>
+BBBB BBBBBB
+BBCC BBBBBB
+BBCD BBBBBB
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s9
+
+E    P     
+---- ------
+<group_begin>
+AAAA BBBBBB
+ABBB BBBBBB
+ABCC BBBBBB
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s10
+
+E    P     
+---- ------
+<group_begin>
+BBBB BBBBBB
+BBCC BBBBBB
+BBCD BBBBBB
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s12
+
+C              S           
+-------------- ------------
+<group_begin>
+PHILADELPHIA   PENN        
+SAN FRANCISCO  CALIFORNIA  
+DENVER         COLORADO    
+LUBBOCK        TEXAS       
+FRESNO         CALIFORNIA  
+FRANKFURT      GERMANY     
+NEW YORK       NEW YORK    
+LINCOLN        NEBRASKA    
+DUISBURG       GERMANY     
+MUENCHEN       GERMANY     
+CHICAGO        ILLINOIS    
+DALLAS         TEXAS       
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a16s13
+
+C              S           
+-------------- ------------
+<group_begin>
+PHILADELPHIA   PENN        
+SAN FRANCISCO  CALIFORNIA  
+NEW YORK       NEW YORK    
+MUENCHEN       GERMANY     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s14
+
+C              S           
+-------------- ------------
+<group_begin>
+DENVER         COLORADO    
+LUBBOCK        TEXAS       
+FRESNO         CALIFORNIA  
+FRANKFURT      GERMANY     
+LINCOLN        NEBRASKA    
+DUISBURG       GERMANY     
+CHICAGO        ILLINOIS    
+DALLAS         TEXAS       
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a16s15
+
+C              S           
+-------------- ------------
+<group_begin>
+PHILADELPHIA   PENN        
+SAN FRANCISCO  CALIFORNIA  
+NEW YORK       NEW YORK    
+MUENCHEN       GERMANY     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s16
+
+C              S           
+-------------- ------------
+<group_begin>
+DENVER         COLORADO    
+LUBBOCK        TEXAS       
+FRESNO         CALIFORNIA  
+FRANKFURT      GERMANY     
+LINCOLN        NEBRASKA    
+DUISBURG       GERMANY     
+CHICAGO        ILLINOIS    
+DALLAS         TEXAS       
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a16s17
+
+COL_STRING
+----------
+<group_begin>
+A         
+B         
+C         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s18
+
+COL_STRING
+----------
+<group_begin>
+A         
+C         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16s19
+
+C
+----
+<group_begin>
+A   
+C   
+B   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s20
+
+C
+----
+<group_begin>
+C   
+B   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16s21
+
+C
+----
+<group_begin>
+C   
+B   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16s22
+
+C
+----
+<group_begin>
+A   
+A   
+B   
+C   
+C   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a16s23
+
+C
+----
+<group_begin>
+B   
+C   
+C   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s24
+
+C
+----
+<group_begin>
+B   
+C   
+C   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s25
+
+COL_STRING
+----------
+<group_begin>
+A         
+C         
+B         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s26
+
+COL_STRING
+----------
+<group_begin>
+C         
+A         
+B         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s27
+
+COL_STRING
+----------
+<group_begin>
+C         
+A         
+B         
+C         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s28
+
+COL_STRING
+----------
+<group_begin>
+C         
+A         
+B         
+C         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s29
+
+COL_STRING
+----------
+<group_begin>
+C         
+A         
+B         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s30
+
+COL_STRING
+----------
+<group_begin>
+B         
+A         
+C         
+B         
+C         
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a16s31
+
+CHAR_1
+------
+<group_begin>
+A     
+A     
+C     
+C     
+C     
+D     
+D     
+D     
+E     
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a16s32
+
+CHAR_1
+------
+<group_begin>
+C     
+D     
+D     
+E     
+C     
+C     
+D     
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a16s33
+
+CHAR_1
+------
+<group_begin>
+C     
+D     
+D     
+E     
+C     
+C     
+D     
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a16s34
+
+VC2  VC3 
+---- ----
+<group_begin>
+E    E   
+E    rum 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16s35
+
+VC2  VC3 
+---- ----
+E    rum 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s36
+
+VC2  VC3 
+---- ----
+E    rum 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s37
+
+YTOD
+----------
+<group_begin>
+1988-01-01
+1975-01-01
+1977-03-02
+0802-09-07
+0100-01-01
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a16s38
+
+YTOD
+----------
+0802-09-07
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s39
+
+YTOD
+----------
+1977-03-02
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s40
+
+YTOD
+----------
+1977-03-02
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s41
+
+PICX8
+--------
+<group_begin>
+A       
+C       
+D       
+E       
+maureen 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a16s42
+
+PICX8
+--------
+<group_begin>
+C       
+D       
+E       
+maureen 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s43
+
+PICX8
+--------
+<group_begin>
+C       
+D       
+E       
+maureen 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s44
+
+CHAR1
+--------
+<group_begin>
+A       
+C       
+D       
+E       
+maureen 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a16s45
+
+CHAR1
+--------
+<group_begin>
+D       
+E       
+maureen 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s46
+
+CHAR1
+--------
+<group_begin>
+D       
+E       
+maureen 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s47
+
+LINT
+--------------------
+<group_begin>
+                1000
+                2000
+                NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s48
+
+LINT
+--------------------
+<group_begin>
+                1000
+                2000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16s49
+
+LINT
+--------------------
+<group_begin>
+                1000
+                2000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16s50
+
+X
+------
+<group_begin>
+    50
+   100
+  1000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s51
+
+X
+------
+<group_begin>
+   100
+  1000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16s52
+
+X
+------
+<group_begin>
+   100
+  1000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16s53
+
+X
+------
+<group_begin>
+    50
+   100
+  1000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s54
+
+X
+------
+<group_begin>
+   100
+  1000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16s55
+
+X
+------
+<group_begin>
+   100
+  1000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

@@ -1,0 +1,176 @@
+<section_begin>  s1
+
+LNAME  A      B      C      D      KEYCOL      VALCOL
+------ ------ ------ ------ ------ ----------- ------
+<group_begin>
+Brown  Dcuwuj Mnopbr Cvkinp Nrqfwk           2 Cvkinp
+Brown  Hayptb Temjdx Mmjehp Eiennb           3 Eiennb
+Brown  Iwsvdd Udbqwc Sqanrg Eyncrs           3 Eyncrs
+Brown  Bfbixc Mobuak Uermsw Hkkqhx           3 Hkkqhx
+Brown  Hayptb Temjdx Mmjehp Eiennb           2 Mmjehp
+Brown  Dcuwuj Mnopbr Cvkinp Nrqfwk           1 Mnopbr
+Brown  Bfbixc Mobuak Uermsw Hkkqhx           1 Mobuak
+Brown  Dcuwuj Mnopbr Cvkinp Nrqfwk           3 Nrqfwk
+Brown  Iwsvdd Udbqwc Sqanrg Eyncrs           2 Sqanrg
+Brown  Hayptb Temjdx Mmjehp Eiennb           1 Temjdx
+Brown  Iwsvdd Udbqwc Sqanrg Eyncrs           1 Udbqwc
+Brown  Bfbixc Mobuak Uermsw Hkkqhx           2 Uermsw
+Green  Sswvmd Zikvew Buahrl Yumcfe           2 Buahrl
+Green  Ajnxgq Dooxbw Llpkfd Eelpcs           1 Dooxbw
+Green  Ajnxgq Dooxbw Llpkfd Eelpcs           3 Eelpcs
+Green  Cbddcm Wyvrjy Lpekfh Jduliw           3 Jduliw
+Green  Nhnyud Yyluqj Lhvvxe Jqhlfs           3 Jqhlfs
+Green  Vgunnf Xvfxuj Lascgu Qvsxba           2 Lascgu
+Green  Nhnyud Yyluqj Lhvvxe Jqhlfs           2 Lhvvxe
+Green  Ajnxgq Dooxbw Llpkfd Eelpcs           2 Llpkfd
+Green  Cbddcm Wyvrjy Lpekfh Jduliw           2 Lpekfh
+Green  Argvls Tvgtba Wqyjgy Ohymcw           3 Ohymcw
+Green  Vgunnf Xvfxuj Lascgu Qvsxba           3 Qvsxba
+Green  Argvls Tvgtba Wqyjgy Ohymcw           1 Tvgtba
+Green  Argvls Tvgtba Wqyjgy Ohymcw           2 Wqyjgy
+Green  Cbddcm Wyvrjy Lpekfh Jduliw           1 Wyvrjy
+Green  Vgunnf Xvfxuj Lascgu Qvsxba           1 Xvfxuj
+Green  Sswvmd Zikvew Buahrl Yumcfe           3 Yumcfe
+Green  Nhnyud Yyluqj Lhvvxe Jqhlfs           1 Yyluqj
+Green  Sswvmd Zikvew Buahrl Yumcfe           1 Zikvew
+Jones  Kodsvm Bfqkjj Viwynt Kjofoh           1 Bfqkjj
+Jones  Ajocap Xmdens Ghcxxv Ciyjro           3 Ciyjro
+Jones  Melbhv Ctejxo Tkfpfy Xojbsq           1 Ctejxo
+Jones  Ajocap Xmdens Ghcxxv Ciyjro           2 Ghcxxv
+Jones  Zebbno Udbsmc Gqkgqk Iyjnxm           2 Gqkgqk
+Jones  Wmxhew Lojuas Hdpuhc Mgwmbj           2 Hdpuhc
+Jones  Zebbno Udbsmc Gqkgqk Iyjnxm           3 Iyjnxm
+Jones  Kodsvm Bfqkjj Viwynt Kjofoh           3 Kjofoh
+Jones  Wmxhew Lojuas Hdpuhc Mgwmbj           1 Lojuas
+Jones  Wmxhew Lojuas Hdpuhc Mgwmbj           3 Mgwmbj
+Jones  Melbhv Ctejxo Tkfpfy Xojbsq           2 Tkfpfy
+Jones  Zebbno Udbsmc Gqkgqk Iyjnxm           1 Udbsmc
+Jones  Kodsvm Bfqkjj Viwynt Kjofoh           2 Viwynt
+Jones  Ajocap Xmdens Ghcxxv Ciyjro           1 Xmdens
+Jones  Melbhv Ctejxo Tkfpfy Xojbsq           3 Xojbsq
+Smith  Hlsvlr Aqkcgf Fyqkqv Rhsvcy           1 Aqkcgf
+Smith  Dsorqa Bijluq Xljayt Qstovb           1 Bijluq
+Smith  Baxryo Vykugo Bjmkfu Wrvrhl           2 Bjmkfu
+Smith  Iwxaib Vlghwl Devnku Thyvgq           2 Devnku
+Smith  Hlsvlr Aqkcgf Fyqkqv Rhsvcy           2 Fyqkqv
+Smith  Dsorqa Bijluq Xljayt Qstovb           3 Qstovb
+Smith  Hlsvlr Aqkcgf Fyqkqv Rhsvcy           3 Rhsvcy
+Smith  Iwxaib Vlghwl Devnku Thyvgq           3 Thyvgq
+Smith  Iwxaib Vlghwl Devnku Thyvgq           1 Vlghwl
+Smith  Baxryo Vykugo Bjmkfu Wrvrhl           1 Vykugo
+Smith  Baxryo Vykugo Bjmkfu Wrvrhl           3 Wrvrhl
+Smith  Dsorqa Bijluq Xljayt Qstovb           2 Xljayt
+Tiger  Zdayqs Rptowo Xuhivv Agchus           3 Agchus
+Tiger  Emwfwn Lugoci Bjuwnt Yrrftk           2 Bjuwnt
+Tiger  Lqprri Utjmjy Chenji Jgnocm           2 Chenji
+Tiger  Tkboea Znrlqs Dgktvy Iqtsne           2 Dgktvy
+Tiger  Arbyep Timonm Fvraad Xyqgsx           2 Fvraad
+Tiger  Tkboea Znrlqs Dgktvy Iqtsne           3 Iqtsne
+Tiger  Lqprri Utjmjy Chenji Jgnocm           3 Jgnocm
+Tiger  Mvbxgo Osmwic Krynvh Wpjamh           2 Krynvh
+Tiger  Emwfwn Lugoci Bjuwnt Yrrftk           1 Lugoci
+Tiger  Mvbxgo Osmwic Krynvh Wpjamh           1 Osmwic
+Tiger  Zdayqs Rptowo Xuhivv Agchus           1 Rptowo
+Tiger  Lkmhid Sejwqx Ydqbnp Tcipjg           1 Sejwqx
+Tiger  Lkmhid Sejwqx Ydqbnp Tcipjg           3 Tcipjg
+Tiger  Arbyep Timonm Fvraad Xyqgsx           1 Timonm
+Tiger  Lqprri Utjmjy Chenji Jgnocm           1 Utjmjy
+Tiger  Mvbxgo Osmwic Krynvh Wpjamh           3 Wpjamh
+Tiger  Zdayqs Rptowo Xuhivv Agchus           2 Xuhivv
+Tiger  Arbyep Timonm Fvraad Xyqgsx           3 Xyqgsx
+Tiger  Lkmhid Sejwqx Ydqbnp Tcipjg           2 Ydqbnp
+Tiger  Emwfwn Lugoci Bjuwnt Yrrftk           3 Yrrftk
+Tiger  Tkboea Znrlqs Dgktvy Iqtsne           1 Znrlqs
+<group_end>
+
+--- 78 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+LNAME      A          B          C          D          KEYCOL      VALCOL    
+---------- ---------- ---------- ---------- ---------- ----------- ----------
+<group_begin>
+Brown      Dcuwuj     Mnopbr     Cvkinp     Nrqfwk               2 Cvkinp    
+Brown      Hayptb     Temjdx     Mmjehp     Eiennb               3 Eiennb    
+Brown      Iwsvdd     Udbqwc     Sqanrg     Eyncrs               3 Eyncrs    
+Brown      Bfbixc     Mobuak     Uermsw     Hkkqhx               3 Hkkqhx    
+Brown      Hayptb     Temjdx     Mmjehp     Eiennb               2 Mmjehp    
+Brown      Dcuwuj     Mnopbr     Cvkinp     Nrqfwk               1 Mnopbr    
+Brown      Bfbixc     Mobuak     Uermsw     Hkkqhx               1 Mobuak    
+Brown      Dcuwuj     Mnopbr     Cvkinp     Nrqfwk               3 Nrqfwk    
+Brown      Iwsvdd     Udbqwc     Sqanrg     Eyncrs               2 Sqanrg    
+Brown      Hayptb     Temjdx     Mmjehp     Eiennb               1 Temjdx    
+Brown      Iwsvdd     Udbqwc     Sqanrg     Eyncrs               1 Udbqwc    
+Brown      Bfbixc     Mobuak     Uermsw     Hkkqhx               2 Uermsw    
+Green      Sswvmd     Zikvew     Buahrl     Yumcfe               2 Buahrl    
+Green      Ajnxgq     Dooxbw     Llpkfd     Eelpcs               1 Dooxbw    
+Green      Ajnxgq     Dooxbw     Llpkfd     Eelpcs               3 Eelpcs    
+Green      Cbddcm     Wyvrjy     Lpekfh     Jduliw               3 Jduliw    
+Green      Nhnyud     Yyluqj     Lhvvxe     Jqhlfs               3 Jqhlfs    
+Green      Vgunnf     Xvfxuj     Lascgu     Qvsxba               2 Lascgu    
+Green      Nhnyud     Yyluqj     Lhvvxe     Jqhlfs               2 Lhvvxe    
+Green      Ajnxgq     Dooxbw     Llpkfd     Eelpcs               2 Llpkfd    
+Green      Cbddcm     Wyvrjy     Lpekfh     Jduliw               2 Lpekfh    
+Green      Argvls     Tvgtba     Wqyjgy     Ohymcw               3 Ohymcw    
+Green      Vgunnf     Xvfxuj     Lascgu     Qvsxba               3 Qvsxba    
+Green      Argvls     Tvgtba     Wqyjgy     Ohymcw               1 Tvgtba    
+Green      Argvls     Tvgtba     Wqyjgy     Ohymcw               2 Wqyjgy    
+Green      Cbddcm     Wyvrjy     Lpekfh     Jduliw               1 Wyvrjy    
+Green      Vgunnf     Xvfxuj     Lascgu     Qvsxba               1 Xvfxuj    
+Green      Sswvmd     Zikvew     Buahrl     Yumcfe               3 Yumcfe    
+Green      Nhnyud     Yyluqj     Lhvvxe     Jqhlfs               1 Yyluqj    
+Green      Sswvmd     Zikvew     Buahrl     Yumcfe               1 Zikvew    
+Jones      Kodsvm     Bfqkjj     Viwynt     Kjofoh               1 Bfqkjj    
+Jones      Ajocap     Xmdens     Ghcxxv     Ciyjro               3 Ciyjro    
+Jones      Melbhv     Ctejxo     Tkfpfy     Xojbsq               1 Ctejxo    
+Jones      Ajocap     Xmdens     Ghcxxv     Ciyjro               2 Ghcxxv    
+Jones      Zebbno     Udbsmc     Gqkgqk     Iyjnxm               2 Gqkgqk    
+Jones      Wmxhew     Lojuas     Hdpuhc     Mgwmbj               2 Hdpuhc    
+Jones      Zebbno     Udbsmc     Gqkgqk     Iyjnxm               3 Iyjnxm    
+Jones      Kodsvm     Bfqkjj     Viwynt     Kjofoh               3 Kjofoh    
+Jones      Wmxhew     Lojuas     Hdpuhc     Mgwmbj               1 Lojuas    
+Jones      Wmxhew     Lojuas     Hdpuhc     Mgwmbj               3 Mgwmbj    
+Jones      Melbhv     Ctejxo     Tkfpfy     Xojbsq               2 Tkfpfy    
+Jones      Zebbno     Udbsmc     Gqkgqk     Iyjnxm               1 Udbsmc    
+Jones      Kodsvm     Bfqkjj     Viwynt     Kjofoh               2 Viwynt    
+Jones      Ajocap     Xmdens     Ghcxxv     Ciyjro               1 Xmdens    
+Jones      Melbhv     Ctejxo     Tkfpfy     Xojbsq               3 Xojbsq    
+Smith      Hlsvlr     Aqkcgf     Fyqkqv     Rhsvcy               1 Aqkcgf    
+Smith      Dsorqa     Bijluq     Xljayt     Qstovb               1 Bijluq    
+Smith      Baxryo     Vykugo     Bjmkfu     Wrvrhl               2 Bjmkfu    
+Smith      Iwxaib     Vlghwl     Devnku     Thyvgq               2 Devnku    
+Smith      Hlsvlr     Aqkcgf     Fyqkqv     Rhsvcy               2 Fyqkqv    
+Smith      Dsorqa     Bijluq     Xljayt     Qstovb               3 Qstovb    
+Smith      Hlsvlr     Aqkcgf     Fyqkqv     Rhsvcy               3 Rhsvcy    
+Smith      Iwxaib     Vlghwl     Devnku     Thyvgq               3 Thyvgq    
+Smith      Iwxaib     Vlghwl     Devnku     Thyvgq               1 Vlghwl    
+Smith      Baxryo     Vykugo     Bjmkfu     Wrvrhl               1 Vykugo    
+Smith      Baxryo     Vykugo     Bjmkfu     Wrvrhl               3 Wrvrhl    
+Smith      Dsorqa     Bijluq     Xljayt     Qstovb               2 Xljayt    
+Tiger      Zdayqs     Rptowo     Xuhivv     Agchus               3 Agchus    
+Tiger      Emwfwn     Lugoci     Bjuwnt     Yrrftk               2 Bjuwnt    
+Tiger      Lqprri     Utjmjy     Chenji     Jgnocm               2 Chenji    
+Tiger      Tkboea     Znrlqs     Dgktvy     Iqtsne               2 Dgktvy    
+Tiger      Arbyep     Timonm     Fvraad     Xyqgsx               2 Fvraad    
+Tiger      Tkboea     Znrlqs     Dgktvy     Iqtsne               3 Iqtsne    
+Tiger      Lqprri     Utjmjy     Chenji     Jgnocm               3 Jgnocm    
+Tiger      Mvbxgo     Osmwic     Krynvh     Wpjamh               2 Krynvh    
+Tiger      Emwfwn     Lugoci     Bjuwnt     Yrrftk               1 Lugoci    
+Tiger      Mvbxgo     Osmwic     Krynvh     Wpjamh               1 Osmwic    
+Tiger      Zdayqs     Rptowo     Xuhivv     Agchus               1 Rptowo    
+Tiger      Lkmhid     Sejwqx     Ydqbnp     Tcipjg               1 Sejwqx    
+Tiger      Lkmhid     Sejwqx     Ydqbnp     Tcipjg               3 Tcipjg    
+Tiger      Arbyep     Timonm     Fvraad     Xyqgsx               1 Timonm    
+Tiger      Lqprri     Utjmjy     Chenji     Jgnocm               1 Utjmjy    
+Tiger      Mvbxgo     Osmwic     Krynvh     Wpjamh               3 Wpjamh    
+Tiger      Zdayqs     Rptowo     Xuhivv     Agchus               2 Xuhivv    
+Tiger      Arbyep     Timonm     Fvraad     Xyqgsx               3 Xyqgsx    
+Tiger      Lkmhid     Sejwqx     Ydqbnp     Tcipjg               2 Ydqbnp    
+Tiger      Emwfwn     Lugoci     Bjuwnt     Yrrftk               3 Yrrftk    
+Tiger      Tkboea     Znrlqs     Dgktvy     Iqtsne               1 Znrlqs    
+<group_end>
+
+--- 78 row(s) selected.
+
+<section_end>

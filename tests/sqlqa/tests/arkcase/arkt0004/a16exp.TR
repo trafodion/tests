@@ -1,0 +1,267 @@
+<section_begin>  a16s0
+
+PKEY        COLA        COLB        (EXPR)        (EXPR)       
+----------- ----------- ----------- ------------- -------------
+<group_begin>
+          1          10          20            30           -10
+          2          30          30            60             0
+          3         160        NULL          NULL          NULL
+          4        NULL         170          NULL          NULL
+          5        NULL        NULL          NULL          NULL
+          6          10          40            50           -30
+          7          30          60            90           -30
+          8        NULL        NULL          NULL          NULL
+       NULL        NULL        NULL          NULL          NULL
+       NULL        NULL        NULL          NULL          NULL
+       NULL        NULL        NULL          NULL          NULL
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a16s1
+
+(EXPR)               (EXPR)               (EXPR)      (EXPR)     
+-------------------- -------------------- ----------- -----------
+                 240                   48         160          10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s2
+
+(EXPR)               (EXPR)               (EXPR)      (EXPR)     
+-------------------- -------------------- ----------- -----------
+                 320                   64         170          20
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s3
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                   5                   11
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s4
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                 560                  230
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s5
+
+PKEY        COLA        COLB        COLC       
+----------- ----------- ----------- -----------
+          2          30          30           5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s6
+
+(EXPR)               (EXPR)               (EXPR)              
+-------------------- -------------------- --------------------
+                   7                   17                    2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s7
+
+(EXPR)
+--------------------
+           280250.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s8
+
+PKEY        COLA        COLB        COLC       
+----------- ----------- ----------- -----------
+<group_begin>
+          1          10          20           5
+          6          10          40           5
+          7          30          60           5
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s9
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s10
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s11
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s12
+
+PKEY        COLA        COLB        COLC       
+----------- ----------- ----------- -----------
+<group_begin>
+          1          10          20           5
+          2          30          30           5
+          3         160        NULL          10
+          6          10          40           5
+          7          30          60           5
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a16s13
+
+PKEY        COLA       
+----------- -----------
+<group_begin>
+          1          10
+          6          10
+          7          30
+          2          30
+          3         160
+       NULL        NULL
+       NULL        NULL
+          8        NULL
+          4        NULL
+          5        NULL
+       NULL        NULL
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a16s14
+
+COLA
+-----------
+<group_begin>
+         10
+         30
+        160
+       NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s15
+
+FNAME                FNO  FNUM_DEP   
+-------------------- ---- -----------
+<group_begin>
+AL HARTLEY           85             7
+BARB HLAVATY         80             3
+JOE COHN             08             2
+KATHY PEPE           06             2
+JESSIE MARTYN        10             1
+LISA BOBAK           65             1
+JULIE MARTYN         60             1
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a16s16
+
+(EXPR)
+--------------------
+<group_begin>
+                 160
+                  80
+                NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s17
+
+(EXPR)
+--------------------
+<group_begin>
+            35000.00
+            35000.00
+            45000.00
+            42000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s18
+
+PKEY        COLA        COLB        COLC       
+----------- ----------- ----------- -----------
+<group_begin>
+          4        NULL         170           5
+          5        NULL        NULL          10
+          8        NULL        NULL        NULL
+       NULL        NULL        NULL        NULL
+       NULL        NULL        NULL        NULL
+       NULL        NULL        NULL        NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a16s19
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                 230                  230
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s20
+
+ENAME      DEPT
+---------- ----
+DA VINCI   NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s21
+
+DEPT (EXPR)              
+---- --------------------
+<group_begin>
+PHIL                    2
+MATH                    1
+THEO                    4
+ENG                     1
+NULL                    1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

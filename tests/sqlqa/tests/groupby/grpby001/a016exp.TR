@@ -1,0 +1,164 @@
+<section_begin>  a16s3
+
+(EXPR)
+------------------------
+                 10236.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s4
+
+(EXPR)
+------
+<group_begin>
+  NULL
+   100
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16s9
+
+(EXPR)
+-------------------------
+<group_begin>
+value = 1419             
+passed                   
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+value = 1407             
+NULL                     
+NULL                     
+NULL                     
+don't care for this value
+NULL                     
+NULL                     
+value = 1401             
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+don't care for this value
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+passed                   
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+passed                   
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+NULL                     
+<group_end>
+
+--- 50 row(s) selected.
+
+<section_end>
+<section_begin>  a16s10
+
+(EXPR)
+-------------------------
+<group_begin>
+value = 1419BB           
+value passed             
+NULL                     
+value = 1407             
+a large value            
+value = 1401             
+don't care for this value
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a16s11
+
+(EXPR)
+-------------------------
+<group_begin>
+value = 1419             
+passed                   
+NULL                     
+value = 1407             
+don't care for this value
+value = 1401             
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a16s12
+
+(EXPR)
+-------------------------
+<group_begin>
+value = 1419BB           
+value passed             
+NULL                     
+value = 1407             
+a large value            
+value = 1401             
+don't care for this value
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a16s13
+
+(EXPR)
+--------------------------
+<group_begin>
+19BB                      
+value passed              
+NULL                      
+7 found                   
+a large value             
+1 found                   
+do not care for this value
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a16s14
+
+(EXPR)
+-------------------------
+<group_begin>
+1419BB                   
+NULL                     
+7 found                  
+a large value            
+1 found                  
+don't care for this value
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

@@ -1,0 +1,49 @@
+<section_begin>  s1
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+NUM   A     B    
+----- ----- -----
+<group_begin>
+1990  1990  1990 
+1997  1998  1999 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+COLID       A     B     Count               
+----------- ----- ----- --------------------
+<group_begin>
+          1 1990  1990                     1
+          1 1998  1999                     1
+          2 1990  1990                     1
+          2 1998  1999                     1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+COLID       NUM   A     B     Count               
+----------- ----- ----- ----- --------------------
+<group_begin>
+          1 1990  1990  1990                     1
+          2 1990  1990  1990                     1
+          1 1997  1998  1999                     1
+          2 1997  1998  1999                     1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

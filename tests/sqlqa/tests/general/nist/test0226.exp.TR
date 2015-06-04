@@ -1,0 +1,14 @@
+<section_begin>  test0226
+
+EMPNUM EMPNAME             
+------ --------------------
+<group_begin>
+E1     Alice               
+E2     Betty               
+E3     Carmen              
+E4     Don                 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

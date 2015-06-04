@@ -1,0 +1,153 @@
+<section_begin>  a12s0
+
+VARCHAR13_100 CHAR14_20 SDEC13_UNIQ
+------------- --------- -----------
+<group_begin>
+AG            AB               4217
+AJAA          AE               3112
+AM            AC               3030
+AM            AC               3030
+AM            AC               3031
+AM            AC               3031
+AM            AC               3031
+AM            AC               3050
+AM            AD               3031
+AM            AE               3030
+AM            AE               3030
+AN            AC               3030
+ARAA          CC               1413
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a12s1
+
+CHAR14_20 VARCHAR15_UNIQ UDEC15_4   
+--------- -------------- -----------
+<group_begin>
+AB        FGAAAAAB              0.03
+AC        BEAAGAAC              0.00
+AC        BEAAGAAC              0.08
+AC        BEAAGAAC              0.12
+AC        BEAAGAAC              0.13
+AC        BEAAGAAD              0.00
+AC        BEAAGAAF              0.09
+AC        BEAAGAAG              0.10
+AD        BEAAGAAD              0.11
+AE        BEAAGAAC              0.06
+AE        BEAAGAAE              0.07
+AE        FJAAGAA               0.03
+CC        EJAAJAA               0.01
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a12s2
+
+(EXPR) (EXPR) (EXPR)     
+------ ------ -----------
+ARAA   CC            4217
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s3
+
+VARCHAR13_100 CHAR14_20 SDEC13_UNIQ
+------------- --------- -----------
+<group_begin>
+AG            AB               4217
+AJAA          AE               3112
+AM            AC               3030
+AM            AC               3031
+AM            AC               3050
+AM            AD               3031
+AM            AE               3030
+AN            AC               3030
+ARAA          CC               1413
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a12s4
+
+CHAR14_20 VARCHAR15_UNIQ UDEC15_4   
+--------- -------------- -----------
+<group_begin>
+AB        FGAAAAAB              0.03
+AC        BEAAGAAC              0.00
+AC        BEAAGAAC              0.08
+AC        BEAAGAAC              0.12
+AC        BEAAGAAC              0.13
+AC        BEAAGAAD              0.00
+AC        BEAAGAAF              0.09
+AC        BEAAGAAG              0.10
+AD        BEAAGAAD              0.11
+AE        BEAAGAAC              0.06
+AE        BEAAGAAE              0.07
+AE        FJAAGAA               0.03
+CC        EJAAJAA               0.01
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a12s5
+
+VARCHAR13_100 CHAR14_20 SDEC13_UNIQ  
+------------- --------- -------------
+<group_begin>
+AB            FGAAAAAB           0.03
+AC            BEAAGAAC           0.00
+AC            BEAAGAAC           0.08
+AC            BEAAGAAC           0.12
+AC            BEAAGAAC           0.13
+AC            BEAAGAAD           0.00
+AC            BEAAGAAF           0.09
+AC            BEAAGAAG           0.10
+AD            BEAAGAAD           0.11
+AE            BEAAGAAC           0.06
+AE            BEAAGAAE           0.07
+AE            FJAAGAA            0.03
+AG            AB              4217.00
+AJAA          AE              3112.00
+AM            AC              3030.00
+AM            AC              3031.00
+AM            AC              3050.00
+AM            AD              3031.00
+AM            AE              3030.00
+AN            AC              3030.00
+ARAA          CC              1413.00
+CC            EJAAJAA            0.01
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a12s6
+
+CHAR14_20 VARCHAR15_UNIQ UDEC15_4     
+--------- -------------- -------------
+<group_begin>
+AB        FGAAAAAB                0.03
+AC        BEAAGAAC                0.00
+AC        BEAAGAAC                0.08
+AC        BEAAGAAC                0.12
+AC        BEAAGAAC                0.13
+AC        BEAAGAAD                0.00
+AC        BEAAGAAF                0.09
+AC        BEAAGAAG                0.10
+AD        BEAAGAAD                0.11
+AE        BEAAGAAC                0.06
+AE        BEAAGAAE                0.07
+AE        FJAAGAA                 0.03
+ARAA      CC                   4217.00
+CC        EJAAJAA                 0.01
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>

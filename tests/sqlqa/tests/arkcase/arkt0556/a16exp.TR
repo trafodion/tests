@@ -1,0 +1,46 @@
+<section_begin>  a16s1
+
+SALARY
+----------
+<group_begin>
+  37000.00
+  39500.00
+ 175500.00
+  65000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s2
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+CLARK      DINAH          9000   74000.00              3
+CRINAR     JESSICA        3500   79000.00              2
+GREEN      ROGER          9000  175500.00              2
+HOWARD     JERRY          1000   97500.00              1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s3
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+CLARK      DINAH          9000   74000.00              3
+CRINAR     JESSICA        3500   79000.00              2
+GREEN      ROGER          9000  175500.00              2
+HOWARD     JERRY          1000   97500.00              1
+CLARK      DINAH          9000   74000.00              3
+CRINA      JESSICA        3500   39500.00              2
+GREEN      ROGER          9000  351000.00              2
+HOWAR      JERRY          1000   97500.00              1
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

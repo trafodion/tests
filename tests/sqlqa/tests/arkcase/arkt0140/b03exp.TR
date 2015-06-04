@@ -1,0 +1,24 @@
+<section_begin>  b03s0
+
+COL1   DATECOLUMNIS30CHARACTERSLONGGG INTERVALCOLIS30CHARACTERSLONGG
+------ ------------------------------ ------------------------------
+<group_begin>
+  2455 1988-05-01                     23                            
+    43 1967-09-12                      6                            
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b03s1
+
+INTERVALCOLIS30CHARACTERSLONGG DATECOLUMNIS30CHARACTERSLONGGG
+------------------------------ ------------------------------
+<group_begin>
+23                             1988-05-01                    
+ 6                             1967-09-12                    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

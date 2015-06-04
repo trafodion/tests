@@ -1,0 +1,137 @@
+<section_begin>  a05s0
+
+MDEFLT
+------
+<group_begin>
+ 3    
+ 0    
+NULL  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+M1
+----
+<group_begin>
+3   
+0   
+NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+M2
+----
+<group_begin>
+23  
+ 0  
+NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+M18
+-------------------
+<group_begin>
+123456789012345678 
+                 0 
+NULL               
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+MDEFLT
+------
+<group_begin>
+ 3    
+99    
+99    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+M1
+----
+<group_begin>
+3   
+9   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+M2
+----
+<group_begin>
+99  
+99  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+M18
+-------------------
+<group_begin>
+123456789012345678 
+                99 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>

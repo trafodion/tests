@@ -1,0 +1,63 @@
+<section_begin>  test002a
+
+(EXPR)
+----------
+        90
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test002b
+
+(EXPR)
+------
+Z     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test002c
+
+(EXPR)
+-------------
+          9.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test002d
+
+(EXPR)
+-------------
+         36.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test002e
+
+(EXPR)                   (EXPR)               
+------------------------ ---------------------
+This string and this one Or this one and this.
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test002f
+
+ANYTHING
+--------
+Who ME? 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test002g
+
+OK
+-----
+OK OK
+
+--- 1 row(s) selected.
+
+<section_end>

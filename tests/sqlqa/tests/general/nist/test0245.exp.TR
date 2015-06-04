@@ -1,0 +1,27 @@
+<section_begin>  test0245c
+
+NUMTEST
+-----------------
+0.123456789012345
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0245d
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0245g
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>

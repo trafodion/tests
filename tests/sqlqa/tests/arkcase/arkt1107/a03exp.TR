@@ -1,0 +1,210 @@
+<section_begin>  a03s0
+
+N1                   C2   C3   C4      
+-------------------- ---- ---- --------
+<group_begin>
+               -4344 AA   BA   BA      
+               -3552 BA   AA   AA      
+               -2789 DA   EA   NULL    
+               -2389 BA   AA   AA      
+                NULL NULL BA   BA      
+                NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+CHAR5_N20 CHAR6_N100 CHAR7_500 CHAR12_N2000 CHAR15_100 CHAR16_N20
+--------- ---------- --------- ------------ ---------- ----------
+<group_begin>
+AAAAAAAA  CQAAAAAA   EAAAGAAA  DBAAAAAB     ATAAAAAA   BE        
+AAAAAAAA  CQAAAAAA   EAAAGAAA  DBAAAAAB     ATAAAAAA   BE        
+ACAAAAAA  BPAAAAAA   CFAAEAAA  FKAAIAAA     BOAAAAAA   AE        
+CBAAAAAA  AWAAAAAA   DAAAGAAA  DEAAMAAA     ACAAAAAA   ADAA      
+CCAAAAAA  AJAAAAAA   EGAAGAAA  FIAAIAAA     CAAAAAAA   AB        
+DAAAAAAA  ALAAAAAA   DFAAIAAA  AGAAKAAB     BOAAAAAA   BCAA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+(EXPR)
+--------
+AA      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+9 varchar  Value D     5 var 3 v 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+9 varchar  Value D     5 var 3 v 
+CFAAEAAA   11 varchar  5 var 3 v 
+DFAAIAAA   11 varchar  5 var 3 v 
+EAAAGAAA   11 varchar  5 var 3 v 
+EAAAGAAA   11 varchar  5 var 3 v 
+daaagaaa   11 varchar  5 var 3 v 
+out of it  11 varchar  5 var 3 v 
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+(EXPR)
+---------
+-603     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+(EXPR)
+---------
+-603     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+N1                   C2   C3   C4      
+-------------------- ---- ---- --------
+<group_begin>
+               -4344 AA   BA   BA      
+               -3552 BA   AA   AA      
+               -2389 BA   AA   AA      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+-603       11 varchar  5 var 3 v 
+9 varchar  Value D     5 var 3 v 
+AA         BA          BA    AA  
+BA         AA          AA    BA  
+BA         AA          AA    BA  
+CFAAEAAA   11 varchar  5 var 3 v 
+DFAAIAAA   11 varchar  5 var 3 v 
+EAAAGAAA   11 varchar  5 var 3 v 
+EAAAGAAA   11 varchar  5 var 3 v 
+daaagaaa   11 varchar  5 var 3 v 
+out of it  11 varchar  5 var 3 v 
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a03s11
+
+SBIN0_UNIQ SBIN2_NUNIQ          SBIN6_NUNIQ          SDEC9_UNIQ           CHAR10_NUNIQ UDEC10_UNIQ CHAR11_UNIQ SBINNEG15_NUNIQ      SDEC16_UNIQ          SBIN17_UNIQ          SDEC17_NUNIQ        
+---------- -------------------- -------------------- -------------------- ------------ ----------- ----------- -------------------- -------------------- -------------------- --------------------
+<group_begin>
+      -201                -3766                -3766                  -60 AEAAJAAB            3766 EKAACAAE                   -4344                -2509               -37055                  -60
+      -200                -3766                -3766                  -60 AEAAJAAB            3766 EKAACAAE                   -4344                -2509               -37055                  -60
+      -101                 -772                 -772                -2086 CCAAFAAC             772 DKAADAAC                   -3552                -3678               -49700                -2086
+      -100                -2065                -2065                 -812 AIAALAAA            2065 CCAAKAAE                   -2389                -1594               -15935                 -812
+        -1                -2536                -2536                -4495 CGAABAAB            2536 DGAAHAAE                   -2789                -4417               -81017                -4495
+         0                 -284                 -284                -1802 EJAALAAE             284 EDAAAAAA                   -1950                 -866               -48764                -1802
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s12
+
+N1                   C2   C3   C4      
+-------------------- ---- ---- --------
+<group_begin>
+               -4344 AA   BA   BA      
+               -3552 BA   AA   AA      
+               -2389 BA   AA   AA      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s13
+
+C2   C3   C4       C2  
+---- ---- -------- ----
+<group_begin>
+AA   BA   BA       AA  
+BA   AA   AA       BA  
+BA   AA   AA       BA  
+DA   EA   NULL     DA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s14
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+AA         11 varchar  5 var 3 v 
+BA         11 varchar  5 var 3 v 
+DA         11 varchar  5 var 3 v 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s15
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+AA         11 varchar  5 var 3 v 
+AA         AA          5 var 3 v 
+AA         NULL        5 var 3 v 
+BA         11 varchar  5 var 3 v 
+BA         BA          5 var 3 v 
+DA         11 varchar  5 var 3 v 
+DA         DA          5 var 3 v 
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

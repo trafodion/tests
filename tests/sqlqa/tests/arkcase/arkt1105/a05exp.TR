@@ -1,0 +1,104 @@
+<section_begin>  a05s0
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abc                                                           1
+abd                                                           2
+abe                                                           3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abc                                                           1
+abd                                                           2
+abe                                                           3
+isolation level READ COMMITTED                               21
+per ardua ad astra                                           91
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abc                                                           1
+abd                                                           2
+abe                                                           3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+isolation level repeatable read                              22
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>

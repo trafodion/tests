@@ -1,0 +1,47 @@
+<section_begin>  a06s0
+
+A           B                    C          
+----------- -------------------- -----------
+<group_begin>
+          1                12345           2
+          2                23456           3
+          3                23456           4
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+*** ERROR[3241] This MERGE statement is not supported. Reason:  Non-unique ON clause not allowed with INSERT. [*]
+
+<section_end>
+<section_begin>  a06s4
+
+A           B                    C          
+----------- -------------------- -----------
+<group_begin>
+          1                12345           2
+          2                23456           3
+          3                23456           4
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+A           B                    C          
+----------- -------------------- -----------
+<group_begin>
+          1                12345           2
+<group_end>
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+*** ERROR[3241] This MERGE statement is not supported. Reason:  Non-unique ON clause not allowed with INSERT. [*]
+
+<section_end>

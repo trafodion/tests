@@ -1,0 +1,243 @@
+<section_begin>  a11s1
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+HOWARD     JERRY          1000   65000.00              1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s2
+
+CHAR0_AAZY_20 CHAR1_AAZZB_COLCASEINS_500 CHAR0_09_COLDESCAN_100
+------------- -------------------------- ----------------------
+<group_begin>
+a             ccAAAAAA                   00000060              
+g             cAAAAAAA                   00000057              
+h             VBAAAAAA                   00000059              
+a             OCAAAAAA                   00000057              
+b             zcAAAAAA                   00000057              
+f             tcAAAAAA                   00000058              
+e             wcAAAAAA                   00000059              
+f             WdAAAAAA                   00000056              
+e             RCAAAAAA                   00000057              
+c             ICAAAAAA                   00000006              
+c             RbAAAAAA                   00000055              
+g             rAAAAAAA                   00000059              
+e             ecAAAAAA                   00000055              
+g             NbAAAAAA                   00000057              
+h             JbAAAAAA                   00000006              
+b             YDAAAAAA                   00000006              
+c             DAAAAAAA                   00000057              
+a             xBAAAAAA                   00000058              
+i             KaAAAAAA                   00000057              
+a             FCAAAAAA                   00000058              
+e             SEAAAAAA                   00000056              
+d             seAAAAAA                   00000058              
+b             QEAAAAAA                   00000055              
+i             eAAAAAAA                   00000057              
+g             aCAAAAAA                   00000059              
+d             ScAAAAAA                   00000058              
+a             FaAAAAAA                   00000057              
+e             PEAAAAAA                   00000059              
+a             xCAAAAAA                   00000055              
+b             UBAAAAAA                   00000006              
+c             xBAAAAAA                   00000059              
+g             LeAAAAAA                   00000055              
+i             fbAAAAAA                   00000060              
+c             iDAAAAAA                   00000058              
+g             CEAAAAAA                   00000006              
+e             aAAAAAAA                   00000056              
+i             MBAAAAAA                   00000060              
+g             lAAAAAAA                   00000060              
+f             QBAAAAAA                   00000055              
+d             yCAAAAAA                   00000059              
+d             HCAAAAAA                   00000006              
+d             YeAAAAAA                   00000055              
+h             ucAAAAAA                   00000006              
+a             oeAAAAAA                   00000055              
+f             heAAAAAA                   00000056              
+i             bAAAAAA                    00000055              
+j             LBAAAAAA                   00000058              
+a             xeAAAAAA                   00000060              
+d             IEAAAAAA                   00000006              
+j             HeAAAAAA                   00000055              
+e             AcAAAAAA                   00000058              
+e             nCAAAAAA                   00000059              
+b             ceAAAAAA                   00000006              
+e             baAAAAAA                   00000056              
+a             PcAAAAAA                   00000059              
+a             lBAAAAAA                   00000058              
+g             TeAAAAAA                   00000055              
+<group_end>
+
+--- 57 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+CHAR0_N10 DATE1_N4   (EXPR)
+--------- ---------- ------
+AA        NULL       A     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+(EXPR)                            (EXPR)     (EXPR)
+--------------------------------- ---------- ------
+<group_begin>
+ABB                                        0 CAAB  
+AB                                         0 GAAG  
+DC                                         2 HAAC  
+D                                          2 HAAK  
+FB                                         0 AAAF  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s6
+
+CHAR0_AZAZ_20 (EXPR)
+------------- ------
+<group_begin>
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+adaaaaaa      adaa  
+<group_end>
+
+--- 75 row(s) selected.
+
+<section_end>
+<section_begin>  a11s7
+
+CHAR0_09_UNIQ (EXPR)
+------------- ------
+00001265      adaa  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s8
+
+CHAR0_09_UNIQ (EXPR)  
+------------- --------
+00001265      adaaiaaa
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s9
+
+(EXPR)
+-----------------------
+<group_begin>
+$0000.98BEAAAAAA       
+$0000.98BEAAAAAA       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s10
+
+(EXPR)
+-----------------------
+<group_begin>
+$0000.98BCAAAAAA       
+$0000.98BEAAAAAA       
+$0000.98BEAAAAAA       
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s11
+
+(EXPR)     (EXPR)     (EXPR)     (EXPR)     (EXPR)     (EXPR)    
+---------- ---------- ---------- ---------- ---------- ----------
+<group_begin>
+         0          0          1          1          1          1
+         0          0          1          1          1          1
+         0          0          1          1          1          1
+         0          0          1          1          1          1
+         0          0          1          1          1          1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

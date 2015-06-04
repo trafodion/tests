@@ -1,0 +1,688 @@
+<section_begin>  a21s3
+
+A
+-----------
+          1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s5
+
+B
+-----------
+<group_begin>
+          1
+          1
+          1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a21s11
+
+A
+------------------------
+                     1.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s13
+
+B
+------------------------
+                     1.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s15
+
+A
+------------------------
+                    1.25
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s17
+
+B
+------------------------
+                    1.25
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s21
+
+A
+------------------------
+                     1.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s23
+
+B
+------------------------
+                     1.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s25
+
+A
+-----------
+          1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s27
+
+B
+-----------
+<group_begin>
+          1
+          1
+          1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a21s33
+
+A
+------------------------
+                     1.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s35
+
+B
+------------------------
+                     1.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s37
+
+A
+------------------------
+                    1.25
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s39
+
+B
+------------------------
+                    1.25
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s41
+
+A
+------------------------
+                     1.5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s43
+
+B
+------------------------
+                     1.5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s45
+
+A
+------------------------
+                     1.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s47
+
+B
+------------------------
+                     1.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s55
+
+A
+-----------
+<group_begin>
+         -2
+         -1
+         -1
+          1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a21s57
+
+B
+-----------
+<group_begin>
+         -4
+         -2
+         -1
+          1
+          0
+          1
+          0
+          1
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a21s59
+
+A
+-----------
+<group_begin>
+         -2
+         -1
+         -1
+          1
+          2
+          2
+          2
+          2
+          2
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a21s61
+
+B
+-----------
+<group_begin>
+         -4
+         -2
+         -1
+          1
+          0
+          1
+          2
+          0
+          1
+          2
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a21s63
+
+A
+-----------
+<group_begin>
+         -2
+         -1
+         -1
+          1
+          2
+          2
+          2
+          2
+          2
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a21s65
+
+B
+-----------
+<group_begin>
+         -4
+         -2
+         -1
+          1
+          0
+          1
+          2
+          0
+          1
+          2
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a21s67
+
+A
+------------------------
+<group_begin>
+                    -1.2
+                    -1.0
+                    -0.8
+                    -0.6
+                    -0.4
+                    -0.2
+                     0.0
+                     0.2
+                     0.4
+                     0.6
+                     0.8
+                     1.0
+                    1.25
+                     1.5
+                    1.75
+                   1.825
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a21s69
+
+B
+------------------------
+<group_begin>
+                    -1.2
+                    -1.0
+                    -0.8
+                    -0.6
+                    -0.4
+                    -0.2
+                     0.0
+                     0.2
+                     0.4
+                     0.6
+                     0.8
+                     1.0
+                    1.25
+                     1.5
+                    1.75
+                   1.825
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a21s71
+
+A
+------------------------
+<group_begin>
+                    -1.2
+                    -1.0
+                    -0.8
+                    -0.6
+                    -0.4
+                    -0.2
+                     0.0
+                     0.2
+                     0.4
+                     0.6
+                     0.8
+                     1.0
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a21s73
+
+B
+------------------------
+<group_begin>
+                    -1.2
+                    -1.0
+                    -0.8
+                    -0.6
+                    -0.4
+                    -0.2
+                     0.0
+                     0.2
+                     0.4
+                     0.6
+                     0.8
+                     1.0
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a21s75
+
+A
+------------------------
+<group_begin>
+                    -1.2
+                    -1.0
+                    -0.8
+                    -0.6
+                    -0.4
+                    -0.2
+                     0.0
+                     0.2
+                     0.4
+                     0.6
+                     0.8
+                     1.0
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a21s77
+
+B
+------------------------
+<group_begin>
+                    -1.2
+                    -1.0
+                    -0.8
+                    -0.6
+                    -0.4
+                    -0.2
+                     0.0
+                     0.2
+                     0.4
+                     0.6
+                     0.8
+                     1.0
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a21s79
+
+A
+------------------------
+<group_begin>
+                    -1.2
+                    -1.0
+                    -0.8
+                    -0.6
+                    -0.4
+                    -0.2
+                     0.0
+                     0.2
+                     0.4
+                     0.6
+                     0.8
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a21s81
+
+B
+------------------------
+<group_begin>
+                    -1.2
+                    -1.0
+                    -0.8
+                    -0.6
+                    -0.4
+                    -0.2
+                     0.0
+                     0.2
+                     0.4
+                     0.6
+                     0.8
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a21s83
+
+A                        A          
+------------------------ -----------
+<group_begin>
+                    -1.0          -1
+                    -1.0          -1
+                     1.0           1
+                     2.0           2
+                     2.0           2
+                     2.0           2
+                     2.0           2
+                     2.0           2
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a21s85
+
+B                        B          
+------------------------ -----------
+<group_begin>
+                    -1.0          -1
+                     1.0           1
+                     0.0           0
+                     1.0           1
+                     2.0           2
+                     0.0           0
+                     1.0           1
+                     2.0           2
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a21s87
+
+A           A                       
+----------- ------------------------
+<group_begin>
+         -1                     -1.0
+         -1                     -1.0
+          1                      1.0
+          2                      2.0
+          2                      2.0
+          2                      2.0
+          2                      2.0
+          2                      2.0
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a21s89
+
+B           B                       
+----------- ------------------------
+<group_begin>
+         -1                     -1.0
+          0                      0.0
+          0                      0.0
+          1                      1.0
+          1                      1.0
+          1                      1.0
+          2                      2.0
+          2                      2.0
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a21s91
+
+B                        A                       
+------------------------ ------------------------
+<group_begin>
+                    -1.2                     -1.2
+                    -1.0                     -1.0
+                    -0.8                     -0.8
+                    -0.6                     -0.6
+                    -0.4                     -0.4
+                    -0.2                     -0.2
+                     0.0                      0.0
+                     0.2                      0.2
+                     0.4                      0.4
+                     0.6                      0.6
+                     0.8                      0.8
+                     1.0                      1.0
+                    1.25                     1.25
+                     1.5                      1.5
+                    1.75                     1.75
+                   1.825                    1.825
+                     2.0                      2.0
+                     2.2                      2.2
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a21s93
+
+B                        B                       
+------------------------ ------------------------
+<group_begin>
+                    -1.2                     -1.2
+                    -1.0                     -1.0
+                    -0.8                     -0.8
+                    -0.6                     -0.6
+                    -0.4                     -0.4
+                    -0.2                     -0.2
+                     0.0                      0.0
+                     0.2                      0.2
+                     0.4                      0.4
+                     0.6                      0.6
+                     0.8                      0.8
+                     1.0                      1.0
+                    1.25                     1.25
+                     1.5                      1.5
+                    1.75                     1.75
+                   1.825                    1.825
+                     2.0                      2.0
+                     2.2                      2.2
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a21s95
+
+A           B           A                        B                       
+----------- ----------- ------------------------ ------------------------
+<group_begin>
+         -1          -2                     -1.0                     -1.0
+         -1          -2                     -0.8                     -0.8
+         -1          -2                     -0.6                     -0.6
+         -1          -2                     -0.4                     -0.4
+         -1          -2                     -0.2                     -0.2
+         -1          -1                     -1.0                     -1.0
+         -1          -1                     -0.8                     -0.8
+         -1          -1                     -0.6                     -0.6
+         -1          -1                     -0.4                     -0.4
+         -1          -1                     -0.2                     -0.2
+          1           1                      1.0                      1.0
+          1           1                     1.25                     1.25
+          1           1                      1.5                      1.5
+          1           1                     1.75                     1.75
+          1           1                    1.825                    1.825
+          2           0                      2.0                      2.0
+          2           0                      2.2                      2.2
+          2           1                      2.0                      2.0
+          2           1                      2.2                      2.2
+          2           2                      2.0                      2.0
+          2           2                      2.2                      2.2
+          2           3                      2.2                      2.2
+          2           4                      2.2                      2.2
+<group_end>
+
+--- 23 row(s) selected.
+
+<section_end>
+<section_begin>  a21s97
+
+A           B           A                        B                       
+----------- ----------- ------------------------ ------------------------
+<group_begin>
+         -1          -2                     -0.8                     -0.8
+         -1          -2                     -0.6                     -0.6
+         -1          -2                     -0.4                     -0.4
+         -1          -2                     -0.2                     -0.2
+         -1          -2                      0.0                      0.0
+         -1          -2                      0.2                      0.2
+         -1          -2                      0.4                      0.4
+         -1          -2                      0.6                      0.6
+         -1          -2                      0.8                      0.8
+         -1          -2                      1.0                      1.0
+         -1          -2                     1.25                     1.25
+         -1          -2                      1.5                      1.5
+         -1          -2                     1.75                     1.75
+         -1          -2                    1.825                    1.825
+         -1          -2                      2.0                      2.0
+         -1          -2                      2.2                      2.2
+         -1          -1                     -0.8                     -0.8
+         -1          -1                     -0.6                     -0.6
+         -1          -1                     -0.4                     -0.4
+         -1          -1                     -0.2                     -0.2
+         -1          -1                      0.0                      0.0
+         -1          -1                      0.2                      0.2
+         -1          -1                      0.4                      0.4
+         -1          -1                      0.6                      0.6
+         -1          -1                      0.8                      0.8
+         -1          -1                      1.0                      1.0
+         -1          -1                     1.25                     1.25
+         -1          -1                      1.5                      1.5
+         -1          -1                     1.75                     1.75
+         -1          -1                    1.825                    1.825
+         -1          -1                      2.0                      2.0
+         -1          -1                      2.2                      2.2
+          1           1                     1.25                     1.25
+          1           1                      1.5                      1.5
+          1           1                     1.75                     1.75
+          1           1                    1.825                    1.825
+          1           1                      2.0                      2.0
+          1           1                      2.2                      2.2
+          2           0                      2.2                      2.2
+          2           1                      2.2                      2.2
+          2           2                      2.2                      2.2
+<group_end>
+
+--- 41 row(s) selected.
+
+<section_end>
+<section_begin>  a21s99
+
+A
+-----------
+<group_begin>
+      -2.00
+      -1.00
+       0.00
+       1.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

@@ -1,0 +1,116 @@
+<section_begin>  a26s0
+
+Z        (EXPR)      (EXPR) (EXPR) (EXPR)                   (EXPR)                   (EXPR) (EXPR)                  
+-------- ----------- ------ ------ ------------------------ ------------------------ ------ ------------------------
+<group_begin>
+Row01              0      1     -1                      1.0                      0.0      0    -7.416666666666666E-9
+Row07              0      0      1                      0.0                      0.0      0      0.17085701266608472
+Row02              2      0      0                      1.0                      0.0     -1     -0.12248029829220708
+Row04              0      0      2                      1.0                      0.0      0      0.22381468337544536
+Row05              2      1     -1                      1.0                      0.0     -1       -0.201396221691115
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a26s1
+
+Z        ZI2         (EXPR)                   (EXPR)                   (EXPR)                  
+-------- ----------- ------------------------ ------------------------ ------------------------
+NULL               9                      1.0                      1.0                      1.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a26s2
+
+Z        (EXPR)                   (EXPR)      (EXPR)
+-------- ------------------------ ----------- ------
+<group_begin>
+Row01          0.6989700043360189           0      0
+Row02          0.6989700043360189           0      0
+Row03                         0.0           0      0
+Row05          0.3010299956639812           0      0
+Row08          0.6989700043360189           0      0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a26s3
+
+(EXPR) (EXPR)                   (EXPR)                   (EXPR)               (EXPR)              
+------ ------------------------ ------------------------ -------------------- --------------------
+<group_begin>
+    -1         93174.3733866435                      2.0                    8                    0
+    -1         93174.3733866435                      2.0                    8                    0
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a26s5
+
+(EXPR)   (EXPR)
+-------- ------
+<group_begin>
+Row08         0
+Row09         1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a26s6
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a26s7
+
+Z        F4                       F5             
+-------- ------------------------ ---------------
+<group_begin>
+Row06                     -0.6958       -0.798675
+Row08       4.0876000000000006E-5            -1.0
+Row07                     0.57308      -0.9863367
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a26s8
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a26s9
+
+C3       (EXPR)
+-------- ------
+<group_begin>
+Row06         0
+Row07         0
+Row08         0
+aaa           0
+aab           0
+aac           0
+aba           0
+abb           0
+abc           0
+aca           0
+acb           0
+NULL          0
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>

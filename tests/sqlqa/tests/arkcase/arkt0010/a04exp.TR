@@ -1,0 +1,114 @@
+<section_begin>  a04s0
+
+CHAR_1 DECIMAL_1
+------ ---------
+<group_begin>
+C              8
+D              7
+A              5
+D              5
+A              4
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+VAR_CHAR                                                                                                                         BINARY_64_S          PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- ------------
+<group_begin>
+B                                                                                                                                             200.000           50
+B                                                                                                                                            1200.000           60
+jimmy                                                                                                                                        1500.000          500
+marilyn                                                                                                                                      2000.000          500
+thomas                                                                                                                                       2000.000          500
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+(EXPR)           NEW_NAME_1 NEW_NAME_3
+---------------- ---------- ----------
+<group_begin>
+            6400         80 7         
+            6400         80 B         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+PIC_X_B
+-------
+<group_begin>
+B      
+D      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+COL_6 PIC_X_A COL_1  PIC_X_B PIC_X_C
+----- ------- ------ ------- -------
+<group_begin>
+   50 joe        100 A       jo     
+   50 joe        100 C       go     
+   50 joe        300 B       to     
+   50 pam        900 D       al     
+   50 sue        200 D       so     
+   50 sue        300 C       by     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+PIC_1 LARGE_INT           
+----- --------------------
+<group_begin>
+B                     1000
+B                     2000
+E                      100
+X                      200
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+PIC_X_5
+-------
+<group_begin>
+      0
+      3
+      4
+      5
+      7
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+DECIMAL_10
+------------
+<group_begin>
+          90
+         100
+         110
+       10000
+       50000
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

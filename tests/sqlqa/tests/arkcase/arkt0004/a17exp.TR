@@ -1,0 +1,1067 @@
+<section_begin>  a17s0
+
+ENAME      ETITLE     ESALARY     DEPT DEPT DBLD DROOM DCHFNO
+---------- ---------- ----------- ---- ---- ---- ----- ------
+<group_begin>
+DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s1
+
+ENAME      ESALARY     DEPT DBLD DROOM
+---------- ----------- ---- ---- -----
+<group_begin>
+DICK NIX         25001 PHIL HU   100  
+HANK KISS        25000 PHIL HU   100  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s2
+
+CNAME                  CLABFEE DCHFNO
+---------------------- ------- ------
+<group_begin>
+COMMUNISM               200.00 10    
+EXISTENTIALISM          200.00 60    
+RELATIONAL DATABASES    500.00 80    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a17s3
+
+ENAME      ETITLE    
+---------- ----------
+<group_begin>
+DICK NIX   CROOK     
+HANK KISS  JESTER    
+JOHN       EVANGLIST4
+LUKE       EVANGLIST3
+MARK       EVANGLIST2
+MATTHEW    EVANGLIST1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s4
+
+DBLD DROOM
+---- -----
+<group_begin>
+HU   200  
+HU   200  
+HU   200  
+HU   200  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a17s5
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT DEPT DBLD DROOM DCHFNO
+---- ---------------------- ------------------------- ----------- ------- ----- ---- ---- ----- ------
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS   CIS  SC   300   80    
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS   CIS  SC   300   80    
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS   CIS  SC   300   80    
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS   CIS  SC   300   80    
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS   CIS  SC   300   80    
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS   CIS  SC   300   80    
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL  PHIL HU   100   60    
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL  PHIL HU   100   60    
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL  PHIL HU   100   60    
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL  PHIL HU   100   60    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO  THEO HU   200   10    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO  THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO  THEO HU   200   10    
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO  THEO HU   200   10    
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a17s6
+
+DEPT DBLD DROOM DCHFNO CNO  CNAME                  CDESCP                    CRED        CLABFEE
+---- ---- ----- ------ ---- ---------------------- ------------------------- ----------- -------
+<group_begin>
+CIS  SC   300   80     C11  INTRO TO CS            FOR ROOKIES                         3  100.00
+CIS  SC   300   80     C22  DATA STRUCTURES        VERY USEFUL                         3   50.00
+CIS  SC   300   80     C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00
+CIS  SC   300   80     C44  DIGITAL CIRCUITS       AH HA!                              3    0.00
+CIS  SC   300   80     C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00
+CIS  SC   300   80     C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00
+PHIL HU   100   60     P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00
+PHIL HU   100   60     P22  RATIONALISM            FOR CIS MAJORS                      3   50.00
+PHIL HU   100   60     P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00
+PHIL HU   100   60     P44  SOLIPSISM              MY SELF AND I                       6    0.00
+THEO HU   200   10     T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00
+THEO HU   200   10     T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00
+THEO HU   200   10     T33  HEDONISM               FOR THE SANE                        3    0.00
+THEO HU   200   10     T44  COMMUNISM              FOR THE GREEDY                      6  200.00
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a17s7
+
+CNAME                  CLABFEE DCHFNO
+---------------------- ------- ------
+<group_begin>
+SCHOLASTICISM           150.00 10    
+COMMUNISM               200.00 10    
+EXISTENTIALISM          200.00 60    
+RELATIONAL DATABASES    500.00 80    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a17s8
+
+CNO  CNAME                 
+---- ----------------------
+<group_begin>
+P44  SOLIPSISM             
+P33  EXISTENTIALISM        
+P22  RATIONALISM           
+P11  EMPIRICISM            
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a17s9
+
+DBLD DROOM
+---- -----
+HU   100  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s10
+
+(EXPR)
+--------------------
+               50001
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s11
+
+ENAME      ESALARY     CNO  CRED        (EXPR)              
+---------- ----------- ---- ----------- --------------------
+<group_begin>
+DICK NIX         25001 P11            3        8333.66666666
+DICK NIX         25001 P22            3        8333.66666666
+DICK NIX         25001 P33            3        8333.66666666
+DICK NIX         25001 P44            6        4166.83333333
+HANK KISS        25000 P11            3        8333.33333333
+HANK KISS        25000 P22            3        8333.33333333
+HANK KISS        25000 P33            3        8333.33333333
+HANK KISS        25000 P44            6        4166.66666666
+JOHN                54 T11            3          18.00000000
+JOHN                54 T12            3          18.00000000
+JOHN                54 T33            3          18.00000000
+JOHN                54 T44            6           9.00000000
+LUKE                53 T11            3          17.66666666
+LUKE                53 T12            3          17.66666666
+LUKE                53 T33            3          17.66666666
+LUKE                53 T44            6           8.83333333
+MARK                52 T11            3          17.33333333
+MARK                52 T12            3          17.33333333
+MARK                52 T33            3          17.33333333
+MARK                52 T44            6           8.66666666
+MATTHEW             51 T11            3          17.00000000
+MATTHEW             51 T12            3          17.00000000
+MATTHEW             51 T33            3          17.00000000
+MATTHEW             51 T44            6           8.50000000
+<group_end>
+
+--- 24 row(s) selected.
+
+<section_end>
+<section_begin>  a17s12
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+<group_begin>
+               87.50                25000
+              110.00                   52
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s13
+
+(EXPR)  (EXPR) 
+------- -------
+ 500.00    0.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s14
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s15
+
+ENAME      ESALARY     CLABFEE (EXPR)         
+---------- ----------- ------- ---------------
+<group_begin>
+JOHN                54  150.00           96.00
+JOHN                54  200.00          146.00
+LUKE                53  150.00           97.00
+LUKE                53  200.00          147.00
+MARK                52  150.00           98.00
+MARK                52  200.00          148.00
+MATTHEW             51  150.00           99.00
+MATTHEW             51  200.00          149.00
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a17s16
+
+DEPT (EXPR)               (EXPR)              
+---- -------------------- --------------------
+<group_begin>
+PHIL                50001                25000
+THEO                  210                   52
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s17
+
+CNAME                  (EXPR)              
+---------------------- --------------------
+<group_begin>
+COMMUNISM                                 4
+EMPIRICISM                                2
+EXISTENTIALISM                            2
+FUNDAMENTALISM                            4
+HEDONISM                                  4
+RATIONALISM                               2
+SCHOLASTICISM                             4
+SOLIPSISM                                 2
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a17s18
+
+DEPT
+----
+THEO
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s19
+
+DEPT (EXPR)              
+---- --------------------
+<group_begin>
+PHIL                    2
+THEO                    4
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s20
+
+DEPT (EXPR)              
+---- --------------------
+<group_begin>
+PHIL                    2
+THEO                    4
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s21
+
+CNO  ENAME      ETITLE     DBLD DROOM
+---- ---------- ---------- ---- -----
+<group_begin>
+P11  DICK NIX   CROOK      HU   100  
+P11  HANK KISS  JESTER     HU   100  
+P22  DICK NIX   CROOK      HU   100  
+P22  HANK KISS  JESTER     HU   100  
+P33  DICK NIX   CROOK      HU   100  
+P33  HANK KISS  JESTER     HU   100  
+P44  DICK NIX   CROOK      HU   100  
+P44  HANK KISS  JESTER     HU   100  
+T11  JOHN       EVANGLIST4 HU   200  
+T11  LUKE       EVANGLIST3 HU   200  
+T11  MARK       EVANGLIST2 HU   200  
+T11  MATTHEW    EVANGLIST1 HU   200  
+T12  JOHN       EVANGLIST4 HU   200  
+T12  LUKE       EVANGLIST3 HU   200  
+T12  MARK       EVANGLIST2 HU   200  
+T12  MATTHEW    EVANGLIST1 HU   200  
+T33  JOHN       EVANGLIST4 HU   200  
+T33  LUKE       EVANGLIST3 HU   200  
+T33  MARK       EVANGLIST2 HU   200  
+T33  MATTHEW    EVANGLIST1 HU   200  
+T44  JOHN       EVANGLIST4 HU   200  
+T44  LUKE       EVANGLIST3 HU   200  
+T44  MARK       EVANGLIST2 HU   200  
+T44  MATTHEW    EVANGLIST1 HU   200  
+<group_end>
+
+--- 24 row(s) selected.
+
+<section_end>
+<section_begin>  a17s22
+
+CNO  ENAME      ETITLE     DBLD DROOM
+---- ---------- ---------- ---- -----
+<group_begin>
+P11  DICK NIX   CROOK      HU   100  
+P11  HANK KISS  JESTER     HU   100  
+P22  DICK NIX   CROOK      HU   100  
+P22  HANK KISS  JESTER     HU   100  
+P33  DICK NIX   CROOK      HU   100  
+P33  HANK KISS  JESTER     HU   100  
+P44  DICK NIX   CROOK      HU   100  
+P44  HANK KISS  JESTER     HU   100  
+T11  JOHN       EVANGLIST4 HU   200  
+T11  LUKE       EVANGLIST3 HU   200  
+T11  MARK       EVANGLIST2 HU   200  
+T11  MATTHEW    EVANGLIST1 HU   200  
+T12  JOHN       EVANGLIST4 HU   200  
+T12  LUKE       EVANGLIST3 HU   200  
+T12  MARK       EVANGLIST2 HU   200  
+T12  MATTHEW    EVANGLIST1 HU   200  
+T33  JOHN       EVANGLIST4 HU   200  
+T33  LUKE       EVANGLIST3 HU   200  
+T33  MARK       EVANGLIST2 HU   200  
+T33  MATTHEW    EVANGLIST1 HU   200  
+T44  JOHN       EVANGLIST4 HU   200  
+T44  LUKE       EVANGLIST3 HU   200  
+T44  MARK       EVANGLIST2 HU   200  
+T44  MATTHEW    EVANGLIST1 HU   200  
+<group_end>
+
+--- 24 row(s) selected.
+
+<section_end>
+<section_begin>  a17s23
+
+ENAME      ETITLE     ESALARY     DEPT DEPT DBLD DROOM DCHFNO
+---------- ---------- ----------- ---- ---- ---- ----- ------
+<group_begin>
+ARCHIMEDES LAB ASSIST         200 ENG  CIS  SC   300   80    
+ARCHIMEDES LAB ASSIST         200 ENG  MGT  SC   100   NULL  
+ARCHIMEDES LAB ASSIST         200 ENG  PHIL HU   100   60    
+ARCHIMEDES LAB ASSIST         200 ENG  THEO HU   200   10    
+DA VINCI   LAB ASSIST         500 NULL CIS  SC   300   80    
+DA VINCI   LAB ASSIST         500 NULL MGT  SC   100   NULL  
+DA VINCI   LAB ASSIST         500 NULL PHIL HU   100   60    
+DA VINCI   LAB ASSIST         500 NULL THEO HU   200   10    
+DICK NIX   CROOK            25001 PHIL CIS  SC   300   80    
+DICK NIX   CROOK            25001 PHIL MGT  SC   100   NULL  
+DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+DICK NIX   CROOK            25001 PHIL THEO HU   200   10    
+EUCLID     LAB ASSIST        1000 MATH CIS  SC   300   80    
+EUCLID     LAB ASSIST        1000 MATH MGT  SC   100   NULL  
+EUCLID     LAB ASSIST        1000 MATH PHIL HU   100   60    
+EUCLID     LAB ASSIST        1000 MATH THEO HU   200   10    
+HANK KISS  JESTER           25000 PHIL CIS  SC   300   80    
+HANK KISS  JESTER           25000 PHIL MGT  SC   100   NULL  
+HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+HANK KISS  JESTER           25000 PHIL THEO HU   200   10    
+JOHN       EVANGLIST4          54 THEO CIS  SC   300   80    
+JOHN       EVANGLIST4          54 THEO MGT  SC   100   NULL  
+JOHN       EVANGLIST4          54 THEO PHIL HU   100   60    
+JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+LUKE       EVANGLIST3          53 THEO CIS  SC   300   80    
+LUKE       EVANGLIST3          53 THEO MGT  SC   100   NULL  
+LUKE       EVANGLIST3          53 THEO PHIL HU   100   60    
+LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+MARK       EVANGLIST2          52 THEO CIS  SC   300   80    
+MARK       EVANGLIST2          52 THEO MGT  SC   100   NULL  
+MARK       EVANGLIST2          52 THEO PHIL HU   100   60    
+MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+MATTHEW    EVANGLIST1          51 THEO CIS  SC   300   80    
+MATTHEW    EVANGLIST1          51 THEO MGT  SC   100   NULL  
+MATTHEW    EVANGLIST1          51 THEO PHIL HU   100   60    
+MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+<group_end>
+
+--- 36 row(s) selected.
+
+<section_end>
+<section_begin>  a17s24
+
+DEPT ENAME      ENAME     
+---- ---------- ----------
+<group_begin>
+THEO LUKE       LUKE      
+THEO LUKE       JOHN      
+THEO LUKE       MATTHEW   
+THEO LUKE       MARK      
+THEO MARK       LUKE      
+THEO MARK       JOHN      
+THEO MARK       MATTHEW   
+THEO MARK       MARK      
+THEO MATTHEW    LUKE      
+THEO MATTHEW    JOHN      
+THEO MATTHEW    MATTHEW   
+THEO MATTHEW    MARK      
+PHIL DICK NIX   DICK NIX  
+PHIL DICK NIX   HANK KISS 
+PHIL HANK KISS  DICK NIX  
+PHIL HANK KISS  HANK KISS 
+THEO JOHN       LUKE      
+THEO JOHN       JOHN      
+THEO JOHN       MATTHEW   
+THEO JOHN       MARK      
+MATH EUCLID     EUCLID    
+ENG  ARCHIMEDES ARCHIMEDES
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a17s25
+
+DEPT ENAME      ENAME     
+---- ---------- ----------
+<group_begin>
+PHIL DICK NIX   HANK KISS 
+THEO MARK       MATTHEW   
+THEO JOHN       MARK      
+THEO JOHN       MATTHEW   
+THEO JOHN       LUKE      
+THEO LUKE       MARK      
+THEO LUKE       MATTHEW   
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a17s26
+
+DEPT ENAME      ENAME     
+---- ---------- ----------
+<group_begin>
+PHIL HANK KISS  DICK NIX  
+THEO MARK       JOHN      
+THEO MARK       LUKE      
+THEO MATTHEW    MARK      
+THEO MATTHEW    JOHN      
+THEO MATTHEW    LUKE      
+THEO LUKE       JOHN      
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a17s27
+
+ENAME      ESALARY     CNAME                  CLABFEE
+---------- ----------- ---------------------- -------
+<group_begin>
+ARCHIMEDES         200 RELATIONAL DATABASES    500.00
+JOHN                54 COMMUNISM               200.00
+JOHN                54 COMPUTER ARCH.          100.00
+JOHN                54 EMPIRICISM              100.00
+JOHN                54 EXISTENTIALISM          200.00
+JOHN                54 FUNDAMENTALISM           90.00
+JOHN                54 INTRO TO CS             100.00
+JOHN                54 RELATIONAL DATABASES    500.00
+JOHN                54 SCHOLASTICISM           150.00
+LUKE                53 COMMUNISM               200.00
+LUKE                53 COMPUTER ARCH.          100.00
+LUKE                53 EMPIRICISM              100.00
+LUKE                53 EXISTENTIALISM          200.00
+LUKE                53 FUNDAMENTALISM           90.00
+LUKE                53 INTRO TO CS             100.00
+LUKE                53 RELATIONAL DATABASES    500.00
+LUKE                53 SCHOLASTICISM           150.00
+MARK                52 COMMUNISM               200.00
+MARK                52 COMPUTER ARCH.          100.00
+MARK                52 EMPIRICISM              100.00
+MARK                52 EXISTENTIALISM          200.00
+MARK                52 FUNDAMENTALISM           90.00
+MARK                52 INTRO TO CS             100.00
+MARK                52 RELATIONAL DATABASES    500.00
+MARK                52 SCHOLASTICISM           150.00
+MATTHEW             51 COMMUNISM               200.00
+MATTHEW             51 COMPUTER ARCH.          100.00
+MATTHEW             51 EMPIRICISM              100.00
+MATTHEW             51 EXISTENTIALISM          200.00
+MATTHEW             51 FUNDAMENTALISM           90.00
+MATTHEW             51 INTRO TO CS             100.00
+MATTHEW             51 RELATIONAL DATABASES    500.00
+MATTHEW             51 SCHOLASTICISM           150.00
+<group_end>
+
+--- 33 row(s) selected.
+
+<section_end>
+<section_begin>  a17s28
+
+ENAME      ESALARY     CNAME                  CLABFEE
+---------- ----------- ---------------------- -------
+<group_begin>
+DICK NIX         25001 INTRO TO CS             100.00
+HANK KISS        25000 INTRO TO CS             100.00
+EUCLID            1000 INTRO TO CS             100.00
+ARCHIMEDES         200 INTRO TO CS             100.00
+DA VINCI           500 INTRO TO CS             100.00
+LUKE                53 DATA STRUCTURES          50.00
+MARK                52 DATA STRUCTURES          50.00
+MATTHEW             51 DATA STRUCTURES          50.00
+DICK NIX         25001 DATA STRUCTURES          50.00
+HANK KISS        25000 DATA STRUCTURES          50.00
+JOHN                54 DATA STRUCTURES          50.00
+EUCLID            1000 DATA STRUCTURES          50.00
+ARCHIMEDES         200 DATA STRUCTURES          50.00
+DA VINCI           500 DATA STRUCTURES          50.00
+LUKE                53 DISCREET MATHEMATICS      0.00
+MARK                52 DISCREET MATHEMATICS      0.00
+MATTHEW             51 DISCREET MATHEMATICS      0.00
+DICK NIX         25001 DISCREET MATHEMATICS      0.00
+HANK KISS        25000 DISCREET MATHEMATICS      0.00
+JOHN                54 DISCREET MATHEMATICS      0.00
+EUCLID            1000 DISCREET MATHEMATICS      0.00
+ARCHIMEDES         200 DISCREET MATHEMATICS      0.00
+DA VINCI           500 DISCREET MATHEMATICS      0.00
+LUKE                53 DIGITAL CIRCUITS          0.00
+MARK                52 DIGITAL CIRCUITS          0.00
+MATTHEW             51 DIGITAL CIRCUITS          0.00
+DICK NIX         25001 DIGITAL CIRCUITS          0.00
+HANK KISS        25000 DIGITAL CIRCUITS          0.00
+JOHN                54 DIGITAL CIRCUITS          0.00
+EUCLID            1000 DIGITAL CIRCUITS          0.00
+ARCHIMEDES         200 DIGITAL CIRCUITS          0.00
+DA VINCI           500 DIGITAL CIRCUITS          0.00
+DICK NIX         25001 COMPUTER ARCH.          100.00
+HANK KISS        25000 COMPUTER ARCH.          100.00
+EUCLID            1000 COMPUTER ARCH.          100.00
+ARCHIMEDES         200 COMPUTER ARCH.          100.00
+DA VINCI           500 COMPUTER ARCH.          100.00
+DICK NIX         25001 RELATIONAL DATABASES    500.00
+HANK KISS        25000 RELATIONAL DATABASES    500.00
+EUCLID            1000 RELATIONAL DATABASES    500.00
+DICK NIX         25001 EMPIRICISM              100.00
+HANK KISS        25000 EMPIRICISM              100.00
+EUCLID            1000 EMPIRICISM              100.00
+ARCHIMEDES         200 EMPIRICISM              100.00
+DA VINCI           500 EMPIRICISM              100.00
+LUKE                53 RATIONALISM              50.00
+MARK                52 RATIONALISM              50.00
+MATTHEW             51 RATIONALISM              50.00
+DICK NIX         25001 RATIONALISM              50.00
+HANK KISS        25000 RATIONALISM              50.00
+JOHN                54 RATIONALISM              50.00
+EUCLID            1000 RATIONALISM              50.00
+ARCHIMEDES         200 RATIONALISM              50.00
+DA VINCI           500 RATIONALISM              50.00
+DICK NIX         25001 EXISTENTIALISM          200.00
+HANK KISS        25000 EXISTENTIALISM          200.00
+EUCLID            1000 EXISTENTIALISM          200.00
+DA VINCI           500 EXISTENTIALISM          200.00
+LUKE                53 SOLIPSISM                 0.00
+MARK                52 SOLIPSISM                 0.00
+MATTHEW             51 SOLIPSISM                 0.00
+DICK NIX         25001 SOLIPSISM                 0.00
+HANK KISS        25000 SOLIPSISM                 0.00
+JOHN                54 SOLIPSISM                 0.00
+EUCLID            1000 SOLIPSISM                 0.00
+ARCHIMEDES         200 SOLIPSISM                 0.00
+DA VINCI           500 SOLIPSISM                 0.00
+DICK NIX         25001 SCHOLASTICISM           150.00
+HANK KISS        25000 SCHOLASTICISM           150.00
+EUCLID            1000 SCHOLASTICISM           150.00
+ARCHIMEDES         200 SCHOLASTICISM           150.00
+DA VINCI           500 SCHOLASTICISM           150.00
+DICK NIX         25001 FUNDAMENTALISM           90.00
+HANK KISS        25000 FUNDAMENTALISM           90.00
+EUCLID            1000 FUNDAMENTALISM           90.00
+ARCHIMEDES         200 FUNDAMENTALISM           90.00
+DA VINCI           500 FUNDAMENTALISM           90.00
+LUKE                53 HEDONISM                  0.00
+MARK                52 HEDONISM                  0.00
+MATTHEW             51 HEDONISM                  0.00
+DICK NIX         25001 HEDONISM                  0.00
+HANK KISS        25000 HEDONISM                  0.00
+JOHN                54 HEDONISM                  0.00
+EUCLID            1000 HEDONISM                  0.00
+ARCHIMEDES         200 HEDONISM                  0.00
+DA VINCI           500 HEDONISM                  0.00
+DICK NIX         25001 COMMUNISM               200.00
+HANK KISS        25000 COMMUNISM               200.00
+EUCLID            1000 COMMUNISM               200.00
+DA VINCI           500 COMMUNISM               200.00
+<group_end>
+
+--- 90 row(s) selected.
+
+<section_end>
+<section_begin>  a17s29
+
+DEPT ENAME      ESALARY     CNAME                  CLABFEE
+---- ---------- ----------- ---------------------- -------
+<group_begin>
+THEO JOHN                54 FUNDAMENTALISM           90.00
+THEO JOHN                54 SCHOLASTICISM           150.00
+THEO JOHN                54 COMMUNISM               200.00
+THEO LUKE                53 FUNDAMENTALISM           90.00
+THEO LUKE                53 SCHOLASTICISM           150.00
+THEO LUKE                53 COMMUNISM               200.00
+THEO MARK                52 FUNDAMENTALISM           90.00
+THEO MARK                52 SCHOLASTICISM           150.00
+THEO MARK                52 COMMUNISM               200.00
+THEO MATTHEW             51 FUNDAMENTALISM           90.00
+THEO MATTHEW             51 SCHOLASTICISM           150.00
+THEO MATTHEW             51 COMMUNISM               200.00
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a17s30
+
+DEPT DBLD DROOM DCHFNO DEPT DBLD DROOM DCHFNO
+---- ---- ----- ------ ---- ---- ----- ------
+MGT  SC   100   NULL   CIS  SC   300   80    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s31
+
+DCHFNO
+------
+<group_begin>
+10    
+60    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s32
+
+CNO  CNAME                  SEC 
+---- ---------------------- ----
+<group_begin>
+C11  INTRO TO CS            01  
+T11  SCHOLASTICISM          01  
+T11  SCHOLASTICISM          02  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a17s33
+
+CNO  CNAME                 
+---- ----------------------
+<group_begin>
+C11  INTRO TO CS           
+P33  EXISTENTIALISM        
+T11  SCHOLASTICISM         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a17s34
+
+CNO  SEC  CINSTRFNO CDAY CTIME           CBLD CROOM
+---- ---- --------- ---- --------------- ---- -----
+<group_begin>
+C33  01   80        WE   09:00-10:30A.M. SC   305  
+T33  01   65        WE   11:00-12:00A.M. HU   101  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s35
+
+SNO  REG_DATE  
+---- ----------
+<group_begin>
+100  1987-12-23
+150  1987-12-15
+800  1987-12-15
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a17s36
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s37
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s38
+
+FNAME                FNO 
+-------------------- ----
+<group_begin>
+KATHY PEPE           06  
+JESSIE MARTYN        10  
+JOE COHN             08  
+LISA BOBAK           65  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a17s39
+
+FNAME                FNO 
+-------------------- ----
+<group_begin>
+KATHY PEPE           06  
+JESSIE MARTYN        10  
+JOE COHN             08  
+LISA BOBAK           65  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a17s40
+
+FNAME
+--------------------
+<group_begin>
+JESSIE MARTYN       
+JULIE MARTYN        
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s41
+
+CNO  CNAME                  SEC  CINSTRFNO SNO 
+---- ---------------------- ---- --------- ----
+<group_begin>
+P33  EXISTENTIALISM         01   06        100 
+P33  EXISTENTIALISM         01   06        800 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s42
+
+CNO  CNAME                  SEC  CINSTRFNO SNO  SNAME                    
+---- ---------------------- ---- --------- ---- -------------------------
+<group_begin>
+P33  EXISTENTIALISM         01   06        100  MEO DUBAY                
+P33  EXISTENTIALISM         01   06        800  ROCKY BALBOA             
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s43
+
+CNO  CNAME                  SEC  FNAME                SNO  SNAME                    
+---- ---------------------- ---- -------------------- ---- -------------------------
+<group_begin>
+P33  EXISTENTIALISM         01   KATHY PEPE           100  MEO DUBAY                
+P33  EXISTENTIALISM         01   KATHY PEPE           800  ROCKY BALBOA             
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s44
+
+CNO  CNAME                  CDESCP                    CRED        CDEPT ENAME      ETITLE     ESALARY     DEPT DEPT DBLD DROOM DCHFNO
+---- ---------------------- ------------------------- ----------- ----- ---------- ---------- ----------- ---- ---- ---- ----- ------
+<group_begin>
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3 PHIL  DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3 PHIL  HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+P22  RATIONALISM            FOR CIS MAJORS                      3 PHIL  DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+P22  RATIONALISM            FOR CIS MAJORS                      3 PHIL  HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3 PHIL  DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3 PHIL  HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+P44  SOLIPSISM              MY SELF AND I                       6 PHIL  DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+P44  SOLIPSISM              MY SELF AND I                       6 PHIL  HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3 THEO  MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3 THEO  MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3 THEO  LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3 THEO  JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3 THEO  MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3 THEO  MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3 THEO  LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3 THEO  JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3 THEO  MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3 THEO  MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3 THEO  LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3 THEO  JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+T44  COMMUNISM              FOR THE GREEDY                      6 THEO  MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+T44  COMMUNISM              FOR THE GREEDY                      6 THEO  MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+T44  COMMUNISM              FOR THE GREEDY                      6 THEO  LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+T44  COMMUNISM              FOR THE GREEDY                      6 THEO  JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+<group_end>
+
+--- 24 row(s) selected.
+
+<section_end>
+<section_begin>  a17s45
+
+CNO  CNAME                  CDESCP                    CRED        CDEPT ENAME      ETITLE     ESALARY     DEPT DEPT DBLD DROOM DCHFNO
+---- ---------------------- ------------------------- ----------- ----- ---------- ---------- ----------- ---- ---- ---- ----- ------
+<group_begin>
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3 PHIL  DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3 PHIL  HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+P22  RATIONALISM            FOR CIS MAJORS                      3 PHIL  DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+P22  RATIONALISM            FOR CIS MAJORS                      3 PHIL  HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3 PHIL  DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3 PHIL  HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+P44  SOLIPSISM              MY SELF AND I                       6 PHIL  DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+P44  SOLIPSISM              MY SELF AND I                       6 PHIL  HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3 THEO  LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3 THEO  JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3 THEO  MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3 THEO  MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3 THEO  LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3 THEO  JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3 THEO  MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3 THEO  MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3 THEO  LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3 THEO  JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3 THEO  MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3 THEO  MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+T44  COMMUNISM              FOR THE GREEDY                      6 THEO  LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+T44  COMMUNISM              FOR THE GREEDY                      6 THEO  JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+T44  COMMUNISM              FOR THE GREEDY                      6 THEO  MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+T44  COMMUNISM              FOR THE GREEDY                      6 THEO  MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+<group_end>
+
+--- 24 row(s) selected.
+
+<section_end>
+<section_begin>  a17s46
+
+CNO  CNAME                  CDESCP                    CRED        CDEPT ENAME      ETITLE     ESALARY     DEPT DEPT DBLD DROOM DCHFNO
+---- ---------------------- ------------------------- ----------- ----- ---------- ---------- ----------- ---- ---- ---- ----- ------
+<group_begin>
+T44  COMMUNISM              FOR THE GREEDY                      6 THEO  MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+T44  COMMUNISM              FOR THE GREEDY                      6 THEO  MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+T44  COMMUNISM              FOR THE GREEDY                      6 THEO  LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+T44  COMMUNISM              FOR THE GREEDY                      6 THEO  JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3 PHIL  DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3 PHIL  HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3 PHIL  DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3 PHIL  HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3 THEO  MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3 THEO  MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3 THEO  LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3 THEO  JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3 THEO  MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3 THEO  MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3 THEO  LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+T33  HEDONISM               FOR THE SANE                        3 THEO  JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+P22  RATIONALISM            FOR CIS MAJORS                      3 PHIL  DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+P22  RATIONALISM            FOR CIS MAJORS                      3 PHIL  HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3 THEO  MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3 THEO  MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3 THEO  LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+T11  SCHOLASTICISM          FOR THE PIOUS                       3 THEO  JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+P44  SOLIPSISM              MY SELF AND I                       6 PHIL  DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+P44  SOLIPSISM              MY SELF AND I                       6 PHIL  HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+<group_end>
+
+--- 24 row(s) selected.
+
+<section_end>
+<section_begin>  a17s47
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT FNO  FNAME                FADDR                     FHIRE_DATE FNUM_DEP    FSALARY   FDEPT
+---- ---------------------- ------------------------- ----------- ------- ----- ---- -------------------- ------------------------- ---------- ----------- --------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS   06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS   06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS   06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS   06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS   06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS   06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL  06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL  06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL  06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL  06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO  06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO  06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO  06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO  06   KATHY PEPE           7 STONEBRIDGE RD          1979-01-15           2  35000.00 PHIL 
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS   10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS   10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS   10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS   10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS   10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS   10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL  10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL  10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL  10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL  10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO  10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO  10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO  10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO  10   JESSIE MARTYN        2135 EAST DR              1982-03-07           1  45000.00 THEO 
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS   08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS   08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS   08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS   08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS   08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS   08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL  08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL  08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL  08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL  08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO  08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO  08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO  08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO  08   JOE COHN             BOX 1138                  1979-07-09           2  35000.00 CIS  
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS   85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS   85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS   85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS   85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS   85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS   85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL  85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL  85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL  85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL  85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO  85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO  85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO  85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO  85   AL HARTLEY           SILVER STREET             1979-09-05           7  45000.00 CIS  
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS   60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS   60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS   60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS   60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS   60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS   60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL  60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL  60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL  60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL  60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO  60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO  60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO  60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO  60   JULIE MARTYN         2135 EAST DR              1978-05-17           1  45000.00 PHIL 
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS   65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS   65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS   65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS   65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS   65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS   65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL  65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL  65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL  65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL  65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO  65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO  65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO  65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO  65   LISA BOBAK           77 LAUGHING LN            1981-09-17           1  36000.00 THEO 
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS   80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS   80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS   80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS   80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS   80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS   80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL  80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL  80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL  80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL  80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO  80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO  80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO  80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO  80   BARB HLAVATY         489 SOUTH ROAD            1982-01-16           3  35000.00 CIS  
+<group_end>
+
+--- 98 row(s) selected.
+
+<section_end>
+<section_begin>  a17s48
+
+DEPT DEPT
+---- ----
+<group_begin>
+PHIL THEO
+CIS  MGT 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s49
+
+ENAME      ESALARY     ENAME      ESALARY     (EXPR)       
+---------- ----------- ---------- ----------- -------------
+<group_begin>
+DICK NIX         25001 LUKE                53         24948
+DICK NIX         25001 MARK                52         24949
+DICK NIX         25001 MATTHEW             51         24950
+DICK NIX         25001 JOHN                54         24947
+DICK NIX         25001 EUCLID            1000         24001
+DICK NIX         25001 ARCHIMEDES         200         24801
+DICK NIX         25001 DA VINCI           500         24501
+HANK KISS        25000 LUKE                53         24947
+HANK KISS        25000 MARK                52         24948
+HANK KISS        25000 MATTHEW             51         24949
+HANK KISS        25000 JOHN                54         24946
+HANK KISS        25000 EUCLID            1000         24000
+HANK KISS        25000 ARCHIMEDES         200         24800
+HANK KISS        25000 DA VINCI           500         24500
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>

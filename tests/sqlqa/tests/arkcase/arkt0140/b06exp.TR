@@ -1,0 +1,105 @@
+<section_begin>  b06s0
+
+F3
+------------
+<group_begin>
+00:00:00.000
+04:54:57.345
+10:15:30.555
+19:09:10.234
+23:59:59.999
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  b06s1
+
+F3
+------------
+<group_begin>
+00:00:00.000
+04:54:57.345
+10:15:30.555
+19:09:10.234
+23:59:59.999
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  b06s2
+
+D8_4
+----------
+<group_begin>
+    8.4000
+    8.4000
+    8.4000
+    8.4000
+  123.4560
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  b06s3
+
+D8_4
+----------
+<group_begin>
+    8.4000
+    8.4000
+    8.4000
+    8.4000
+  123.4560
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  b06s4
+
+D8_4
+----------
+<group_begin>
+    8.4000
+    8.4000
+    8.4000
+    8.4000
+  123.4560
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  b06s5
+
+F3           D8_4      
+------------ ----------
+<group_begin>
+10:15:30.555     8.4000
+00:00:00.000     8.4000
+19:09:10.234     8.4000
+04:54:57.345     8.4000
+23:59:59.999   123.4560
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  b06s6
+
+F3           D8_4      
+------------ ----------
+<group_begin>
+10:15:30.555     0.0000
+00:00:00.000     0.0000
+19:09:10.234     0.0000
+04:54:57.345     0.0000
+23:59:59.999     0.0000
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

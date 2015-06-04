@@ -1,0 +1,18 @@
+<section_begin>  test0054b
+
+EMPNAME
+--------------------
+Huyan               
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0054d
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>

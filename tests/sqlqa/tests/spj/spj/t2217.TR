@@ -1,0 +1,9 @@
+<section_begin>  verify
+
+x                         OUT1  
+------------------------- ------
+18565                      18565
+
+--- SQL operation complete.
+
+<section_end>

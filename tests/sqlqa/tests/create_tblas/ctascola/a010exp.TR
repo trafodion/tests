@@ -1,0 +1,12 @@
+<section_begin>  a10s4
+
+MEMNUM      FIRST_NAME      LAST_NAME           
+----------- --------------- --------------------
+          1 Alpha           male                
+          2 Alpha           female              
+          3 Beta            male                
+          4 Beta            female              
+
+--- 4 row(s) selected.
+
+<section_end>

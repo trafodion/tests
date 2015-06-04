@@ -1,0 +1,30 @@
+<section_begin>  a01s01
+
+ORDERING    SMA1   INT2      
+----------- ------ ----------
+<group_begin>
+          1      1       NULL
+          2      2          2
+          3      3       NULL
+          4      4          4
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s02
+
+ORDERING    SMA1   INT2       INT3       
+----------- ------ ---------- -----------
+<group_begin>
+          1      1       NULL        3000
+          2      2          2        3000
+          3      3       NULL        3000
+          4      4          4        3000
+          5   NULL          5        3000
+          6      6          6           6
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

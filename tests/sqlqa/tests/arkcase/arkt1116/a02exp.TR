@@ -1,0 +1,261 @@
+<section_begin>  a02s0
+
+LAST_NAME       FIRST_NAME    JOB             GENDER   SALARY      DEPT_NUM   
+--------------- ------------- --------------- -------- ----------- -----------
+<group_begin>
+OSLO            DOUG          ENGINEER        MALE           40000          17
+WALTERS         MARVIN        systemanalyst   male           20000          15
+Weill           Kathy         Manager         Female         50000          17
+Young           Gail          SALESREP        female         40000          15
+mitchell        andrea        programmer      female         20000          12
+richards        martha        SECRETARY       FEMALE         30000          12
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+LAST_NAME FIRST_NAME DEPT_NUM    AVG_SAL     MIN_SAL     MAX_SAL    
+--------- ---------- ----------- ----------- ----------- -----------
+<group_begin>
+OSLO      DOUG                17       40000       40000       40000
+WALTERS   MARVIN              15       20000       20000       20000
+Weill     Kathy               17       50000       50000       50000
+Young     Gail                15       40000       40000       40000
+mitchell  andrea              12       20000       20000       20000
+richards  martha              12       30000       30000       30000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+LAST_NAME       FIRST_NAME    JOB             GENDER  
+--------------- ------------- --------------- --------
+<group_begin>
+OSLO            DOUG          ENGINEER        MALE    
+WALTERS         MARVIN        systemanalyst   male    
+Weill           Kathy         Manager         Female  
+Young           Gail          SALESREP        female  
+mitchell        andrea        programmer      female  
+richards        martha        SECRETARY       FEMALE  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+LAST_NAME       FIRST_NAME   
+--------------- -------------
+<group_begin>
+OSLO            DOUG         
+WALTERS         MARVIN       
+Weill           Kathy        
+Young           Gail         
+mitchell        andrea       
+richards        martha       
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+(EXPR)
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+LAST_NAME FIRST_NAME
+--------- ----------
+richards  martha    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+LAST_NAME AVG_SAL     LAST_NAME MIN_SAL    
+--------- ----------- --------- -----------
+<group_begin>
+OSLO            40000 mitchell        20000
+WALTERS         20000 NULL             NULL
+Weill           50000 OSLO            40000
+Weill           50000 WALTERS         20000
+Weill           50000 mitchell        20000
+Weill           50000 richards        30000
+Young           40000 WALTERS         20000
+Young           40000 mitchell        20000
+Young           40000 richards        30000
+mitchell        20000 NULL             NULL
+richards        30000 mitchell        20000
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+VALAST    VBLAST    AVG_SAL     MIN_SAL    
+--------- --------- ----------- -----------
+<group_begin>
+OSLO      mitchell        40000       20000
+Weill     OSLO            50000       40000
+Weill     WALTERS         50000       20000
+Weill     mitchell        50000       20000
+Weill     richards        50000       30000
+Young     WALTERS         40000       20000
+Young     mitchell        40000       20000
+Young     richards        40000       30000
+richards  mitchell        30000       20000
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+LAST_NAME       FIRST_NAME    JOB             GENDER  
+--------------- ------------- --------------- --------
+<group_begin>
+WALTERS         MARVIN        systemanalyst   male    
+Weill           Kathy         Manager         Female  
+Young           Gail          SALESREP        female  
+mitchell        andrea        programmer      female  
+richards        martha        SECRETARY       FEMALE  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+LAST_NAME
+---------------
+<group_begin>
+OSLO           
+Young          
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s12
+
+LAST_NAME       FIRST_NAME   
+--------------- -------------
+<group_begin>
+WALTERS         MARVIN       
+richards        martha       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+FIRST_NAME
+-------------
+<group_begin>
+DOUG         
+Gail         
+Kathy        
+MARVIN       
+andrea       
+martha       
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s14
+
+LAST_NAME
+---------------
+<group_begin>
+OSLO           
+WALTERS        
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s15
+
+LAST_NAME
+---------------
+<group_begin>
+OSLO           
+WALTERS        
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s16
+
+(EXPR)
+---------------
+oslo           
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s17
+
+C1
+-------------------------
+oslo                     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s18
+
+(EXPR)
+-----------------------------
+<group_begin>
+Weill Kathy                  
+mitchell andrea              
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s19
+
+C1
+-------------------------
+<group_begin>
+mitchell                 
+weill                    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

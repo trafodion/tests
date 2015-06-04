@@ -1,0 +1,320 @@
+<section_begin>  a02s0
+
+BINARY_SIGNED
+-------------
+<group_begin>
+         NULL
+         NULL
+         NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+SMALL_INT
+---------
+<group_begin>
+     9000
+     NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+BINARY_64_S
+--------------------
+            2000.000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+COL_1
+------
+<group_begin>
+     1
+     1
+     1
+     9
+     9
+     9
+  NULL
+  NULL
+  NULL
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+HEADED_NUMERIC
+--------------
+          1.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)
+--------------------
+<group_begin>
+9000                
+NULL                
+NULL                
+NULL                
+NULL                
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+(EXPR)
+--------------------
+<group_begin>
+1                   
+1                   
+1                   
+2000.000            
+9                   
+9                   
+9                   
+NULL                
+NULL                
+NULL                
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+(EXPR)
+--------------------
+<group_begin>
+1.00                
+1                   
+1                   
+1                   
+2000.000            
+9                   
+9                   
+9                   
+NULL                
+NULL                
+NULL                
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+(EXPR)
+--------------------
+<group_begin>
+1                   
+1                   
+1                   
+2000.000            
+9                   
+9                   
+9                   
+NULL                
+NULL                
+NULL                
+9000                
+NULL                
+NULL                
+NULL                
+NULL                
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+(EXPR)
+--------------------
+<group_begin>
+1.00                
+1                   
+1                   
+1                   
+2000.000            
+9                   
+9                   
+9                   
+NULL                
+NULL                
+NULL                
+9000                
+NULL                
+NULL                
+NULL                
+NULL                
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+(EXPR)
+--------------------
+<group_begin>
+9000                
+NULL                
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+(EXPR)
+---------------------
+<group_begin>
+1.00                 
+1                    
+1                    
+1                    
+2000.000             
+9                    
+9                    
+9                    
+NULL                 
+NULL                 
+NULL                 
+9000                 
+NULL                 
+NULL                 
+NULL                 
+NULL                 
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a02s12
+
+(EXPR)
+--------------------
+<group_begin>
+1.00                
+1                   
+9                   
+2000.000            
+NULL                
+9000                
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+(EXPR)
+--------------------
+<group_begin>
+1.00                
+1                   
+2000.000            
+9                   
+NULL                
+9000                
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s14
+
+(EXPR)
+--------------------
+<group_begin>
+1.00                
+1                   
+2000.000            
+9                   
+NULL                
+9000                
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s15
+
+(EXPR)
+--------------------
+<group_begin>
+1                   
+9                   
+NULL                
+2000.000            
+9000                
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s16
+
+(EXPR)
+--------------------
+<group_begin>
+1                   
+9000                
+2000.000            
+NULL                
+1                   
+NULL                
+1                   
+NULL                
+NULL                
+9                   
+9                   
+9                   
+NULL                
+NULL                
+NULL                
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a02s17
+
+(EXPR)
+--------------------
+<group_begin>
+1                   
+1                   
+1                   
+2000.000            
+9                   
+9                   
+9                   
+9000                
+NULL                
+NULL                
+NULL                
+NULL                
+NULL                
+NULL                
+NULL                
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>

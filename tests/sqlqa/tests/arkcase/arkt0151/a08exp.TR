@@ -1,0 +1,28 @@
+<section_begin>  a08s0
+
+DATE1_1    TIME1   
+---------- --------
+<group_begin>
+0100-01-01 00:00:00
+0500-01-01 21:59:59
+1800-05-06 12:23:24
+1988-10-25 10:10:10
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+DATE1_1    TIME1   
+---------- --------
+<group_begin>
+0100-01-01 00:00:00
+1988-10-25 10:10:10
+1800-05-06 12:23:24
+0500-01-01 21:59:59
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

@@ -1,0 +1,21 @@
+<section_begin>  test0512a
+
+(EXPR)
+--------------------
+CALM                
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0512b
+
+CITY            (EXPR)              
+--------------- --------------------
+<group_begin>
+Vienna                             2
+Deale                              3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

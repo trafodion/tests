@@ -1,0 +1,33 @@
+<section_begin>  a06s01
+
+ORDERING CH1  CH2  CH3  PX1 
+-------- ---- ---- ---- ----
+<group_begin>
+1        a    aa   aaa  NULL
+2        b    bb   bbb  2   
+3        NULL NULL c    NULL
+4        d    dd   ddd  4   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s02
+
+ORDERING CH1  CH2  CH3  PX1  CV1  CV2 
+-------- ---- ---- ---- ---- ---- ----
+<group_begin>
+1        a    aa   aaa  NULL NULL DBA 
+2        b    bb   bbb  2    NULL DBA 
+3        NULL NULL c    NULL NULL DBA 
+4        d    dd   ddd  4    NULL DBA 
+6        g    gg   ggg  6    6    DBA 
+9        j    jj   jjj  9    9    JJJ 
+NULL     NULL NULL f    NULL 5    DBA 
+NULL     NULL NULL i    8    NULL DBA 
+NULL     NULL NULL h    NULL NULL ZZZ 
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>

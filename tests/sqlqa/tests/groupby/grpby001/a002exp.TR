@@ -1,0 +1,103 @@
+<section_begin>  a02s1
+
+(EXPR)
+--------------------
+<group_begin>
+HOWARD    JERRY     
+KING      DIANA     
+MARTIN    DEAN      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+(EXPR)
+--------------------
+<group_begin>
+SICACRIN            
+ERGREEN             
+HOWARD    JERRY     
+KING      DIANA     
+MARTIN    DEAN      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+(EXPR)
+--------------------
+<group_begin>
+SICACRIN            
+ERGREEN             
+HOWARD    JERRY     
+KING      DIANA     
+MARTIN    DEAN      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+------
+<group_begin>
+     0
+  NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)
+--------------------
+            0.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+(EXPR)
+--------------------
+            0.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+(EXPR)
+------
+<group_begin>
+     0
+  NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+(EXPR)
+-----------
+special    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+(EXPR)
+---------------
+exception value
+
+--- 1 row(s) selected.
+
+<section_end>

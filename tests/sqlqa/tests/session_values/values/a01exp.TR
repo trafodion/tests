@@ -1,0 +1,168 @@
+<section_begin>  a01s0
+
+(EXPR) (EXPR) (EXPR) (EXPR)     
+------ ------ ------ -----------
+     1 aba    1239          1239
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+(EXPR) (EXPR) (EXPR)     (EXPR)     
+------ ------ ---------- -----------
+     1 aba             3        1239
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR) (EXPR) (EXPR)     (EXPR)     
+------ ------ ---------- -----------
+     1 b               3        1239
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+(EXPR) (EXPR) (EXPR)     (EXPR)   
+------ ------ ---------- ---------
+     1 b               3    1239.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+(EXPR) (EXPR) (EXPR)     (EXPR)     
+------ ------ ---------- -----------
+     1 ba              4        1239
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+(EXPR) (EXPR) (EXPR)     (EXPR)     
+------ ------ ---------- -----------
+     1 BA              4        1239
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+CHAR_1 VARCHAR_1 NUMERIC_1 PIC_COMP_1 MEDIUM_1    DECIMAL_1 REAL_1          Y_TO_D_1   Y_TO_D_2   TIME_1   IY_TO_MO
+------ --------- --------- ---------- ----------- --------- --------------- ---------- ---------- -------- --------
+A      DD             1000   23.40500          45         2           10.31 1997-06-01 1997-06-03 13:40:05    2-07 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+CHAR_1 VARCHAR_1 NUMERIC_1
+------ --------- ---------
+<group_begin>
+D      AD             1000
+E      AE             2000
+F      AF             3000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8a
+
+UBIN9_N4    UBIN12_2
+----------- --------
+<group_begin>
+          1        2
+          1        4
+          2        3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+CHAR_1 NUMERIC_1
+------ ---------
+<group_begin>
+A           1000
+D           1000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+(EXPR)
+----------
+<group_begin>
+1239      
+FF        
+FF        
+BA        
+a         
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+(EXPR)  (EXPR)      (EXPR)         
+------- ----------- ---------------
+<group_begin>
+ABCDEFG      991122 zap            
+C                65 NULL           
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+CHAR_1 NUMERIC_1 REAL_1         
+------ --------- ---------------
+C           3000         40.4567
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+CHAR_1 REAL_1         
+------ ---------------
+<group_begin>
+A                10.31
+B                 20.2
+C              40.4567
+D                10.31
+E                 20.2
+F              40.4567
+G              40.4567
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+CHAR_1 VARCHAR_1 REAL_1         
+------ --------- ---------------
+C      FF                40.4567
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s20
+
+--- 2 row(s) deleted.
+
+<section_end>

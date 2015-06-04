@@ -1,0 +1,27 @@
+<section_begin>  test015b
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test015c
+
+Count                Average              Sum                  PVar                     Min         PStDev                   Max        
+-------------------- -------------------- -------------------- ------------------------ ----------- ------------------------ -----------
+                   0                 NULL                 NULL                     NULL        NULL                     NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test015e
+
+(EXPR)
+--------------------
+                 500
+
+--- 1 row(s) selected.
+
+<section_end>

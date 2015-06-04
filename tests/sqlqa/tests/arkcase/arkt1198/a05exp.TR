@@ -1,0 +1,234 @@
+<section_begin>  a05s0
+
+CREAL           CFLOAT                  
+--------------- ------------------------
+<group_begin>
+            1.0                      1.0
+            1.0                 100000.0
+          500.0                      1.0
+          500.0                 100000.0
+         1.0E10                 100000.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+CHAR0_N10
+---------
+<group_begin>
+NULL     
+NULL     
+NULL     
+NULL     
+NULL     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+SDEC4_N20
+---------
+<group_begin>
+      -18
+      -17
+      -14
+       -9
+       -6
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+SBINNEG15_NUNIQ      CHAR2_2 CHAR3_4 
+-------------------- ------- --------
+<group_begin>
+               -4344 AA      BA      
+               -3552 BA      AA      
+               -2789 DA      CA      
+               -2389 BA      CA      
+               -1950 EA      DA      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+SBINNEG15_NUNIQ      CHAR2_2 CHAR2_2
+-------------------- ------- -------
+<group_begin>
+               -4344 AA      BA     
+               -3552 BA      AA     
+               -2789 DA      EA     
+               -2389 BA      AA     
+                NULL NULL    BA     
+                NULL NULL    DA     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+SBINNEG15_NUNIQ      CHAR2_2 CHAR2_2
+-------------------- ------- -------
+<group_begin>
+               -4344 AA      BA     
+               -3552 BA      AA     
+               -2789 DA      EA     
+               -2389 BA      AA     
+                NULL NULL    BA     
+                NULL NULL    DA     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+CHAR2_2 CHAR3_4 
+------- --------
+<group_begin>
+AA      AA      
+BA      BA      
+BA      BA      
+DA      DA      
+EA      NULL    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+(EXPR)               (EXPR) (EXPR) (EXPR)  
+-------------------- ------ ------ --------
+<group_begin>
+               -4344 AA     BA     BA      
+               -3552 BA     AA     AA      
+               -2789 DA     EA     NULL    
+               -2389 BA     AA     AA      
+                NULL NULL   BA     BA      
+                NULL NULL   DA     DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+(EXPR)               (EXPR) (EXPR) (EXPR)  
+-------------------- ------ ------ --------
+<group_begin>
+               -4344 AA     BA     BA      
+               -3552 BA     AA     AA      
+               -2789 DA     EA     NULL    
+               -2389 BA     AA     AA      
+                NULL NULL   BA     BA      
+                NULL NULL   DA     DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+N1     C2   C3   C4      
+------ ---- ---- --------
+<group_begin>
+ -4344 AA   BA   BA      
+ -3552 BA   AA   AA      
+ -2789 DA   EA   NULL    
+ -2389 BA   AA   AA      
+  NULL NULL BA   BA      
+  NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+CREAL           CFLOAT                  
+--------------- ------------------------
+<group_begin>
+            1.0                      1.0
+            1.0                 100000.0
+          500.0                      1.0
+          500.0                 100000.0
+         1.0E10                 100000.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+SBINNEG15_NUNIQ      CHAR2_2 CHAR3_4 
+-------------------- ------- --------
+<group_begin>
+               -4344 AA      BA      
+               -3552 BA      AA      
+               -2789 DA      CA      
+               -2389 BA      CA      
+               -1950 EA      DA      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s14
+
+SBINNEG15_NUNIQ      CHAR2_2 CHAR2_2
+-------------------- ------- -------
+<group_begin>
+               -4344 AA      BA     
+               -3552 BA      AA     
+               -2789 DA      EA     
+               -2389 BA      AA     
+                NULL NULL    BA     
+                NULL NULL    DA     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s15
+
+CHAR2_2 CHAR3_4 
+------- --------
+<group_begin>
+AA      AA      
+BA      BA      
+BA      BA      
+DA      DA      
+EA      NULL    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

@@ -1,0 +1,18 @@
+<section_begin>  s1
+
+(EXPR)               (EXPR)  (EXPR)  (EXPR)
+-------------------- ------- ------- ------
+                NULL    NULL    NULL E1    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

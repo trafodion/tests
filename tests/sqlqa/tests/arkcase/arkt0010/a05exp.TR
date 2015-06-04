@@ -1,0 +1,134 @@
+<section_begin>  a05s0
+
+LARGE_INT
+--------------------
+<group_begin>
+                 100
+                 200
+                 300
+                 400
+                1000
+                2000
+                3000
+                4000
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+PIC_X_5
+-------
+<group_begin>
+      5
+      7
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+PIC_X_A PIC_X_7 PIC_9_7   CHAR_10    DECIMAL_10   BINARY_UNSIGNED BINARY_32_SIGNED
+------- ------- --------- ---------- ------------ --------------- ----------------
+<group_begin>
+sue     sue             1 ebedafiih           110              80              100
+bob     bobby           2 ebediih              90             100            -1000
+rob     bobby           2 ebediih              90             100            -1000
+tom     tom             3 abadefih            100             100             -100
+don     who            50 outside           10000             100             -100
+rod     for           400 inside               25              60                0
+jon     does         1000 offsides          50000             500              100
+ron     they         2000 onsides           10000             100             -100
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+PIC_X_B
+-------
+<group_begin>
+A      
+B      
+C      
+D      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+PIC_X_B
+-------
+<group_begin>
+B      
+D      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+PIC_X_A PIC_X_B PIC_X_C COL_1 COL_2 COL_3 COL_4 COL_5 COL_6 COL_7 COL_8 COL_9 COL_10
+------- ------- ------- ----- ----- ----- ----- ----- ----- ----- ----- ----- ------
+<group_begin>
+joe     A       al      pablo david amy   amy   steve steve walt  mojo  joe   percy 
+sue     A       in      peggy diane zora  cathy mary  mary  rhoda debra sue   madge 
+red     B       go      lowry sue   ski   cammy junk  junk  junk  junk  junk  junk  
+why     B       so      lowry amy   squaw tammy junk  junk  junk  junk  junk  junk  
+not     B       on      lowry mary  mogul pammy junk  junk  junk  junk  junk  junk  
+box     C       to      howie debra snow  debbi junk  junk  junk  junk  junk  junk  
+deb     D       jo      lowry mary  sunny debra junk  junk  junk  junk  junk  junk  
+can     D       by      lowry steve slope debby junk  junk  junk  junk  junk  junk  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+NEW_NAME_1
+----------
+<group_begin>
+        80
+        90
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+NEW_NAME_1
+----------
+<group_begin>
+        80
+        90
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+NEW_NAME_1
+----------
+        80
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+NEW_NAME_1
+----------
+        80
+
+--- 1 row(s) selected.
+
+<section_end>

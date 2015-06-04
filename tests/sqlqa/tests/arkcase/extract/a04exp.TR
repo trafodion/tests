@@ -1,0 +1,182 @@
+<section_begin>  a04s0
+
+IH   IHM    IHS             
+---- ------ ----------------
+<group_begin>
+48   NULL   23:59:59.000000 
+ 0    0:00   0:00:00.000000 
+19    1:19  17:55:07.000000 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+(EXPR)
+------
+<group_begin>
+    48
+     0
+    19
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+(EXPR)
+------
+<group_begin>
+  NULL
+     0
+     1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+(EXPR)
+------
+<group_begin>
+  NULL
+     0
+    19
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+(EXPR)
+------
+<group_begin>
+    23
+     0
+    17
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+(EXPR)
+------
+<group_begin>
+    59
+     0
+    55
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+(EXPR)
+----------
+<group_begin>
+ 59.000000
+  0.000000
+  7.000000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+IH   IHM    IHS             
+---- ------ ----------------
+<group_begin>
+48   NULL   23:59:59.000000 
+ 0    0:00   0:00:00.000000 
+19    1:19  17:55:07.000000 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+(EXPR)
+------
+<group_begin>
+    48
+     0
+    19
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+(EXPR)
+------
+<group_begin>
+  NULL
+     0
+     1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+(EXPR)
+------
+<group_begin>
+  NULL
+     0
+    19
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+(EXPR)
+------
+<group_begin>
+    23
+     0
+    17
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s12
+
+(EXPR)
+------
+<group_begin>
+    59
+     0
+    55
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s13
+
+(EXPR)
+----------
+<group_begin>
+ 59.000000
+  0.000000
+  7.000000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

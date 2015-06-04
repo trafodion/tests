@@ -1,0 +1,30 @@
+<section_begin>  a17s1
+
+PICX       VCHAR50                                            
+---------- -------------------------------------------------- 
+XXXXXXXX   this field is 50 char                              
+AAAAAAAA   BBBBBBBBBBBBBBBCCCCCCCcccccccc                     
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s2
+
+COL2     VCHAR50                                            
+-------- -------------------------------------------------- 
+XXXXXXXX this field is 50 char                              
+AAAAAAAA BBBBBBBBBBBBBBBCCCCCCCcccccccc                     
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s3
+
+PICX       VCHAR50                                            MCHAR                                              
+---------- -------------------------------------------------- -------------------------------------------------- 
+XXXXXXXX   this field is 50 char                              this field is varying to 50                        
+AAAAAAAA   BBBBBBBBBBBBBBBCCCCCCCcccccccc                     DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD            
+
+--- 2 row(s) selected.
+
+<section_end>

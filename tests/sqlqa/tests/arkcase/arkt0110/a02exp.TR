@@ -1,0 +1,45 @@
+<section_begin>  a02s0
+
+DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2
+------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ----------
+<group_begin>
+bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25
+tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2
+------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ----------
+<group_begin>
+tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12
+bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2 DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2
+------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ---------- ------- ------- --------- ------------- ----------
+<group_begin>
+tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12 tom         100      1000         -5000       0.12
+bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25 bob         200      2000          8000      -0.25
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>

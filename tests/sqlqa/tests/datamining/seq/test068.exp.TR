@@ -1,0 +1,229 @@
+<section_begin>  s1
+
+(EXPR)
+--------------------
+                 100
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+A           D          MCOUNT_D             MMAX_D     MMIN_D    
+----------- ---------- -------------------- ---------- ----------
+<group_begin>
+          1 Aedrmcurrb                    1 Aedrmcurrb Aedrmcurrb
+          2 Aoflhuqgfv                    2 Aoflhuqgfv Aedrmcurrb
+          3 Avvpwacsnu                    3 Avvpwacsnu Aedrmcurrb
+          4 Bcdnkgkoec                    4 Bcdnkgkoec Aedrmcurrb
+          5 Bcfqvgueye                    4 Bcfqvgueye Aoflhuqgfv
+          6 Bdkytnlllk                    4 Bdkytnlllk Avvpwacsnu
+          7 Bgsihneqci                    4 Bgsihneqci Bcdnkgkoec
+          8 Bvwoicejow                    4 Bvwoicejow Bcfqvgueye
+          9 Cnfwjsbmgg                    4 Cnfwjsbmgg Bdkytnlllk
+         10 Cxusmetfvt                    4 Cxusmetfvt Bgsihneqci
+         11 Dewypknokg                    4 Dewypknokg Bvwoicejow
+         12 Dsfhhekgtl                    4 Dsfhhekgtl Cnfwjsbmgg
+         13 Edqteiwndv                    4 Edqteiwndv Cxusmetfvt
+         14 Edyvwsxmxb                    4 Edyvwsxmxb Dewypknokg
+         15 Emdnjwpkef                    4 Emdnjwpkef Dsfhhekgtl
+         16 Fakwkqkyyr                    4 Fakwkqkyyr Edqteiwndv
+         17 Fbbrbqkxis                    4 Fbbrbqkxis Edyvwsxmxb
+         18 Fovoesmakx                    4 Fovoesmakx Emdnjwpkef
+         19 Fplgssgddi                    4 Fplgssgddi Fakwkqkyyr
+         20 Fuwitecoro                    4 Fuwitecoro Fbbrbqkxis
+         21 Gcyearnaox                    4 Gcyearnaox Fovoesmakx
+         22 Ggttjpligf                    4 Ggttjpligf Fplgssgddi
+         23 Ggwbnvgmlv                    4 Ggwbnvgmlv Fuwitecoro
+         24 Gliiamlgnf                    4 Gliiamlgnf Gcyearnaox
+         25 Goyykwkhgh                    4 Goyykwkhgh Ggttjpligf
+         26 Gqrhfndiwy                    4 Gqrhfndiwy Ggwbnvgmlv
+         27 Gufphcrhwu                    4 Gufphcrhwu Gliiamlgnf
+         28 Hjwbfpugye                    4 Hjwbfpugye Goyykwkhgh
+         29 Hwddvxunoq                    4 Hwddvxunoq Gqrhfndiwy
+         30 Ifwbgnohrn                    4 Ifwbgnohrn Gufphcrhwu
+         31 Ikurdnnncq                    4 Ikurdnnncq Hjwbfpugye
+         32 Iqghchxgto                    4 Iqghchxgto Hwddvxunoq
+         33 Ixhihxdeid                    4 Ixhihxdeid Ifwbgnohrn
+         34 Jkojeyimyj                    4 Jkojeyimyj Ikurdnnncq
+         35 Jybyxlcwkx                    4 Jybyxlcwkx Iqghchxgto
+         36 Kcxoayhrjc                    4 Kcxoayhrjc Ixhihxdeid
+         37 Kggcmdqqmt                    4 Kggcmdqqmt Jkojeyimyj
+         38 Kirdbjigpw                    4 Kirdbjigpw Jybyxlcwkx
+         39 Kiyfgsonej                    4 Kiyfgsonej Kcxoayhrjc
+         40 Kpvraanjdy                    4 Kpvraanjdy Kggcmdqqmt
+         41 Ktrokxftat                    4 Ktrokxftat Kirdbjigpw
+         42 Kyypeauthi                    4 Kyypeauthi Kiyfgsonej
+         43 Llirxuhvyq                    4 Llirxuhvyq Kpvraanjdy
+         44 Mcjbckbbor                    4 Mcjbckbbor Ktrokxftat
+         45 Mcvdjjhrai                    4 Mcvdjjhrai Kyypeauthi
+         46 Meugoxdwnx                    4 Meugoxdwnx Llirxuhvyq
+         47 Mmbmsvjpeu                    4 Mmbmsvjpeu Mcjbckbbor
+         48 Mnnyytwsdd                    4 Mnnyytwsdd Mcvdjjhrai
+         49 Mtpwtetqsg                    4 Mtpwtetqsg Meugoxdwnx
+         50 Mtsplrcpep                    4 Mtsplrcpep Mmbmsvjpeu
+         51 Mughcprkjf                    4 Mughcprkjf Mnnyytwsdd
+         52 Nadrgjvlhl                    4 Nadrgjvlhl Mtpwtetqsg
+         53 Ncbkwvdssy                    4 Ncbkwvdssy Mtsplrcpep
+         54 Ndgmbrssyk                    4 Ndgmbrssyk Mughcprkjf
+         55 Niwkffxvpm                    4 Niwkffxvpm Nadrgjvlhl
+         56 Nsinbltgct                    4 Nsinbltgct Ncbkwvdssy
+         57 Nvaeddrcaw                    4 Nvaeddrcaw Ndgmbrssyk
+         58 Opplcaddny                    4 Opplcaddny Niwkffxvpm
+         59 Ovigmwrqjc                    4 Ovigmwrqjc Nsinbltgct
+         60 Phqqdvjqhi                    4 Phqqdvjqhi Nvaeddrcaw
+         61 Pmstawwovh                    4 Pmstawwovh Opplcaddny
+         62 Pthrnvwydm                    4 Pthrnvwydm Ovigmwrqjc
+         63 Qnovhmnoss                    4 Qnovhmnoss Phqqdvjqhi
+         64 Qnyhoxauql                    4 Qnyhoxauql Pmstawwovh
+         65 Qttxnvxmrv                    4 Qttxnvxmrv Pthrnvwydm
+         66 Rdvdxxfvew                    4 Rdvdxxfvew Qnovhmnoss
+         67 Rspjywuyil                    4 Rspjywuyil Qnyhoxauql
+         68 Rykqtqhijg                    4 Rykqtqhijg Qttxnvxmrv
+         69 Slblafivnp                    4 Slblafivnp Rdvdxxfvew
+         70 NULL                          3 Slblafivnp Rspjywuyil
+         71 Snngyjsgiq                    3 Snngyjsgiq Rykqtqhijg
+         72 Sohfhtnbit                    3 Sohfhtnbit Slblafivnp
+         73 Swriwmramp                    3 Swriwmramp Snngyjsgiq
+         74 Taicfknndn                    4 Taicfknndn Snngyjsgiq
+         75 Tfirsgpgpy                    4 Tfirsgpgpy Sohfhtnbit
+         76 Tkgsecwiin                    4 Tkgsecwiin Swriwmramp
+         77 Tqkpuitamk                    4 Tqkpuitamk Taicfknndn
+         78 Tsirykluud                    4 Tsirykluud Tfirsgpgpy
+         79 Udnstpxjlw                    4 Udnstpxjlw Tkgsecwiin
+         80 Uqwpcyhwis                    4 Uqwpcyhwis Tqkpuitamk
+         81 Vcqjlkacxh                    4 Vcqjlkacxh Tsirykluud
+         82 Vocwussowq                    4 Vocwussowq Udnstpxjlw
+         83 Vqwjibbxju                    4 Vqwjibbxju Uqwpcyhwis
+         84 Vwngmbjltn                    4 Vwngmbjltn Vcqjlkacxh
+         85 Vxsdbrnbdr                    4 Vxsdbrnbdr Vocwussowq
+         86 Wexsftlcmv                    4 Wexsftlcmv Vqwjibbxju
+         87 Wiykfypjlc                    4 Wiykfypjlc Vwngmbjltn
+         88 Wlwmbyrdye                    4 Wlwmbyrdye Vxsdbrnbdr
+         89 Wosexcnfqw                    4 Wosexcnfqw Wexsftlcmv
+         90 Xaxwbhelcf                    4 Xaxwbhelcf Wiykfypjlc
+         91 Xgsygqisid                    4 Xgsygqisid Wlwmbyrdye
+         92 Xhcnqngoaj                    4 Xhcnqngoaj Wosexcnfqw
+         93 Xibjvxepuf                    4 Xibjvxepuf Xaxwbhelcf
+         94 Xoccpitwbu                    4 Xoccpitwbu Xgsygqisid
+         95 Xrefcwnnhw                    4 Xrefcwnnhw Xhcnqngoaj
+         96 Xuoaacpwbd                    4 Xuoaacpwbd Xibjvxepuf
+         97 Zejwfibibr                    4 Zejwfibibr Xoccpitwbu
+         98 Zekyawuyxm                    4 Zekyawuyxm Xrefcwnnhw
+         99 Zelyinywmg                    4 Zelyinywmg Xuoaacpwbd
+        100 Zochpfvtyt                    4 Zochpfvtyt Zejwfibibr
+<group_end>
+
+--- 100 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+A           D          MCOUNT_D            
+----------- ---------- --------------------
+<group_begin>
+          1 Aedrmcurrb                    1
+          2 Aoflhuqgfv                    2
+          3 Avvpwacsnu                    3
+          4 Bcdnkgkoec                    4
+          5 Bcfqvgueye                    4
+          6 Bdkytnlllk                    4
+          7 Bgsihneqci                    4
+          8 Bvwoicejow                    4
+          9 Cnfwjsbmgg                    4
+         10 Cxusmetfvt                    4
+         11 Dewypknokg                    4
+         12 Dsfhhekgtl                    4
+         13 Edqteiwndv                    4
+         14 Edyvwsxmxb                    4
+         15 Emdnjwpkef                    4
+         16 Fakwkqkyyr                    4
+         17 Fbbrbqkxis                    4
+         18 Fovoesmakx                    4
+         19 Fplgssgddi                    4
+         20 Fuwitecoro                    4
+         21 Gcyearnaox                    4
+         22 Ggttjpligf                    4
+         23 Ggwbnvgmlv                    4
+         24 Gliiamlgnf                    4
+         25 Goyykwkhgh                    4
+         26 Gqrhfndiwy                    4
+         27 Gufphcrhwu                    4
+         28 Hjwbfpugye                    4
+         29 Hwddvxunoq                    4
+         30 Ifwbgnohrn                    4
+         31 Ikurdnnncq                    4
+         32 Iqghchxgto                    4
+         33 Ixhihxdeid                    4
+         34 Jkojeyimyj                    4
+         35 Jybyxlcwkx                    4
+         36 Kcxoayhrjc                    4
+         37 Kggcmdqqmt                    4
+         38 Kirdbjigpw                    4
+         39 Kiyfgsonej                    4
+         40 Kpvraanjdy                    4
+         41 Ktrokxftat                    4
+         42 Kyypeauthi                    4
+         43 Llirxuhvyq                    4
+         44 Mcjbckbbor                    4
+         45 Mcvdjjhrai                    4
+         46 Meugoxdwnx                    4
+         47 Mmbmsvjpeu                    4
+         48 Mnnyytwsdd                    4
+         49 Mtpwtetqsg                    4
+         50 Mtsplrcpep                    4
+         51 Mughcprkjf                    4
+         52 Nadrgjvlhl                    4
+         53 Ncbkwvdssy                    4
+         54 Ndgmbrssyk                    4
+         55 Niwkffxvpm                    4
+         56 Nsinbltgct                    4
+         57 Nvaeddrcaw                    4
+         58 Opplcaddny                    4
+         59 Ovigmwrqjc                    4
+         60 Phqqdvjqhi                    4
+         61 Pmstawwovh                    4
+         62 Pthrnvwydm                    4
+         63 Qnovhmnoss                    4
+         64 Qnyhoxauql                    4
+         65 Qttxnvxmrv                    4
+         66 Rdvdxxfvew                    4
+         67 Rspjywuyil                    4
+         68 Rykqtqhijg                    4
+         69 Slblafivnp                    4
+         70 NULL                          3
+         71 Snngyjsgiq                    3
+         72 Sohfhtnbit                    3
+         73 Swriwmramp                    3
+         74 Taicfknndn                    4
+         75 Tfirsgpgpy                    4
+         76 Tkgsecwiin                    4
+         77 Tqkpuitamk                    4
+         78 Tsirykluud                    4
+         79 Udnstpxjlw                    4
+         80 Uqwpcyhwis                    4
+         81 Vcqjlkacxh                    4
+         82 Vocwussowq                    4
+         83 Vqwjibbxju                    4
+         84 Vwngmbjltn                    4
+         85 Vxsdbrnbdr                    4
+         86 Wexsftlcmv                    4
+         87 Wiykfypjlc                    4
+         88 Wlwmbyrdye                    4
+         89 Wosexcnfqw                    4
+         90 Xaxwbhelcf                    4
+         91 Xgsygqisid                    4
+         92 Xhcnqngoaj                    4
+         93 Xibjvxepuf                    4
+         94 Xoccpitwbu                    4
+         95 Xrefcwnnhw                    4
+         96 Xuoaacpwbd                    4
+         97 Zejwfibibr                    4
+         98 Zekyawuyxm                    4
+         99 Zelyinywmg                    4
+        100 Zochpfvtyt                    4
+<group_end>
+
+--- 100 row(s) selected.
+
+<section_end>

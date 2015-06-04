@@ -1,0 +1,15 @@
+<section_begin>  test0108
+
+EMPNUM CITY           
+------ ---------------
+<group_begin>
+E2     Vienna         
+E3     Vienna         
+E4     Deale          
+E5     Akron          
+E1     Deale          
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

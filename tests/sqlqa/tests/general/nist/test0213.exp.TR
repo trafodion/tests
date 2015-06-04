@@ -1,0 +1,18 @@
+<section_begin>  test0213b
+
+C1   C21  C41  C61  C81  C100
+---- ---- ---- ---- ---- ----
+ 1   21   41   61   81   00  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0213d
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

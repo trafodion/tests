@@ -1,0 +1,172 @@
+<section_begin>  a11s1
+
+DATA_X3 DATA_93
+------- -------
+<group_begin>
+tom         100
+bob         200
+run         300
+sun         400
+fun         500
+gun         600
+nun         700
+pun         800
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a11s2
+
+DATA_X3 DATA_93
+------- -------
+nun         700
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+DATA_X3 DATA_93
+------- -------
+<group_begin>
+bob         200
+fun         500
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s4
+
+DATA_X3 DATA_93
+------- -------
+bob         200
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+FLD1  FLD2  FLD3  FLD4 
+----- ----- ----- -----
+ton   bat   bbb   sat  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s6
+
+FLD1  FLD2  FLD3  FLD4 
+----- ----- ----- -----
+<group_begin>
+tim   fat   aaa   bob  
+tim   fat   bbb   sat  
+tim   fat   dgh   bbb  
+tim   fat   ety   bill 
+tim   fat   xyz   zzz  
+tom   rat   aaa   bob  
+tom   rat   bbb   sat  
+tom   rat   dgh   bbb  
+tom   rat   ety   bill 
+tom   rat   xyz   zzz  
+ton   bat   aaa   bob  
+ton   bat   dgh   bbb  
+ton   bat   ety   bill 
+ton   bat   xyz   zzz  
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a11s7
+
+FLD1  FLD2  FLD3  FLD4 
+----- ----- ----- -----
+<group_begin>
+tim   fat   bbb   sat  
+tim   fat   dgh   bbb  
+tim   fat   ety   bill 
+tom   rat   bbb   sat  
+tom   rat   dgh   bbb  
+ton   bat   bbb   sat  
+ton   bat   dgh   bbb  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s8
+
+FLD1  FLD2  FLD3  FLD4 
+----- ----- ----- -----
+<group_begin>
+tim   fat   aaa   bob  
+tim   fat   xyz   zzz  
+tom   rat   aaa   bob  
+tom   rat   ety   bill 
+tom   rat   xyz   zzz  
+ton   bat   aaa   bob  
+ton   bat   bbb   sat  
+ton   bat   ety   bill 
+ton   bat   xyz   zzz  
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a11s9
+
+FLD1  FLD2  FLD3  FLD4 
+----- ----- ----- -----
+<group_begin>
+tim   fat   bbb   sat  
+tim   fat   dgh   bbb  
+tim   fat   ety   bill 
+tom   rat   bbb   sat  
+tom   rat   dgh   bbb  
+ton   bat   dgh   bbb  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s10
+
+FLD1  FLD2  FLD3  FLD4 
+----- ----- ----- -----
+<group_begin>
+tim   fat   aaa   bob  
+tim   fat   xyz   zzz  
+tom   rat   aaa   bob  
+tom   rat   ety   bill 
+tom   rat   xyz   zzz  
+ton   bat   aaa   bob  
+ton   bat   ety   bill 
+ton   bat   xyz   zzz  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a11s11
+
+FLD1  FLD2  FLD3  FLD4 
+----- ----- ----- -----
+ton   bat   bbb   sat  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s12
+
+FLD1  FLD2  FLD3  FLD4 
+----- ----- ----- -----
+<group_begin>
+tom   rat   xyz   zzz  
+ton   bat   xyz   zzz  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

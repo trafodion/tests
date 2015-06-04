@@ -1,0 +1,27 @@
+<section_begin>  test019a
+
+Count                Max                  Min                 
+-------------------- -------------------- --------------------
+                 100     3241419930.57510    -3245121455.10584
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test019b
+
+Avg                  Sum                 
+-------------------- --------------------
+     146097189.38935    14025330181.37770
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test019c
+
+PVariance                PStdDev                 
+------------------------ ------------------------
+   2.6908206543157386E18     1.6403721084911613E9
+
+--- 1 row(s) selected.
+
+<section_end>

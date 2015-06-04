@@ -1,0 +1,119 @@
+<section_begin>  a01s0
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abc                                                           1
+abd                                                           2
+abe                                                           3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abc                                                           1
+abd                                                           2
+abe                                                           3
+aud                                                           4
+aud                                                           5
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abc                                                           1
+abd                                                           2
+abe                                                           3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3a
+
+--- SQL command prepared.
+
+<section_end>
+<section_begin>  a01s5
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abc                                                           1
+abd                                                           2
+abe                                                           3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abc                                                           5
+abd                                                           5
+abe                                                           3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abc                                                           1
+abe                                                           3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abc                                                           1
+abd                                                           2
+abe                                                           3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+C1                                                  C2         
+--------------------------------------------------- -----------
+<group_begin>
+abc                                                           1
+abd                                                           2
+abe                                                           3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

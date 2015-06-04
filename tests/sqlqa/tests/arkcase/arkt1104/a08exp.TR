@@ -1,0 +1,138 @@
+<section_begin>  a08s0
+
+VCH7    VCH5  CH4 
+------- ----- ----
+<group_begin>
+AbCdEfG cc    Cc  
+a       NULL      
+abcdefg cc    alph
+b       c     e   
+cc      cc    cc  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+CLOWER  CUPPER CLENV      CLENF     
+------- ------ ---------- ----------
+<group_begin>
+a       NULL         NULL          4
+abcdefg CC              2          4
+abcdefg CC              2          4
+b       C               1          4
+cc      CC              2          4
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+VCH7    (EXPR)
+------- ------
+<group_begin>
+AbCdEfG Cd    
+a       yz    
+abcdefg cd    
+b       yz    
+cc      xy    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s3
+
+COCTET_LENGTH CPOSITION  CSUBSTRING CTRIM  
+------------- ---------- ---------- -------
+<group_begin>
+            4          0 Cd         AbCdEfG
+            4          0 yz                
+            4          0 yz         b      
+            4          1 xy         cc     
+            4          3 cd         bcdefg 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s4
+
+CLOWER  CUPPER CSUBSTRING CTRIM  
+------- ------ ---------- -------
+<group_begin>
+abcdefg CC     Cd         AbCdEfG
+abcdefg CC     Cd         AbCdEfG
+b       C      yz         b      
+cc      CC     xy         cc     
+a       NULL   NULL       NULL   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s5
+
+UP_TRIM UP_CLOWER CTRIM   CLOWER 
+------- --------- ------- -------
+<group_begin>
+ABCDEFG ABCDEFG   AbCdEfG abcdefg
+ABCDEFG ABCDEFG   AbCdEfG abcdefg
+B       B         b       b      
+CC      CC        cc      cc     
+NULL    A         NULL    a      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s6
+
+UP_TRIM UP_CLOWER CTRIM   CLOWER 
+------- --------- ------- -------
+<group_begin>
+        NULL              NULL   
+ABCDEFG ABCDEFG   AbCdEfG abcdefg
+ABCDEFG ABCDEFG   AbCdEfG abcdefg
+B       B         b       b      
+BCDEFG  NULL      bcdefg  NULL   
+CC      CC        cc      cc     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a08s7
+
+UP_CTRIM UP_CUPPER CTRIM   CUPPER CLOWER 
+-------- --------- ------- ------ -------
+<group_begin>
+CC       CC        cc      CC     abcdefg
+CC       CC        cc      CC     abcdefg
+CC       CC        cc      CC     cc     
+NULL     C         NULL    C      b      
+NULL     NULL      NULL    NULL   a      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s8
+
+UP_CTRIM UP_CUPPER CTRIM   CUPPER CLOWER 
+-------- --------- ------- ------ -------
+<group_begin>
+         NULL              NULL   NULL   
+ABCDEFG  NULL      AbCdEfG NULL   NULL   
+B        NULL      b       NULL   NULL   
+BCDEFG   NULL      bcdefg  NULL   NULL   
+CC       CC        cc      CC     abcdefg
+CC       CC        cc      CC     abcdefg
+CC       CC        cc      CC     cc     
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

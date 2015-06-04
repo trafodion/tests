@@ -1,0 +1,205 @@
+<section_begin>  a07s1
+
+ORDERING ALWAYSNULL CHAR_1
+-------- ---------- ------
+<group_begin>
+       1       NULL a     
+       2       NULL NULL  
+       3       NULL NULL  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+(EXPR) (EXPR)      (EXPR)
+------ ----------- ------
+<group_begin>
+1             NULL a     
+2             NULL NULL  
+3             NULL NULL  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+ORDERING ALWAYSNULL CHAR_1
+-------- ---------- ------
+<group_begin>
+       9       NULL 8     
+       1       NULL a     
+       2       NULL NULL  
+       3       NULL NULL  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+ORDERING SMALL_INT VAR_CHAR_3
+-------- --------- ----------
+<group_begin>
+       1      NULL AbC       
+       2      NULL zz        
+       3      NULL zy        
+       9      NULL NULL      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s7
+
+(EXPR) (EXPR)      (EXPR)
+------ ----------- ------
+<group_begin>
+1             NULL AbC   
+2             NULL zz    
+3             NULL zy    
+9             NULL NULL  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s9
+
+ORDERING TIME1    FLOAT_REAL     
+-------- -------- ---------------
+       1 13:11:59          1.0E-4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s10
+
+(EXPR) (EXPR)   (EXPR)              
+------ -------- --------------------
+1      13:11:59 9.9999997E-005      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s12
+
+ORDERING TIME1    FLOAT_REAL     
+-------- -------- ---------------
+       1 13:11:59          1.0E-4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s14
+
+ORDERING ALWAYSNULL CHAR_1 SMALL_INT MEDIUM_INT
+-------- ---------- ------ --------- ----------
+<group_begin>
+       9       NULL 8           9000       1000
+       1       NULL a           9000       1000
+       2       NULL NULL        9000       1000
+       3       NULL NULL        9000       1000
+      10       NULL NULL        9000       1000
+       9       NULL 8           NULL       NULL
+       1       NULL a           NULL       NULL
+       2       NULL NULL        NULL       NULL
+       3       NULL NULL        NULL       NULL
+      10       NULL NULL        NULL       NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a07s15
+
+(EXPR) (EXPR)      (EXPR)   (EXPR)   (EXPR)  
+------ ----------- -------- -------- --------
+<group_begin>
+9             NULL 8        9000     1000    
+1             NULL a        9000     1000    
+2             NULL NULL     9000     1000    
+3             NULL NULL     9000     1000    
+10            NULL NULL     9000     1000    
+9             NULL 8        NULL     NULL    
+1             NULL a        NULL     NULL    
+2             NULL NULL     NULL     NULL    
+3             NULL NULL     NULL     NULL    
+10            NULL NULL     NULL     NULL    
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a07s19
+
+SMALL_INT FLOAT_BASIC              Y_TO_D    
+--------- ------------------------ ----------
+<group_begin>
+        1                      1.2 1975-01-01
+     9000                      1.2 1975-01-01
+        1                     NULL NULL      
+     NULL                     NULL NULL      
+        2                     NULL NULL      
+        3                     NULL NULL      
+        9                     NULL NULL      
+       10                     NULL 1998-01-01
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a07s20
+
+(EXPR) (EXPR)               (EXPR)    
+------ -------------------- ----------
+<group_begin>
+1      1.200000000000E+000  1975-01-01
+9000   1.200000000000E+000  1975-01-01
+1      NULL                 NULL      
+NULL   NULL                 NULL      
+2      NULL                 NULL      
+3      NULL                 NULL      
+9      NULL                 NULL      
+10     NULL                 1998-01-01
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a07s22
+
+VAR_CHAR_3 PIC_COMP_3 IH_TO_S          Y_TO_D    
+---------- ---------- ---------------- ----------
+<group_begin>
+ 4.           1.00000 NULL             NULL      
+ 4.           2.00000 NULL             NULL      
+ 4.           2.00000 NULL             NULL      
+ 4.              NULL NULL             NULL      
+NULL             NULL NULL             NULL      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a07s23
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR) (EXPR)    (EXPR)    
+------ --------- ----------
+<group_begin>
+       2.00000   NULL      
+       NULL      NULL 
+       1.00000   NULL     
+NULL   NULL      NULL      
+       2.00000   NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

@@ -1,0 +1,40 @@
+<section_begin>  s1
+
+EMPNAME              EMPNUM GRADE  CITY            PNUM PNAME                PTYPE  BUDGET      CITY           
+-------------------- ------ ------ --------------- ---- -------------------- ------ ----------- ---------------
+<group_begin>
+Alice                E1         12 Deale           P1   MXSS                 Design       10000 Deale          
+Alice                E1         12 Deale           P6   PAYR                 Design       50000 Deale          
+Alice                E1         12 Deale           P4   SDP                  Design       20000 Deale          
+Betty                E2         10 Vienna          P2   CALM                 Code         30000 Vienna         
+Betty                E2         10 Vienna          P5   IRM                  Test         10000 Vienna         
+Carmen               E3         13 Vienna          P2   CALM                 Code         30000 Vienna         
+Carmen               E3         13 Vienna          P5   IRM                  Test         10000 Vienna         
+Don                  E4         12 Deale           P1   MXSS                 Design       10000 Deale          
+Don                  E4         12 Deale           P6   PAYR                 Design       50000 Deale          
+Don                  E4         12 Deale           P4   SDP                  Design       20000 Deale          
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+EMPNAME              EMPNUM GRADE  CITY            PNUM PNAME                PTYPE  BUDGET      CITY           
+-------------------- ------ ------ --------------- ---- -------------------- ------ ----------- ---------------
+<group_begin>
+Alice                E1         12 Deale           P1   MXSS                 Design       10000 Deale          
+Alice                E1         12 Deale           P6   PAYR                 Design       50000 Deale          
+Alice                E1         12 Deale           P4   SDP                  Design       20000 Deale          
+Betty                E2         10 Vienna          P2   CALM                 Code         30000 Vienna         
+Betty                E2         10 Vienna          P5   IRM                  Test         10000 Vienna         
+Carmen               E3         13 Vienna          P2   CALM                 Code         30000 Vienna         
+Carmen               E3         13 Vienna          P5   IRM                  Test         10000 Vienna         
+Don                  E4         12 Deale           P1   MXSS                 Design       10000 Deale          
+Don                  E4         12 Deale           P6   PAYR                 Design       50000 Deale          
+Don                  E4         12 Deale           P4   SDP                  Design       20000 Deale          
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>

@@ -1,0 +1,70 @@
+<section_begin>  a01s2
+
+CHAR0_20 SBIN0_2              UDEC0_10    VARCHAR0_2       SDEC0_1000  UBIN0_20    CHAR1_2          SDEC1_UNIQ           SBIN1_100 VARCHAR1_UNIQ
+-------- -------------------- ----------- ---------------- ----------- ----------- ---------------- -------------------- --------- -------------
+AAAAAAAA                    1           2 BBBBBBBBB                  3        4.00 CACACA                              5         6 CACAC        
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+VARCHAR0_1000                                                                                                                    CHAR0_10                         UDEC0_20    UBIN0_1000  SDEC0_UNIQ  VARCHAR1_UNIQ      SBIN1_UNIQ SDEC1_2              VARCHAR2_UNIQ                                                   
+-------------------------------------------------------------------------------------------------------------------------------- -------------------------------- ----------- ----------- ----------- ------------------ ---------- -------------------- ----------------------------------------------------------------
+hello                                                                                                                            there                                      1        2.00           3 BBBB                        4                    5 EFFF                                                            
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+UDEC0_10    UDEC0_20    UBIN0_20   
+----------- ----------- -----------
+       NULL           1        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+UDEC0_10    UBIN0_20    VARCHAR1_UNIQ     
+----------- ----------- ------------------
+<group_begin>
+          2        4.00 CACAC             
+          2        4.00 CACAC             
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+UDEC0_10    UBIN0_20    VARCHAR1_UNIQ     
+----------- ----------- ------------------
+<group_begin>
+          2        4.00 CACAC             
+          2        4.00 CACAC             
+          2        4.00 CACAC             
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+VARCHAR2_UNIQ
+----------------------------------------------------------------
+EFFF                                                            
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+VARCHAR0_1000                                                                                                                    CHAR0_10                         UDEC0_20    UBIN0_1000  SDEC0_UNIQ  VARCHAR1_UNIQ      SBIN1_UNIQ SDEC1_2              VARCHAR2_UNIQ                                                    UBIN0_1000  SDEC0_UNIQ  VARCHAR1_UNIQ     
+-------------------------------------------------------------------------------------------------------------------------------- -------------------------------- ----------- ----------- ----------- ------------------ ---------- -------------------- ---------------------------------------------------------------- ----------- ----------- ------------------
+hello                                                                                                                            there                                      1        2.00           3 BBBB                        4                    5 EFFF                                                                    NULL        NULL NULL              
+
+--- 1 row(s) selected.
+
+<section_end>

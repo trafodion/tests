@@ -1,0 +1,497 @@
+<section_begin>  a03s0
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+a            1 a           0.90 NULL    NULL NULL       0
+abcdefg      3 cc          0.09 alph     2.0 cc         1
+abcdefg      5 cc          0.09 cc       2.0 cc         2
+b            4 c     1234567.89 e     1234.5 c      12345
+cc           2 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+V1      N2     C3   N4          C5   N6      V7    N8    
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+a            1 a           0.90 NULL    NULL NULL       0
+abcdefg      3 cc          0.09 alph     2.0 cc         1
+abcdefg      5 cc          0.09 cc       2.0 cc         2
+b            4 c     1234567.89 e     1234.5 c      12345
+cc           2 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+(EXPR)
+-------
+    2.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+(EXPR)
+------
+     1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s11
+
+(EXPR)
+------
+<group_begin>
+     4
+     4
+     4
+     4
+     4
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s12
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT  (EXPR)
+------- ------ ---- ----------- ---- ------- ----- ------ ------
+<group_begin>
+a            1 a           0.90 NULL    NULL NULL       0      4
+abcdefg      3 cc          0.09 alph     2.0 cc         1      4
+abcdefg      5 cc          0.09 cc       2.0 cc         2      4
+b            4 c     1234567.89 e     1234.5 c      12345      4
+cc           2 cc          2.00 cc       2.0 cc         2      4
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s13
+
+VCH7    CH3 
+------- ----
+b       c   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s14
+
+VCH7    NINT   CH3  NNUM5   CH4 
+------- ------ ---- ------- ----
+b            4 c     1234.5 e   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s15
+
+VCH7    NINT   CH3  NNUM5   CH4 
+------- ------ ---- ------- ----
+b            4 c     1234.5 e   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s16
+
+CH4
+----
+NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s17
+
+VCH7    NINT   CH3  NNUM9       CH4 
+------- ------ ---- ----------- ----
+<group_begin>
+a            1 a           0.90 NULL
+abcdefg      3 cc          0.09 alph
+abcdefg      5 cc          0.09 cc  
+b            4 c     1234567.89 e   
+cc           2 cc          2.00 cc  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s18
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s19
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s20
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s21
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s22
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s23
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s24
+
+VCH7    (EXPR) CH3  NNUM5   NNUM9       NSINT 
+------- ------ ---- ------- ----------- ------
+abcdefg      5 cc       2.0        0.09      2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s25
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s26
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s27
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s28
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+abcdefg      5 cc       2.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s29
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+abcdefg      3 cc       2.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s30
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+cc           2 cc       2.0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s31
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+abcdefg      3 cc       2.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s32
+
+NNUM9
+-----------
+ 1234567.89
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s33
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+a            1 a       NULL
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+cc           2 cc       2.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s34
+
+(EXPR)
+------
+     1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s35
+
+(EXPR)
+------
+     3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s36
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+abcdefg      5 cc       2.0
+b            4 c     1234.5
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s37
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+abcdefg      3 cc       2.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s38
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+<group_begin>
+abcdefg      3 cc       2.0
+abcdefg      5 cc       2.0
+cc           2 cc       2.0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s39
+
+VCH7    NINT   CH3  NNUM5  
+------- ------ ---- -------
+abcdefg      3 cc       2.0
+
+--- 1 row(s) selected.
+
+<section_end>

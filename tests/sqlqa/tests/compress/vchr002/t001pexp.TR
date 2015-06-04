@@ -1,0 +1,363 @@
+<section_begin>  s01exe
+
+V4       (EXPR)              
+-------- --------------------
+<group_begin>
+AAAAAAAA                    1
+ABCDEFGH                   11
+Aaa00000                    1
+BBBBBBBB                    1
+BCDEFGHI                   11
+Bbb00000                    1
+CDEFGHIJ                   11
+Ccc00000                    1
+DEFGHIJK                   11
+Ddd00000                    1
+EFGHIJKL                   11
+Eee00000                    1
+FGHIJKLM                   11
+Fff00000                    1
+GHIJKLMN                   13
+Ggg00000                    1
+HIJKLMNO                   11
+Hhh00000                    1
+IJKLMNOP                   11
+Iii00000                    1
+JKLMNOPQ                   11
+Jjj00000                    1
+KLMNOPQR                   11
+Kkk00000                    1
+LMNOPQRS                   11
+Lll00000                    1
+MNOPQRST                   11
+Mmm00000                    1
+NOPQRSTU                   11
+Nnn00000                    1
+OPQRSTUV                   11
+Ooo00000                    1
+PQRSTUVW                   11
+Ppp00000                    1
+QRSTUVWX                   11
+Qqq00000                    1
+RSTUVWXY                   11
+Rrr00000                    1
+STUVWXYZ                   11
+Sss00000                    1
+TUWVXYZA                   11
+Ttt00000                    1
+cccccccc                    1
+dDdD0104                    1
+<group_end>
+
+--- 44 row(s) selected.
+
+<section_end>
+<section_begin>  s02exe
+
+I1          V1   V3   V3  
+----------- ---- ---- ----
+<group_begin>
+          1 A    0001 0001
+          2 B    0002 0002
+          3 C    0003 0003
+          4 D    0004 0004
+          5 E    0005 0005
+          6 F    0006 0006
+          7 G    0007 0007
+          8 H    0008 0008
+          9 I    0009 0009
+         10 J    0010 0010
+         11 K    0011 0011
+         12 L    0012 0012
+         13 M    0013 0013
+         14 N    0014 0014
+         15 O    0015 0015
+         16 P    0016 0016
+         17 Q    0017 0017
+         18 R    0018 0018
+         19 S    0019 0019
+         20 T    0020 0020
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  s03exe
+
+I1          (EXPR) VCH2 VCH3
+----------- ------ ---- ----
+<group_begin>
+          1 AA     aa   0001
+          2 BB     bb   0002
+          3 CC     cc   0003
+          4 DD     dd   0004
+          5 EE     ee   0005
+          6 FF     ff   0006
+          7 GG     gg   0007
+          8 HH     hh   0008
+          9 II     ii   0009
+         10 JJ     jj   0010
+         11 KK     kk   0011
+         12 LL     ll   0012
+         13 MM     mm   0013
+         14 NN     nn   0014
+         15 OO     oo   0015
+         16 PP     pp   0016
+         17 QQ     qq   0017
+         18 RR     rr   0018
+         19 SS     ss   0019
+         20 TT     tt   0020
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  s04exe
+
+VCH1 VCH2 VCH3
+---- ---- ----
+<group_begin>
+A    aa   0001
+B    bb   0002
+C    cc   0003
+D    dd   0004
+E    ee   0005
+F    ff   0006
+G    gg   0007
+H    hh   0008
+I    ii   0009
+J    jj   0010
+K    kk   0011
+L    ll   0012
+M    mm   0013
+N    nn   0014
+O    oo   0015
+P    pp   0016
+Q    qq   0017
+R    rr   0018
+S    ss   0019
+T    tt   0020
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  s05exe
+
+VCH3 (EXPR)
+---- ------
+<group_begin>
+0001 aa    
+0002 bb    
+0003 cc    
+0004 dd    
+0005 ee    
+0006 ff    
+0007 gg    
+0008 hh    
+0009 ii    
+0010 jj    
+0011 kk    
+0012 ll    
+0013 mm    
+0014 nn    
+0015 oo    
+0016 pp    
+0017 qq    
+0018 rr    
+0019 ss    
+0020 tt    
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  s06exe
+
+VCH1 VCH2 (EXPR)              
+---- ---- --------------------
+L    ll                      1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s07exe
+
+(EXPR)
+------
+0200  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s08exe
+
+V2   V3   V4       V5              
+---- ---- -------- ----------------
+<group_begin>
+aa   0201 ABCDEFGH aabbccddeeffgghh
+aa   0221 ABCDEFGH aabbccddeeffgghh
+aa   0241 ABCDEFGH aabbccddeeffgghh
+aa   0261 ABCDEFGH aabbccddeeffgghh
+aa   0281 ABCDEFGH aabbccddeeffgghh
+bb   0202 BCDEFGHI aabbccddeeffgghh
+bb   0222 BCDEFGHI aabbccddeeffgghh
+bb   0242 BCDEFGHI aabbccddeeffgghh
+bb   0262 BCDEFGHI aabbccddeeffgghh
+bb   0282 BCDEFGHI aabbccddeeffgghh
+cc   0203 CDEFGHIJ aabbccddeeffgghh
+cc   0223 CDEFGHIJ aabbccddeeffgghh
+cc   0243 CDEFGHIJ aabbccddeeffgghh
+cc   0263 CDEFGHIJ aabbccddeeffgghh
+cc   0283 CDEFGHIJ aabbccddeeffgghh
+dd   0204 DEFGHIJK aabbccddeeffgghh
+dd   0224 DEFGHIJK aabbccddeeffgghh
+dd   0244 DEFGHIJK aabbccddeeffgghh
+dd   0264 DEFGHIJK aabbccddeeffgghh
+dd   0284 DEFGHIJK aabbccddeeffgghh
+ee   0205 EFGHIJKL aabbccddeeffgghh
+ee   0225 EFGHIJKL aabbccddeeffgghh
+ee   0245 EFGHIJKL aabbccddeeffgghh
+ee   0265 EFGHIJKL aabbccddeeffgghh
+ee   0285 EFGHIJKL aabbccddeeffgghh
+ff   0206 FGHIJKLM aabbccddeeffgghh
+ff   0226 FGHIJKLM aabbccddeeffgghh
+ff   0246 FGHIJKLM aabbccddeeffgghh
+ff   0266 FGHIJKLM aabbccddeeffgghh
+ff   0286 FGHIJKLM aabbccddeeffgghh
+gg   0207 GHIJKLMN aabbccddeeffgghh
+gg   0227 GHIJKLMN aabbccddeeffgghh
+gg   0247 GHIJKLMN aabbccddeeffgghh
+gg   0267 GHIJKLMN aabbccddeeffgghh
+gg   0287 GHIJKLMN aabbccddeeffgghh
+hh   0208 HIJKLMNO aabbccddeeffgghh
+hh   0228 HIJKLMNO aabbccddeeffgghh
+hh   0248 HIJKLMNO aabbccddeeffgghh
+hh   0268 HIJKLMNO aabbccddeeffgghh
+hh   0288 HIJKLMNO aabbccddeeffgghh
+ii   0209 IJKLMNOP aabbccddeeffgghh
+ii   0229 IJKLMNOP aabbccddeeffgghh
+ii   0249 IJKLMNOP aabbccddeeffgghh
+ii   0269 IJKLMNOP aabbccddeeffgghh
+ii   0289 IJKLMNOP aabbccddeeffgghh
+jj   0210 JKLMNOPQ aabbccddeeffgghh
+jj   0230 JKLMNOPQ aabbccddeeffgghh
+jj   0250 JKLMNOPQ aabbccddeeffgghh
+jj   0270 JKLMNOPQ aabbccddeeffgghh
+jj   0290 JKLMNOPQ aabbccddeeffgghh
+kk   0211 KLMNOPQR aabbccddeeffgghh
+kk   0231 KLMNOPQR aabbccddeeffgghh
+kk   0251 KLMNOPQR aabbccddeeffgghh
+kk   0271 KLMNOPQR aabbccddeeffgghh
+kk   0291 KLMNOPQR aabbccddeeffgghh
+ll   0212 LMNOPQRS aabbccddeeffgghh
+ll   0232 LMNOPQRS aabbccddeeffgghh
+ll   0252 LMNOPQRS aabbccddeeffgghh
+ll   0272 LMNOPQRS aabbccddeeffgghh
+ll   0292 LMNOPQRS aabbccddeeffgghh
+mm   0213 MNOPQRST aabbccddeeffgghh
+mm   0233 MNOPQRST aabbccddeeffgghh
+mm   0253 MNOPQRST aabbccddeeffgghh
+mm   0273 MNOPQRST aabbccddeeffgghh
+mm   0293 MNOPQRST aabbccddeeffgghh
+nn   0214 NOPQRSTU aabbccddeeffgghh
+nn   0234 NOPQRSTU aabbccddeeffgghh
+nn   0254 NOPQRSTU aabbccddeeffgghh
+nn   0274 NOPQRSTU aabbccddeeffgghh
+nn   0294 NOPQRSTU aabbccddeeffgghh
+oo   0215 OPQRSTUV aabbccddeeffgghh
+oo   0235 OPQRSTUV aabbccddeeffgghh
+oo   0255 OPQRSTUV aabbccddeeffgghh
+oo   0275 OPQRSTUV aabbccddeeffgghh
+oo   0295 OPQRSTUV aabbccddeeffgghh
+pp   0216 PQRSTUVW aabbccddeeffgghh
+pp   0236 PQRSTUVW aabbccddeeffgghh
+pp   0256 PQRSTUVW aabbccddeeffgghh
+pp   0276 PQRSTUVW aabbccddeeffgghh
+pp   0296 PQRSTUVW aabbccddeeffgghh
+qq   0217 QRSTUVWX aabbccddeeffgghh
+qq   0237 QRSTUVWX aabbccddeeffgghh
+qq   0257 QRSTUVWX aabbccddeeffgghh
+qq   0277 QRSTUVWX aabbccddeeffgghh
+qq   0297 QRSTUVWX aabbccddeeffgghh
+rr   0218 RSTUVWXY aabbccddeeffgghh
+rr   0238 RSTUVWXY aabbccddeeffgghh
+rr   0258 RSTUVWXY aabbccddeeffgghh
+rr   0278 RSTUVWXY aabbccddeeffgghh
+rr   0298 RSTUVWXY aabbccddeeffgghh
+ss   0219 STUVWXYZ aabbccddeeffgghh
+ss   0239 STUVWXYZ aabbccddeeffgghh
+ss   0259 STUVWXYZ aabbccddeeffgghh
+ss   0279 STUVWXYZ aabbccddeeffgghh
+ss   0299 STUVWXYZ aabbccddeeffgghh
+tt   0200 TUWVXYZA aabbccddeeffgghh
+tt   0220 TUWVXYZA aabbccddeeffgghh
+tt   0240 TUWVXYZA aabbccddeeffgghh
+tt   0260 TUWVXYZA aabbccddeeffgghh
+tt   0280 TUWVXYZA aabbccddeeffgghh
+tt   0300 TUWVXYZA aabbccddeeffgghh
+<group_end>
+
+--- 101 row(s) selected.
+
+<section_end>
+<section_begin>  s09exe
+
+I1          V3   VCH3 V4       V5              
+----------- ---- ---- -------- ----------------
+<group_begin>
+        161 0161 0001 ABCDEFGH aabbccddeeffgghh
+        161 0161 0001 ABCDEFGH aabbccddeeffgghh
+        161 0161 0001 ABCDEFGH aabbccddeeffgghh
+        161 0161 0001 ABCDEFGH aabbccddeeffgghh
+        161 0161 0001 ABCDEFGH aabbccddeeffgghh
+        181 0181 0001 ABCDEFGH aabbccddeeffgghh
+        181 0181 0001 ABCDEFGH aabbccddeeffgghh
+        181 0181 0001 ABCDEFGH aabbccddeeffgghh
+        181 0181 0001 ABCDEFGH aabbccddeeffgghh
+        181 0181 0001 ABCDEFGH aabbccddeeffgghh
+        201 0201 0001 ABCDEFGH aabbccddeeffgghh
+        201 0201 0001 ABCDEFGH aabbccddeeffgghh
+        201 0201 0001 ABCDEFGH aabbccddeeffgghh
+        201 0201 0001 ABCDEFGH aabbccddeeffgghh
+        201 0201 0001 ABCDEFGH aabbccddeeffgghh
+        221 0221 0001 ABCDEFGH aabbccddeeffgghh
+        221 0221 0001 ABCDEFGH aabbccddeeffgghh
+        221 0221 0001 ABCDEFGH aabbccddeeffgghh
+        221 0221 0001 ABCDEFGH aabbccddeeffgghh
+        221 0221 0001 ABCDEFGH aabbccddeeffgghh
+        241 0241 0001 ABCDEFGH aabbccddeeffgghh
+        241 0241 0001 ABCDEFGH aabbccddeeffgghh
+        241 0241 0001 ABCDEFGH aabbccddeeffgghh
+        241 0241 0001 ABCDEFGH aabbccddeeffgghh
+        241 0241 0001 ABCDEFGH aabbccddeeffgghh
+        261 0261 0001 ABCDEFGH aabbccddeeffgghh
+        261 0261 0001 ABCDEFGH aabbccddeeffgghh
+        261 0261 0001 ABCDEFGH aabbccddeeffgghh
+        261 0261 0001 ABCDEFGH aabbccddeeffgghh
+        261 0261 0001 ABCDEFGH aabbccddeeffgghh
+        281 0281 0001 ABCDEFGH aabbccddeeffgghh
+        281 0281 0001 ABCDEFGH aabbccddeeffgghh
+        281 0281 0001 ABCDEFGH aabbccddeeffgghh
+        281 0281 0001 ABCDEFGH aabbccddeeffgghh
+        281 0281 0001 ABCDEFGH aabbccddeeffgghh
+        301 0301 0001 ABCDEFGH aabbccddeeffgghh
+        301 0301 0001 ABCDEFGH aabbccddeeffgghh
+        301 0301 0001 ABCDEFGH aabbccddeeffgghh
+        301 0301 0001 ABCDEFGH aabbccddeeffgghh
+        301 0301 0001 ABCDEFGH aabbccddeeffgghh
+        321 0321 0001 ABCDEFGH aabbccddeeffgghh
+        321 0321 0001 ABCDEFGH aabbccddeeffgghh
+        321 0321 0001 ABCDEFGH aabbccddeeffgghh
+        321 0321 0001 ABCDEFGH aabbccddeeffgghh
+        321 0321 0001 ABCDEFGH aabbccddeeffgghh
+        341 0341 0001 ABCDEFGH aabbccddeeffgghh
+        341 0341 0001 ABCDEFGH aabbccddeeffgghh
+        341 0341 0001 ABCDEFGH aabbccddeeffgghh
+        341 0341 0001 ABCDEFGH aabbccddeeffgghh
+        341 0341 0001 ABCDEFGH aabbccddeeffgghh
+<group_end>
+
+--- 50 row(s) selected.
+
+<section_end>

@@ -1,0 +1,39 @@
+<section_begin>  a08s0
+
+PIC_X_A PIC_X_7
+------- -------
+box          50
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+DATA_X3 DATA_93
+------- -------
+<group_begin>
+kin         441
+kin         442
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+DATA_X3 DATA_93
+------- -------
+<group_begin>
+box          50
+kin         441
+kin         442
+rob         100
+rod         100
+ron         100
+sue         100
+tom         100
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

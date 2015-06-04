@@ -1,0 +1,281 @@
+<section_begin>  a11s01
+
+INT1        XCH2 PX3                  PX4  PX5                
+----------- ---- -------------------- ---- -------------------
+<group_begin>
+          1 000                   100 ABC  NULL               
+          6 111                111000 ABC  NULL               
+          7 NULL                  100 GGG  NULL               
+          8 444                222000 XYZ    16 16:00:00.1234 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s02
+
+INT1        XCH2 PX3                  PX4  PX5                 VCH3    
+----------- ---- -------------------- ---- ------------------- --------
+<group_begin>
+          1 000                   100 ABC  NULL                Z       
+          6 111                111000 ABC  NULL                Z       
+          7 NULL                  100 GGG  NULL                Z       
+          8 444                222000 XYZ    16 16:00:00.1234  Z       
+         11 NULL               123456 PX4  NULL                Z       
+         12 NULL                  100 ABC    16 16:00:00.1234  VCH3    
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s0
+
+INT1        XCH2 PX3                  PX4  PX5                 VCH3    
+----------- ---- -------------------- ---- ------------------- --------
+<group_begin>
+          1 000                   100 ABC  NULL                Z       
+          6 111                111000 ABC  NULL                Z       
+          7 NULL                  100 GGG  NULL                Z       
+          8 444                222000 XYZ    16 16:00:00.1234  Z       
+         13 NULL                  100 ABC    15 15:00:00.1234  VCH5    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s04
+
+INT1        XCH2 PX3                  PX4  PX5                 VCH3     SMA1  VCH4 VCH5
+----------- ---- -------------------- ---- ------------------- -------- ----- ---- ----
+<group_begin>
+          1 000                   100 ABC  NULL                Z        65535 Z    zz  
+          6 111                111000 ABC  NULL                Z        65535 Z    zz  
+          7 NULL                  100 GGG  NULL                Z        65535 Z    zz  
+          8 444                222000 XYZ    16 16:00:00.1234  Z        65535 Z    zz  
+         13 NULL                  100 ABC    15 15:00:00.1234  VCH5     65535 Z    zz  
+         18 NULL                10000 ABC  NULL                Z          100 1    zz  
+         19 NULL                  100 111  NULL                row11    65535 X    zz  
+         20 NULL                  100 ABC    16 16:00:00.1234  Z        65535 Z    12  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a11s03
+
+INT1        XCH2 PX3                  PX4  PX5                 VCH3    
+----------- ---- -------------------- ---- ------------------- --------
+<group_begin>
+          1 000                   100 ABC  NULL                Z       
+          6 111                111000 ABC  NULL                Z       
+          7 NULL                  100 GGG  NULL                Z       
+          8 444                222000 XYZ    16 16:00:00.1234  Z       
+         13 NULL                  100 ABC    15 15:00:00.1234  VCH5    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s05
+
+INT1        XCH2 PX3                  PX4  PX5                 VCH3     SMA1  VCH4 VCH5 Sma1   vch4 vch4* vch%5
+----------- ---- -------------------- ---- ------------------- -------- ----- ---- ---- ------ ---- ----- -----
+<group_begin>
+          1 000                   100 ABC  NULL                Z        65535 X    xx     NULL z    zz    zzz  
+          6 111                111000 ABC  NULL                Z        65535 X    xx     NULL z    zz    zzz  
+          7 NULL                  100 GGG  NULL                Z        65535 X    xx     NULL z    zz    zzz  
+          8 444                222000 XYZ    16 16:00:00.1234  Z        65535 X    xx     NULL z    zz    zzz  
+         13 NULL                  100 ABC    15 15:00:00.1234  VCH5     65535 X    xx     NULL z    zz    zzz  
+         24 NULL                20000 ABC  NULL                Z          200 2    xx     NULL z    zz    zzz  
+         25 NULL                  100 222  NULL                row11    65535 2    xx     NULL z    zz    zzz  
+         26 NULL                  100 ABC    16 16:00:00.1234  Z        65535 X    22     NULL z    zz    zzz  
+         31 NULL                10001 ABC  NULL                Z          101 1    xx     NULL z    zz    zzz  
+         32 NULL                20000 ABC  NULL                Z        65535 X    xx      200 2    zz    zzz  
+         33 NULL                  100 111  NULL                Z        65535 X    xx     NULL z    X     333  
+         34 101                 10001 WXY   101 00:00:00.4444  WXY       1001 A    aa    -1001 a    AA    zz2  
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a11s06
+
+INT1        XCH2 PX3                  PX4  PX5                 VCH3     SMA1  VCH4 VCH5 Sma1   vch4 vch4* vch%5 SQL    modify
+----------- ---- -------------------- ---- ------------------- -------- ----- ---- ---- ------ ---- ----- ----- ------ ------
+<group_begin>
+          1 000                   100 ABC  NULL                Z        65535 X    xx     NULL z    zz    zzz     NULL modify
+          6 111                111000 ABC  NULL                Z        65535 X    xx     NULL z    zz    zzz     NULL modify
+          7 NULL                  100 GGG  NULL                Z        65535 X    xx     NULL z    zz    zzz     NULL modify
+          8 444                222000 XYZ    16 16:00:00.1234  Z        65535 X    xx     NULL z    zz    zzz     NULL modify
+         13 NULL                  100 ABC    15 15:00:00.1234  VCH5     65535 X    xx     NULL z    zz    zzz     NULL modify
+         24 NULL                20000 ABC  NULL                Z          200 2    xx     NULL z    zz    zzz     NULL modify
+         25 NULL                  100 222  NULL                row11    65535 2    xx     NULL z    zz    zzz     NULL modify
+         26 NULL                  100 ABC    16 16:00:00.1234  Z        65535 X    22     NULL z    zz    zzz     NULL modify
+         31 NULL                10001 ABC  NULL                Z          101 1    xx     NULL z    zz    zzz     NULL modify
+         32 NULL                20000 ABC  NULL                Z        65535 X    xx      200 2    zz    zzz     NULL modify
+         33 NULL                  100 111  NULL                Z        65535 X    xx     NULL z    X     333     NULL modify
+         34 101                 10001 WXY   101 00:00:00.4444  WXY       1001 A    aa    -1001 a    AA    zz2     NULL modify
+         37 NULL                  100 ABC  NULL                Z        65535 X    hh     2002 z    %_    zzz     NULL modify
+         38 NULL                  100 ABC  NULL                Z        30003 X    xx     NULL z    zz    sql     3003 update
+         39 104                 10004 XXY   104 00:00:00.4444  XXY       1004 D    dd    -1004 d    DD    zz4     4444 second
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a11s06a
+
+INT1        Sma1   vch4* VCH5
+----------- ------ ----- ----
+<group_begin>
+         37   2002 %_    hh  
+         38   NULL zz    xx  
+         39  -1004 DD    dd  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s06b
+
+INT1        SQL    SMA1  vch%5 modify
+----------- ------ ----- ----- ------
+<group_begin>
+         37   NULL 65535 zzz   modify
+         38   3003 30003 sql   update
+         39   4444  1004 zz4   second
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s44
+
+INT1        XCH2 PX3                  PX4  PX5                 VCH3     SMA1  VCH4 VCH5 Sma1   vch4 vch4* vch%5 SQL    modify ems    COL17 COL18 COL19
+----------- ---- -------------------- ---- ------------------- -------- ----- ---- ---- ------ ---- ----- ----- ------ ------ ------ ----- ----- -----
+<group_begin>
+          1 000                   100 ABC  NULL                Z        65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+          6 111                111000 ABC  NULL                Z        65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+          7 NULL                  100 GGG  NULL                Z        65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+          8 444                222000 XYZ    16 16:00:00.1234  Z        65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         13 NULL                  100 ABC    15 15:00:00.1234  VCH5     65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         24 NULL                20000 ABC  NULL                Z          200 2    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         25 NULL                  100 222  NULL                row11    65535 2    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         26 NULL                  100 ABC    16 16:00:00.1234  Z        65535 X    22     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         31 NULL                10001 ABC  NULL                Z          101 1    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         32 NULL                20000 ABC  NULL                Z        65535 X    xx      200 2    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         33 NULL                  100 111  NULL                Z        65535 X    xx     NULL z    X     333     NULL modify   NULL    -1  NULL NULL 
+         34 101                 10001 WXY   101 00:00:00.4444  WXY       1001 A    aa    -1001 a    AA    zz2     NULL modify   NULL    -1  NULL NULL 
+         37 NULL                  100 ABC  NULL                Z        65535 X    hh     2002 z    %_    zzz     NULL modify   NULL    -1  NULL NULL 
+         38 NULL                  100 ABC  NULL                Z        30003 X    xx     NULL z    zz    sql     3003 update   NULL    -1  NULL NULL 
+         39 104                 10004 XXY   104 00:00:00.4444  XXY       1004 D    dd    -1004 d    DD    zz4     4444 second   NULL    -1  NULL NULL 
+        123 123                   123 123   123 00:00:00.1111  123        123 a    aa      123 a    aa    aaa      123 tandem  12.30  -123  0.12 a    
+        124 124                   124 124   124 00:00:00.1111  124        124 b    bb      124 b    bb    bbb      124 compaq  12.40  -124  0.12 b    
+        125 NULL                  125 NULL NULL                125        125 c    cc      125 c    cc    ccc      125 NULL    12.40  -125  0.12 NULL 
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a11s07
+
+INT1        XCH2 PX3                  PX4  PX5                 VCH3     SMA1  VCH4 VCH5 Sma1   vch4 vch4* vch%5 SQL    modify ems    COL17 COL18 COL19 COL20
+----------- ---- -------------------- ---- ------------------- -------- ----- ---- ---- ------ ---- ----- ----- ------ ------ ------ ----- ----- ----- -----
+<group_begin>
+          1 000                   100 ABC  NULL                Z        65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL  NULL 
+          6 111                111000 ABC  NULL                Z        65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL  NULL 
+          7 NULL                  100 GGG  NULL                Z        65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL  NULL 
+          8 444                222000 XYZ    16 16:00:00.1234  Z        65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL  NULL 
+         13 NULL                  100 ABC    15 15:00:00.1234  VCH5     65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL  NULL 
+         24 NULL                20000 ABC  NULL                Z          200 2    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL  NULL 
+         25 NULL                  100 222  NULL                row11    65535 2    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL  NULL 
+         26 NULL                  100 ABC    16 16:00:00.1234  Z        65535 X    22     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL  NULL 
+         31 NULL                10001 ABC  NULL                Z          101 1    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL  NULL 
+         32 NULL                20000 ABC  NULL                Z        65535 X    xx      200 2    zz    zzz     NULL modify   NULL    -1  NULL NULL  NULL 
+         33 NULL                  100 111  NULL                Z        65535 X    xx     NULL z    X     333     NULL modify   NULL    -1  NULL NULL  NULL 
+         34 101                 10001 WXY   101 00:00:00.4444  WXY       1001 A    aa    -1001 a    AA    zz2     NULL modify   NULL    -1  NULL NULL  NULL 
+         37 NULL                  100 ABC  NULL                Z        65535 X    hh     2002 z    %_    zzz     NULL modify   NULL    -1  NULL NULL  NULL 
+         38 NULL                  100 ABC  NULL                Z        30003 X    xx     NULL z    zz    sql     3003 update   NULL    -1  NULL NULL  NULL 
+         39 104                 10004 XXY   104 00:00:00.4444  XXY       1004 D    dd    -1004 d    DD    zz4     4444 second   NULL    -1  NULL NULL  NULL 
+         47 NULL                  100 ABC  NULL                Z        65535 X    xx     NULL z    zz    zzz      126 modify  12.60  -126  NULL NULL  NULL 
+         48 NULL                  100 ABC  NULL                Z        65535 X    zz     NULL z    zz    zzz     NULL modify   NULL  -130  NULL z     z    
+        123 123                   123 123   123 00:00:00.1111  123        123 a    aa      123 a    aa    aaa      123 tandem  12.30  -123  0.12 a     NULL 
+        124 124                   124 124   124 00:00:00.1111  124        124 b    bb      124 b    bb    bbb      124 compaq  12.40  -124  0.12 b     NULL 
+        125 NULL                  125 NULL NULL                125        125 c    cc      125 c    cc    ccc      125 NULL    12.40  -125  0.12 NULL  NULL 
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a11s08
+
+INT1        XCH2 PX3                  PX4  PX5                 VCH3     SMA1  VCH4 VCH5 Sma1   vch4 vch4* vch%5 SQL    modify ems    COL17 COL18 COL19
+----------- ---- -------------------- ---- ------------------- -------- ----- ---- ---- ------ ---- ----- ----- ------ ------ ------ ----- ----- -----
+<group_begin>
+          1 000                   100 ABC  NULL                Z        65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+          6 111                111000 ABC  NULL                Z        65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+          7 NULL                  100 GGG  NULL                Z        65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+          8 444                222000 XYZ    16 16:00:00.1234  Z        65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         13 NULL                  100 ABC    15 15:00:00.1234  VCH5     65535 X    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         24 NULL                20000 ABC  NULL                Z          200 2    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         25 NULL                  100 222  NULL                row11    65535 2    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         26 NULL                  100 ABC    16 16:00:00.1234  Z        65535 X    22     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         31 NULL                10001 ABC  NULL                Z          101 1    xx     NULL z    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         32 NULL                20000 ABC  NULL                Z        65535 X    xx      200 2    zz    zzz     NULL modify   NULL    -1  NULL NULL 
+         33 NULL                  100 111  NULL                Z        65535 X    xx     NULL z    X     333     NULL modify   NULL    -1  NULL NULL 
+         34 101                 10001 WXY   101 00:00:00.4444  WXY       1001 A    aa    -1001 a    AA    zz2     NULL modify   NULL    -1  NULL NULL 
+         37 NULL                  100 ABC  NULL                Z        65535 X    hh     2002 z    %_    zzz     NULL modify   NULL    -1  NULL NULL 
+         38 NULL                  100 ABC  NULL                Z        30003 X    xx     NULL z    zz    sql     3003 update   NULL    -1  NULL NULL 
+         39 104                 10004 XXY   104 00:00:00.4444  XXY       1004 D    dd    -1004 d    DD    zz4     4444 second   NULL    -1  NULL NULL 
+         50 NULL                  100 ABC  NULL                Z        65535 X    AA     NULL z    zz    zzz     NULL modify   NULL  -131  NULL A    
+        123 123                   123 123   123 00:00:00.1111  123        123 a    aa      123 a    aa    aaa      123 tandem  12.30  -123  0.12 a    
+        124 124                   124 124   124 00:00:00.1111  124        124 b    bb      124 b    bb    bbb      124 compaq  12.40  -124  0.12 b    
+        125 NULL                  125 NULL NULL                125        125 c    cc      125 c    cc    ccc      125 NULL    12.40  -125  0.12 NULL 
+        127 NULL                 NULL 127   127 00:00:00.1111  127        127 e    ee      127 e    ee    eee      127 compaq  12.70  -127  NULL e    
+        128 NULL                  128 NULL NULL                128        128 f    ff      128 f    ff    fff      128 NULL    12.40  -128  NULL NULL 
+        129 129                   129 129   129 00:00:00.1111  129        129 g    gg      129 g    gg    ggg      129 oracle  12.60  -129  0.26 g    
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a11s08a
+
+INT1        Sma1   vch4* VCH5
+----------- ------ ----- ----
+<group_begin>
+         37   2002 %_    hh  
+         38   NULL zz    xx  
+         39  -1004 DD    dd  
+         50   NULL zz    AA  
+        123    123 aa    aa  
+        124    124 bb    bb  
+        125    125 cc    cc  
+        127    127 ee    ee  
+        128    128 ff    ff  
+        129    129 gg    gg  
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a11s08b
+
+INT1        SQL    SMA1  vch%5 modify
+----------- ------ ----- ----- ------
+<group_begin>
+         37   NULL 65535 zzz   modify
+         38   3003 30003 sql   update
+         39   4444  1004 zz4   second
+         50   NULL 65535 zzz   modify
+        123    123   123 aaa   tandem
+        124    124   124 bbb   compaq
+        125    125   125 ccc   NULL  
+        127    127   127 eee   compaq
+        128    128   128 fff   NULL  
+        129    129   129 ggg   oracle
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>

@@ -1,0 +1,40 @@
+<section_begin>  a09s1
+
+SALARY     (EXPR)      
+---------- ------------
+<group_begin>
+  37000.00   37000.0000
+  39500.00   39500.0000
+ 175500.00   87750.0000
+  65000.00   16250.0000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+(EXPR)
+------------
+<group_begin>
+   74000.000
+   79000.000
+  175500.000
+   97500.000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s4
+
+DEPT_NUM (EXPR)      
+-------- ------------
+<group_begin>
+    9000    74000.000
+    1000    97500.000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

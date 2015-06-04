@@ -1,0 +1,41 @@
+<section_begin>  a02s0
+
+COL_1 COL_2
+----- -----
+<group_begin>
+   13     1
+   21     3
+   43     5
+   86     7
+   99     9
+   77     4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+COL_1 COL_2
+----- -----
+<group_begin>
+   13     1
+   55     3
+   43     5
+   86     7
+   99     9
+   77     4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+COL_1 COL_4
+----- -----
+TU     3.33
+
+--- 1 row(s) selected.
+
+<section_end>

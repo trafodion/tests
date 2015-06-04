@@ -1,0 +1,357 @@
+<section_begin>  a21s0
+
+CDEPT CNO  CNAME                  CLABFEE
+----- ---- ---------------------- -------
+<group_begin>
+THEO  T44  COMMUNISM               200.00
+PHIL  P33  EXISTENTIALISM          200.00
+CIS   C66  RELATIONAL DATABASES    500.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a21s1
+
+FNAME                FDEPT FSALARY  
+-------------------- ----- ---------
+<group_begin>
+JULIE MARTYN         PHIL   45000.00
+JESSIE MARTYN        THEO   45000.00
+AL HARTLEY           CIS    45000.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a21s2
+
+CDEPT CNO  CNAME                  CLABFEE
+----- ---- ---------------------- -------
+<group_begin>
+THEO  T44  COMMUNISM               200.00
+THEO  T11  SCHOLASTICISM           150.00
+THEO  T12  FUNDAMENTALISM           90.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a21s3
+
+FNAME                FDEPT
+-------------------- -----
+AL HARTLEY           CIS  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21s4
+
+ENAME      ETITLE    
+---------- ----------
+<group_begin>
+LUKE       EVANGLIST3
+MARK       EVANGLIST2
+MATTHEW    EVANGLIST1
+DICK NIX   CROOK     
+HANK KISS  JESTER    
+JOHN       EVANGLIST4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a21s5
+
+ENAME      ETITLE    
+---------- ----------
+<group_begin>
+LUKE       EVANGLIST3
+MARK       EVANGLIST2
+MATTHEW    EVANGLIST1
+DICK NIX   CROOK     
+HANK KISS  JESTER    
+JOHN       EVANGLIST4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a21s6
+
+ENAME      ETITLE    
+---------- ----------
+<group_begin>
+LUKE       EVANGLIST3
+MARK       EVANGLIST2
+MATTHEW    EVANGLIST1
+DICK NIX   CROOK     
+HANK KISS  JESTER    
+JOHN       EVANGLIST4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a21s7
+
+FNAME                FDEPT
+-------------------- -----
+<group_begin>
+KATHY PEPE           PHIL 
+JESSIE MARTYN        THEO 
+JULIE MARTYN         PHIL 
+LISA BOBAK           THEO 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a21s8
+
+FNAME                FDEPT
+-------------------- -----
+<group_begin>
+KATHY PEPE           PHIL 
+JESSIE MARTYN        THEO 
+JULIE MARTYN         PHIL 
+LISA BOBAK           THEO 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a21s9
+
+FNAME                FDEPT
+-------------------- -----
+<group_begin>
+KATHY PEPE           PHIL 
+JESSIE MARTYN        THEO 
+JULIE MARTYN         PHIL 
+LISA BOBAK           THEO 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a21s10
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C11  INTRO TO CS             100.00
+C55  COMPUTER ARCH.          100.00
+C66  RELATIONAL DATABASES    500.00
+P11  EMPIRICISM              100.00
+P33  EXISTENTIALISM          200.00
+T11  SCHOLASTICISM           150.00
+T12  FUNDAMENTALISM           90.00
+T44  COMMUNISM               200.00
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a21s11
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C11  INTRO TO CS             100.00
+C55  COMPUTER ARCH.          100.00
+C66  RELATIONAL DATABASES    500.00
+P11  EMPIRICISM              100.00
+P33  EXISTENTIALISM          200.00
+T11  SCHOLASTICISM           150.00
+T12  FUNDAMENTALISM           90.00
+T44  COMMUNISM               200.00
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a21s12
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C11  INTRO TO CS             100.00
+C55  COMPUTER ARCH.          100.00
+C66  RELATIONAL DATABASES    500.00
+P11  EMPIRICISM              100.00
+P33  EXISTENTIALISM          200.00
+T11  SCHOLASTICISM           150.00
+T12  FUNDAMENTALISM           90.00
+T44  COMMUNISM               200.00
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a21s13
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C11  INTRO TO CS             100.00
+C55  COMPUTER ARCH.          100.00
+C66  RELATIONAL DATABASES    500.00
+P11  EMPIRICISM              100.00
+P33  EXISTENTIALISM          200.00
+T11  SCHOLASTICISM           150.00
+T12  FUNDAMENTALISM           90.00
+T44  COMMUNISM               200.00
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a21s14
+
+ENAME      ETITLE     DEPT
+---------- ---------- ----
+<group_begin>
+EUCLID     LAB ASSIST MATH
+ARCHIMEDES LAB ASSIST ENG 
+DA VINCI   LAB ASSIST NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a21s15
+
+ENAME      ETITLE     DEPT
+---------- ---------- ----
+<group_begin>
+EUCLID     LAB ASSIST MATH
+ARCHIMEDES LAB ASSIST ENG 
+DA VINCI   LAB ASSIST NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a21s16
+
+FNAME                FDEPT
+-------------------- -----
+<group_begin>
+JOE COHN             CIS  
+AL HARTLEY           CIS  
+BARB HLAVATY         CIS  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a21s17
+
+FNAME                FDEPT
+-------------------- -----
+<group_begin>
+JOE COHN             CIS  
+AL HARTLEY           CIS  
+BARB HLAVATY         CIS  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a21s18
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C66  RELATIONAL DATABASES    500.00
+T11  SCHOLASTICISM           150.00
+T12  FUNDAMENTALISM           90.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a21s19
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C66  RELATIONAL DATABASES    500.00
+T11  SCHOLASTICISM           150.00
+T12  FUNDAMENTALISM           90.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a21s20
+
+ENAME      ETITLE     ESALARY     DEPT DEPT DBLD DROOM DCHFNO
+---------- ---------- ----------- ---- ---- ---- ----- ------
+<group_begin>
+LUKE       EVANGLIST3          53 THEO THEO HU   200   10    
+MARK       EVANGLIST2          52 THEO THEO HU   200   10    
+MATTHEW    EVANGLIST1          51 THEO THEO HU   200   10    
+DICK NIX   CROOK            25001 PHIL PHIL HU   100   60    
+HANK KISS  JESTER           25000 PHIL PHIL HU   100   60    
+EUCLID     LAB ASSIST        1000 MATH                       
+JOHN       EVANGLIST4          54 THEO THEO HU   200   10    
+ARCHIMEDES LAB ASSIST         200 ENG                        
+DA VINCI   LAB ASSIST         500 NULL                       
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a21s21
+
+SNAME
+-------------------------
+<group_begin>
+MEO DUBAY                
+ROCKY BALBOA             
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a21s22
+
+CNAME                  CDEPT CLABFEE
+---------------------- ----- -------
+<group_begin>
+RELATIONAL DATABASES   CIS    500.00
+COMMUNISM              THEO   200.00
+EXISTENTIALISM         PHIL   200.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a21s23
+
+DEPT
+----
+<group_begin>
+THEO
+PHIL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a21s24
+
+DEPT
+----
+<group_begin>
+MATH
+ENG 
+NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

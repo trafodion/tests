@@ -1,0 +1,405 @@
+<section_begin>  a05s0
+
+X
+-----------
+          2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+X
+-----------
+          2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+CHARACTER_SET_SCHEMA CLASS_ORIGIN COBOL       COLLATION_CATALOG COLLATION_NAME COLLATION_SCHEMA
+-------------------- ------------ ----------- ----------------- -------------- ----------------
+                   1            2           3                 4              5                6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+CLASS_ORIGIN
+------------
+           2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+COBOL
+-----------
+          3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+COLLATION_CATALOG
+-----------------
+                4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+COLLATION_NAME
+--------------
+             5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+COLLATION_SCHEMA
+----------------
+               6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s14
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s15
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s16
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s17
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s18
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s19
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s20
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s21
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s22
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s23
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s24
+
+GOODNAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s25
+
+MESSAGE_TEXT
+------------
+           6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s26
+
+MORE
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s27
+
+MUMP
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s28
+
+NAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s29
+
+NULLABLE
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s30
+
+NUMBER
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s31
+
+PASCAL
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s32
+
+PL1
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s33
+
+REPEATABLE
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s34
+
+RETURNED_LENGTH
+---------------
+              6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s35
+
+RETURNED_OCTET_LENGTH
+---------------------
+                    6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s36
+
+RETURNED_SQLSTATE
+-----------------
+                6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s37
+
+ROWCOUNT
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s38
+
+SCALE
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s39
+
+SCHEMA_NAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s40
+
+SERIALIZABLE
+------------
+           6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s41
+
+SERVER_NAME
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s42
+
+SUBCLASS_ORIGIN
+---------------
+              6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s43
+
+UNCOMMITTED
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s44
+
+UNNAMED
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>

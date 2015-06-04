@@ -1,0 +1,65 @@
+<section_begin>  a11s0
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+clark      dinah          9000      37000              3
+crinar     jessica        3500      39500              2
+green      roger          9000     175500              2
+howard     jerry          1000      65000              1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s1
+
+L_NAME     F_NAME     MAR_STATUS
+---------- ---------- ----------
+<group_begin>
+clark      dinah               3
+crinar     jessica             2
+howard     jerry               1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s4
+
+SALARY
+----------
+<group_begin>
+     37000
+    175500
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+(EXPR)
+------
+<group_begin>
+     2
+     2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s8
+
+LAST_NAME
+----------
+<group_begin>
+clark     
+crinar    
+green     
+howard    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

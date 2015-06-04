@@ -1,0 +1,222 @@
+<section_begin>  a01s0
+
+(EXPR)
+-------------------
+<group_begin>
+AKAAQAAA   AKAAQAAA
+GGAAQAAA   GGAAQAAA
+DBAALAAA   DBAALAAA
+CEAACAAA   CEAACAAA
+DHAAPAAA   DHAAPAAA
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+(EXPR)                                                                                                                           (EXPR)                                                                                                                          
+-------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+Hello ,Robert John                                                                                                               Robert JohnHello ,                                                                                                              
+Hello ,Robert John                                                                                                               Robert JohnHello ,                                                                                                              
+Hello ,Robert John                                                                                                               Robert JohnHello ,                                                                                                              
+Hello ,Robert John                                                                                                               Robert JohnHello ,                                                                                                              
+Hello ,Robert John                                                                                                               Robert JohnHello ,                                                                                                              
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR)
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+HELLO , ROBERT JOHN SMITH                                                                                                       
+HELLO , ROBERT JOHN SMITH                                                                                                       
+HELLO , ROBERT JOHN SMITH                                                                                                       
+HELLO , ROBERT JOHN SMITH                                                                                                       
+HELLO , ROBERT JOHN SMITH                                                                                                       
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+(EXPR)                                                                                                                           CHAR0_09_UNIQ CHAR0_AZ_UNIQ
+-------------------------------------------------------------------------------------------------------------------------------- ------------- -------------
+<group_begin>
+ABC00000150                                                                                                                      00000150      ebaaoaaa     
+ABC00001106                                                                                                                      00001106      cjaaoaaa     
+ABC00001265                                                                                                                      00001265      adaaiaaa     
+ABC00001382                                                                                                                      00001382      dkaafaaa     
+ABC00001421                                                                                                                      00001421      agaaaaaa     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+(EXPR)                                                                                                                           CHAR0_09_UNIQ
+-------------------------------------------------------------------------------------------------------------------------------- -------------
+<group_begin>
+00000150ABC                                                                                                                      00000150     
+00001106ABC                                                                                                                      00001106     
+00001265ABC                                                                                                                      00001265     
+00001382ABC                                                                                                                      00001382     
+00001421ABC                                                                                                                      00001421     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+(EXPR)                                                                                                                           CHAR0_AZ_UNIQ
+-------------------------------------------------------------------------------------------------------------------------------- -------------
+<group_begin>
+XYYZ012300000150                                                                                                                 ebaaoaaa     
+XYYZ012300001106                                                                                                                 cjaaoaaa     
+XYYZ012300001265                                                                                                                 adaaiaaa     
+XYYZ012300001382                                                                                                                 dkaafaaa     
+XYYZ012300001421                                                                                                                 agaaaaaa     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+(EXPR)                                                                                                                           CHAR0_AZ_UNIQ
+-------------------------------------------------------------------------------------------------------------------------------- -------------
+<group_begin>
+ZZZEBAAOAAA                                                                                                                      ebaaoaaa     
+ZZZCJAAOAAA                                                                                                                      cjaaoaaa     
+ZZZADAAIAAA                                                                                                                      adaaiaaa     
+ZZZDKAAFAAA                                                                                                                      dkaafaaa     
+ZZZAGAAAAAA                                                                                                                      agaaaaaa     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+(EXPR)                                                                                                                           (EXPR)                                                                                                                           CHAR0_AZ_UNIQ
+-------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------- -------------
+<group_begin>
+ZZZEBAAOAAA                                                                                                                      ZZZ00000150                                                                                                                      ebaaoaaa     
+ZZZCJAAOAAA                                                                                                                      ZZZ00001106                                                                                                                      cjaaoaaa     
+ZZZADAAIAAA                                                                                                                      ZZZ00001265                                                                                                                      adaaiaaa     
+ZZZDKAAFAAA                                                                                                                      ZZZ00001382                                                                                                                      dkaafaaa     
+ZZZAGAAAAAA                                                                                                                      ZZZ00001421                                                                                                                      agaaaaaa     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+(EXPR)           VARCHAR1_UNIQ CHAR0_09_UNIQ
+---------------- ------------- -------------
+<group_begin>
+AKAAQAAA00000150 AKAAQAAA      00000150     
+GGAAQAAA00001106 GGAAQAAA      00001106     
+DBAALAAA00001265 DBAALAAA      00001265     
+CEAACAAA00001382 CEAACAAA      00001382     
+DHAAPAAA00001421 DHAAPAAA      00001421     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+(EXPR)
+--------
+<group_begin>
+00000150
+00001106
+00001265
+00001382
+00001421
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+(EXPR)
+----------------
+<group_begin>
+00000150ebaaoaaa
+aaaaaaaaBAAAAAAA
+00001106cjaaoaaa
+baaaaaaaCAAAAAAA
+00001265adaaiaaa
+00001382dkaafaaa
+00001421agaaaaaa
+aaaaaaaaCAAAAAAA
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+CHAR0_AZ_UNIQ
+-------------
+agaaaaaa     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+(EXPR)
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+000001500000015000000150$0000.76ebaaoaaa00000150BDAAAAAABDAAAAAAebaaoaaaYNAAAAAAFDAAAAAAYNAAAAAATfAAAAAA[.[.[.AKAAQAAATfAAAAAAAKAAQAAABDAAAAAATfAAAAAAAKAAQAAAebaaoaaaFDAAAAAAFDAAAAAA[.00000150YNAAAAAA$0000.76$0000.76AKAAQAAAAKAAQAAA[.TfAAAAAAFDAAAAAAYNAAAAAABDAAAAAAebaaoaaa$0000.760000015000000150$0000.76ebaaoaaaBDAAAAAAYNAAAAAAFDAAAAAATfAAAAAAAKAAQAAAAKAAQAAATfAAAAAATfAAAAAA
+000011060000110600001106$0000.76cjaaoaaa00001106BBAAAAAABBAAAAAAcjaaoaaarkAAAAAARDAAAAAArkAAAAAAoIAAAAAA.!.!.!GGAAQAAAoIAAAAAAGGAAQAAABBAAAAAAoIAAAAAAGGAAQAAAcjaaoaaaRDAAAAAARDAAAAAA.!00001106rkAAAAAA$0000.76$0000.76GGAAQAAAGGAAQAAA.!oIAAAAAARDAAAAAArkAAAAAABBAAAAAAcjaaoaaa$0000.760000110600001106$0000.76cjaaoaaaBBAAAAAArkAAAAAARDAAAAAAoIAAAAAAGGAAQAAAGGAAQAAAoIAAAAAAoIAAAAAA
+000012650000126500001265$0000.31adaaiaaa00001265AAAAAAAAAAAAAAAAadaaiaaaumAAAAAAAaAAAAAAumAAAAAALAAAAAAAr;r;r;DBAALAAALAAAAAAADBAALAAAAAAAAAAALAAAAAAADBAALAAAadaaiaaaAaAAAAAAAaAAAAAAr;00001265umAAAAAA$0000.31$0000.31DBAALAAADBAALAAAr;LAAAAAAAAaAAAAAAumAAAAAAAAAAAAAAadaaiaaa$0000.310000126500001265$0000.31adaaiaaaAAAAAAAAumAAAAAAAaAAAAAALAAAAAAADBAALAAADBAALAAALAAAAAAALAAAAAAA
+000013820000138200001382$0000.22dkaafaaa00001382AEAAAAAAAEAAAAAAdkaafaaacJAAAAAAzBAAAAAAcJAAAAAA@FAAAAAA1%1%1%CEAACAAA@FAAAAAACEAACAAAAEAAAAAA@FAAAAAACEAACAAAdkaafaaazBAAAAAAzBAAAAAA1%00001382cJAAAAAA$0000.22$0000.22CEAACAAACEAACAAA1%@FAAAAAAzBAAAAAAcJAAAAAAAEAAAAAAdkaafaaa$0000.220000138200001382$0000.22dkaafaaaAEAAAAAAcJAAAAAAzBAAAAAA@FAAAAAACEAACAAACEAACAAA@FAAAAAA@FAAAAAA
+000014210000142100001421$0000.35agaaaaaa00001421ACAAAAAAACAAAAAAagaaaaaaWNAAAAAAccAAAAAAWNAAAAAAjAAAAAAAX*X*X*DHAAPAAAjAAAAAAADHAAPAAAACAAAAAAjAAAAAAADHAAPAAAagaaaaaaccAAAAAAccAAAAAAX*00001421WNAAAAAA$0000.35$0000.35DHAAPAAADHAAPAAAX*jAAAAAAAccAAAAAAWNAAAAAAACAAAAAAagaaaaaa$0000.350000142100001421$0000.35agaaaaaaACAAAAAAWNAAAAAAccAAAAAAjAAAAAAADHAAPAAADHAAPAAAjAAAAAAAjAAAAAAA
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+(EXPR)
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+000001500000015000000150$0000.76ebaaoaaa00000150BDAAAAAABDAAAAAAebaaoaaaYNAAAAAAFDAAAAAAYNAAAAAATfAAAAAA[.[.[.AKAAQAAATfAAAAAAAKAAQAAABDAAAAAATfAAAAAAAKAAQAAAebaaoaaaFDAAAAAAFDAAAAAA[.00000150YNAAAAAA$0000.76$0000.76AKAAQAAAAKAAQAAA[.TfAAAAAAFDAAAAAAYNAAAAAABDAAAAAAebaaoaaa$0000.760000015000000150$0000.76ebaaoaaaBDAAAAAAYNAAAAAAFDAAAAAATfAAAAAAAKAAQAAAAKAAQAAATfAAAAAATfAAAAAA000001500000015000000150$0000.76ebaaoaaa00000150BDAAAAAABDAAAAAAebaaoaaaYNAAAAAAFDAAAAAAYNAAAAAATfAAAAAA[.[.[.AKAAQAAATfAAAAAAAKAAQAAABDAAAAAATfAAAAAAAKAAQAAAebaaoaaaFDAAAAAAFDAAAAAA[.00000150YNAAAAAA$0000.76$0000.76AKAAQAAAAKAAQAAA[.TfAAAAAAFDAAAAAAYNAAAAAABDAAAAAAebaaoaaa$0000.760000015000000150$0000.76ebaaoaaaBDAAAAAAYNAAAAAAFDAAAAAATfAAAAAAAKAAQAAAAKAAQAAATfAAAAAATfAAAAAA
+000011060000110600001106$0000.76cjaaoaaa00001106BBAAAAAABBAAAAAAcjaaoaaarkAAAAAARDAAAAAArkAAAAAAoIAAAAAA.!.!.!GGAAQAAAoIAAAAAAGGAAQAAABBAAAAAAoIAAAAAAGGAAQAAAcjaaoaaaRDAAAAAARDAAAAAA.!00001106rkAAAAAA$0000.76$0000.76GGAAQAAAGGAAQAAA.!oIAAAAAARDAAAAAArkAAAAAABBAAAAAAcjaaoaaa$0000.760000110600001106$0000.76cjaaoaaaBBAAAAAArkAAAAAARDAAAAAAoIAAAAAAGGAAQAAAGGAAQAAAoIAAAAAAoIAAAAAA000011060000110600001106$0000.76cjaaoaaa00001106BBAAAAAABBAAAAAAcjaaoaaarkAAAAAARDAAAAAArkAAAAAAoIAAAAAA.!.!.!GGAAQAAAoIAAAAAAGGAAQAAABBAAAAAAoIAAAAAAGGAAQAAAcjaaoaaaRDAAAAAARDAAAAAA.!00001106rkAAAAAA$0000.76$0000.76GGAAQAAAGGAAQAAA.!oIAAAAAARDAAAAAArkAAAAAABBAAAAAAcjaaoaaa$0000.760000110600001106$0000.76cjaaoaaaBBAAAAAArkAAAAAARDAAAAAAoIAAAAAAGGAAQAAAGGAAQAAAoIAAAAAAoIAAAAAA
+000012650000126500001265$0000.31adaaiaaa00001265AAAAAAAAAAAAAAAAadaaiaaaumAAAAAAAaAAAAAAumAAAAAALAAAAAAAr;r;r;DBAALAAALAAAAAAADBAALAAAAAAAAAAALAAAAAAADBAALAAAadaaiaaaAaAAAAAAAaAAAAAAr;00001265umAAAAAA$0000.31$0000.31DBAALAAADBAALAAAr;LAAAAAAAAaAAAAAAumAAAAAAAAAAAAAAadaaiaaa$0000.310000126500001265$0000.31adaaiaaaAAAAAAAAumAAAAAAAaAAAAAALAAAAAAADBAALAAADBAALAAALAAAAAAALAAAAAAA000012650000126500001265$0000.31adaaiaaa00001265AAAAAAAAAAAAAAAAadaaiaaaumAAAAAAAaAAAAAAumAAAAAALAAAAAAAr;r;r;DBAALAAALAAAAAAADBAALAAAAAAAAAAALAAAAAAADBAALAAAadaaiaaaAaAAAAAAAaAAAAAAr;00001265umAAAAAA$0000.31$0000.31DBAALAAADBAALAAAr;LAAAAAAAAaAAAAAAumAAAAAAAAAAAAAAadaaiaaa$0000.310000126500001265$0000.31adaaiaaaAAAAAAAAumAAAAAAAaAAAAAALAAAAAAADBAALAAADBAALAAALAAAAAAALAAAAAAA
+000013820000138200001382$0000.22dkaafaaa00001382AEAAAAAAAEAAAAAAdkaafaaacJAAAAAAzBAAAAAAcJAAAAAA@FAAAAAA1%1%1%CEAACAAA@FAAAAAACEAACAAAAEAAAAAA@FAAAAAACEAACAAAdkaafaaazBAAAAAAzBAAAAAA1%00001382cJAAAAAA$0000.22$0000.22CEAACAAACEAACAAA1%@FAAAAAAzBAAAAAAcJAAAAAAAEAAAAAAdkaafaaa$0000.220000138200001382$0000.22dkaafaaaAEAAAAAAcJAAAAAAzBAAAAAA@FAAAAAACEAACAAACEAACAAA@FAAAAAA@FAAAAAA000013820000138200001382$0000.22dkaafaaa00001382AEAAAAAAAEAAAAAAdkaafaaacJAAAAAAzBAAAAAAcJAAAAAA@FAAAAAA1%1%1%CEAACAAA@FAAAAAACEAACAAAAEAAAAAA@FAAAAAACEAACAAAdkaafaaazBAAAAAAzBAAAAAA1%00001382cJAAAAAA$0000.22$0000.22CEAACAAACEAACAAA1%@FAAAAAAzBAAAAAAcJAAAAAAAEAAAAAAdkaafaaa$0000.220000138200001382$0000.22dkaafaaaAEAAAAAAcJAAAAAAzBAAAAAA@FAAAAAACEAACAAACEAACAAA@FAAAAAA@FAAAAAA
+000014210000142100001421$0000.35agaaaaaa00001421ACAAAAAAACAAAAAAagaaaaaaWNAAAAAAccAAAAAAWNAAAAAAjAAAAAAAX*X*X*DHAAPAAAjAAAAAAADHAAPAAAACAAAAAAjAAAAAAADHAAPAAAagaaaaaaccAAAAAAccAAAAAAX*00001421WNAAAAAA$0000.35$0000.35DHAAPAAADHAAPAAAX*jAAAAAAAccAAAAAAWNAAAAAAACAAAAAAagaaaaaa$0000.350000142100001421$0000.35agaaaaaaACAAAAAAWNAAAAAAccAAAAAAjAAAAAAADHAAPAAADHAAPAAAjAAAAAAAjAAAAAAA000014210000142100001421$0000.35agaaaaaa00001421ACAAAAAAACAAAAAAagaaaaaaWNAAAAAAccAAAAAAWNAAAAAAjAAAAAAAX*X*X*DHAAPAAAjAAAAAAADHAAPAAAACAAAAAAjAAAAAAADHAAPAAAagaaaaaaccAAAAAAccAAAAAAX*00001421WNAAAAAA$0000.35$0000.35DHAAPAAADHAAPAAAX*jAAAAAAAccAAAAAAWNAAAAAAACAAAAAAagaaaaaa$0000.350000142100001421$0000.35agaaaaaaACAAAAAAWNAAAAAAccAAAAAAjAAAAAAADHAAPAAADHAAPAAAjAAAAAAAjAAAAAAA
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+V_COL
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+000001500000015000000150$0000.76ebaaoaaa00000150BDAAAAAABDAAAAAAebaaoaaaYNAAAAAAFDAAAAAAYNAAAAAATfAAAAAA[.[.[.AKAAQAAATfAAAAAAAKAAQAAABDAAAAAATfAAAAAAAKAAQAAAebaaoaaaFDAAAAAAFDAAAAAA[.00000150YNAAAAAA$0000.76$0000.76AKAAQAAAAKAAQAAA[.TfAAAAAAFDAAAAAAYNAAAAAABDAAAAAAebaaoaaa$0000.760000015000000150$0000.76ebaaoaaaBDAAAAAAYNAAAAAAFDAAAAAATfAAAAAAAKAAQAAAAKAAQAAATfAAAAAATfAAAAAA
+000011060000110600001106$0000.76cjaaoaaa00001106BBAAAAAABBAAAAAAcjaaoaaarkAAAAAARDAAAAAArkAAAAAAoIAAAAAA.!.!.!GGAAQAAAoIAAAAAAGGAAQAAABBAAAAAAoIAAAAAAGGAAQAAAcjaaoaaaRDAAAAAARDAAAAAA.!00001106rkAAAAAA$0000.76$0000.76GGAAQAAAGGAAQAAA.!oIAAAAAARDAAAAAArkAAAAAABBAAAAAAcjaaoaaa$0000.760000110600001106$0000.76cjaaoaaaBBAAAAAArkAAAAAARDAAAAAAoIAAAAAAGGAAQAAAGGAAQAAAoIAAAAAAoIAAAAAA
+000012650000126500001265$0000.31adaaiaaa00001265AAAAAAAAAAAAAAAAadaaiaaaumAAAAAAAaAAAAAAumAAAAAALAAAAAAAr;r;r;DBAALAAALAAAAAAADBAALAAAAAAAAAAALAAAAAAADBAALAAAadaaiaaaAaAAAAAAAaAAAAAAr;00001265umAAAAAA$0000.31$0000.31DBAALAAADBAALAAAr;LAAAAAAAAaAAAAAAumAAAAAAAAAAAAAAadaaiaaa$0000.310000126500001265$0000.31adaaiaaaAAAAAAAAumAAAAAAAaAAAAAALAAAAAAADBAALAAADBAALAAALAAAAAAALAAAAAAA
+000013820000138200001382$0000.22dkaafaaa00001382AEAAAAAAAEAAAAAAdkaafaaacJAAAAAAzBAAAAAAcJAAAAAA@FAAAAAA1%1%1%CEAACAAA@FAAAAAACEAACAAAAEAAAAAA@FAAAAAACEAACAAAdkaafaaazBAAAAAAzBAAAAAA1%00001382cJAAAAAA$0000.22$0000.22CEAACAAACEAACAAA1%@FAAAAAAzBAAAAAAcJAAAAAAAEAAAAAAdkaafaaa$0000.220000138200001382$0000.22dkaafaaaAEAAAAAAcJAAAAAAzBAAAAAA@FAAAAAACEAACAAACEAACAAA@FAAAAAA@FAAAAAA
+000014210000142100001421$0000.35agaaaaaa00001421ACAAAAAAACAAAAAAagaaaaaaWNAAAAAAccAAAAAAWNAAAAAAjAAAAAAAX*X*X*DHAAPAAAjAAAAAAADHAAPAAAACAAAAAAjAAAAAAADHAAPAAAagaaaaaaccAAAAAAccAAAAAAX*00001421WNAAAAAA$0000.35$0000.35DHAAPAAADHAAPAAAX*jAAAAAAAccAAAAAAWNAAAAAAACAAAAAAagaaaaaa$0000.350000142100001421$0000.35agaaaaaaACAAAAAAWNAAAAAAccAAAAAAjAAAAAAADHAAPAAADHAAPAAAjAAAAAAAjAAAAAAA
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

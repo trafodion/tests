@@ -1,0 +1,27 @@
+<section_begin>  s1
+
+EMPNAME
+--------------------
+Alice               
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+EMPNAME
+--------------------
+ALICE               
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>

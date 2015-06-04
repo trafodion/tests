@@ -1,0 +1,70 @@
+<section_begin>  b06s0
+
+CHAR8
+--------
+<group_begin>
+CAAAAAA 
+CAAAAAAX
+EE      
+EE      
+EE      
+X       
+NULL    
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  b06s1
+
+C1      C2      
+------- --------
+<group_begin>
+AAAAAAA NULL    
+CAAAAAA CAAAAAA 
+DAAAAAA CAAAAAAX
+EE      EE      
+X       EE      
+X       X       
+NULL    EE      
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  b06s2
+
+VARCHAR7 CHAR8   
+-------- --------
+<group_begin>
+CAAAAAA  CAAAAAA 
+EE       EE      
+EE       EE      
+EE       EE      
+X        X       
+X        X       
+NULL     CAAAAAAX
+NULL     NULL    
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  b06s3
+
+C1      C2      
+------- --------
+<group_begin>
+CAAAAAA CAAAAAA 
+EE      EE      
+EE      EE      
+EE      EE      
+X       X       
+X       X       
+NULL    CAAAAAAX
+NULL    NULL    
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

@@ -1,0 +1,48 @@
+<section_begin>  s1
+
+EMPNUM EMPNAME              GRADE  CITY           
+------ -------------------- ------ ---------------
+<group_begin>
+E1     Alice                    12 Deale          
+E2     Betty                    10 Vienna         
+E3     Carmen                   13 Vienna         
+E4     Don                      12 Deale          
+E5     Ed                       13 Akron          
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+EMPNUM EMPNAME              GRADE  CITY           
+------ -------------------- ------ ---------------
+<group_begin>
+E1     Alice                    12 Deale          
+E2     Betty                    10 Vienna         
+E3     Carmen                   13 Vienna         
+E4     Don                      12 Deale          
+E5     Ed                       13 Akron          
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>

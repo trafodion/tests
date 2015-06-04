@@ -1,0 +1,31 @@
+<section_begin>  a09s0
+
+DT         TM       TS                        
+---------- -------- --------------------------
+<group_begin>
+1997-02-27 10:30:54 1997-02-27 10:30:54.123000
+1999-12-31 NULL     1999-12-31 23:59:59.999999
+2000-01-01 00:00:00 2000-01-01 00:00:00.000000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,222 @@
+<section_begin>  a03s0
+
+(EXPR)
+----------
+         6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+(EXPR)
+----------
+         6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+(EXPR)
+----------
+         2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+CHAR0_09_UNIQ (EXPR)     CHAR0_AZ_UNIQ
+------------- ---------- -------------
+<group_begin>
+00000150               5 ebaaoaaa     
+00001106               5 cjaaoaaa     
+00001265               5 adaaiaaa     
+00001382               5 dkaafaaa     
+00001421               5 agaaaaaa     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+CHAR0_AZ_UNIQ (EXPR)     VARCHAR1_UNIQ
+------------- ---------- -------------
+<group_begin>
+ebaaoaaa               3 AKAAQAAA     
+cjaaoaaa               3 GGAAQAAA     
+adaaiaaa               3 DBAALAAA     
+dkaafaaa               3 CEAACAAA     
+agaaaaaa               3 DHAAPAAA     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+CHAR0_AZ_UNIQ (EXPR)     VARCHAR1_UNIQ
+------------- ---------- -------------
+<group_begin>
+ebaaoaaa               3 AKAAQAAA     
+cjaaoaaa               3 GGAAQAAA     
+adaaiaaa               3 DBAALAAA     
+dkaafaaa               3 CEAACAAA     
+agaaaaaa               3 DHAAPAAA     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+CHAR0_AZ_UNIQ (EXPR)     VARCHAR1_UNIQ
+------------- ---------- -------------
+<group_begin>
+ebaaoaaa               3 AKAAQAAA     
+cjaaoaaa               3 GGAAQAAA     
+adaaiaaa               3 DBAALAAA     
+dkaafaaa               3 CEAACAAA     
+agaaaaaa               3 DHAAPAAA     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+CHAR0_AZ_UNIQ (EXPR)     VARCHAR1_UNIQ
+------------- ---------- -------------
+<group_begin>
+ebaaoaaa               1 AKAAQAAA     
+cjaaoaaa               1 GGAAQAAA     
+adaaiaaa               1 DBAALAAA     
+dkaafaaa               1 CEAACAAA     
+agaaaaaa               1 DHAAPAAA     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+CHAR0_AZ_UNIQ (EXPR)     VARCHAR1_UNIQ
+------------- ---------- -------------
+<group_begin>
+ebaaoaaa               0 AKAAQAAA     
+cjaaoaaa               0 GGAAQAAA     
+adaaiaaa               0 DBAALAAA     
+dkaafaaa               0 CEAACAAA     
+agaaaaaa               0 DHAAPAAA     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+CHAR0_AZ_UNIQ (EXPR)     VARCHAR1_UNIQ
+------------- ---------- -------------
+<group_begin>
+ebaaoaaa              13 AKAAQAAA     
+cjaaoaaa              13 GGAAQAAA     
+adaaiaaa              13 DBAALAAA     
+dkaafaaa              13 CEAACAAA     
+agaaaaaa              13 DHAAPAAA     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+CHAR0_AZ_UNIQ (EXPR)     VARCHAR1_UNIQ
+------------- ---------- -------------
+<group_begin>
+ebaaoaaa               6 AKAAQAAA     
+cjaaoaaa               6 GGAAQAAA     
+adaaiaaa               6 DBAALAAA     
+dkaafaaa               6 CEAACAAA     
+agaaaaaa               6 DHAAPAAA     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s11
+
+CHAR0_AZ_UNIQ (EXPR)     (EXPR)     VARCHAR1_UNIQ
+------------- ---------- ---------- -------------
+<group_begin>
+ebaaoaaa               0          2 AKAAQAAA     
+cjaaoaaa               0          2 GGAAQAAA     
+adaaiaaa               0          2 DBAALAAA     
+dkaafaaa               0          2 CEAACAAA     
+agaaaaaa               0          2 DHAAPAAA     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s12
+
+(EXPR)
+----------
+<group_begin>
+         0
+         0
+         0
+         0
+         0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s13
+
+(EXPR)
+----------
+<group_begin>
+         0
+         0
+         0
+         0
+         0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s14
+
+(EXPR)
+----------
+<group_begin>
+         0
+         0
+         0
+         0
+         0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s15
+
+(EXPR)
+----------
+<group_begin>
+         1
+         1
+         1
+         1
+         1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

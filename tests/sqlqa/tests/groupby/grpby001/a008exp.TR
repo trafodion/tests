@@ -1,0 +1,27 @@
+<section_begin>  a08s1
+
+(EXPR)
+--------------
+<group_begin>
+Length is >= 4
+LENGTH IS 1   
+LENGTH IS 2   
+LENGTH IS 3   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+(EXPR)
+--------------
+<group_begin>
+LENGTH IS 2   
+LENGTH IS 3   
+Length is >= 4
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

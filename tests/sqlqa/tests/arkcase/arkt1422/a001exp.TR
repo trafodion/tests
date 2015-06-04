@@ -1,0 +1,169 @@
+<section_begin>  a001s0
+
+D_T_M_E                    D_N        M_N        D_OF_Y      W_K    Q_R    YEAR_D      MONTH_D DAY_D  HOUR_D MINUTE_D SECOND_D   
+-------------------------- ---------- ---------- ----------- ------ ------ ----------- ------- ------ ------ -------- -----------
+<group_begin>
+1901-10-10 23:15:00.300000 Wednesday  October              1     53      1        1945       8     31     12       59           0
+1999-12-31 23:59:59.999999 Monday     January            365      1      2           1       7     28     12       59          59
+0001-12-13 00:00:00.000000 Wednesday  October              1     39      4        1945      10     29      0        0          40
+1901-05-10 15:19:59.300000 Friday     January              1     14      3        2106       4     31     12       59           1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a001s1
+
+(EXPR)
+---------
+<group_begin>
+Friday   
+Friday   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a001s2
+
+(EXPR)
+---------
+<group_begin>
+Thursday 
+Friday   
+Thursday 
+Friday   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a001s3
+
+(EXPR)
+---------
+<group_begin>
+Friday   
+Thursday 
+Thursday 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a001s4
+
+(EXPR)
+---------
+<group_begin>
+October  
+December 
+December 
+October  
+May      
+December 
+October  
+December 
+May      
+October  
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a001s5
+
+(EXPR)
+---------------------------
+<group_begin>
+Wednesday  CONCAT Thursday 
+Monday     CONCAT Friday   
+Wednesday  CONCAT Thursday 
+Friday     CONCAT Friday   
+Saturday   CONCAT Friday   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a001s6
+
+D_N        D_N       
+---------- ----------
+<group_begin>
+Wednesday  Wednesday 
+Wednesday  Wednesday 
+Monday     Monday    
+Wednesday  Wednesday 
+Wednesday  Wednesday 
+Friday     Friday    
+Saturday   Saturday  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a001s7
+
+D_N        D_N       
+---------- ----------
+<group_begin>
+Wednesday  Wednesday 
+Wednesday  Wednesday 
+Monday     Monday    
+Wednesday  Wednesday 
+Wednesday  Wednesday 
+Friday     Friday    
+Saturday   Saturday  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a001s8
+
+D_N        D_N       
+---------- ----------
+<group_begin>
+Wednesday  Wednesday 
+Wednesday  Wednesday 
+Monday     Monday    
+Wednesday  Wednesday 
+Wednesday  Wednesday 
+Friday     Friday    
+Saturday   Saturday  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a001s10
+
+D_N
+----------
+<group_begin>
+Friday    
+Monday    
+Saturday  
+Wednesday 
+Wednesday 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a001s11
+
+D_N        M_N        W_K    Q_R    (EXPR)    (EXPR)           
+---------- ---------- ------ ------ --------- -----------------
+<group_begin>
+Wednesday  October        53      1 Thursday  It is Thursday!  
+Monday     January         1      2 Friday    It is Friday!    
+Wednesday  October        39      4 Thursday  It is Thursday!  
+Friday     January        14      3 Friday    It is Friday!    
+Saturday   January        53      3 Friday    It is Friday!    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

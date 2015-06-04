@@ -1,0 +1,35 @@
+<section_begin>  a05s5
+
+VARCHAR1_ASCII_UNIQ (EXPR)         CHAR0_09_UNIQ
+------------------- -------------- -------------
+<group_begin>
+c0                        123.5600 00000067     
+[.                   99999999.0000 00000150     
++!                   99999999.0000 00000375     
+]                    99999999.0000 00000425     
+u)                   99999999.0000 00000995     
+/-                   99999999.0000 00001016     
+.!                   99999999.0000 00001106     
+r;                    1408285.1734 00001265     
+1%                   99999999.0000 00001382     
+X*                   99999999.0000 00001421     
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+SBIN0_UNIQ UBIN1_N2 SDEC0_N500           (EXPR)                       
+---------- -------- -------------------- -----------------------------
+<group_begin>
+         3     NULL                  387 value is neither zero nor one
+         1        0                  447 value is neither zero nor one
+         0        0                  255 Value is zero                
+         4     NULL                  440 value is neither zero nor one
+         2     NULL                  410 value is neither zero nor one
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

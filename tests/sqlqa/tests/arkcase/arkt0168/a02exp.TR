@@ -1,0 +1,24 @@
+<section_begin>  a02s0
+
+CASA  (EXPR)               (EXPR)               (EXPR)               (EXPR)              
+----- -------------------- -------------------- -------------------- --------------------
+<group_begin>
+PRIME                    5                    5                 1000              2000.00
+VFI                      5                    5                 1000              2000.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+CASA  (EXPR)               (EXPR)               (EXPR)               (EXPR)              
+----- -------------------- -------------------- -------------------- --------------------
+<group_begin>
+PRIME                    5                    5                 1000              2000.00
+VFI                     10                   10                 2000              4000.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

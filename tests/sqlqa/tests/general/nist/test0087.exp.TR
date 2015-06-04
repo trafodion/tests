@@ -1,0 +1,18 @@
+<section_begin>  test0087b
+
+INTTEST
+-----------
+     123456
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0087d
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,27 @@
+<section_begin>  s1
+
+EMPNUM
+------
+E9    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+EMPNUM HOURS  
+------ -------
+E9        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+(EXPR)
+--------------------
+                  12
+
+--- 1 row(s) selected.
+
+<section_end>

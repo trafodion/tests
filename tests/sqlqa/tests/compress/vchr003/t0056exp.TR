@@ -1,0 +1,208 @@
+<section_begin>  q01
+
+SDEC20_UNIQ VARCHAR9_UNIQ MAX0  MIN2 L3         (EXPR)              
+----------- ------------- ----- ---- ---------- --------------------
+<group_begin>
+        433 DAAACAAC      ACAA  AA           64                    1
+        435 FHAAGAAB      ABAA  AA           64                    1
+       2287 GIAALAAC      ACAA  AA          255                    1
+       2561 CEAAGAAC      ACAA  AA          255                    1
+       2723 CGAACAAB      BBAA  BA           64                    1
+       3121 FBAADAAB      ABAA  AA          255                    1
+       3934 EAAAEAAB      BBAA  BA           64                    1
+       4271 DHAACAAA      BAAA  BA          255                    1
+       4424 EDAAGAAB      BBAA  BA           64                    1
+       4747 BJAAKAAC      ACAA  AA           64                    1
+       5079 AAAAAAAA      AAAA  AA           64                    1
+       6513 FBAADAAD      ADAA  AA           64                    1
+       7607 GCAAAAAD      BDAA  BA           64                    1
+       8195 CKAAJAAD      BDAA  BA          255                    1
+      11931 EAAAKAAB      BBAA  BA           64                    1
+      12530 DDAAAAAC      BCAA  BA          255                    1
+      12839 CJAAIAAA      AAAA  AA          255                    1
+      14189 DEAAEAAB      BBAA  BA          255                    1
+      14286 BAAALAAD      BDAA  BA           64                    1
+      14558 AIAADAAB      BBAA  BA           64                    1
+      15247 BGAAKAAE      BEAA  BA          255                    1
+      16267 BAAAKAAB      ABAA  AA          255                    1
+      16328 EFAAMAAC      BCAA  BA           64                    1
+      16785 DAAAKAAA      BAAA  BA          255                    1
+      18590 FKAABAAD      BDAA  BA          255                    1
+      18969 FCAADAAE      BEAA  BA           64                    1
+      19173 GCAAFAAA      AAAA  AA           64                    1
+      19524 BIAAAAAC      BCAA  BA          255                    1
+      19849 DDAAHAAC      BCAA  BA          255                    1
+      19859 DEAALAAB      ABAA  AA          255                    1
+      21499 GIAAFAAB      BBAA  BA           64                    1
+      22186 EAAAIAAD      BDAA  BA           64                    1
+      22394 AHAAMAAA      BAAA  BA          255                    1
+      22471 FHAAHAAA      AAAA  AA           64                    1
+      22482 FBAALAAA      AAAA  AA           64                    1
+      22655 ACAAGAAD      ADAA  AA           64                    1
+      23083 GEAACAAD      ADAA  AA          255                    1
+<group_end>
+
+--- 37 row(s) selected.
+
+<section_end>
+<section_begin>  q02
+
+SDEC20_UNIQ SDEC20_UNIQ VARCHAR9_10 VARCHAR9_10
+----------- ----------- ----------- -----------
+<group_begin>
+         60        6205 8           8          
+         60        8216 8           8          
+         60       16220 8           8          
+         60        6947 8           8          
+         60        8401 8           8          
+         60       15848 8           8          
+         60       15603 8           8          
+         60       13257 8           8          
+         60       10226 8           8          
+         60       13984 8           8          
+         60       13062 8           8          
+         60       17773 8           8          
+         60       10965 8           8          
+         60       21642 8           8          
+         60        5816 8           8          
+         60       21038 8           8          
+         60        3171 8           8          
+         60        2142 8           8          
+         60       19081 8           8          
+         60        1566 8           8          
+         60        4609 8           8          
+       4015       21903 3           3          
+       4015       17837 3           3          
+       4015       19523 3           3          
+       4015       17672 3           3          
+       4015       14658 3           3          
+       4015        1496 3           3          
+       4015       24804 3           3          
+       4015        5120 3           3          
+       4015        7606 3           3          
+       4015        4503 3           3          
+      20118        4305 1           1          
+      20118       10957 1           1          
+      20118        5071 1           1          
+      20118       22746 1           1          
+      20118        2923 1           1          
+      20118        5949 1           1          
+      20118       24774 1           1          
+      20118        8713 1           1          
+      20118       14449 1           1          
+      20118        8594 1           1          
+      20118        6787 1           1          
+      21405       16612 5           5          
+      21405       23617 5           5          
+      21405       23594 5           5          
+      21405       10294 5           5          
+      21405        3727 5           5          
+      21405        9598 5           5          
+      21405       22123 5           5          
+      21405        8590 5           5          
+      21405       20482 5           5          
+      21405       10693 5           5          
+<group_end>
+
+--- 52 row(s) selected.
+
+<section_end>
+<section_begin>  q03
+
+SDEC20_UNIQ SDECU_UNIQ  VARCHAR9_UNIQ VARCHARJ_UNIQ
+----------- ----------- ------------- -------------
+<group_begin>
+         60          60 BIAAFAAA      BIAAFAAA     
+         60       18034 BIAAFAAA      EFAAMAAE     
+         60       17780 BIAAFAAA      EAAAHAAB     
+         60       15605 BIAAFAAA      BFAAKAAE     
+         60       18675 BIAAFAAA      CEAAMAAD     
+         60       19189 BIAAFAAA      GHAAGAAA     
+         60       19477 BIAAFAAA      AKAADAAC     
+         60       21458 BIAAFAAA      AAAABAAC     
+         60       20962 BIAAFAAA      DGAAFAAB     
+         60       20908 BIAAFAAA      CDAAIAAD     
+         60       15247 BIAAFAAA      BGAAKAAE     
+         60       14184 BIAAFAAA      GKAACAAB     
+         60       13704 BIAAFAAA      CBAALAAE     
+         60       12768 BIAAFAAA      DAAAAAAD     
+         60        8773 BIAAFAAA      GFAAIAAA     
+         60        5797 BIAAFAAA      FCAAMAAC     
+         60        1082 BIAAFAAA      FHAABAAE     
+         60        8866 BIAAFAAA      FEAAEAAA     
+         60       21524 BIAAFAAA      CJAAHAAB     
+         60        9067 BIAAFAAA      AEAAJAAD     
+         60       10513 BIAAFAAA      EKAAEAAA     
+         60       11222 BIAAFAAA      ECAAGAAE     
+         60       11026 BIAAFAAA      CFAAIAAE     
+         60       10577 BIAAFAAA      FHAAAAAB     
+         60        9136 BIAAFAAA      EDAAEAAB     
+         60       22482 BIAAFAAA      FBAALAAA     
+<group_end>
+
+--- 26 row(s) selected.
+
+<section_end>
+<section_begin>  q04
+
+VARCHAR9_UNIQ (EXPR)              
+------------- --------------------
+<group_begin>
+AAAAAAAA                         1
+ACAAGAAD                         1
+AHAAMAAA                         1
+AIAADAAB                         1
+BAAALAAD                         1
+BGAAKAAE                         1
+BIAAAAAC                         1
+BJAAKAAC                         1
+CEAAGAAC                         1
+CGAACAAB                         1
+CJAAIAAA                         1
+CKAAJAAD                         1
+DAAACAAC                         1
+DEAALAAB                         1
+DHAACAAA                         1
+EAAAEAAB                         1
+EFAAMAAC                         1
+FBAADAAB                         1
+FBAALAAA                         1
+FCAADAAE                         1
+FHAAHAAA                         1
+FKAABAAD                         1
+GCAAAAAD                         1
+GIAALAAC                         1
+<group_end>
+
+--- 24 row(s) selected.
+
+<section_end>
+<section_begin>  q05
+
+SDECA_UNIQ L_MAX      
+---------- -----------
+<group_begin>
+1240                60
+0                 5079
+1280              6575
+3100              6706
+1940              7327
+4380              7714
+1300              8575
+1720              8866
+2700             16442
+1580             22471
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  q08
+
+UBIN3    C2      
+-------- --------
+4961     FHAAFAAM
+
+--- 1 row(s) selected.
+
+<section_end>

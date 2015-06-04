@@ -1,0 +1,47 @@
+<section_begin>  a11s1
+
+(EXPR)
+--------------------
+                NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s2
+
+(EXPR)
+-----------------
+<group_begin>
+Char0_n10 is null
+date1_n4 is null 
+ubin1_n2  is Null
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+(EXPR)
+--------
+<group_begin>
+ is Null
+its B   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s4
+
+(EXPR)
+--------
+<group_begin>
+ is Null
+its B   
+its A   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

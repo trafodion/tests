@@ -1,0 +1,293 @@
+<section_begin>  a04s0
+
+SUPPNAME
+------------------
+<group_begin>
+INFOMATION STORAGE
+DATADRIVE         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+SUPPNAME
+------------------
+<group_begin>
+DATA TERMINAL CO  
+INFOMATION STORAGE
+MAGNETICS CORP    
+DATADRIVE         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+SUPPNAME
+------------------
+<group_begin>
+TANDEM COMPUTERS  
+DISPLAY INC       
+STEELWORK INC     
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+SUPPNAME
+------------------
+DATADRIVE         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+EMPNAME
+------------------
+<group_begin>
+TIM WALKER        
+ROBERT WHITE      
+JULIA KELLY       
+BILL WINN         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+JOB
+------------
+<group_begin>
+MANAGER     
+SALESMAN    
+SECRETARY   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+JOB
+------------
+<group_begin>
+MANAGER     
+SALESMAN    
+SECRETARY   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+SUPPNAME
+------------------
+<group_begin>
+TANDEM COMPUTERS  
+DATA TERMINAL CO  
+DISPLAY INC       
+INFOMATION STORAGE
+DATADRIVE         
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+SUPPNAME
+------------------
+<group_begin>
+TANDEM COMPUTERS  
+DATA TERMINAL CO  
+DISPLAY INC       
+INFOMATION STORAGE
+DATADRIVE         
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+SUPPNAME
+------------------
+<group_begin>
+DATA TERMINAL CO  
+INFOMATION STORAGE
+DATADRIVE         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+AGE
+----
+<group_begin>
+  24
+  26
+  19
+  22
+  24
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+AGE
+----
+<group_begin>
+  24
+  26
+  19
+  22
+  24
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s12
+
+SALESMAN
+--------
+<group_begin>
+     204
+     205
+     207
+     210
+     212
+     218
+     221
+     222
+     225
+     231
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a04s13
+
+CUSTNAME
+------------------
+<group_begin>
+CENTRAL UNIVERSITY
+BROWN MEDICAL CO  
+STEVENS SUPPLY    
+PREMIER INSURANCE 
+FRESNO STATE BANK 
+METALL-AG.        
+DATASPEED         
+BESTFOOD MARKETS  
+DEUTSCHE STAHL    
+VEREINIGTE CHEMIE 
+MOTOR DISTRIBUTING
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a04s14
+
+CUSTNAME
+------------------
+<group_begin>
+CENTRAL UNIVERSITY
+BROWN MEDICAL CO  
+STEVENS SUPPLY    
+PREMIER INSURANCE 
+FRESNO STATE BANK 
+METALL-AG.        
+DATASPEED         
+BESTFOOD MARKETS  
+DEUTSCHE STAHL    
+VEREINIGTE CHEMIE 
+MOTOR DISTRIBUTING
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a04s15
+
+CUSTNAME
+------------------
+<group_begin>
+CENTRAL UNIVERSITY
+BROWN MEDICAL CO  
+FRESNO STATE BANK 
+METALL-AG.        
+DATASPEED         
+MOTOR DISTRIBUTING
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s16
+
+EMPNAME            CUSTNAME          
+------------------ ------------------
+<group_begin>
+MARK FOLEY         MOTOR DISTRIBUTING
+RICHARD BARTON     STEVENS SUPPLY    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s17
+
+SUPPNAME
+------------------
+<group_begin>
+TANDEM COMPUTERS  
+DATA TERMINAL CO  
+DISPLAY INC       
+INFOMATION STORAGE
+DATADRIVE         
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s18
+
+SUPPNAME
+------------------
+<group_begin>
+TANDEM COMPUTERS  
+DISPLAY INC       
+INFOMATION STORAGE
+DATADRIVE         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s19
+
+AGE
+----
+<group_begin>
+  19
+  24
+  26
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

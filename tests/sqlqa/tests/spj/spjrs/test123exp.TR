@@ -1,0 +1,17 @@
+<section_begin>  verify
+<group_begin>
+
+A           B          
+----------- -----------
+   13232323     3434535
+   41242424    25364675
+    8684633    53536476
+    3536372      523478
+   89769463      647858
+
+--- 5 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

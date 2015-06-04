@@ -1,0 +1,18 @@
+<section_begin>  insflt100c
+
+COUNTSTAR            SUMTOTAL             AVERAGE             
+-------------------- -------------------- --------------------
+                 100         615559.49587           6345.97418
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insflt100d
+
+M1                   M2                  
+-------------------- --------------------
+         31529.46460         -32235.29774
+
+--- 1 row(s) selected.
+
+<section_end>

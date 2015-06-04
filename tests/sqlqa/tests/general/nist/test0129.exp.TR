@@ -1,0 +1,18 @@
+<section_begin>  test0129b
+
+GRADE  CITY           
+------ ---------------
+    15 Xi'an          
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0129d
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>

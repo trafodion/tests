@@ -1,0 +1,66 @@
+<section_begin>  a04s1
+
+MARITAL_STATUS (EXPR)              
+-------------- --------------------
+<group_begin>
+             2           322500.000
+             3            74000.000
+             1            65000.000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+MARITAL_STATUS (EXPR)      
+-------------- ------------
+<group_begin>
+             2   263250.000
+             3    74000.000
+             1    65000.000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+UDEC1_100 (EXPR)              
+--------- --------------------
+<group_begin>
+        7                 NULL
+        3                10545
+        6                10590
+        2                10530
+        5                10575
+        0                10500
+        1                10515
+        9                 NULL
+        4                10560
+        8                 NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+UDEC1_100 (EXPR)              
+--------- --------------------
+<group_begin>
+        7                  707
+        3                10545
+        6                10590
+        2                10530
+        5                10575
+        0                10500
+        1                10515
+        9                  709
+        4                10560
+        8                  708
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>

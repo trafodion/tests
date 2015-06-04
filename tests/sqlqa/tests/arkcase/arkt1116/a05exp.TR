@@ -1,0 +1,502 @@
+<section_begin>  a05s0
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+ANANDHI       RAMASWAMY       PROGRAMMER      FEMALE  
+BHAVESH       MEHTA           ENGINEER        MALE    
+Kathy         Baxter          secretary       female  
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+YUGAL         AGGARWAL        SYSADMIN        MALE    
+shanti        aradhyula       salesrep        female  
+steve         martin          director        male    
+sulu          kapoor          manager         female  
+NULL          HAUSMANN        PROGRAMMER      MALE    
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+FIRST_NAME    LAST_NAME       SALARY      DEPT_NUM    STR 
+------------- --------------- ----------- ----------- ----
+<group_begin>
+ANANDHI       RAMASWAMY             50000          13 E   
+BHAVESH       MEHTA                 50000          14 C   
+Kathy         Baxter                36000          15 F   
+MARIA         JOYCE                 40000          16 I   
+YUGAL         AGGARWAL              80000          14 D   
+shanti        aradhyula             60000          12 A   
+steve         martin               120000          13 H   
+sulu          kapoor                90000          13 B   
+NULL          HAUSMANN              52000          14 J   
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+ANANDHI       RAMASWAMY       PROGRAMMER      female  
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+andrea        mitchell        programmer      female  
+martha        vincent         SECRETARY       FEMALE  
+sulu          kapoor          manager         female  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+FIRST_NAME    LAST_NAME       DEPT_NAME            EMP_NUM    
+------------- --------------- -------------------- -----------
+<group_begin>
+ANANDHI       RAMASWAMY       arkqa                       4254
+MARIA         JOYCE           Boutique                   23232
+andrea        mitchell        pathway                      123
+martha        vincent         networkmanagement            345
+sulu          kapoor          arkqa                       2345
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+(EXPR)                   (EXPR)                      
+------------------------ ----------------------------
+<group_begin>
+JOYCE emp.LAST           JOYCE EMPTAB1.LAST          
+RAMASWAMY emp.LAST       RAMASWAMY EMPTAB1.LAST      
+kapoor emp.LAST          kapoor EMPTAB1.LAST         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+FIRST_NAME    LAST_NAME       FIRST_NAME    LAST_NAME      
+------------- --------------- ------------- ---------------
+<group_begin>
+ANANDHI       RAMASWAMY       ANANDHI       RAMASWAMY      
+MARIA         JOYCE           MARIA         JOYCE          
+sulu          kapoor          sulu          kapoor         
+NULL          NULL            andrea        mitchell       
+NULL          NULL            martha        vincent        
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+R_NAMES            L_LAST    L_CLEN L_OCT  L_POS  L_TRIM         
+------------------ --------- ------ ------ ------ ---------------
+<group_begin>
+joycemaria         joyce          5      5      0 JOYCE          
+kapoorsulu         kapoor         6      6      2 kapoor         
+mitchellandrea     NULL        NULL   NULL   NULL NULL           
+ramaswamyanandhi   ramaswamy      9      9      2 RAMASWAMY      
+vincentmartha      NULL        NULL   NULL   NULL NULL           
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+R_NAMES            L_LOWER_LAST L_CLEN_LAST L_OCT  L_POS  L_TRIM         
+------------------ ------------ ----------- ------ ------ ---------------
+<group_begin>
+joycemaria         joyce                  5      5      0 JOYCE          
+kapoorsulu         kapoor                 6      6      2 kapoor         
+mitchellandrea     NULL                NULL   NULL   NULL NULL           
+ramaswamyanandhi   ramaswamy              9      9      2 RAMASWAMY      
+vincentmartha      NULL                NULL   NULL   NULL NULL           
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+L_LAST          T1GENDER36 JOB             T2GENDER36 JOB            
+--------------- ---------- --------------- ---------- ---------------
+<group_begin>
+joyce           MALE       HAIRDRESSER     MALE       HAIRDRESSER    
+ramaswamy       MALE       PROGRAMMER      MALE       HAIRDRESSER    
+mehta           LE         ENGINEER        MALE       HAIRDRESSER    
+hausmann        LE         PROGRAMMER      MALE       HAIRDRESSER    
+aggarwal        LE         SYSADMIN        MALE       HAIRDRESSER    
+kapoor          male       manager         MALE       HAIRDRESSER    
+aradhyula       male       salesrep        MALE       HAIRDRESSER    
+baxter          male       secretary       MALE       HAIRDRESSER    
+martin          le         director        MALE       HAIRDRESSER    
+joyce           MALE       HAIRDRESSER     MALE       SECRETARY      
+ramaswamy       MALE       PROGRAMMER      MALE       SECRETARY      
+mehta           LE         ENGINEER        MALE       SECRETARY      
+hausmann        LE         PROGRAMMER      MALE       SECRETARY      
+aggarwal        LE         SYSADMIN        MALE       SECRETARY      
+kapoor          male       manager         MALE       SECRETARY      
+aradhyula       male       salesrep        MALE       SECRETARY      
+baxter          male       secretary       MALE       SECRETARY      
+martin          le         director        MALE       SECRETARY      
+joyce           MALE       HAIRDRESSER     male       PROGRAMMER     
+ramaswamy       MALE       PROGRAMMER      male       PROGRAMMER     
+mehta           LE         ENGINEER        male       PROGRAMMER     
+hausmann        LE         PROGRAMMER      male       PROGRAMMER     
+aggarwal        LE         SYSADMIN        male       PROGRAMMER     
+kapoor          male       manager         male       PROGRAMMER     
+aradhyula       male       salesrep        male       PROGRAMMER     
+baxter          male       secretary       male       PROGRAMMER     
+martin          le         director        male       PROGRAMMER     
+joyce           MALE       HAIRDRESSER     male       manager        
+ramaswamy       MALE       PROGRAMMER      male       manager        
+mehta           LE         ENGINEER        male       manager        
+hausmann        LE         PROGRAMMER      male       manager        
+aggarwal        LE         SYSADMIN        male       manager        
+kapoor          male       manager         male       manager        
+aradhyula       male       salesrep        male       manager        
+baxter          male       secretary       male       manager        
+martin          le         director        male       manager        
+joyce           MALE       HAIRDRESSER     male       programmer     
+ramaswamy       MALE       PROGRAMMER      male       programmer     
+mehta           LE         ENGINEER        male       programmer     
+hausmann        LE         PROGRAMMER      male       programmer     
+aggarwal        LE         SYSADMIN        male       programmer     
+kapoor          male       manager         male       programmer     
+aradhyula       male       salesrep        male       programmer     
+baxter          male       secretary       male       programmer     
+martin          le         director        male       programmer     
+<group_end>
+
+--- 45 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+L_LAST          L_CHARLEN  L_JOB           L_GENDER R_gender
+--------------- ---------- --------------- -------- --------
+<group_begin>
+aradhyula                9 salesrep        male     male    
+aradhyula                9 salesrep        male     male    
+aradhyula                9 salesrep        male     male    
+baxter                   6 secretary       male     male    
+baxter                   6 secretary       male     male    
+baxter                   6 secretary       male     male    
+joyce                    5 AIRDRESSER      MALE     MALE    
+joyce                    5 AIRDRESSER      MALE     MALE    
+kapoor                   6 manager         male     male    
+kapoor                   6 manager         male     male    
+kapoor                   6 manager         male     male    
+ramaswamy                9 PROGRAMMER      MALE     MALE    
+ramaswamy                9 PROGRAMMER      MALE     MALE    
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+L_JOB           L_NAME                       L_OCT_NAME
+--------------- ---------------------------- ----------
+<group_begin>
+hairdresser     mariajoyce                           10
+manager         sulukapoor                           10
+rogrammer       anandhiramaswamy                     16
+NULL            NULL                               NULL
+NULL            NULL                               NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+CA
+---------------
+<group_begin>
+JOYCE          
+JOYCE          
+JOYCE          
+JOYCE          
+JOYCE          
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+LAST_NAME       LAST_NAME      
+--------------- ---------------
+<group_begin>
+JOYCE           JOYCE          
+kapoor          kapoor         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+L_NAME       R_NAME       L_JOB           R_JOB          
+------------ ------------ --------------- ---------------
+<group_begin>
+MARIA JOYCE  MARIA JOYCE  HAIRDRESSER     HAIRDRESSER    
+sulu kapoor  sulu kapoor  manager         manager        
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s14
+
+EMP_L     JOB             EMPTABL_L TRIM_N 
+--------- --------------- --------- -------
+<group_begin>
+AGGARWAL  SYSADMIN        JOYCE     garwa  
+AGGARWAL  SYSADMIN        RAMASWAMY garwa  
+AGGARWAL  SYSADMIN        kapoor    garwa  
+AGGARWAL  SYSADMIN        mitchell  garwa  
+AGGARWAL  SYSADMIN        vincent   garwa  
+Baxter    secretary       JOYCE     xterk  
+Baxter    secretary       RAMASWAMY xterk  
+Baxter    secretary       kapoor    xterk  
+Baxter    secretary       mitchell  xterk  
+Baxter    secretary       vincent   xterk  
+HAUSMANN  PROGRAMMER      JOYCE     NULL   
+HAUSMANN  PROGRAMMER      RAMASWAMY NULL   
+HAUSMANN  PROGRAMMER      kapoor    NULL   
+HAUSMANN  PROGRAMMER      mitchell  NULL   
+HAUSMANN  PROGRAMMER      vincent   NULL   
+JOYCE     HAIRDRESSER     JOYCE     ycema  
+JOYCE     HAIRDRESSER     RAMASWAMY ycema  
+JOYCE     HAIRDRESSER     kapoor    ycema  
+JOYCE     HAIRDRESSER     mitchell  ycema  
+JOYCE     HAIRDRESSER     vincent   ycema  
+MEHTA     ENGINEER        JOYCE     htabh  
+MEHTA     ENGINEER        RAMASWAMY htabh  
+MEHTA     ENGINEER        kapoor    htabh  
+MEHTA     ENGINEER        mitchell  htabh  
+MEHTA     ENGINEER        vincent   htabh  
+RAMASWAMY PROGRAMMER      JOYCE     aswam  
+RAMASWAMY PROGRAMMER      RAMASWAMY aswam  
+RAMASWAMY PROGRAMMER      kapoor    aswam  
+RAMASWAMY PROGRAMMER      mitchell  aswam  
+RAMASWAMY PROGRAMMER      vincent   aswam  
+aradhyula salesrep        JOYCE     adhyu  
+aradhyula salesrep        RAMASWAMY adhyu  
+aradhyula salesrep        kapoor    adhyu  
+aradhyula salesrep        mitchell  adhyu  
+aradhyula salesrep        vincent   adhyu  
+kapoor    manager         JOYCE     poors  
+kapoor    manager         RAMASWAMY poors  
+kapoor    manager         kapoor    poors  
+kapoor    manager         mitchell  poors  
+kapoor    manager         vincent   poors  
+martin    director        JOYCE     rtins  
+martin    director        RAMASWAMY rtins  
+martin    director        kapoor    rtins  
+martin    director        mitchell  rtins  
+martin    director        vincent   rtins  
+<group_end>
+
+--- 45 row(s) selected.
+
+<section_end>
+<section_begin>  a05s15
+
+LAST_NAME       LAST_NAME       DEPT_NAME            JOB            
+--------------- --------------- -------------------- ---------------
+<group_begin>
+JOYCE           JOYCE           Boutique             HAIRDRESSER    
+RAMASWAMY       RAMASWAMY       arkqa                PROGRAMMER     
+kapoor          kapoor          arkqa                manager        
+mitchell        RAMASWAMY       pathway              PROGRAMMER     
+vincent         Baxter          networkmanagement    secretary      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s16
+
+(EXPR)                        (EXPR)                       
+----------------------------- -----------------------------
+<group_begin>
+ANANDHI RAMASWAMY             ANANDHI RAMASWAMY            
+MARIA JOYCE                   MARIA JOYCE                  
+sulu kapoor                   sulu kapoor                  
+NULL                          andrea mitchell              
+NULL                          martha vincent               
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s17
+
+(EXPR)                        (EXPR)                       
+----------------------------- -----------------------------
+MARIA JOYCE                   MARIA JOYCE                  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s18
+
+(EXPR)
+-------------
+<group_begin>
+anandhi      
+kathy        
+maria        
+shanti       
+sulu         
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s19
+
+CA
+-------------
+<group_begin>
+ANANDHI      
+ANANDHI      
+ANANDHI      
+ANANDHI      
+ANANDHI      
+Kathy        
+Kathy        
+Kathy        
+Kathy        
+Kathy        
+MARIA        
+MARIA        
+MARIA        
+MARIA        
+MARIA        
+shanti       
+shanti       
+shanti       
+shanti       
+shanti       
+sulu         
+sulu         
+sulu         
+sulu         
+sulu         
+<group_end>
+
+--- 25 row(s) selected.
+
+<section_end>
+<section_begin>  a05s20
+
+FIRST_NAME    FIRST_NAME    (EXPR) (EXPR)
+------------- ------------- ------ ------
+<group_begin>
+ANANDHI       ANANDHI       A      A     
+ANANDHI       MARIA         A      R     
+ANANDHI       andrea        A      d     
+ANANDHI       martha        A      r     
+ANANDHI       sulu          A      l     
+BHAVESH       ANANDHI       A      A     
+BHAVESH       MARIA         A      R     
+BHAVESH       andrea        A      d     
+BHAVESH       martha        A      r     
+BHAVESH       sulu          A      l     
+Kathy         ANANDHI       t      A     
+Kathy         MARIA         t      R     
+Kathy         andrea        t      d     
+Kathy         martha        t      r     
+Kathy         sulu          t      l     
+MARIA         ANANDHI       R      A     
+MARIA         MARIA         R      R     
+MARIA         andrea        R      d     
+MARIA         martha        R      r     
+MARIA         sulu          R      l     
+YUGAL         ANANDHI       G      A     
+YUGAL         MARIA         G      R     
+YUGAL         andrea        G      d     
+YUGAL         martha        G      r     
+YUGAL         sulu          G      l     
+shanti        ANANDHI       a      A     
+shanti        MARIA         a      R     
+shanti        andrea        a      d     
+shanti        martha        a      r     
+shanti        sulu          a      l     
+steve         ANANDHI       e      A     
+steve         MARIA         e      R     
+steve         andrea        e      d     
+steve         martha        e      r     
+steve         sulu          e      l     
+sulu          ANANDHI       l      A     
+sulu          MARIA         l      R     
+sulu          andrea        l      d     
+sulu          martha        l      r     
+sulu          sulu          l      l     
+NULL          ANANDHI       NULL   A     
+NULL          MARIA         NULL   R     
+NULL          andrea        NULL   d     
+NULL          martha        NULL   r     
+NULL          sulu          NULL   l     
+<group_end>
+
+--- 45 row(s) selected.
+
+<section_end>
+<section_begin>  a05s21
+
+EMP_FIRST     EMPTABL_FIRST
+------------- -------------
+<group_begin>
+ANANDHI       ANANDHI      
+BHAVESH       ANANDHI      
+MARIA         MARIA        
+MARIA         martha       
+shanti        ANANDHI      
+sulu          sulu         
+NULL          andrea       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s22
+
+FIRST_NAME    FIRST_NAME   
+------------- -------------
+<group_begin>
+ANANDHI       ANANDHI      
+MARIA         MARIA        
+sulu          sulu         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s23
+
+FIRST_NAME    FIRST_NAME   
+------------- -------------
+<group_begin>
+ANANDHI       ANANDHI      
+MARIA         MARIA        
+sulu          sulu         
+NULL          andrea       
+NULL          martha       
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

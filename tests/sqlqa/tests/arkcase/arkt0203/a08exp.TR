@@ -1,0 +1,32 @@
+<section_begin>  a08s4
+
+FLOAT_BASIC              FLOAT_DOUBLE_P          
+------------------------ ------------------------
+<group_begin>
+                    NULL                      9.0
+                    NULL                      1.0
+                    NULL                      9.0
+                    NULL                      1.0
+                    NULL                      9.0
+                    NULL                      1.0
+                    NULL                      1.0
+                    NULL                      1.0
+                    NULL                      2.0
+                    NULL                      1.0
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a08s5
+
+C    V   
+---- ----
+<group_begin>
+1    2   
+3    4   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

@@ -1,0 +1,290 @@
+<section_begin>  a008s1
+
+(EXPR) (EXPR)    D_T_M_E                   
+------ --------- --------------------------
+<group_begin>
+     5 FRIDAY    1990-10-05 15:19:59.900000
+     5 FRIDAY    1990-10-05 15:19:59.300000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a008s3
+
+(EXPR)
+------
+<group_begin>
+  5   
+  5   
+  5   
+ 10   
+  5   
+ 10   
+  5   
+  5   
+  5   
+  5   
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a008s4
+
+DAY_D  DAY_D 
+------ ------
+<group_begin>
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+<group_end>
+
+--- 64 row(s) selected.
+
+<section_end>
+<section_begin>  a008s5
+
+DAY_D  DAY_D 
+------ ------
+<group_begin>
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+<group_end>
+
+--- 64 row(s) selected.
+
+<section_end>
+<section_begin>  a008s6
+
+DAY_D  DAY_D 
+------ ------
+<group_begin>
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+    31     31
+<group_end>
+
+--- 64 row(s) selected.
+
+<section_end>
+<section_begin>  a008s8
+
+DAY_D
+------
+<group_begin>
+    31
+    31
+    31
+    31
+    31
+    31
+    31
+    31
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a008s8a
+
+D_N        M_N        D_OF_Y      W_K    Q_R    (EXPR)      
+---------- ---------- ----------- ------ ------ ------------
+<group_begin>
+Saturday   January              1     53      3 Good Friday 
+Saturday   January              1     53      3 Good Friday 
+Saturday   January              1     53      3 Good Friday 
+Saturday   January              1     53      3 Good Friday 
+Saturday   January              1     53      3 Good Friday 
+Saturday   January              1     53      3 Good Friday 
+Saturday   January              1     53      3 Good Friday 
+Saturday   January              1     53      3 Good Friday 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

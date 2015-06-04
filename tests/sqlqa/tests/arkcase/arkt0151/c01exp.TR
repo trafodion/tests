@@ -1,0 +1,181 @@
+<section_begin>  c01s0
+
+Y_TO_D_1
+----------
+<group_begin>
+1988-01-01
+1900-03-02
+0902-09-07
+0009-01-01
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c01s1
+
+Y_TO_D
+----------
+<group_begin>
+1988-01-01
+1900-03-02
+0902-09-07
+0009-01-01
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c01s2
+
+Y     Y    
+----- -----
+<group_begin>
+  10    10 
+9999  9999 
+   9     9 
+   7     7 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c01s3
+
+Y_TO_MO  Y_TO_MO 
+-------- --------
+<group_begin>
+  10-01    10-01 
+9999-11  9999-11 
+   9-01     9-01 
+   7-01     7-01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c01s4
+
+Y_TO_MO  Y_TO_MO 
+-------- --------
+<group_begin>
+  10-01    10-01 
+9999-11  9999-11 
+   9-01     9-01 
+   7-01     7-01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c01s5
+
+Y_TO_MO  Y_TO_MO 
+-------- --------
+<group_begin>
+  10-01    10-01 
+9999-11  9999-11 
+   9-01     9-01 
+   7-01     7-01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c01s6
+
+Y_TO_D_1   Y_TO_D    
+---------- ----------
+1700-09-24 1700-09-24
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  c01s7
+
+Y_TO_D_1   Y_TO_D    
+---------- ----------
+1700-09-24 1700-09-24
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  c01s8
+
+Y_TO_D_1   Y_TO_D    
+---------- ----------
+1700-09-24 1700-09-24
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  c01s9
+
+Y     Y_TO_MO  Y     Y_TO_MO 
+----- -------- ----- --------
+<group_begin>
+   7     7-01     7     7-01 
+   9     9-01     9     9-01 
+  10    10-01    10    10-01 
+9999  9999-11  9999  9999-11 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c01s10
+
+Y     Y_TO_MO  Y     Y_TO_MO 
+----- -------- ----- --------
+<group_begin>
+  10    10-01    10    10-01 
+9999  9999-11  9999  9999-11 
+   9     9-01     9     9-01 
+   7     7-01     7     7-01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c01s11
+
+Y     Y_TO_MO  Y     Y_TO_MO 
+----- -------- ----- --------
+<group_begin>
+   7     7-01     7     7-01 
+   9     9-01     9     9-01 
+  10    10-01    10    10-01 
+9999  9999-11  9999  9999-11 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c01s12
+
+Y     Y_TO_MO  Y     Y_TO_MO 
+----- -------- ----- --------
+<group_begin>
+   7     7-01     7     7-01 
+   9     9-01     9     9-01 
+  10    10-01    10    10-01 
+9999  9999-11  9999  9999-11 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c01s13
+
+Y     Y_TO_MO  Y     Y_TO_MO 
+----- -------- ----- --------
+<group_begin>
+  10    10-01    10    10-01 
+9999  9999-11  9999  9999-11 
+   9     9-01     9     9-01 
+   7     7-01     7     7-01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

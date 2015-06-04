@@ -1,0 +1,677 @@
+<section_begin>  a07s0
+
+CNAME                  CLABFEE (EXPR)  
+---------------------- ------- --------
+<group_begin>
+INTRO TO CS             100.00   125.00
+DATA STRUCTURES          50.00    75.00
+DISCREET MATHEMATICS      0.00    25.00
+DIGITAL CIRCUITS          0.00    25.00
+COMPUTER ARCH.          100.00   125.00
+RELATIONAL DATABASES    500.00   525.00
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+CNAME                  CLABFEE (EXPR)  
+---------------------- ------- --------
+<group_begin>
+INTRO TO CS             100.00    74.25
+DATA STRUCTURES          50.00    24.25
+DISCREET MATHEMATICS      0.00   -25.75
+DIGITAL CIRCUITS          0.00   -25.75
+COMPUTER ARCH.          100.00    74.25
+RELATIONAL DATABASES    500.00   474.25
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+CNAME                  CLABFEE (EXPR)     
+---------------------- ------- -----------
+<group_begin>
+INTRO TO CS             100.00   237.50000
+DATA STRUCTURES          50.00   118.75000
+DISCREET MATHEMATICS      0.00     0.00000
+DIGITAL CIRCUITS          0.00     0.00000
+COMPUTER ARCH.          100.00   237.50000
+RELATIONAL DATABASES    500.00  1187.50000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+CNAME                  CRED        (EXPR)       
+---------------------- ----------- -------------
+<group_begin>
+EMPIRICISM                       3           1.5
+RATIONALISM                      3           1.5
+EXISTENTIALISM                   3           1.5
+SOLIPSISM                        6           3.0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+CNO  CRED        (EXPR)       
+---- ----------- -------------
+<group_begin>
+P11            3             6
+P22            3             6
+P33            3             6
+P44            6            12
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+CNAME                  CRED        (EXPR)         
+---------------------- ----------- ---------------
+<group_begin>
+SCHOLASTICISM                    3            31.5
+FUNDAMENTALISM                   3            31.5
+HEDONISM                         3            31.5
+COMMUNISM                        6            63.0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+CNAME                  CLABFEE (EXPR)    
+---------------------- ------- ----------
+<group_begin>
+INTRO TO CS             100.00    50.0000
+DATA STRUCTURES          50.00    25.0000
+COMPUTER ARCH.          100.00    50.0000
+RELATIONAL DATABASES    500.00   250.0000
+EMPIRICISM              100.00    50.0000
+RATIONALISM              50.00    25.0000
+EXISTENTIALISM          200.00   100.0000
+SCHOLASTICISM           150.00    75.0000
+FUNDAMENTALISM           90.00    45.0000
+COMMUNISM               200.00   100.0000
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a07s7
+
+CNAME                  (EXPR)           
+---------------------- -----------------
+<group_begin>
+INTRO TO CS              33.333333333333
+DATA STRUCTURES          16.666666666666
+DISCREET MATHEMATICS      0.000000000000
+DIGITAL CIRCUITS          0.000000000000
+COMPUTER ARCH.           33.333333333333
+RELATIONAL DATABASES    166.666666666666
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s8
+
+CNAME                  (EXPR)           
+---------------------- -----------------
+<group_begin>
+INTRO TO CS              33.333333333333
+DATA STRUCTURES          16.666666666666
+DISCREET MATHEMATICS      0.000000000000
+DIGITAL CIRCUITS          0.000000000000
+COMPUTER ARCH.           33.333333333333
+RELATIONAL DATABASES    166.666666666666
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s9
+
+CNAME                  CLABFEE CRED        (EXPR)            
+---------------------- ------- ----------- ------------------
+<group_begin>
+INTRO TO CS             100.00           3    41.666666666666
+DATA STRUCTURES          50.00           3    25.000000000000
+DISCREET MATHEMATICS      0.00           3     8.333333333333
+DIGITAL CIRCUITS          0.00           3     8.333333333333
+COMPUTER ARCH.          100.00           3    41.666666666666
+RELATIONAL DATABASES    500.00           3   175.000000000000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s10
+
+CNO  CLABFEE (EXPR)    
+---- ------- ----------
+C66   500.00    785.000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s11
+
+CNAME                  CLABFEE (EXPR)                  
+---------------------- ------- ------------------------
+RELATIONAL DATABASES    500.00                   1000.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s12
+
+CRED        (EXPR)              
+----------- --------------------
+<group_begin>
+          3        3000000000000
+          3        3000000000000
+          3        3000000000000
+          6        6000000000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s13
+
+CNAME                  (EXPR)           
+---------------------- -----------------
+<group_begin>
+INTRO TO CS              33.333333333333
+COMPUTER ARCH.           33.333333333333
+RELATIONAL DATABASES    166.666666666666
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s14
+
+CNAME                  CLABFEE (EXPR)  
+---------------------- ------- --------
+<group_begin>
+DISCREET MATHEMATICS      0.00    25.00
+DIGITAL CIRCUITS          0.00    25.00
+DATA STRUCTURES          50.00    75.00
+INTRO TO CS             100.00   125.00
+COMPUTER ARCH.          100.00   125.00
+RELATIONAL DATABASES    500.00   525.00
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s15
+
+ENAME      (EXPR)       
+---------- -------------
+<group_begin>
+LUKE                 153
+MARK                 152
+MATTHEW              151
+DICK NIX           25101
+HANK KISS          25100
+JOHN                 154
+EUCLID              1100
+ARCHIMEDES           300
+DA VINCI             600
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a07s16
+
+ENAME      ESALARY     (EXPR)        
+---------- ----------- --------------
+<group_begin>
+LUKE                53           79.5
+MARK                52           78.0
+MATTHEW             51           76.5
+DICK NIX         25001        37501.5
+HANK KISS        25000        37500.0
+JOHN                54           81.0
+EUCLID            1000         1500.0
+ARCHIMEDES         200          300.0
+DA VINCI           500          750.0
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a07s17
+
+ENAME      (EXPR)       
+---------- -------------
+<group_begin>
+LUKE                 -47
+MARK                 -48
+MATTHEW              -49
+DICK NIX           24901
+HANK KISS          24900
+JOHN                 -46
+EUCLID               900
+ARCHIMEDES           100
+DA VINCI             400
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a07s18
+
+ENAME      (EXPR)       
+---------- -------------
+<group_begin>
+EUCLID              2000
+DA VINCI            1500
+ARCHIMEDES          1200
+JOHN                1054
+LUKE                1053
+MARK                1052
+MATTHEW             1051
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a07s19
+
+CNAME                  (EXPR)  
+---------------------- --------
+<group_begin>
+INTRO TO CS              125.00
+DATA STRUCTURES           75.00
+DISCREET MATHEMATICS      25.00
+DIGITAL CIRCUITS          25.00
+COMPUTER ARCH.           125.00
+RELATIONAL DATABASES     525.00
+EMPIRICISM               125.00
+RATIONALISM               75.00
+EXISTENTIALISM           225.00
+SOLIPSISM                 25.00
+SCHOLASTICISM            175.00
+FUNDAMENTALISM           115.00
+HEDONISM                  25.00
+COMMUNISM                225.00
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s20
+
+CNAME                  (EXPR)       
+---------------------- -------------
+<group_begin>
+INTRO TO CS                        6
+DATA STRUCTURES                    6
+DISCREET MATHEMATICS               6
+DIGITAL CIRCUITS                   6
+COMPUTER ARCH.                     6
+RELATIONAL DATABASES               6
+EMPIRICISM                         6
+RATIONALISM                        6
+EXISTENTIALISM                     6
+SOLIPSISM                         12
+SCHOLASTICISM                      6
+FUNDAMENTALISM                     6
+HEDONISM                           6
+COMMUNISM                         12
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s21
+
+CNAME                  (EXPR)   (EXPR)   
+---------------------- -------- ---------
+<group_begin>
+INTRO TO CS              125.00   250.000
+DATA STRUCTURES           75.00   125.000
+DISCREET MATHEMATICS      25.00     0.000
+DIGITAL CIRCUITS          25.00     0.000
+COMPUTER ARCH.           125.00   250.000
+RELATIONAL DATABASES     525.00  1250.000
+EMPIRICISM               125.00   250.000
+RATIONALISM               75.00   125.000
+EXISTENTIALISM           225.00   500.000
+SOLIPSISM                 25.00     0.000
+SCHOLASTICISM            175.00   375.000
+FUNDAMENTALISM           115.00   225.000
+HEDONISM                  25.00     0.000
+COMMUNISM                225.00   500.000
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s22
+
+CNAME                  (EXPR)   (EXPR)       
+---------------------- -------- -------------
+<group_begin>
+INTRO TO CS              200.00             2
+DATA STRUCTURES          150.00             2
+DISCREET MATHEMATICS     100.00             2
+DIGITAL CIRCUITS         100.00             2
+COMPUTER ARCH.           200.00             2
+RELATIONAL DATABASES     600.00             2
+EMPIRICISM               200.00             2
+RATIONALISM              150.00             2
+EXISTENTIALISM           300.00             2
+SOLIPSISM                100.00             5
+SCHOLASTICISM            250.00             2
+FUNDAMENTALISM           190.00             2
+HEDONISM                 100.00             2
+COMMUNISM                300.00             5
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s23
+
+CNAME                  (EXPR)             
+---------------------- -------------------
+<group_begin>
+INTRO TO CS                        30.0000
+DATA STRUCTURES                    15.0000
+DISCREET MATHEMATICS                0.0000
+DIGITAL CIRCUITS                    0.0000
+COMPUTER ARCH.                     30.0000
+RELATIONAL DATABASES              150.0000
+EMPIRICISM                         30.0000
+RATIONALISM                        15.0000
+EXISTENTIALISM                     60.0000
+SOLIPSISM                           0.0000
+SCHOLASTICISM                      45.0000
+FUNDAMENTALISM                     27.0000
+HEDONISM                            0.0000
+COMMUNISM                         120.0000
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s24
+
+(EXPR)
+-------
+<group_begin>
+    117
+    117
+    117
+    117
+    117
+    117
+    117
+    117
+    117
+    117
+    117
+    117
+    117
+    117
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s25
+
+(EXPR)
+------
+<group_begin>
+   100
+   100
+   100
+   100
+   100
+   100
+   100
+   100
+   100
+   100
+   100
+   100
+   100
+   100
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s26
+
+(EXPR)
+------
+<group_begin>
+    13
+    13
+    13
+    13
+    13
+    13
+    13
+    13
+    13
+    13
+    13
+    13
+    13
+    13
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s27
+
+(EXPR)
+------
+<group_begin>
+    20
+    20
+    20
+    20
+    20
+    20
+    20
+    20
+    20
+    20
+    20
+    20
+    20
+    20
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s28
+
+(EXPR)
+------
+<group_begin>
+   4.0
+   4.0
+   4.0
+   4.0
+   4.0
+   4.0
+   4.0
+   4.0
+   4.0
+   4.0
+   4.0
+   4.0
+   4.0
+   4.0
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s29
+
+(EXPR)
+------
+<group_begin>
+    30
+    30
+    30
+    30
+    30
+    30
+    30
+    30
+    30
+    30
+    30
+    30
+    30
+    30
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s30
+
+(EXPR)
+------
+<group_begin>
+  1.00
+  1.00
+  1.00
+  1.00
+  1.00
+  1.00
+  1.00
+  1.00
+  1.00
+  1.00
+  1.00
+  1.00
+  1.00
+  1.00
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s31
+
+(EXPR)
+--------
+<group_begin>
+     180
+     180
+     180
+     180
+     180
+     180
+     180
+     180
+     180
+     180
+     180
+     180
+     180
+     180
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s32
+
+(EXPR)
+-------
+<group_begin>
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s33
+
+(EXPR)
+-------
+<group_begin>
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+     62
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a07s34
+
+(EXPR)
+--------
+<group_begin>
+     152
+     152
+     152
+     152
+     152
+     152
+     152
+     152
+     152
+     152
+     152
+     152
+     152
+     152
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>

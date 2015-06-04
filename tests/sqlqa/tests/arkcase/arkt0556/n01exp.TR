@@ -1,0 +1,55 @@
+<section_begin>  n01s11
+
+(EXPR)             CHAR0_09_UNIQ
+------------------ -------------
+<group_begin>
+NULL               00000067     
+NULL               00000150     
+NULL               00000375     
+NULL               00000425     
+NULL               00000995     
+NULL               00001016     
+NULL               00001106     
+NULL               00001265     
+NULL               00001382     
+NULL               00001421     
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  n01s18
+
+(EXPR)                 CHAR0_09_UNIQ
+---------------------- -------------
+<group_begin>
+special                00000067     
+special                00000150     
+special                00000375     
+special                00000425     
+special                00000995     
+special                00001016     
+special                00001106     
+special                00001265     
+special                00001382     
+special                00001421     
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  n01s45
+
+SBIN0_UNIQ UBIN1_N2 SDEC0_N500           (EXPR)             
+---------- -------- -------------------- -------------------
+<group_begin>
+         3     NULL                  387 NULL               
+         1        0                  447 NULL               
+         0        0                  255 Value is zero      
+         4     NULL                  440 NULL               
+         2     NULL                  410 NULL               
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

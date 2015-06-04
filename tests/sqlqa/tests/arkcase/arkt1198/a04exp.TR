@@ -1,0 +1,224 @@
+<section_begin>  a04s0
+
+VARCHAR13_100 SDEC13_UNIQ CHAR14_20 VARCHAR15_UNIQ
+------------- ----------- --------- --------------
+<group_begin>
+ARAA                 1413 CC        EJAAJAA       
+AN                   3030 AC        BEAAGAAC      
+AM                   3030 AC        BEAAGAAC      
+AM                   3030 AC        BEAAGAAD      
+AM                   3030 AE        BEAAGAAC      
+AM                   3030 AE        BEAAGAAE      
+AM                   3031 AC        BEAAGAAC      
+AM                   3031 AC        BEAAGAAF      
+AM                   3031 AC        BEAAGAAG      
+AM                   3031 AD        BEAAGAAD      
+AM                   3050 AC        BEAAGAAC      
+AJAA                 3112 AE        FJAAGAA       
+AG                   4217 AB        FGAAAAAB      
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+CHAR0_1000
+----------------------------------------------------------------
+<group_begin>
+BE                                                              
+BEAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+BF                                                              
+BG                                                              
+BH                                                              
+BI                                                              
+BJ                                                              
+BK                                                              
+BL                                                              
+BM                                                              
+EJAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+FGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+FJAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+VARCHAR0_4
+----------
+<group_begin>
+A         
+A         
+AAA       
+CAA       
+E         
+F         
+G         
+H         
+I         
+J         
+K         
+L         
+M         
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+VARCHAR0_4 CHAR0_1000                                                       SBIN7_2 VARCHAR5_10 CHAR6_20 UBIN15_UNIQ VARCHAR15_UNIQ CHAR16_UNIQ
+---------- ---------------------------------------------------------------- ------- ----------- -------- ----------- -------------- -----------
+<group_begin>
+A          BEAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       0 ACAAA       ACAAAAAA        4412 BEAAGAAC       BEAAGAAC   
+A          FJAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       1 AEAAAAA     AEAAAAAA        4559 FJAAGAA        FJAAGAAE   
+AAA        FGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       0 ABAAAAAA    ABAAAAAA        1188 FGAAAAAB       FGAAAAAB   
+CAA        EJAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       1 ACAAA       CCAAAAAA        3889 EJAAJAA        EJAAJAAC   
+E          BE                                                                     5 AE          AE              5000 BEAAGAAD       BF         
+F          BF                                                                     6 AF          AF              6000 BEAAGAAC       BF         
+G          BG                                                                     7 AG          AG              7000 BEAAGAAE       BG         
+H          BH                                                                     8 AH          AH              8000 BEAAGAAC       BH         
+I          BI                                                                     9 AI          AI              9000 BEAAGAAF       BI         
+J          BJ                                                                    10 AJ          AJ             10000 BEAAGAAG       BJ         
+K          BK                                                                    11 AK          AK             11000 BEAAGAAD       BK         
+L          BL                                                                    12 AL          AL             12000 BEAAGAAC       BL         
+M          BM                                                                    13 AM          AM             13000 BEAAGAAC       BM         
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+SBIN5_4 UBIN5_20    UDEC5_20 VARCHAR5_10 SDEC5_100           
+------- ----------- -------- ----------- --------------------
+<group_begin>
+      0          12       12 AEAAAAA                       12
+      1          13       13 ACAAA                         13
+      1          17       17 ABAAAAAA                      17
+      2          10       10 ACAAA                         30
+      5           5        5 AE                             5
+      6           6        6 AF                             6
+      7           7        7 AG                             7
+      8           8        8 AH                             8
+      9           9        9 AI                             9
+     10          10       10 AJ                            10
+     11          11       11 AK                            11
+     12          12       12 AL                            12
+     13          13       13 AM                            13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+SBIN18_UNIQ          CHAR18_20                                                                                           
+-------------------- ----------------------------------------------------------------------------------------------------
+<group_begin>
+                   5 AE                                                                                                  
+                   6 AF                                                                                                  
+                   7 ACAAAAAAAAAAAAAA                                                                                    
+                   7 AG                                                                                                  
+                   8 AH                                                                                                  
+                   8 CCAAAAAAAAAAAAAA                                                                                    
+                   9 AEAAAAAAAAAAAAAA                                                                                    
+                   9 AI                                                                                                  
+                  10 AJ                                                                                                  
+                  11 AK                                                                                                  
+                  12 AL                                                                                                  
+                  13 AM                                                                                                  
+                1995 ABAAAAAAAAAAAAAA                                                                                    
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+VARCHAR0_4 SBIN7_2 VARCHAR5_10 CHAR6_20 UBIN15_UNIQ VARCHAR15_UNIQ CHAR16_UNIQ
+---------- ------- ----------- -------- ----------- -------------- -----------
+<group_begin>
+A                0 ACAAA       ACAAAAAA        4412 BEAAGAAC       BEAAGAAC   
+A                1 AEAAAAA     AEAAAAAA        4559 FJAAGAA        FJAAGAAE   
+AAA              0 ABAAAAAA    ABAAAAAA        1188 FGAAAAAB       FGAAAAAB   
+E                5 AE          AE              5000 BEAAGAAD       BF         
+F                6 AF          AF              6000 BEAAGAAC       BF         
+G                7 AG          AG              7000 BEAAGAAE       BG         
+H                8 AH          AH              8000 BEAAGAAC       BH         
+I                9 AI          AI              9000 BEAAGAAF       BI         
+J               10 AJ          AJ             10000 BEAAGAAG       BJ         
+K               11 AK          AK             11000 BEAAGAAD       BK         
+L               12 AL          AL             12000 BEAAGAAC       BL         
+M               13 AM          AM             13000 BEAAGAAC       BM         
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+(EXPR)
+--------------------
+                  12
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+SBIN19_4             CHAR19_2 UBIN19_10 UDEC19_100 SDEC19_1000 CHAR20_10                                                                                                                       
+-------------------- -------- --------- ---------- ----------- --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+                   0 AAAAAAAA         8        8.8        18.8 ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                                                                                                                                                                
+                   0 AAAAAAAA         2        1.2        41.2 ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                                                                                                                                                                
+                   1 AAAAAAAA         9        8.9        88.9 ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                                                                                                                                                                
+                   3 AAAAAAAA         9        5.9        55.9 AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                                                                                                                                                                
+                   5 AE               5        0.5        50.5 AE                                                                                                                                                                                                                                              
+                   6 AF               6        0.6        60.6 AF                                                                                                                                                                                                                                              
+                   7 AG               7        0.7        70.7 AG                                                                                                                                                                                                                                              
+                   8 AH               8        0.8        80.8 AH                                                                                                                                                                                                                                              
+                   9 AI               9        0.9        90.9 AI                                                                                                                                                                                                                                              
+                  10 AJ              10        1.0       101.0 AJ                                                                                                                                                                                                                                              
+                  11 AK              11        1.1       101.1 AK                                                                                                                                                                                                                                              
+                  12 AL              12        1.2       101.2 AL                                                                                                                                                                                                                                              
+                  13 AM              13        1.3       101.3 AM                                                                                                                                                                                                                                              
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+VARCHAR0_4 CHAR0_1000                                                       SBIN1_100   CHAR1_4 UBIN1_4    
+---------- ---------------------------------------------------------------- ----------- ------- -----------
+<group_begin>
+A          BEAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA          30 AA                2
+A          FJAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA          12 AAAA              0
+AAA        FGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA          17 AA                1
+CAA        EJAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA          13 AAAA              1
+E          BE                                                                         5 AE                5
+F          BF                                                                         6 AF                6
+G          BG                                                                         7 AG                7
+H          BH                                                                         8 AH                8
+I          BI                                                                         9 AI                9
+J          BJ                                                                        10 AJ               10
+K          BK                                                                        11 AK               11
+L          BL                                                                        12 AL               12
+M          BM                                                                        13 AM               13
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>

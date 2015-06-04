@@ -1,0 +1,47 @@
+<section_begin>  a03s0
+
+V1                   V2                   C1                   C2                   I1         
+-------------------- -------------------- -------------------- -------------------- -----------
+madonna              NULL                 whitneyhouston       NULL                           7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+V1                   V2                   C1                   C2                   I1         
+-------------------- -------------------- -------------------- -------------------- -----------
+<group_begin>
+geenadavis           steve                tester               shan                           8
+madonna              NULL                 whitneyhouston       NULL                           7
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+V1                   V2                   C1                   C2                   I1         
+-------------------- -------------------- -------------------- -------------------- -----------
+<group_begin>
+argaret              arge                 timothy              JOHNSON                        7
+geenadavis           steve                tester               shan                           8
+madonna              NULL                 whitneyhouston       NULL                           7
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+V1                   V2                   C1                   C2                   I1         
+-------------------- -------------------- -------------------- -------------------- -----------
+<group_begin>
+argaret              arge                 timothy              JOHNSON                        7
+geenadavis           steve                tester               shan                           8
+madonna              NULL                 whitneyhouston       NULL                           7
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

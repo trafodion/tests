@@ -1,0 +1,159 @@
+<section_begin>  a10s1
+
+CHAR0_09_UNIQ (EXPR) 
+------------- -------
+<group_begin>
+00000022      Greater
+00000067      Greater
+00000150      Greater
+00000340      Greater
+00000375      Greater
+00000421      Greater
+00000425      Greater
+00000434      Greater
+00000754      Greater
+00000995      Greater
+00001016      Greater
+00001093      Greater
+00001106      Greater
+00001186      Greater
+00001226      Greater
+00001259      Greater
+00001265      Greater
+00001382      Greater
+00001421      Greater
+00001423      Greater
+00001468      Greater
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a10s2
+
+CHAR0_09_UNIQ (EXPR) 
+------------- -------
+<group_begin>
+00000613      22     
+00000905      23     
+00001423      Greater
+00001440      21     
+00001448      Greater
+00001465      Greater
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s3
+
+(EXPR)
+------
+<group_begin>
+NULL  
+NULL  
+NULL  
+NULL  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a10s4
+
+(EXPR)
+----------
+<group_begin>
+1995-06-01
+1995-06-01
+1995-06-01
+1995-06-01
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a10s6
+
+(EXPR)
+----------
+<group_begin>
+  37000.00
+  39500.00
+ 175500.00
+  65000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a10s8
+
+(EXPR)
+----------
+<group_begin>
+  37000.00
+  39500.00
+ 175500.00
+  65000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a10s10
+
+(EXPR)
+----------
+<group_begin>
+  37000.00
+  39500.00
+ 175500.00
+  65000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a10s11
+
+(EXPR)
+----------
+<group_begin>
+  37000.00
+  39500.00
+ 175500.00
+  65000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a10s12
+
+(EXPR)
+----------
+<group_begin>
+  37000.00
+  37000.00
+  37000.00
+  37000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a10s15
+
+(EXPR)
+------
+<group_begin>
+Fine  
+Fine  
+Fine  
+Fine  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

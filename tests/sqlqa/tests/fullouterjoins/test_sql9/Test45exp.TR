@@ -1,0 +1,146 @@
+<section_begin>  a1s4
+
+E_L         C_R         A_R        
+----------- ----------- -----------
+<group_begin>
+          0        NULL        NULL
+          1        NULL        NULL
+          2        NULL        NULL
+          3        NULL        NULL
+          4        NULL        NULL
+          5        NULL        NULL
+          6        NULL        NULL
+          7        NULL        NULL
+          8        NULL        NULL
+          9        NULL        NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a1s5
+
+E_L         C_R         A_R        
+----------- ----------- -----------
+       NULL           0           0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a1s6
+
+E_L         D_L         E_R         A_R        
+----------- ----------- ----------- -----------
+<group_begin>
+          0           0        NULL        NULL
+          5           4        NULL        NULL
+         10           8        NULL        NULL
+         15          12        NULL        NULL
+         20          16        NULL        NULL
+         25          20        NULL        NULL
+         30          24        NULL        NULL
+         35          28        NULL        NULL
+         40          32        NULL        NULL
+         45          36        NULL        NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a1s8
+
+C_L         B_L         B_L_R_R     B_L_R      
+----------- ----------- ----------- -----------
+<group_begin>
+       NULL        NULL        NULL           0
+       NULL        NULL        NULL           0
+       NULL        NULL        NULL           2
+       NULL        NULL        NULL           3
+       NULL        NULL        NULL           4
+       NULL        NULL        NULL           6
+       NULL        NULL        NULL           6
+       NULL        NULL        NULL           8
+       NULL        NULL        NULL           9
+       NULL        NULL        NULL          10
+       NULL        NULL        NULL          12
+       NULL        NULL        NULL          12
+       NULL        NULL        NULL          14
+       NULL        NULL        NULL          15
+       NULL        NULL        NULL          16
+       NULL        NULL        NULL          18
+       NULL        NULL        NULL          18
+       NULL        NULL        NULL          21
+       NULL        NULL        NULL          24
+       NULL        NULL        NULL          27
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a1s9
+
+A_R_L       C_R_L       B_R        
+----------- ----------- -----------
+<group_begin>
+       NULL        NULL        NULL
+       NULL        NULL        NULL
+       NULL        NULL        NULL
+       NULL        NULL        NULL
+       NULL        NULL        NULL
+       NULL        NULL        NULL
+       NULL        NULL        NULL
+       NULL        NULL        NULL
+       NULL        NULL        NULL
+       NULL        NULL        NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a1s10
+
+C_L         D_L         B_R_R       D_L_R      
+----------- ----------- ----------- -----------
+          0           0        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a1s11
+
+B_R_L_L_R_L C_R_R_L     B_L_R_R_R_R
+----------- ----------- -----------
+       NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a1s15
+
+E_L         C_L         C_R         A_R        
+----------- ----------- ----------- -----------
+<group_begin>
+          0           0        NULL        NULL
+          5           3        NULL        NULL
+         10           6        NULL        NULL
+         15           9        NULL        NULL
+         20          12        NULL        NULL
+         25          15        NULL        NULL
+         30          18        NULL        NULL
+         35          21        NULL        NULL
+         40          24        NULL        NULL
+         45          27        NULL        NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a1s18
+
+A_R_L       D_R_L_L     E_R        
+----------- ----------- -----------
+       NULL        NULL           0
+
+--- 1 row(s) selected.
+
+<section_end>

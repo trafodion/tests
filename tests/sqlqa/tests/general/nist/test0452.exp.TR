@@ -1,0 +1,35 @@
+<section_begin>  test0452a
+
+EMPNAME
+--------------------
+<group_begin>
+Alice               
+Alice               
+Betty               
+Betty               
+Carmen              
+Carmen              
+Don                 
+Don                 
+Ed                  
+Ed                  
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  test0452b
+
+EMPNAME
+--------------------
+<group_begin>
+Alice               
+Betty               
+Carmen              
+Don                 
+Ed                  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

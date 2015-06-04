@@ -1,0 +1,27 @@
+<section_begin>  test0243c
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0243e
+
+SMALLTEST
+---------
+    -9999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0243g
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

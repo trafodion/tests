@@ -1,0 +1,422 @@
+<section_begin>  a07s0
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          2           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+A           B          
+----------- -----------
+<group_begin>
+          2        NULL
+          1           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+A           B          
+----------- -----------
+<group_begin>
+          1           2
+          2           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          2        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          2        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+A           B          
+----------- -----------
+          2           2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+A           B          
+----------- -----------
+          1        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s7
+
+A           B          
+----------- -----------
+          2           2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s8
+
+A           B          
+----------- -----------
+<group_begin>
+          1           2
+          2        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s9
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          2           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s10
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          2           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s11
+
+A           B          
+----------- -----------
+          1        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s12
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          2        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s13
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          2           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s15
+
+A           B           C          
+----------- ----------- -----------
+<group_begin>
+          2           2        NULL
+          1        NULL        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s16
+
+A           B           B          
+----------- ----------- -----------
+<group_begin>
+          1        NULL           2
+          2           2           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s17
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+<group_begin>
+          1        NULL           2        NULL
+          2           2           2        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s18
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+<group_begin>
+          1           2           2        NULL
+          2           2           2        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s19
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          2           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s20
+
+A           B          
+----------- -----------
+          1        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s21
+
+A           B          
+----------- -----------
+          2           2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s22
+
+A           B          
+----------- -----------
+          1        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s23
+
+A           B          
+----------- -----------
+<group_begin>
+          2           2
+          1        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s24
+
+A           B          
+----------- -----------
+          1        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s25
+
+A           B          
+----------- -----------
+          2           2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s26
+
+A           B          
+----------- -----------
+          1        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s27
+
+A
+-----------
+<group_begin>
+          1
+          2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s28
+
+B
+-----------
+<group_begin>
+       NULL
+          2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s29
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+<group_begin>
+                   2                    1
+                NULL                    1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s30
+
+A
+-----------
+<group_begin>
+          1
+          2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s31
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          2           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s32
+
+A           B          
+----------- -----------
+<group_begin>
+          1           2
+          2        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s33
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          2        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s34
+
+A           B          
+----------- -----------
+          1        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s35
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          2           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s36
+
+A           B          
+----------- -----------
+          2           2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s37
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          2           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s39
+
+A           B          
+----------- -----------
+<group_begin>
+          1        NULL
+          1        NULL
+          2           2
+          2           2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

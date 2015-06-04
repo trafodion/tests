@@ -1,0 +1,105 @@
+<section_begin>  a05s2
+
+COL1 COL2      
+---- ----------
+<group_begin>
+   1 0001-01-01
+   2 NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+COL1 (EXPR)    
+---- ----------
+<group_begin>
+   1 0001-01-01
+   2 NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+(EXPR)
+-----------
+   100.0000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+(EXPR)
+-------
+ 0.1000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+(EXPR)
+-------
+ 0.1000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+(EXPR)
+-----------
+   100.0000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+(EXPR)
+----------
+  100.0000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+(EXPR)
+-------
+     10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+(EXPR)
+------------
+    10.00000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+(EXPR)
+----------
+  10.00000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+(EXPR)
+---------
+    0.100
+
+--- 1 row(s) selected.
+
+<section_end>

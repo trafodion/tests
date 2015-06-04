@@ -1,0 +1,489 @@
+<section_begin>  a07s0
+
+(EXPR)    (EXPR)
+--------- ------
+AAAA      AX    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+UDEC17_100 CHAR17_100          
+---------- --------------------
+<group_begin>
+        16 CCAAAAAAAAAAAAAA    
+        24 DDAAAAAAAAAAAAAA    
+        27 AWAAAAAAAAAAAAAA    
+        46 CBAAAAAAAAAAAAAA    
+        57 CCAAAAAAAAAAAAAA    
+        78 BLAAAAAAAAAAAAAA    
+        85 DMAAAAAAAAAAAAAA    
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+UBIN15_UNIQ SDEC15_10   SBIN16_20   UBIN16_1000 SBIN17_UNIQ  SDEC17_20
+----------- ----------- ----------- ----------- ------------ ---------
+<group_begin>
+       1995        0.05        0.04        4.44         3516        16
+       1996        0.06        0.18        1.58         2809         9
+       1997        0.07        0.04        5.24          987         7
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+N1     C2   C3   C4      
+------ ---- ---- --------
+<group_begin>
+ -4344 AA   BA   BA      
+ -3552 BA   AA   AA      
+ -2789 DA   EA   NULL    
+ -2389 BA   AA   AA      
+  NULL NULL BA   BA      
+  NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+N1
+------
+<group_begin>
+ -4344
+ -3552
+ -2789
+ -2389
+  NULL
+  NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+(EXPR)    (EXPR)
+--------- ------
+AAAA      AX    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+(EXPR)
+------
+ -2389
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s7
+
+(EXPR)
+------
+ -2389
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s8
+
+(EXPR)
+------
+ -2389
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s9
+
+(EXPR)
+------
+ -2789
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s10
+
+N1
+------
+<group_begin>
+ -4344
+ -3552
+ -2789
+ -2389
+  NULL
+  NULL
+  NULL
+  NULL
+  NULL
+  NULL
+  NULL
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a07s11
+
+N1     C2   C3   C4       UDEC17_100 CHAR17_100          
+------ ---- ---- -------- ---------- --------------------
+<group_begin>
+ -4344 AA   BA   BA               78 BLAAAAAAAAAAAAAA    
+ -3552 BA   AA   AA               78 BLAAAAAAAAAAAAAA    
+ -2789 DA   EA   NULL             78 BLAAAAAAAAAAAAAA    
+ -2389 BA   AA   AA               78 BLAAAAAAAAAAAAAA    
+  NULL NULL BA   BA               78 BLAAAAAAAAAAAAAA    
+  NULL NULL DA   DA               78 BLAAAAAAAAAAAAAA    
+  NULL NULL NULL NULL             16 CCAAAAAAAAAAAAAA    
+  NULL NULL NULL NULL             24 DDAAAAAAAAAAAAAA    
+  NULL NULL NULL NULL             27 AWAAAAAAAAAAAAAA    
+  NULL NULL NULL NULL             46 CBAAAAAAAAAAAAAA    
+  NULL NULL NULL NULL             57 CCAAAAAAAAAAAAAA    
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a07s12
+
+N1     C2   C3   C4      
+------ ---- ---- --------
+<group_begin>
+ -4344 AA   BA   BA      
+ -3552 BA   AA   AA      
+ -2789 DA   EA   NULL    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s13
+
+A        B       C       D       E        F       
+-------- ------- ------- ------- -------- --------
+<group_begin>
+    0.08  0.0008  0.0012  0.0460    41.64     0.00
+    0.08  0.0008  0.0014  0.0501    45.38     0.00
+    0.12  0.0012  0.0019  0.0685    62.10     0.00
+    0.15  0.0015  0.0023  0.0850    76.95     0.00
+    0.25  0.0025  0.0040  0.1448   131.11     0.00
+    0.29  0.0029  0.0045  0.1629   147.50     0.00
+    0.43  0.0043  0.0068  0.2443   221.25     0.00
+   23.47  0.0005  0.0004  0.0522    41.36     0.18
+   23.48  0.0007  0.0021  0.0185    33.04     0.10
+   23.49  0.0008  0.0004  0.0616    11.61     0.08
+   25.57  0.0006  0.0005  0.0569    45.07     0.20
+   25.58  0.0007  0.0023  0.0202    36.01     0.11
+   25.60  0.0008  0.0005  0.0671    12.65     0.08
+   35.00  0.0008  0.0007  0.0778    61.68     0.28
+   35.01  0.0010  0.0031  0.0277    49.28     0.15
+   35.03  0.0012  0.0007  0.0919    17.31     0.12
+   43.36  0.0010  0.0008  0.0965    76.43     0.34
+   43.39  0.0013  0.0039  0.0343    61.06     0.19
+   43.41  0.0015  0.0008  0.1139    21.45     0.15
+   73.88  0.0018  0.0014  0.1644   130.22     0.59
+   73.92  0.0022  0.0066  0.0585   104.03     0.33
+   73.96  0.0025  0.0014  0.1940    36.55     0.25
+   83.12  0.0020  0.0016  0.1850   146.50     0.66
+   83.16  0.0025  0.0075  0.0658   117.04     0.37
+   83.20  0.0029  0.0016  0.2183    41.12     0.29
+  124.68  0.0031  0.0025  0.2775   219.75     1.00
+  124.75  0.0037  0.0112  0.0987   175.56     0.56
+  124.81  0.0043  0.0025  0.3275    61.68     0.43
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  a07s14
+
+UDEC17_100 UBIN16_1000
+---------- -----------
+<group_begin>
+        16        1.58
+        16        3.91
+        16        4.44
+        16        5.24
+        24        1.58
+        24        3.91
+        24        4.44
+        24        5.24
+        27        1.58
+        27        3.91
+        27        4.44
+        27        5.24
+        46        1.58
+        46        3.91
+        46        4.44
+        46        5.24
+        57        1.58
+        57        3.91
+        57        4.44
+        57        5.24
+        78        1.58
+        78        3.91
+        78        4.44
+        78        5.24
+        85        1.58
+        85        3.91
+        85        4.44
+        85        5.24
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  a07s15
+
+UBIN15_UNIQ SDEC15_10   SBIN16_20  
+----------- ----------- -----------
+<group_begin>
+          7        0.07        0.11
+       1995        0.05        0.04
+       1996        0.06        0.18
+       1997        0.07        0.04
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s16
+
+UBIN16_1000 SBIN17_UNIQ  SDEC17_20
+----------- ------------ ---------
+<group_begin>
+       1.58         2809         9
+       3.91         3540         0
+       4.44         3516        16
+       5.24          987         7
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s17
+
+UDEC17_100 UBIN15_UNIQ SDEC15_10   SBIN16_20   UBIN16_1000 SBIN17_UNIQ  SDEC17_20
+---------- ----------- ----------- ----------- ----------- ------------ ---------
+<group_begin>
+        16           7        0.07        0.11        3.91         3540         0
+        16        1995        0.05        0.04        4.44         3516        16
+        16        1996        0.06        0.18        1.58         2809         9
+        16        1997        0.07        0.04        5.24          987         7
+        24           7        0.07        0.11        3.91         3540         0
+        24        1995        0.05        0.04        4.44         3516        16
+        24        1996        0.06        0.18        1.58         2809         9
+        24        1997        0.07        0.04        5.24          987         7
+        27           7        0.07        0.11        3.91         3540         0
+        27        1995        0.05        0.04        4.44         3516        16
+        27        1996        0.06        0.18        1.58         2809         9
+        27        1997        0.07        0.04        5.24          987         7
+        46           7        0.07        0.11        3.91         3540         0
+        46        1995        0.05        0.04        4.44         3516        16
+        46        1996        0.06        0.18        1.58         2809         9
+        46        1997        0.07        0.04        5.24          987         7
+        57           7        0.07        0.11        3.91         3540         0
+        57        1995        0.05        0.04        4.44         3516        16
+        57        1996        0.06        0.18        1.58         2809         9
+        57        1997        0.07        0.04        5.24          987         7
+        78           7        0.07        0.11        3.91         3540         0
+        78        1995        0.05        0.04        4.44         3516        16
+        78        1996        0.06        0.18        1.58         2809         9
+        78        1997        0.07        0.04        5.24          987         7
+        85           7        0.07        0.11        3.91         3540         0
+        85        1995        0.05        0.04        4.44         3516        16
+        85        1996        0.06        0.18        1.58         2809         9
+        85        1997        0.07        0.04        5.24          987         7
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  a07s18
+
+(EXPR)
+------
+ -2789
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s19
+
+CHAR2_2 SBINNEG15_NUNIQ      CHAR3_4 
+------- -------------------- --------
+<group_begin>
+AA                     -4344 BA      
+AA                     -4344 BA      
+AA                     -4344 BA      
+AA                     -4344 BA      
+BA                     -3552 AA      
+BA                     -3552 AA      
+BA                     -2389 AA      
+BA                     -2389 AA      
+DA                     -2789 NULL    
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a07s20
+
+CHAR2_2 SBINNEG15_NUNIQ     
+------- --------------------
+<group_begin>
+AA                     -4344
+AA                     -4344
+AA                     -4344
+AA                     -4344
+AA                     -4344
+AA                     -4344
+AA                     -4344
+AA                     -4344
+BA                     -3552
+BA                     -3552
+BA                     -3552
+BA                     -3552
+BA                     -3552
+BA                     -3552
+BA                     -3552
+BA                     -3552
+BA                     -2389
+BA                     -2389
+BA                     -2389
+BA                     -2389
+BA                     -2389
+BA                     -2389
+BA                     -2389
+BA                     -2389
+DA                     -2789
+<group_end>
+
+--- 25 row(s) selected.
+
+<section_end>
+<section_begin>  a07s21
+
+CHAR2_2 SBINNEG15_NUNIQ     
+------- --------------------
+<group_begin>
+AA                     -4344
+AA                     -4344
+AA                     -4344
+AA                     -4344
+BA                     -3552
+BA                     -3552
+BA                     -3552
+BA                     -3552
+BA                     -3552
+BA                     -3552
+BA                     -3552
+BA                     -3552
+BA                     -2389
+BA                     -2389
+BA                     -2389
+BA                     -2389
+BA                     -2389
+BA                     -2389
+BA                     -2389
+BA                     -2389
+DA                     -2789
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a07s22
+
+SBINNEG15_NUNIQ      CHAR2_2
+-------------------- -------
+<group_begin>
+               -4344 AA     
+               -4344 AA     
+               -4344 AA     
+               -4344 AA     
+               -4344 AA     
+               -4344 AA     
+               -4344 AA     
+               -4344 AA     
+               -4344 BA     
+               -4344 BA     
+               -4344 BA     
+               -4344 BA     
+               -4344 BA     
+               -4344 BA     
+               -4344 BA     
+               -4344 BA     
+               -4344 DA     
+               -4344 DA     
+               -4344 NULL   
+               -4344 NULL   
+               -4344 NULL   
+               -4344 NULL   
+               -4344 NULL   
+               -4344 NULL   
+               -3552 AA     
+               -3552 AA     
+               -3552 AA     
+               -3552 AA     
+               -3552 BA     
+               -3552 BA     
+               -3552 BA     
+               -3552 BA     
+               -3552 DA     
+               -3552 NULL   
+               -3552 NULL   
+               -3552 NULL   
+               -2789 AA     
+               -2789 AA     
+               -2789 AA     
+               -2789 AA     
+               -2789 BA     
+               -2789 BA     
+               -2789 BA     
+               -2789 BA     
+               -2789 DA     
+               -2789 NULL   
+               -2789 NULL   
+               -2789 NULL   
+               -2389 AA     
+               -2389 AA     
+               -2389 AA     
+               -2389 AA     
+               -2389 BA     
+               -2389 BA     
+               -2389 BA     
+               -2389 BA     
+               -2389 DA     
+               -2389 NULL   
+               -2389 NULL   
+               -2389 NULL   
+               -1950 AA     
+               -1950 AA     
+               -1950 AA     
+               -1950 AA     
+               -1950 BA     
+               -1950 BA     
+               -1950 BA     
+               -1950 BA     
+               -1950 DA     
+               -1950 NULL   
+               -1950 NULL   
+               -1950 NULL   
+<group_end>
+
+--- 72 row(s) selected.
+
+<section_end>

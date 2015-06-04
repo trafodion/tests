@@ -1,0 +1,54 @@
+<section_begin>  a05s0
+
+PIC_X_8  (EXPR)              
+-------- --------------------
+<group_begin>
+bbb                         1
+ccc                         1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+PIC_X_8
+--------
+<group_begin>
+bbb     
+ccc     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+PIC_X_8
+--------
+<group_begin>
+bbb     
+ccc     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+PIC_X_8
+--------
+ccc     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+VAR_CHAR_3
+----------
+ccc       
+
+--- 1 row(s) selected.
+
+<section_end>

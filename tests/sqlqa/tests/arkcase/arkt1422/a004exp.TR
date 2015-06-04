@@ -1,0 +1,221 @@
+<section_begin>  a004s0
+
+D_T_M_E                    D_N        M_N        D_OF_Y      W_K    Q_R    YEAR_D      MONTH_D DAY_D  HOUR_D MINUTE_D SECOND_D   
+-------------------------- ---------- ---------- ----------- ------ ------ ----------- ------- ------ ------ -------- -----------
+<group_begin>
+1901-10-10 23:15:00.300000 Wednesday  October              1     53      1        1945       8     31     12       59           0
+1999-12-31 23:59:59.999999 Monday     January            365      1      2           1       7     28     12       59          59
+0001-12-13 00:00:00.000000 Wednesday  October              1     39      4        1945      10     29      0        0          40
+1901-05-10 15:19:59.300000 Friday     January              1     14      3        2106       4     31     12       59           1
+1990-10-05 15:19:59.900000 Saturday   January              1     53      3        2106       8     31     12       59           1
+1990-10-05 15:19:59.300000 Saturday   January              1     53      3        2106       8     31     12       59           1
+1990-10-05 15:19:59.300000 Saturday   January              1     53      3        2106       8     31     12       59           1
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a004s1
+
+(EXPR)
+-------------
+<group_begin>
+           41
+           50
+           19
+           40
+           40
+           40
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a004s1a
+
+D_T_M_E                    (EXPR)       
+-------------------------- -------------
+<group_begin>
+1999-12-31 23:59:59.999999            53
+1901-10-10 23:15:00.300000            41
+1901-05-10 15:19:59.300000            19
+0001-12-13 00:00:00.000000            50
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a004s2
+
+(EXPR)
+-------------
+<group_begin>
+           41
+           53
+           50
+         3802
+           19
+         3998
+           40
+            2
+           40
+         3802
+           40
+         3980
+           40
+         3980
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a004s3
+
+W_K    W_K   
+------ ------
+<group_begin>
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+     1      1
+    39     39
+    14     14
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  a004s4
+
+W_K    W_K   
+------ ------
+<group_begin>
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+     1      1
+    39     39
+    14     14
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  a004s5
+
+W_K    W_K   
+------ ------
+<group_begin>
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+     1      1
+    39     39
+    14     14
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+    53     53
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  a004s7
+
+W_K
+------
+<group_begin>
+     1
+    14
+    39
+    53
+    53
+    53
+    53
+    53
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a004s9
+
+(EXPR)    (EXPR)    (EXPR)        (EXPR) (EXPR)        
+--------- --------- ------------- ------ --------------
+<group_begin>
+Thursday  October             283      4 FORTH  QUARTER
+Friday    December            365      4 FORTH  QUARTER
+Thursday  December            347      4 FORTH  QUARTER
+Friday    May                 130      2 SECOND QUARTER
+Friday    October             278      4 FORTH  QUARTER
+Friday    October             278      4 FORTH  QUARTER
+Friday    October             278      4 FORTH  QUARTER
+Friday    October             278      4 FORTH  QUARTER
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

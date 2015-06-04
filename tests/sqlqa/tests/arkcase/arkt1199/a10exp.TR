@@ -1,0 +1,39 @@
+<section_begin>  a10s0
+
+I1          I2          I3         
+----------- ----------- -----------
+<group_begin>
+         11          21          61
+         31          41          51
+         51          61           1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a10s1
+
+I1          I2          I3         
+----------- ----------- -----------
+<group_begin>
+         31          10          88
+         51           8          66
+         71           6          44
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a10s2
+
+I1          I2          I3         
+----------- ----------- -----------
+<group_begin>
+         11          21          61
+         31          41          51
+         51          61           1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

@@ -1,0 +1,72 @@
+<section_begin>  s1
+
+SNUM  PNUM   JNUM
+----- ------ ----
+<group_begin>
+s5    p6     j4  
+s5    p5     j4  
+s5    p5     j5  
+s4    p6     j3  
+s4    p6     j5  
+s4    p6     j7  
+s4    p4     j5  
+s4    p4     j7  
+s4    p1     j5  
+s4    p1     j7  
+s3    p5     j1  
+s3    p4     j2  
+s3    p2     j1  
+s2    p5     j1  
+s2    p3     j1  
+s2    p3     j4  
+s2    p3     j5  
+s2    p3     j6  
+s2    p2     j1  
+s1    p6     j5  
+s1    p6     j7  
+s1    p4     j5  
+s1    p4     j7  
+s1    p1     j4  
+s1    p1     j5  
+s1    p1     j7  
+<group_end>
+
+--- 26 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+SNUM  PNUM   JNUM
+----- ------ ----
+<group_begin>
+s5    p6     j4  
+s5    p5     j4  
+s5    p5     j5  
+s4    p6     j3  
+s4    p6     j5  
+s4    p6     j7  
+s4    p4     j5  
+s4    p4     j7  
+s4    p1     j5  
+s4    p1     j7  
+s3    p5     j1  
+s3    p4     j2  
+s3    p2     j1  
+s2    p5     j1  
+s2    p3     j1  
+s2    p3     j4  
+s2    p3     j5  
+s2    p3     j6  
+s2    p2     j1  
+s1    p6     j5  
+s1    p6     j7  
+s1    p4     j5  
+s1    p4     j7  
+s1    p1     j4  
+s1    p1     j5  
+s1    p1     j7  
+<group_end>
+
+--- 26 row(s) selected.
+
+<section_end>

@@ -1,0 +1,849 @@
+<section_begin>  a01s0
+
+LAST_NAME       FIRST_NAME    JOB             GENDER   SALARY      DEPT_NUM   
+--------------- ------------- --------------- -------- ----------- -----------
+<group_begin>
+OSLO            DOUG          ENGINEER        MALE           40000          17
+WALTERS         MARVIN        systemanalyst   male           20000          15
+Weill           Kathy         Manager         Female         50000          17
+Young           Gail          SALESREP        female         40000          15
+mitchell        andrea        programmer      female         20000          12
+richards        martha        SECRETARY       FEMALE         30000          12
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+LAST_NAME       FIRST_NAME    DEPT_NUM    AVG_SAL     MIN_SAL     MAX_SAL    
+--------------- ------------- ----------- ----------- ----------- -----------
+<group_begin>
+OSLO            DOUG                   17       40000       40000       40000
+WALTERS         MARVIN                 15       20000       20000       20000
+Weill           Kathy                  17       50000       50000       50000
+Young           Gail                   15       40000       40000       40000
+mitchell        andrea                 12       20000       20000       20000
+richards        martha                 12       30000       30000       30000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+LAST_NAME       FIRST_NAME    JOB             GENDER  
+--------------- ------------- --------------- --------
+<group_begin>
+OSLO            DOUG          ENGINEER        MALE    
+WALTERS         MARVIN        systemanalyst   male    
+Weill           Kathy         Manager         Female  
+Young           Gail          SALESREP        female  
+mitchell        andrea        programmer      female  
+richards        martha        SECRETARY       FEMALE  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+LAST_NAME       FIRST_NAME   
+--------------- -------------
+<group_begin>
+OSLO            DOUG         
+WALTERS         MARVIN       
+Weill           Kathy        
+Young           Gail         
+mitchell        andrea       
+richards        martha       
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+LAST_FIRST     JOB_GENDER                                        
+-------------- --------------------------------------------------
+<group_begin>
+OSLODOUG       job = ENGINEER and gender = engineer              
+WALTERSMARVIN  job = SYSTEMANALYST and gender = systemanalyst    
+WeillKathy     job = MANAGER and gender = manager                
+YoungGail      job = SALESREP and gender = salesrep              
+mitchellandrea job = PROGRAMMER and gender = programmer          
+richardsmartha job = SECRETARY and gender = secretary            
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+(EXPR)
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+(EXPR)
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+(EXPR)
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+(EXPR)
+-----------
+          6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+(EXPR)          (EXPR)       
+--------------- -------------
+<group_begin>
+MITCHELL        andrea       
+OSLO            doug         
+RICHARDS        martha       
+WALTERS         marvin       
+WEILL           kathy        
+YOUNG           gail         
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+(EXPR)
+----------------------------
+YOUNGGAIL                   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+(EXPR)   (EXPR)         
+-------- ---------------
+<group_begin>
+FEMALE   manager        
+FEMALE   programmer     
+FEMALE   salesrep       
+FEMALE   secretary      
+MALE     engineer       
+MALE     systemanalyst  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+(EXPR)
+--------
+<group_begin>
+DOUg    
+MARvin  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+(EXPR)        (EXPR)         
+------------- ---------------
+<group_begin>
+ANDREA        mitchell       
+ARTHA         richards       
+ARVIN         alters         
+DOUG          oslo           
+GAIL          young          
+KATHY         eill           
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+(EXPR)          (EXPR)       
+--------------- -------------
+<group_begin>
+alters          ARVIN        
+eill            KATHY        
+mitchell        ANDREA       
+oslo            DOUG         
+richards        ARTHA        
+young           GAIL         
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+FIRST_NAME    CLEN      
+------------- ----------
+<group_begin>
+DOUG                  13
+Gail                  13
+Kathy                 13
+MARVIN                13
+andrea                13
+martha                13
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+LAST_NAME       CLEN      
+--------------- ----------
+<group_begin>
+OSLO                     4
+WALTERS                  7
+Weill                    5
+Young                    5
+mitchell                 8
+richards                 8
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+(EXPR)                       CLEN       CLEN_PLUS_1   CLEN_TIMES_1 
+---------------------------- ---------- ------------- -------------
+<group_begin>
+OSLODOUG                             17            18            17
+WALTERSMARVIN                        20            21            20
+WeillKathy                           18            19            18
+YoungGail                            18            19            18
+mitchellandrea                       21            22            21
+richardsmartha                       21            22            21
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s18
+
+(EXPR)                       CLEN_MINUS_1  CLEN_DIV_1   
+---------------------------- ------------- -------------
+<group_begin>
+OSLODOUG                                16          17.0
+WALTERSMARVIN                           19          20.0
+WeillKathy                              17          18.0
+YoungGail                               17          18.0
+mitchellandrea                          20          21.0
+richardsmartha                          20          21.0
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s19
+
+(EXPR)                        (EXPR)    
+----------------------------- ----------
+<group_begin>
+DOUG          OSLO                     9
+Gail          Young                   10
+Kathy         Weill                   11
+MARVIN        WALTERS                 14
+andrea        mitchell                15
+martha        richards                15
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s20
+
+FIRST_NAME    JOB             (EXPR)    
+------------- --------------- ----------
+<group_begin>
+DOUG          ENGINEER                21
+Gail          SALESREP                21
+Kathy         Manager                 20
+MARVIN        systemanalyst           26
+andrea        programmer              23
+martha        SECRETARY               22
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s21
+
+(EXPR)                       (EXPR)                  (EXPR)     (EXPR)    
+---------------------------- ----------------------- ---------- ----------
+<group_begin>
+OSLODOUG                     ENGINEERMALE                    17         16
+WALTERSMARVIN                systemanalystmale               20         21
+WeillKathy                   ManagerFemale                   18         15
+YoungGail                    SALESREPfemale                  18         16
+mitchellandrea               programmerfemale                21         18
+richardsmartha               SECRETARYFEMALE                 21         17
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s22
+
+(EXPR)                                              (EXPR)    
+--------------------------------------------------- ----------
+<group_begin>
+ANDREA       mitchellPROGRAMMERfemale                       38
+DOUG         osloENGINEERmale                               33
+GAIL         youngSALESREPfemale                            34
+KATHY        weillMANAGERfemale                             33
+MARTHA       richardsSECRETARYfemale                        38
+MARVIN       waltersSYSTEMANALYSTmale                       41
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s23
+
+FIRST_NAME    LAST_NAME       (EXPR)    
+------------- --------------- ----------
+<group_begin>
+DOUG          OSLO                     8
+Gail          Young                    8
+Kathy         Weill                    8
+MARVIN        WALTERS                  8
+andrea        mitchell                 8
+martha        richards                 8
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s24
+
+FIRST_NAME    LAST_NAME       (EXPR)    
+------------- --------------- ----------
+<group_begin>
+DOUG          OSLO                    17
+Gail          Young                   18
+Kathy         Weill                   18
+MARVIN        WALTERS                 20
+andrea        mitchell                21
+martha        richards                21
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s25
+
+(EXPR)                       (EXPR)    
+---------------------------- ----------
+<group_begin>
+OSLODOUG                             17
+WALTERSMARVIN                        20
+WeillKathy                           18
+YoungGail                            18
+mitchellandrea                       21
+richardsmartha                       21
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s26
+
+LAST_NAME       FIRST_NAME    DEPT_NUM    OCTLEN    
+--------------- ------------- ----------- ----------
+<group_begin>
+WALTERS         MARVIN                 15         14
+Young           Gail                   15         10
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s27
+
+LAST_NAME       (EXPR)    
+--------------- ----------
+<group_begin>
+OSLO                    12
+WALTERS                 15
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s28
+
+LAST_NAME       FIRST_NAME    JOB             GENDER   (EXPR)     (EXPR)    
+--------------- ------------- --------------- -------- ---------- ----------
+mitchell        andrea        programmer      female           21         18
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s29
+
+LAST_NAME       (EXPR)    
+--------------- ----------
+<group_begin>
+OSLO                    17
+WALTERS                 20
+Weill                   18
+Young                   18
+mitchell                21
+richards                21
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s30
+
+(EXPR)                         (EXPR)    
+------------------------------ ----------
+<group_begin>
+DOUG          OSLO.                     8
+Kathy         Weill.                    8
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s31
+
+(EXPR)                        (EXPR)    
+----------------------------- ----------
+<group_begin>
+mitchell andrea                        0
+richards martha                       10
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s32
+
+LAST_NAME       FIRST_NAME    (EXPR)    
+--------------- ------------- ----------
+Young           Gail                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s33
+
+LAST_NAME       FIRST_NAME    (EXPR)    
+--------------- ------------- ----------
+OSLO            DOUG                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s34
+
+FIRST_NAME       (EXPR)     (EXPR)     (EXPR)    
+---------------- ---------- ---------- ----------
+WALTERS                   1          0          8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s35
+
+FIRST_NAME    (EXPR)    
+------------- ----------
+andrea                 4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s36
+
+LAST_NAME       BLANK_SUBSTR INITIAL_SUBSTR
+--------------- ------------ --------------
+<group_begin>
+OSLO                                       
+WALTERS                                    
+Weill                                      
+Young                                      
+mitchell                                   
+richards                                   
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s37
+
+LAST_NAME       FIRST_NAME    (EXPR)        (EXPR)
+--------------- ------------- ------------- ------
+<group_begin>
+mitchell        andrea        andrea        mit   
+richards        martha        martha        ric   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s38
+
+LAST_NAME       JOB             (EXPR) (EXPR)
+--------------- --------------- ------ ------
+<group_begin>
+OSLO            ENGINEER        ENGI         
+WALTERS         systemanalyst   syst   S     
+richards        SECRETARY       SECR   ds    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s39
+
+LAST_NAME       FIRST_NAME    WHOLE_LAST      FOUR_LAST
+--------------- ------------- --------------- ---------
+<group_begin>
+OSLO            DOUG          OSLO            DOUG     
+WALTERS         MARVIN        WALTERS         MARV     
+Weill           Kathy         Weill           Kath     
+Young           Gail          Young           Gail     
+mitchell        andrea        mitchell        andr     
+richards        martha        richards        mart     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s40
+
+LAST_NAME       FIRST_NAME    LAST_3_4_5 ALL_FIRST    
+--------------- ------------- ---------- -------------
+<group_begin>
+Weill           Kathy         ill        Kathy        
+Young           Gail          ung        Gail         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s41
+
+FIRST_NAME    (EXPR)                          (EXPR)                         
+------------- ------------------------------- -------------------------------
+<group_begin>
+DOUG          OSLOxDOUG         x             QOSLOQDOUG                     
+Gail          YoungxGail         x            QYoungQGail                    
+Kathy         WeillxKathy        x            QWeillQKathy                   
+MARVIN        WALTERSxMARVIN       x          QWALTERSQMARVIN                
+andrea        mitchellxandrea       x         QmitchellQandrea               
+martha        richardsxmartha       x         QrichardsQmartha               
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s42
+
+(EXPR)
+-------------------------------
+<group_begin>
+OSLOxDOUG         x            
+WALTERSxMARVIN       x         
+WeillxKathy        x           
+YoungxGail         x           
+mitchellxandrea       x        
+richardsxmartha       x        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s43
+
+(EXPR)
+-------------------------------
+<group_begin>
+QOSLOQDOUG                     
+QWALTERSQMARVIN                
+QWeillQKathy                   
+QYoungQGail                    
+QmitchellQandrea               
+QrichardsQmartha               
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s44
+
+FIRST_NAME    (EXPR)                            
+------------- ----------------------------------
+<group_begin>
+andrea        AZmitchellandrea       ZA         
+martha        AZrichardsmartha       ZA         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s45
+
+FIRST_NAME    (EXPR)                                      
+------------- --------------------------------------------
+<group_begin>
+Gail          z Young SALESREP female                     
+Kathy         z Weill Manager Female                      
+andrea        z mitchell programmer female                
+martha        z richards SECRETARY FEMALE                 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s46
+
+(EXPR)
+---------------------------
+Amale    systemanalystZ    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s47
+
+(EXPR)
+--------------------------------
+<group_begin>
+DOUG         OSLO               
+Gail         Young              
+Kathy        Weill              
+MARVIN       WALTERS            
+andrea       mitchell           
+martha       richards           
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s48
+
+C
+--------------------------------------------
+<group_begin>
+my name is OSLO_DOUG            .           
+my name is WALTERS_MARVIN          .        
+my name is Weill_Kathy           .          
+my name is Young_Gail            .          
+my name is mitchell_andrea          .       
+my name is richards_martha          .       
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s49
+
+(EXPR)
+----------------------------------------------------
+<group_begin>
+OSLO **** DOUG          :-) hello folks !           
+Weill **** Kathy         :-) hello folks !          
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s50
+
+(EXPR)
+-----------------------------------------------------
+Weill Kathy        Female   Manager                  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s51
+
+(EXPR)
+-----------------------------------------
+<group_begin>
+my name is DOUG         and I am MALE    
+my name is MARVIN       and I am male    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s52
+
+(EXPR)
+---------------------------------------
+<group_begin>
+*****OSLO#####DOUG         .           
+*****WALTERS#####MARVIN       .        
+*****Weill#####Kathy        .          
+*****Young#####Gail         .          
+*****mitchell#####andrea       .       
+*****richards#####martha       .       
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s53
+
+(EXPR)
+------------------------------------------------------
+mitchell of andrea       changed to abrakadabra       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s54
+
+T1                             T2             
+------------------------------ ---------------
+<group_begin>
+MITCHELL                       andrea         
+OSLO                           doug           
+RICHARDS                       martha         
+WALTERS                        marvin         
+WEILL                          kathy          
+YOUNG                          gail           
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s55
+
+T1                             T2             
+------------------------------ ---------------
+<group_begin>
+mitchell                       ANDREA         
+oslo                           DOUG           
+richards                       MARTHA         
+walters                        MARVIN         
+weill                          KATHY          
+young                          GAIL           
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s56
+
+(EXPR)         (EXPR)       
+-------------- -------------
+matched parens gail         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s57
+
+T1                             T2             
+------------------------------ ---------------
+matched parens                 gail           
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s58
+
+C1              C2         
+--------------- -----------
+Gail                     18
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s59
+
+C1              C2         
+--------------- -----------
+<group_begin>
+DOUG                     24
+Gail                     25
+Kathy                    25
+MARVIN                   34
+andrea                   32
+martha                   31
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s60
+
+P1              P2         
+--------------- -----------
+MARVIN                    1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s61
+
+P1              P2         
+--------------- -----------
+gupta                     0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s62
+
+T1              T2                                                
+--------------- --------------------------------------------------
+<group_begin>
+DOUG            BC OSLODOUG         ABC                           
+Gail            BC YoungGail         ABC                          
+Kathy           BC WeillKathy        ABC                          
+MARVIN          BC WALTERSMARVIN       ABC                        
+andrea          BC mitchellandrea       ABC                       
+martha          BC richardsmartha       ABC                       
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s63
+
+C1
+--------------------------------------------------
+<group_begin>
+my name is DOUG         and I am a MALE           
+my name is MARVIN       and I am a male           
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

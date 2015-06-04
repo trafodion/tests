@@ -1,0 +1,293 @@
+<section_begin>  a06s0
+
+PARTNUM PARTNAME           INVENTORY LOCATION PRICE      ORDERNUM PARTNUM QUANTITY
+------- ------------------ --------- -------- ---------- -------- ------- --------
+<group_begin>
+    212 SYSTEM 192KB CORE          7 J87        92000.00     NULL    NULL     NULL
+    244 SYSTEM 192KB SEMI          3 B78        87000.00     NULL    NULL     NULL
+   1403 PROC     96KB SEMI        21 A21        22000.00     NULL    NULL     NULL
+   2001 DECIMAL ARITH           -100 X10         1500.00     NULL    NULL     NULL
+   2002 ENSCRIBE MICRO           200 X11         1000.00     NULL    NULL     NULL
+   2003 COBOL MICRO              200 X12          500.00     NULL    NULL     NULL
+   2402 MEM MOD 64K MOS          -34 H87         7500.00     NULL    NULL     NULL
+   2403 MEM MOD 96K MOS           12 J88         9600.00      122    2403       30
+   3102 DISC CONT SINGLE          12 H76         4800.00     NULL    NULL     NULL
+   3103 DISC CONT DUAL            -4 H87        10500.00     NULL    NULL     NULL
+   3201 MAG TAPE CONT 8/16         6 J65         4800.00     NULL    NULL     NULL
+   3302 LINE PRINTER CONT          9 K94         2800.00     NULL    NULL     NULL
+   4101 DISC 10MB                 14 K87         8000.00     NULL    NULL     NULL
+   4102 DISC 50MB                  9 K45        14500.00     NULL    NULL     NULL
+   4103 DISK 160MB                 7 K43        24500.00      122    4103       40
+   5101 MAG TAPE DR 800BPI         6 K89         7400.00     NULL    NULL     NULL
+   5103 MAG TAPE DR 8/16           8 L98         8000.00     NULL    NULL     NULL
+   5502 LP  300 LPM                6 L98        11500.00     NULL    NULL     NULL
+   5504 LP  900 LPM               -1 L88        21000.00     NULL    NULL     NULL
+   5505 LP  1500LPM                0 L78        42000.00     NULL    NULL     NULL
+   6201 SYNC CONTROLLER          -16 A34         5800.00     NULL    NULL     NULL
+   6301 ASYNC CONTROLLER         -21 A35         2900.00     NULL    NULL     NULL
+   6302 ASYNC EXTENSION           34 A36         4300.00     NULL    NULL     NULL
+   6401 TERM CRT CHAR             54 V67         1500.00     NULL    NULL     NULL
+   6402 TERM CRT PAGE            -32 V68         1500.00       66    6402       22
+   6603 TERM HARD COPY            40 V66         3200.04     NULL    NULL     NULL
+   7102 CABINET LARGE             20 F76        68000.05     NULL    NULL     NULL
+   7301 POWER MODULE              32 H76         2400.06     NULL    NULL     NULL
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+(EXPR) QUANTITY
+------ --------
+<group_begin>
+a            22
+a            30
+a            40
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+a          NULL
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+(EXPR)
+------
+<group_begin>
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+a     
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+VAR_CHAR
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+bill                                                                                                                            
+bob                                                                                                                             
+bobby                                                                                                                           
+christopher                                                                                                                     
+marilyn                                                                                                                         
+sue                                                                                                                             
+tom                                                                                                                             
+william                                                                                                                         
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+CHAR_1
+------
+<group_begin>
+C     
+a     
+NULL  
+NULL  
+NULL  
+NULL  
+NULL  
+NULL  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+VAR_CHAR                                                                                                                         (EXPR)        CHAR_1 (EXPR)        
+-------------------------------------------------------------------------------------------------------------------------------- ------------- ------ --------------
+<group_begin>
+bill                                                                                                                             first literal NULL   second literal
+bob                                                                                                                              first literal NULL   second literal
+bobby                                                                                                                            first literal NULL   second literal
+christopher                                                                                                                      first literal NULL   second literal
+marilyn                                                                                                                          first literal NULL   second literal
+sue                                                                                                                              first literal NULL   second literal
+tom                                                                                                                              first literal NULL   second literal
+william                                                                                                                          first literal NULL   second literal
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+DATA_93
+-------
+<group_begin>
+    100
+    200
+    250
+    350
+    450
+    550
+    650
+    750
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+DATA_93
+-------
+<group_begin>
+    100
+    125
+    150
+    175
+    200
+    225
+    275
+    325
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+DATA_93 DATA_93 (EXPR)
+------- ------- ------
+<group_begin>
+    100     100    200
+    200     100    300
+    200     175    375
+    200     150    350
+    200     125    325
+    200     200    400
+    250     100    350
+    250     225    475
+    250     175    425
+    250     200    450
+    250     125    375
+    250     150    400
+    350     100    450
+    350     225    575
+    350     200    550
+    350     175    525
+    350     150    500
+    350     125    475
+    350     275    625
+    350     325    675
+    450     100    550
+    450     275    725
+    450     225    675
+    450     200    650
+    450     325    775
+    450     150    600
+    450     175    625
+    450     125    575
+    550     200    750
+    550     225    775
+    550     175    725
+    550     100    650
+    550     125    675
+    550     275    825
+    550     150    700
+    550     325    875
+    650     175    825
+    650     200    850
+    650     225    875
+    650     150    800
+    650     100    750
+    650     275    925
+    650     125    775
+    650     325    975
+    750     100    850
+    750     225    975
+    750     200    950
+    750     175    925
+    750     150    900
+    750     125    875
+    750     275   1025
+    750     325   1075
+<group_end>
+
+--- 52 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+DATA_93 DATA_93 (EXPR)
+------- ------- ------
+<group_begin>
+    100     125    225
+    100     225    325
+    100     275    375
+    100     200    300
+    100     150    250
+    100     175    275
+    100     325    425
+    200     225    425
+    200     275    475
+    200     325    525
+    250     275    525
+    250     325    575
+    350    NULL   NULL
+    450    NULL   NULL
+    550    NULL   NULL
+    650    NULL   NULL
+    750    NULL   NULL
+<group_end>
+
+--- 17 row(s) selected.
+
+<section_end>

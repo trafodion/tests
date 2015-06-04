@@ -1,0 +1,18 @@
+<section_begin>  test021a
+
+(EXPR) (EXPR) (EXPR) (EXPR) (EXPR) (EXPR)    
+------ ------ ------ ------ ------ ----------
+-79    -71    -92    -85    -99    -95.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test021b
+
+(EXPR) (EXPR) (EXPR) (EXPR) (EXPR) (EXPR)    
+------ ------ ------ ------ ------ ----------
+99     99     99     93     99     99.000000 
+
+--- 1 row(s) selected.
+
+<section_end>

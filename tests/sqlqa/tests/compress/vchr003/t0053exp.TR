@@ -1,0 +1,273 @@
+<section_begin>  s00
+
+SBINA_500            VARCHARA_10 UDECA_2000  UBINA_1000  SDECA_UNIQ VARCHARA_4
+-------------------- ----------- ----------- ----------- ---------- ----------
+<group_begin>
+                 243 BDAA               1243         243 1243       DAAAAAAA  
+                 399 BEAA                399         399 2399       DAAAAAAA  
+                 125 BAAA                625         625 2625       BAAAAAAA  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s01
+
+SBINB_100   VARCHARB_4 VARCHARB_10 UBINB_4     SDECB_2    
+----------- ---------- ----------- ----------- -----------
+<group_begin>
+         30 BA         0                     2           0
+         43 BAAA       3                     3           1
+         33 BAAA       3                     1           1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s02
+
+SBINC_2 UBINC_4 SDECC_10 VARCHARC_2 VARCHARC_100
+------- ------- -------- ---------- ------------
+<group_begin>
+      0       0        0 BA         0           
+      1       1        5 BA         65          
+      1       3        5 BA         15          
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s03
+
+SBIND_1000 UDECD_2000 VARCHARD_1000                                                                                                                    SDECD_500 UBIND_UNIQ
+---------- ---------- -------------------------------------------------------------------------------------------------------------------------------- --------- ----------
+<group_begin>
+       559        559 EDAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                                                        59        559
+       961        961 FHAAFAAMcKinleyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       461       4961
+       299        299 ABAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       299       2299
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s04
+
+VARCHARE_2 VARCHARE_4 VARCHARE_10 VARCHARE_1A VARCHARE_2A
+---------- ---------- ----------- ----------- -----------
+<group_begin>
+0.1        0.3        AD          0.3         0.1        
+0.1        0.3        AEAA        0.9         0.1        
+0.1        0.1        AAAA        0.5         0.1        
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s05
+
+SBINF_4 UBINF_20    UDECF_20 VARCHARF_10 VARCHARF_100       
+------- ----------- -------- ----------- -------------------
+<group_begin>
+      2          10       10 BDAAAAAA    30                 
+      3           3        3 BEAAAAAA    43                 
+      1          13       13 BAAAAAAA    33                 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s06
+
+SBING_UNIQ SDECG_2000 UDECG_500 VARCHARG_20 UBING_2
+---------- ---------- --------- ----------- -------
+<group_begin>
+      3800       1800       300 DDAAAAAA          0
+      4965        965       465 DEAAAAAA          1
+      1215       1215       215 BAAAAAAA          1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s07
+
+SBINH_2 SDECH_10 CHARH_UNIQ                                                                                           UDECH_20 UBINH_100
+------- -------- ---------------------------------------------------------------------------------------------------- -------- ---------
+<group_begin>
+      1      0.9 EAAAIAADAAAAAAAA                                                                                          1.9        59
+      1      0.1 FBAAHAAEAAAAAAAA                                                                                          0.1        61
+      1      0.9 AHAAMAAAAAAAAAAA                                                                                          1.9        99
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s08
+
+SBINI_1000           VARCHARI_500                                                                                         SDECI_2000 UDECI_500 UBINI_2
+-------------------- ---------------------------------------------------------------------------------------------------- ---------- --------- -------
+<group_begin>
+                 243 EDAABAAAAAAAAAAA                                                                                          124.3      24.3     0.1
+                 399 FHAAFAAMcKinleyA                                                                                           39.9      39.9     0.1
+                 625 ABAAGAAAAAAAAAAA                                                                                           62.5      12.5     0.1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s09
+
+SBINJ_4 VARCHARJ_UNIQ VARCHARJ_10 VARCHARJ_20 UBINJ_100
+------- ------------- ----------- ----------- ---------
+<group_begin>
+    0.2 EAAAIAAD      0           10                3.0
+    0.3 FBAAHAAE      3           3                 4.3
+    0.1 AHAAMAAA      3           13                3.3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s10
+
+SBINK_UNIQ  UBINK_1000  VARCHARK_20 UDECK_2000  SDECK_500           
+----------- ----------- ----------- ----------- --------------------
+<group_begin>
+       3800         800 BD                 1800                  300
+       4965         965 BEAA                965                  465
+       1215         215 BAAA               1215                  215
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s11
+
+SBINL_2000 SDECL_20 UDECL_20 UBINL_2 VARCHARL_4
+---------- -------- -------- ------- ----------
+<group_begin>
+       559  0.00019  0.00019       1 DA        
+       961  0.00001  0.00001       1 DA        
+       299  0.00019  0.00019       1 BA        
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s12
+
+VARCHARM_1000 VARCHARM_100 VARCHARM_10 UBINM_10    UDECM_1000 
+------------- ------------ ----------- ----------- -----------
+<group_begin>
+243           43           BD                    3         243
+399           99           BE                    9         399
+625           25           BA                    5         625
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s13
+
+SBINN_UNIQ VARCHARN_100 SDECN_UNIQ  UBINN_10 UDECN_500  
+---------- ------------ ----------- -------- -----------
+<group_begin>
+   0.03730 BS                  3730  0.00000         230
+   0.01943 BYAA                1943  0.00003         443
+   0.02233 BAAA                2233  0.00003         233
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s14
+
+VARCHARO_100 VARCHARO_2 VARCHARO_20 VARCHARO_10 VARCHARO_2A
+------------ ---------- ----------- ----------- -----------
+<group_begin>
+0            0          0           0           DD         
+65           1          5           5           DE         
+15           1          15          5           BA         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s15
+
+SBINP_2     UDECP_4     VARCHARP_UNIQ UBINP_UNIQ SDECP_10   
+----------- ----------- ------------- ---------- -----------
+<group_begin>
+          1        0.03 EAAAIAAD             559        0.09
+          1        0.01 FBAAHAAE            4961        0.01
+          1        0.03 AHAAMAAA            2299        0.09
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s16
+
+SBINQ_20    SDECQ_100   UBINQ_1000  UDECQ_1000  VARCHARQ_UNIQ
+----------- ----------- ----------- ----------- -------------
+<group_begin>
+       0.03        0.43        2.43        2.43 EAAAIAAD     
+       0.19        0.99        3.99        3.99 FBAAHAAE     
+       0.05        0.25        6.25        6.25 AHAAMAAA     
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s17
+
+SBINR_UNIQ   SDECR_20 UBINR_2000  VARCHARR_100                                                                                         UDECR_100
+------------ -------- ----------- ---------------------------------------------------------------------------------------------------- ---------
+<group_begin>
+        3730       10       17.30 DSAAAAAAAAAAAAAA                                                                                            30
+        1943        3       19.43 DYAAMcKinleyAAAA                                                                                            43
+        2233       13        2.33 BAAAAAAAAAAAAAAA                                                                                            33
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s18
+
+SBINS_UNIQ           VARCHARS_20                                                                                          UBINS_20 SDECS_4 UDECS_4
+-------------------- ---------------------------------------------------------------------------------------------------- -------- ------- -------
+<group_begin>
+                3800 DDAAAAAAAAAAAAAA                                                                                            0       0       0
+                4965 DEAAMcKinleyAAAA                                                                                            5       1       1
+                1215 BAAAAAAAAAAAAAAA                                                                                           15       3       3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s19
+
+SBINT_4              CHART_2  UBINT_10 VARCHART_100 VARCHART_1000
+-------------------- -------- -------- ------------ -------------
+<group_begin>
+                   3 BAAAAAAA        9 5.9          55.9         
+                   1 BAAAAAAA        1 6.1          96.1         
+                   3 BAAAAAAA        9 9.9          29.9         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s20
+
+SBINU_2000           UDECU_UNIQ  UBINU_1000 VARCHARU_10                                                                                                                      SDECU_UNIQ 
+-------------------- ----------- ---------- -------------------------------------------------------------------------------------------------------------------------------- -----------
+<group_begin>
+               12.43        1243       24.3 ADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                                                       22186
+                3.99        2399       39.9 AEAAMcKinleyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       22372
+                6.25        2625       62.5 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       22394
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

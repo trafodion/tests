@@ -1,0 +1,45 @@
+<section_begin>  a12s1
+
+A
+-----------
+         10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s3
+
+A                    B          
+-------------------- -----------
+                   6       5.807
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s5
+
+A           B          
+----------- -----------
+          3           4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s6
+
+(EXPR)
+-----------------------------
+NULL                         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s7
+
+A
+----------
+3000000000
+
+--- 1 row(s) selected.
+
+<section_end>

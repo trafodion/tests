@@ -1,0 +1,30 @@
+<section_begin>  s1
+
+PNUM   Weight in grams COLOR  Max shipped quantity
+------ --------------- ------ --------------------
+<group_begin>
+p6                8626 red                     500
+p5                5448 blue                    500
+p1                5448 red                     700
+p4                6356 red                     800
+p3                7718 blue                    800
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+PNUM   Weight in grams COLOR  Max shipped quantity
+------ --------------- ------ --------------------
+<group_begin>
+p6                8626 red                     500
+p5                5448 blue                    500
+p1                5448 red                     700
+p4                6356 red                     800
+p3                7718 blue                    800
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

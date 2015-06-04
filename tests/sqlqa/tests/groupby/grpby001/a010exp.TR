@@ -1,0 +1,105 @@
+<section_begin>  a10s1
+
+(EXPR)
+-------
+Greater
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s2
+
+(EXPR)
+-------
+<group_begin>
+22     
+23     
+Greater
+21     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a10s6
+
+(EXPR)
+----------
+<group_begin>
+  37000.00
+  39500.00
+ 175500.00
+  65000.00
+  69000.00
+  64000.00
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s8
+
+(EXPR)
+----------
+<group_begin>
+  37000.00
+  39500.00
+ 175500.00
+  65000.00
+  69000.00
+  64000.00
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s10
+
+(EXPR)
+----------
+<group_begin>
+  37000.00
+  39500.00
+ 175500.00
+  65000.00
+  69000.00
+  64000.00
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s11
+
+(EXPR)
+----------
+<group_begin>
+  37000.00
+  39500.00
+ 175500.00
+  65000.00
+  69000.00
+  64000.00
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s12
+
+(EXPR)
+----------
+  37000.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s15
+
+(EXPR)
+------
+Fine  
+
+--- 1 row(s) selected.
+
+<section_end>

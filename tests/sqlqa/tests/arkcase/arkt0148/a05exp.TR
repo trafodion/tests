@@ -1,0 +1,358 @@
+<section_begin>  a05s0
+
+BINARY_SIGNED
+-------------
+<group_begin>
+         3000
+         NULL
+         NULL
+         NULL
+         NULL
+         NULL
+         NULL
+         NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+SMALL_INT
+---------
+<group_begin>
+     9000
+     NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+BINARY_64_S
+--------------------
+            2000.000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+COL_1
+------
+<group_begin>
+     1
+     1
+     1
+     9
+     9
+     9
+  NULL
+  NULL
+  NULL
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+HEADED_NUMERIC
+--------------
+          1.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+BINARY_SIGNED
+-------------
+<group_begin>
+         9000
+         3000
+         NULL
+         NULL
+         NULL
+         NULL
+         NULL
+         NULL
+         NULL
+         NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+COL_FLOAT
+------------------------
+<group_begin>
+                     1.0
+                     1.0
+                     1.0
+                  2000.0
+                     9.0
+                     9.0
+                     9.0
+                    NULL
+                    NULL
+                    NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+COL_FLOAT
+------------------------
+<group_begin>
+                     1.0
+                     1.0
+                     1.0
+                     1.0
+                  2000.0
+                     9.0
+                     9.0
+                     9.0
+                    NULL
+                    NULL
+                    NULL
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+BINARY_SIGNED
+------------------------
+<group_begin>
+                     1.0
+                     1.0
+                     1.0
+                  2000.0
+                     9.0
+                     9.0
+                     9.0
+                    NULL
+                    NULL
+                    NULL
+                  9000.0
+                  3000.0
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+BINARY_SIGNED
+------------------------
+<group_begin>
+                     1.0
+                     1.0
+                     1.0
+                     1.0
+                  2000.0
+                     9.0
+                     9.0
+                     9.0
+                    NULL
+                    NULL
+                    NULL
+                  9000.0
+                  3000.0
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+BINARY_SIGNED
+-------------
+<group_begin>
+         9000
+         3000
+         NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+BINARY_SIGNED
+------------------------
+<group_begin>
+                     1.0
+                     1.0
+                     1.0
+                     1.0
+                  2000.0
+                     9.0
+                     9.0
+                     9.0
+                    NULL
+                    NULL
+                    NULL
+                  9000.0
+                  3000.0
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+                    NULL
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+BINARY_SIGNED
+------------------------
+<group_begin>
+                     1.0
+                     9.0
+                  2000.0
+                    NULL
+                  9000.0
+                  3000.0
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+BINARY_SIGNED
+------------------------
+<group_begin>
+                     1.0
+                     1.0
+                  2000.0
+                     9.0
+                    NULL
+                  9000.0
+                  3000.0
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s14
+
+BINARY_SIGNED
+------------------------
+<group_begin>
+                     1.0
+                  2000.0
+                     9.0
+                    NULL
+                  9000.0
+                  3000.0
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s15
+
+BINARY_SIGNED
+--------------------
+<group_begin>
+               1.000
+               9.000
+            3000.000
+                NULL
+            2000.000
+            9000.000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s16
+
+BINARY_SIGNED
+--------------------
+<group_begin>
+               1.000
+            9000.000
+            2000.000
+            3000.000
+               1.000
+                NULL
+               1.000
+                NULL
+                NULL
+               9.000
+                NULL
+               9.000
+                NULL
+               9.000
+                NULL
+                NULL
+                NULL
+                NULL
+                NULL
+                NULL
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a05s17
+
+BINARY_SIGNED
+--------------------
+<group_begin>
+               1.000
+               1.000
+               1.000
+            2000.000
+               9.000
+               9.000
+               9.000
+            9000.000
+                NULL
+            3000.000
+                NULL
+                NULL
+                NULL
+                NULL
+                NULL
+                NULL
+                NULL
+                NULL
+                NULL
+                NULL
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>

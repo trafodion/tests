@@ -1,0 +1,99 @@
+<section_begin>  s1
+
+CHARTEST
+--------
+NULL    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+INTTEST
+-----------
+       NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+REALTEST
+---------------
+           NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s5
+
+SMALLTEST
+---------
+     NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s6
+
+DOUBLETEST
+------------------------
+                    NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s7
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s8
+
+FLOATTEST
+------------------------
+                    NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s9
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s10
+
+NUMTEST
+-----------
+       NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s11
+
+NUMTEST
+---------------
+           NULL
+
+--- 1 row(s) selected.
+
+<section_end>

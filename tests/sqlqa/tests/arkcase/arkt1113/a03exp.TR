@@ -1,0 +1,261 @@
+<section_begin>  a03s0
+
+V
+--------
+<group_begin>
+CA      
+CACAAAAA
+CCAA    
+CCCCA   
+CCCCAAAA
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+VARCHAR7 CHAR8   
+-------- --------
+<group_begin>
+AAAAAAA  NULL    
+CAAAAAA  CAAAAAA 
+DAAAAAA  CAAAAAAX
+EE       EE      
+X        EE      
+X        X       
+NULL     EE      
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+VARCHAR15 UBIN15    
+--------- ----------
+<group_begin>
+CCAAKAAB           7
+DDAABAAD        1996
+DEAACAAE        1995
+FGAADAAE        1997
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+VARCHAR0_4 VARCHAR5_10 VARCHAR15_UNIQ CHAR16_UNIQ
+---------- ----------- -------------- -----------
+<group_begin>
+A          ACAAA       BEAAGAAC       BEAAGAAC   
+A          AEAAAAA     FJAAGAA        FJAAGAAE   
+AAA        ABAAAAAA    FGAAAAAB       FGAAAAAB   
+E          AE          BEAAGAAD       BF         
+F          AF          BEAAGAAC       BF         
+G          AG          BEAAGAAE       BG         
+H          AH          BEAAGAAC       BH         
+I          AI          BEAAGAAF       BI         
+J          AJ          BEAAGAAG       BJ         
+K          AK          BEAAGAAD       BK         
+L          AL          BEAAGAAC       BL         
+M          AM          BEAAGAAC       BM         
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+N1                   C2   C3   C4      
+-------------------- ---- ---- --------
+<group_begin>
+               -4344 AA   BA   BA      
+               -3552 BA   AA   AA      
+               -2789 DA   EA   NULL    
+               -2389 BA   AA   AA      
+                NULL NULL AA   AA      
+                NULL NULL BA   BA      
+                NULL NULL DA   DA      
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+SBIN0_4     SDEC5_10    SDEC6_4 VARCHAR0_UNIQ
+----------- ----------- ------- -------------
+<group_begin>
+         -2          -6       0 CCAAFAAC     
+         -2          -2      -1 AIAALAAA     
+         -1           0      -2 AEAAJAAB     
+          0          -3      -2 CJAAAAAC     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+CUPPER                 CLOWER                 CCHAR_LENGTH  COCTET_LENGTH CPOSITION  CSUBSTRING  CTRIM                              CCONCATCHAR  CCONCATVARCHAR        
+---------------------- ---------------------- ------------- ------------- ---------- ----------- ---------------------------------- ------------ ----------------------
+<group_begin>
+ LEADING B. LEADING B.  leading b. leading b.            16            16          1  LEADING B. trim leading spaces  LEADING B.    start BA end  LEADING B. LEADING B.
+AAAA                   aaaa                               7             7          0 AA          trim leading spaces AA             start BA end AAAA                  
+ABCABC                 abcabc                             8             8          0 ABC         trim leading spaces ABC            start BE end ABCABC                
+BABA                   baba                               7             7          0 BA          trim leading spaces BA             start AB end BABA                  
+EBAAEAAC   EBAAEAAC    ebaaeaac   ebaaeaac               16            16          9 EBAAEAAC    trim leading spaces EBAAEAAC       start BA end EBAAEAAC   EBAAEAAC   
+TRAILING B TRAILING B  trailing b trailing b             16            16          9 TRAILING B  trim leading spaces TRAILING B     start AA end TRAILING B TRAILING B 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+SBIN0_4     VARCHAR0_500 UBIN16_N10 SDEC16_UNIQ          CHAR16_N20 CHAR17_2
+----------- ------------ ---------- -------------------- ---------- --------
+<group_begin>
+          0 BDAAAAAA              8                 2028 AD         AAAAAAAA
+          1 ACAABAAA              3                 1993 BDAA       AAAAAAAA
+          1 BBA%FAAA              3                 3293 BD         BAAAAAAA
+          1 BBAABA_A              1                 3917 BBAA       BAAAAAAA
+          3 CAAAGAAA              1                 4151 BB         BAAAAAAA
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+CSIMPLE                 CSEARCHED         
+----------------------- ------------------
+<group_begin>
+Value A                 sint is the lowest
+Value B                 the great unknown 
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 the great unknown 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+V
+--------
+<group_begin>
+CA      
+CACAAAAA
+CCAA    
+CCCCA   
+CCCCAAAA
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+VARCHAR7 CHAR8   
+-------- --------
+<group_begin>
+CAAAAAA  CAAAAAA 
+DAAAAAA  CAAAAAAX
+EE       EE      
+X        EE      
+X        X       
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s11
+
+VARCHAR15 UBIN15    
+--------- ----------
+<group_begin>
+CCAAKAAB           7
+DDAABAAD        1996
+DEAACAAE        1995
+FGAADAAE        1997
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s12
+
+VARCHAR0_4 VARCHAR5_10 VARCHAR13_100 SDEC13_UNIQ CHAR14_20
+---------- ----------- ------------- ----------- ---------
+<group_begin>
+A          ACAAA       AM                   3030 AC       
+A          AEAAAAA     AJAA                 3112 AE       
+AAA        ABAAAAAA    AG                   4217 AB       
+E          AE          AM                   3030 AC       
+F          AF          AM                   3030 AE       
+G          AG          AM                   3030 AE       
+H          AH          AM                   3031 AC       
+I          AI          AM                   3031 AC       
+J          AJ          AM                   3031 AC       
+K          AK          AM                   3031 AD       
+L          AL          AM                   3050 AC       
+M          AM          AN                   3030 AC       
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a03s13
+
+N1                   C2   C3   C4      
+-------------------- ---- ---- --------
+<group_begin>
+               -4344 AA   BA   BA      
+               -3552 BA   AA   AA      
+               -2389 BA   AA   AA      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s14
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s15
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s16
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s17
+
+(EXPR)
+--------------------
+                   8
+
+--- 1 row(s) selected.
+
+<section_end>

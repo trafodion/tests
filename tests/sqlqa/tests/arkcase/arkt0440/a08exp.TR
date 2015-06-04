@@ -1,0 +1,91 @@
+<section_begin>  a08s0
+
+A
+-----
+<group_begin>
+eeny 
+meeny
+miney
+moe  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+A
+-----
+miney
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+A     (EXPR)
+----- ------
+<group_begin>
+eeny  eeny  
+meeny meeny 
+miney miney 
+moe   moe   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s3
+
+A     (EXPR)
+----- ------
+<group_begin>
+eeny  EENY  
+meeny MEENY 
+miney MINEY 
+moe   MOE   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s4
+
+A     (EXPR)
+----- ------
+<group_begin>
+eeny  EENY  
+meeny MEENY 
+miney MINEY 
+moe   MOE   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s5
+
+A
+-----
+<group_begin>
+miney
+moe  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s6
+
+A
+-----
+<group_begin>
+eeny 
+meeny
+miney
+moe  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

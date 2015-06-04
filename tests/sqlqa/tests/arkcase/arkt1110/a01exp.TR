@@ -1,0 +1,699 @@
+<section_begin>  a01s0
+
+PKVCA         NINTB  VCC                   NOINDEXVCD  VCE        
+------------- ------ --------------------- ----------- -----------
+<group_begin>
+01 No dup          1 Duplicate allowed     d           e          
+02 No dup          7 Index col             ddd         eee        
+03 No dup          4 Duplicate allowed     dd          ee         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+VCA       VCB       NINTC  NOINDEXVCD VCE       ENDCOMPOSXF PKVCG    
+--------- --------- ------ ---------- --------- ----------- ---------
+<group_begin>
+NULL      LONG1 c2       1 LONG1 c4   LONG1 c5          101 01 No dup
+LONG1 c1  LONG1 c2       7 LONG1 c4   LONG1 c5          101 02 No dup
+LONG1 c1  LONG1 c2       4 NULL       LONG1 c7          100 03 No dup
+ddd       ee             2 LONG3 c4   LONG1 c5            5 Dup Key 1
+ddd       ee             3 d          e                   7 Dup Key 1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+NINTB
+------
+<group_begin>
+     1
+     4
+     7
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+VCE
+---------
+<group_begin>
+LONG1 c5 
+LONG1 c7 
+LONG1 c5 
+e        
+LONG1 c5 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+ENDCOMPOSXF
+-----------
+<group_begin>
+        100
+        101
+        101
+          5
+          7
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+(EXPR)
+------
+<group_begin>
+a...b 
+a...b 
+a...b 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+(EXPR)
+---------------------------
+<group_begin>
+Duplicate allowed...END    
+Duplicate allowed...END    
+Index col...END            
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+(EXPR)
+---------------------------------------------
+<group_begin>
+Duplicate allowed...Duplicate allowed        
+Duplicate allowed...Duplicate allowed        
+Index col...Index col                        
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+(EXPR)
+----------------
+<group_begin>
+01 No dup...    
+03 No dup...    
+02 No dup...    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+CONCAT_CAST_INT_AS_PICX
+-----------------------
+<group_begin>
+...1                   
+...4                   
+...7                   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+CONCAT_CAST_INT_AS_PICX
+--------------------------
+<group_begin>
+...1                      
+...4                      
+...7                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+VCE
+---------
+<group_begin>
+LONG1 c5 
+LONG1 c7 
+LONG1 c5 
+e        
+LONG1 c5 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+VCA
+---------
+<group_begin>
+LONG1 c1 
+LONG1 c1 
+ddd      
+ddd      
+NULL     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+(EXPR)
+-----------------------------------
+<group_begin>
+e...Duplicate allowed              
+eee...Index col                    
+ee...Duplicate allowed             
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+(EXPR)   (EXPR)                               
+-------- -------------------------------------
+<group_begin>
+       4 Duplicate allowed...01 No dup        
+       7 Duplicate allowed...03 No dup        
+      10 Index col...02 No dup                
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+NINTB
+------
+<group_begin>
+     1
+     4
+     7
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+NINTB
+------
+     7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+VCC                   (EXPR)     
+--------------------- -----------
+<group_begin>
+Duplicate allowed     dd         
+Index col             ddd        
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s18
+
+VCC                   (EXPR)              
+--------------------- --------------------
+<group_begin>
+Duplicate allowed                        2
+Index col                                1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s19
+
+PKVCA         (EXPR)              
+------------- --------------------
+<group_begin>
+01 No dup                        1
+03 No dup                        1
+02 No dup                        1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s20
+
+NINTB  VCC                  
+------ ---------------------
+<group_begin>
+     1 Duplicate allowed    
+     4 Duplicate allowed    
+     7 Index col            
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s21
+
+NINTB  VCC                  
+------ ---------------------
+<group_begin>
+     1 Duplicate allowed    
+     4 Duplicate allowed    
+     7 Index col            
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s22
+
+PKVCA         VCA       VCC                   NOINDEXVCD
+------------- --------- --------------------- ----------
+<group_begin>
+01 No dup     LONG1 c1  Duplicate allowed     LONG1 c4  
+01 No dup     LONG1 c1  Duplicate allowed     NULL      
+01 No dup     ddd       Duplicate allowed     LONG3 c4  
+01 No dup     ddd       Duplicate allowed     d         
+02 No dup     LONG1 c1  Index col             LONG1 c4  
+02 No dup     LONG1 c1  Index col             NULL      
+02 No dup     ddd       Index col             LONG3 c4  
+02 No dup     ddd       Index col             d         
+03 No dup     LONG1 c1  Duplicate allowed     LONG1 c4  
+03 No dup     LONG1 c1  Duplicate allowed     NULL      
+03 No dup     ddd       Duplicate allowed     LONG3 c4  
+03 No dup     ddd       Duplicate allowed     d         
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a01s23
+
+PKVCA         VCA       VCC                   NOINDEXVCD
+------------- --------- --------------------- ----------
+<group_begin>
+01 No dup     LONG1 c1  Duplicate allowed     LONG1 c4  
+01 No dup     ddd       Duplicate allowed     LONG3 c4  
+01 No dup     ddd       Duplicate allowed     d         
+01 No dup     NULL      Duplicate allowed     LONG1 c4  
+02 No dup     LONG1 c1  Index col             LONG1 c4  
+02 No dup     ddd       Index col             LONG3 c4  
+02 No dup     ddd       Index col             d         
+02 No dup     NULL      Index col             LONG1 c4  
+03 No dup     LONG1 c1  Duplicate allowed     LONG1 c4  
+03 No dup     ddd       Duplicate allowed     LONG3 c4  
+03 No dup     ddd       Duplicate allowed     d         
+03 No dup     NULL      Duplicate allowed     LONG1 c4  
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a01s24
+
+PKVCA         VCA       VCC                   NOINDEXVCD
+------------- --------- --------------------- ----------
+<group_begin>
+01 No dup     LONG1 c1  Duplicate allowed     LONG1 c4  
+01 No dup     ddd       Duplicate allowed     LONG3 c4  
+01 No dup     ddd       Duplicate allowed     d         
+02 No dup     LONG1 c1  Index col             LONG1 c4  
+02 No dup     ddd       Index col             LONG3 c4  
+02 No dup     ddd       Index col             d         
+03 No dup     LONG1 c1  Duplicate allowed     LONG1 c4  
+03 No dup     ddd       Duplicate allowed     LONG3 c4  
+03 No dup     ddd       Duplicate allowed     d         
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s25
+
+VCA       VCA       VCE       VCE      
+--------- --------- --------- ---------
+<group_begin>
+LONG1 c1  LONG1 c1  LONG1 c5  LONG1 c5 
+LONG1 c1  LONG1 c1  LONG1 c5  LONG1 c7 
+LONG1 c1  LONG1 c1  LONG1 c7  LONG1 c5 
+LONG1 c1  LONG1 c1  LONG1 c7  LONG1 c7 
+LONG1 c1  ddd       LONG1 c5  LONG1 c5 
+LONG1 c1  ddd       LONG1 c5  e        
+LONG1 c1  ddd       LONG1 c7  LONG1 c5 
+LONG1 c1  ddd       LONG1 c7  e        
+LONG1 c1  NULL      LONG1 c5  LONG1 c5 
+LONG1 c1  NULL      LONG1 c7  LONG1 c5 
+ddd       LONG1 c1  LONG1 c5  LONG1 c5 
+ddd       LONG1 c1  LONG1 c5  LONG1 c7 
+ddd       LONG1 c1  e         LONG1 c5 
+ddd       LONG1 c1  e         LONG1 c7 
+ddd       ddd       LONG1 c5  LONG1 c5 
+ddd       ddd       LONG1 c5  e        
+ddd       ddd       e         LONG1 c5 
+ddd       ddd       e         e        
+ddd       NULL      LONG1 c5  LONG1 c5 
+ddd       NULL      e         LONG1 c5 
+NULL      LONG1 c1  LONG1 c5  LONG1 c5 
+NULL      LONG1 c1  LONG1 c5  LONG1 c7 
+NULL      ddd       LONG1 c5  LONG1 c5 
+NULL      ddd       LONG1 c5  e        
+NULL      NULL      LONG1 c5  LONG1 c5 
+<group_end>
+
+--- 25 row(s) selected.
+
+<section_end>
+<section_begin>  a01s26
+
+VCA       VCA       VCE       VCE      
+--------- --------- --------- ---------
+<group_begin>
+LONG1 c1  LONG1 c1  LONG1 c5  LONG1 c5 
+LONG1 c1  LONG1 c1  LONG1 c5  LONG1 c7 
+LONG1 c1  LONG1 c1  LONG1 c7  LONG1 c5 
+LONG1 c1  LONG1 c1  LONG1 c7  LONG1 c7 
+ddd       ddd       LONG1 c5  LONG1 c5 
+ddd       ddd       LONG1 c5  e        
+ddd       ddd       e         LONG1 c5 
+ddd       ddd       e         e        
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s27
+
+VCA       VCA       VCE       VCE      
+--------- --------- --------- ---------
+<group_begin>
+LONG1 c1  LONG1 c1  LONG1 c5  LONG1 c5 
+LONG1 c1  LONG1 c1  LONG1 c7  LONG1 c5 
+LONG1 c1  LONG1 c1  LONG1 c7  LONG1 c7 
+ddd       ddd       LONG1 c5  LONG1 c5 
+ddd       ddd       e         LONG1 c5 
+ddd       ddd       e         e        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s28
+
+VCE
+-----------
+<group_begin>
+d          
+dd         
+ddd        
+e          
+ee         
+eee        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s29
+
+VCC
+---------------------
+<group_begin>
+01 No dup            
+02 No dup            
+03 No dup            
+Duplicate allowed    
+Index col            
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s30
+
+Y
+---------------------
+Index col            
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s31
+
+Y
+--------
+<group_begin>
+       4
+       5
+       7
+       8
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s32
+
+(EXPR)   VCC                  
+-------- ---------------------
+<group_begin>
+       2 Duplicate allowed    
+       5 Duplicate allowed    
+       8 Index col            
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s33
+
+NINTB  (EXPR)           
+------ -----------------
+<group_begin>
+     1 01 No dup...A    
+     4 03 No dup...A    
+     7 02 No dup...A    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s34
+
+(EXPR)   VCC                  
+-------- ---------------------
+<group_begin>
+       1 01 No dup...A        
+       2 Duplicate allowed    
+       4 03 No dup...A        
+       5 Duplicate allowed    
+       7 02 No dup...A        
+       8 Index col            
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s35
+
+(EXPR)               Z                    
+-------------------- ---------------------
+                   7 Duplicate allowed    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s36
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s37
+
+(EXPR)
+---------
+Dup Key 1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s38
+
+(EXPR)
+---------------------------------
+LONG1 c4...ee...LONG1 c1         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s39
+
+(EXPR)
+--------------------
+<group_begin>
+                   1
+                   1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s40
+
+(EXPR)
+--------------------
+<group_begin>
+                   1
+                   1
+                   1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s41
+
+(EXPR)        (EXPR)               (EXPR)   
+------------- -------------------- ---------
+<group_begin>
+LONG1 c1...C                     1 LONG1 c4 
+ddd...C                          1 d        
+NULL                             1 LONG1 c4 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s42
+
+(EXPR)               (EXPR)    (EXPR)     
+-------------------- --------- -----------
+<group_begin>
+                   1 LONG1 c2            1
+                   1 LONG1 c2            1
+                   1 ee                  1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s43
+
+(EXPR)                (EXPR)               (EXPR)   
+--------------------- -------------------- ---------
+<group_begin>
+LONG1 c1...LONG1 c2                      1 02 No dup
+LONG1 c1...LONG1 c2                      1 03 No dup
+ddd...ee                                 1 Dup Key 1
+ddd...ee                                 1 Dup Key 1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s44
+
+PKVCA         NINTB 
+------------- ------
+<group_begin>
+01 No dup          1
+03 No dup          4
+02 No dup          7
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s45
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s46
+
+PKVCA         NINTB  VCC                   (EXPR)
+------------- ------ --------------------- ------
+<group_begin>
+01 No dup          1 Duplicate allowed     d     
+02 No dup          7 Index col             ddd   
+03 No dup          4 Duplicate allowed     dd    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s47
+
+VCA       (EXPR)               (EXPR)    (EXPR)              
+--------- -------------------- --------- --------------------
+<group_begin>
+LONG1 c1                    11 LONG1 c2                     2
+ddd                          5 ee                           2
+NULL                         1 LONG1 c2                     1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s48
+
+XA            YB     (EXPR)              
+------------- ------ --------------------
+<group_begin>
+01 No dup          1                    1
+01 No dup          4                    1
+01 No dup          7                    1
+02 No dup          1                    1
+02 No dup          4                    1
+02 No dup          7                    1
+03 No dup          1                    1
+03 No dup          4                    1
+03 No dup          7                    1
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s49
+
+PKVCA         (EXPR)                (EXPR)           
+------------- --------------------- -----------------
+<group_begin>
+01 No dup     Duplicate allowed     d...MAX          
+02 No dup     Index col             ddd...MAX        
+03 No dup     Duplicate allowed     dd...MAX         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

@@ -1,0 +1,39 @@
+<section_begin>  a007bs0
+
+IVYR  IVMT IVDY IVHR IVMN IVSC      
+----- ---- ---- ---- ---- ----------
+<group_begin>
+2000  10    2   15   60   12.000000 
+9999  31   24   -23  -59  -59.000000
+   0   0    0    0    0    0.000000 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a007bs1
+
+IVSC       (EXPR)     
+---------- -----------
+<group_begin>
+12.000000    0.240000 
+-59.000000  -1.180000 
+ 0.000000    0.000000 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a007bs3
+
+IVYR  IVMT IVDY IVHR IVMN IVSC      
+----- ---- ---- ---- ---- ----------
+<group_begin>
+2000   5    0    1   42    1.200000 
+9999  15    4   -2   -41  -5.900000 
+   0   0    0    0    0    0.000000 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

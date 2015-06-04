@@ -1,0 +1,158 @@
+<section_begin>  a07s1
+
+ORDERS      DT00       TI00     TS00                   USR0         
+----------- ---------- -------- ---------------------- -------------
+<group_begin>
+          1 NULL       11:11:11 NULL                   leo          
+          2 2001-01-02 12:34:56 2001-01-02 12:34:56.00 leo          
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+ORDERS      DT00       TI00     TS00                   USR0          S12_2            YR4   MO00
+----------- ---------- -------- ---------------------- ------------- ---------------- ----- ----
+<group_begin>
+          1 NULL       11:11:11 NULL                   leo           NULL             NULL   0  
+          2 2001-01-02 12:34:56 2001-01-02 12:34:56.00 leo           NULL             NULL   0  
+          3 2005-01-01 11:11:11 NULL                   leo           NULL             NULL   0  
+          4 NULL       11:11:11 NULL                   leo                    -10.00  NULL   0  
+          5 2005-01-01 15:00:00 2005-01-01 15:00:00.00 HPQ.DBAdmin              5.50  1005   0  
+          6 2006-01-01 16:00:00 2006-01-01 16:00:00.00 HPQ.TEG               6000.55  1006   0  
+          7 NULL       17:00:00 NULL                   leo                   7000.55  NULL   0  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+ORDERS      DT00       TI00     TS00                   USR0          S12_2            YR4   MO00 VCHAR8  
+----------- ---------- -------- ---------------------- ------------- ---------------- ----- ---- --------
+<group_begin>
+          1 NULL       11:11:11 NULL                   leo           NULL             NULL   0   column_8
+          2 2001-01-02 12:34:56 2001-01-02 12:34:56.00 leo           NULL             NULL   0   column_8
+          3 2005-01-01 11:11:11 NULL                   leo           NULL             NULL   0   column_8
+          4 NULL       11:11:11 NULL                   leo                    -10.00  NULL   0   column_8
+          5 2005-01-01 15:00:00 2005-01-01 15:00:00.00 HPQ.DBAdmin              5.50  1005   0   column_8
+          6 2006-01-01 16:00:00 2006-01-01 16:00:00.00 HPQ.TEG               6000.55  1006   0   column_8
+          7 NULL       17:00:00 NULL                   leo                   7000.55  NULL   0   column_8
+          8 NULL       11:11:11 NULL                   leo                      7.20  1717   0   column_8
+          9 2006-09-09 19:00:00 2009-01-01 19:00:00.00 QADEV.SQLQA           9000.55  1009  29   column_8
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+ORDERS      DT00       TI00     TS00                   USR0          S12_2            YR4   MO00 VCHAR8  
+----------- ---------- -------- ---------------------- ------------- ---------------- ----- ---- --------
+<group_begin>
+          1 NULL       11:11:11 NULL                   leo           NULL             NULL   0   column_8
+          2 2001-01-02 12:34:56 2001-01-02 12:34:56.00 leo           NULL             NULL   0   column_8
+          3 2005-01-01 11:11:11 NULL                   leo           NULL             NULL   0   column_8
+          4 NULL       11:11:11 NULL                   leo                    -10.00  NULL   0   column_8
+          5 2005-01-01 15:00:00 2005-01-01 15:00:00.00 HPQ.DBAdmin              5.50  1005   0   column_8
+          6 2006-01-01 16:00:00 2006-01-01 16:00:00.00 HPQ.TEG               6000.55  1006   0   column_8
+          7 NULL       17:00:00 NULL                   leo                   7000.55  NULL   0   column_8
+          8 NULL       11:11:11 NULL                   leo                      7.20  1717   0   column_8
+          9 2006-09-09 19:00:00 2009-01-01 19:00:00.00 QADEV.SQLQA           9000.55  1009  29   column_8
+         10 NULL       11:11:11 NULL                   leo           NULL             NULL  10   column_8
+         11 2006-10-10 10:10:00 2009-10-10 10:10:10.00 QADEV.TSANG             10.10    10  -2   row_11  
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+ORDERS      DT00       TI00     TS00                   USR0          S12_2            YR4   MO00 VCHAR8   DAY18              
+----------- ---------- -------- ---------------------- ------------- ---------------- ----- ---- -------- -------------------
+<group_begin>
+          1 NULL       11:11:11 NULL                   leo           NULL             NULL   0   column_8 NULL               
+          2 2001-01-02 12:34:56 2001-01-02 12:34:56.00 leo           NULL             NULL   0   column_8 NULL               
+          3 2005-01-01 11:11:11 NULL                   leo           NULL             NULL   0   column_8 NULL               
+          4 NULL       11:11:11 NULL                   leo                    -10.00  NULL   0   column_8 NULL               
+          5 2005-01-01 15:00:00 2005-01-01 15:00:00.00 HPQ.DBAdmin              5.50  1005   0   column_8 NULL               
+          6 2006-01-01 16:00:00 2006-01-01 16:00:00.00 HPQ.TEG               6000.55  1006   0   column_8 NULL               
+          7 NULL       17:00:00 NULL                   leo                   7000.55  NULL   0   column_8 NULL               
+          8 NULL       11:11:11 NULL                   leo                      7.20  1717   0   column_8 NULL               
+          9 2006-09-09 19:00:00 2009-01-01 19:00:00.00 QADEV.SQLQA           9000.55  1009  29   column_8 NULL               
+         10 NULL       11:11:11 NULL                   leo           NULL             NULL  10   column_8 NULL               
+         11 2006-10-10 10:10:00 2009-10-10 10:10:10.00 QADEV.TSANG             10.10    10  -2   row_11   NULL               
+         12 1996-01-31 11:11:11 1996-01-31 12:12:12.00 leo                   1212.12  NULL  12   column_8 NULL               
+         13 2006-10-13 13:13:03 2003-10-13 13:10:10.00 DBA                     13.13    13   2   row_13                   13 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a07s8
+
+ORDERS      DT00       TI00     TS00                   USR0          S12_2            YR4   MO00 VCHAR8   DAY18               MO_MO D07_S5                  H08_S0          M10_S                 Y11_M           S5F1     H02_S6                VCHAR3
+----------- ---------- -------- ---------------------- ------------- ---------------- ----- ---- -------- ------------------- ----- ----------------------- --------------- --------------------- --------------- -------- --------------------- ------
+<group_begin>
+          1 NULL       11:11:11 NULL                   leo           NULL             NULL   0   column_8 NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+          2 2001-01-02 12:34:56 2001-01-02 12:34:56.00 leo           NULL             NULL   0   column_8 NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+          3 2005-01-01 11:11:11 NULL                   leo           NULL             NULL   0   column_8 NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+          4 NULL       11:11:11 NULL                   leo                    -10.00  NULL   0   column_8 NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+          5 2005-01-01 15:00:00 2005-01-01 15:00:00.00 HPQ.DBAdmin              5.50  1005   0   column_8 NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+          6 2006-01-01 16:00:00 2006-01-01 16:00:00.00 HPQ.TEG               6000.55  1006   0   column_8 NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+          7 NULL       17:00:00 NULL                   leo                   7000.55  NULL   0   column_8 NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+          8 NULL       11:11:11 NULL                   leo                      7.20  1717   0   column_8 NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+          9 2006-09-09 19:00:00 2009-01-01 19:00:00.00 QADEV.SQLQA           9000.55  1009  29   column_8 NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+         10 NULL       11:11:11 NULL                   leo           NULL             NULL  10   column_8 NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+         11 2006-10-10 10:10:00 2009-10-10 10:10:10.00 QADEV.TSANG             10.10    10  -2   row_11   NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+         12 1996-01-31 11:11:11 1996-01-31 12:12:12.00 leo                   1212.12  NULL  12   column_8 NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+         13 2006-10-13 13:13:03 2003-10-13 13:10:10.00 DBA                     13.13    13   2   row_13                   13  11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+         14 NULL       14:14:00 NULL                   leo                     14.14  NULL  14   row_14   NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+         15 NULL       11:11:11 NULL                   leo                     15.15  NULL  15   column_8 NULL                11          7 07:07:07.12345  NULL            NULL                  NULL                5.1  NULL                  NULL  
+         16 NULL       11:11:11 NULL                   leo                     16.16  NULL  16   column_8 NULL                11    NULL                    NULL                    16:16.123456         1616-06  NULL     NULL                  R16   
+         17 1991-07-31 17:30:30 1991-07-31 17:30:30.00                         17.17    17  17   row_17               170000  17    1700000 17:17:17.12345        17:17:17  1700000000:17.123456      1700000-11  17000.7        1037:17.123456  R17   
+         20 NULL       11:11:11 NULL                   leo           NULL             NULL   0   column_8 NULL                11    NULL                    NULL            NULL                         1414-01  NULL     NULL                  NULL  
+         21 NULL       11:11:11 NULL                   leo                   2121.21  NULL   0   R21      NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL                  NULL  
+         22 NULL       11:11:11 NULL                   leo           NULL             NULL   0   R22      NULL                11    NULL                    NULL            NULL                  NULL            55555.5  NULL                  NULL  
+         23 NULL       11:11:11 NULL                   leo           NULL             NULL   0   column_8 NULL                11    NULL                    NULL            NULL                  NULL            23232.3        1403:23.123456  NULL  
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a07s9
+
+ORDERS      S12_2            MO_MO H08_S0          VCHAR8  
+----------- ---------------- ----- --------------- --------
+<group_begin>
+          5            5.50  11    NULL            column_8
+          6         6000.55  11    NULL            column_8
+          7         7000.55  11    NULL            column_8
+          8            7.20  11    NULL            column_8
+          9         9000.55  11    NULL            column_8
+         10 NULL             11    NULL            column_8
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s10
+
+ORDERS      Y11_M           H02_S6                VCHAR3
+----------- --------------- --------------------- ------
+<group_begin>
+         13 NULL            NULL                  NULL  
+         14 NULL            NULL                  NULL  
+         15 NULL            NULL                  NULL  
+         16        1616-06  NULL                  R16   
+         17     1700000-11        1037:17.123456  R17   
+         20        1414-01  NULL                  NULL  
+         21 NULL            NULL                  NULL  
+         22 NULL            NULL                  NULL  
+         23 NULL                  1403:23.123456  NULL  
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>

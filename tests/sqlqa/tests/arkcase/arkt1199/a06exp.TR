@@ -1,0 +1,308 @@
+<section_begin>  a06s0
+
+SBIN0_4     SDEC5_10    SDEC6_4 VARCHAR0_UNIQ
+----------- ----------- ------- -------------
+<group_begin>
+         -2          -6       0 CCAAFAAC     
+         -2          -2      -1 AIAALAAA     
+         -1           0      -2 AEAAJAAB     
+          0          -3      -2 CJAAAAAC     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+SDEC9_UNIQ           SDEC0_100   SDEC1_20
+-------------------- ----------- --------
+<group_begin>
+                -201         -81       -2
+                -200         -44       -6
+                -101         -52      -12
+                -100         -89       -5
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+SDEC9_UNIQ           SDEC0_100   SDEC1_20
+-------------------- ----------- --------
+<group_begin>
+                -201         -81       -2
+                -200         -44       -6
+                -101         -52      -12
+                -100         -89       -5
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+SBIN0_4     SDEC5_10    SDEC6_4 VARCHAR0_UNIQ
+----------- ----------- ------- -------------
+<group_begin>
+          0          -3      -2 CJAAAAAC     
+         -1           0      -2 AEAAJAAB     
+         -2          -6       0 CCAAFAAC     
+         -2          -2      -1 AIAALAAA     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+SBIN0_4     VARCHAR0_UNIQ SDEC0_100  
+----------- ------------- -----------
+<group_begin>
+         -2 AIAALAAA              -89
+         -2 CCAAFAAC              -52
+         -1 AEAAJAAB              -44
+          0 CJAAAAAC              -81
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+SDEC1_20 UDEC1_NUNIQ
+-------- -----------
+<group_begin>
+     -12        2086
+      -6          60
+      -5         812
+      -2        1973
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+CHAR2_2 SBIN2_NUNIQ          SDEC2_500  
+------- -------------------- -----------
+<group_begin>
+AA                     -3766        -266
+AA                      -772        -272
+AA                      -702        -202
+BA                     -2065         -65
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+UDEC3_N100  UBIN3_N2000 CHAR3_4 
+----------- ----------- --------
+<group_begin>
+         44         344 AAAAAAAA
+         52        1552 AAAAAAAA
+         81          81 BAAAAAAA
+         89         389 BAAAAAAA
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+SDEC4_N20 SBIN4_N1000 CHAR4_N10
+--------- ----------- ---------
+<group_begin>
+      -18        -678 NULL     
+      -14        -594 NULL     
+       -9        -509 NULL     
+       -4        -724 NULL     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+CHAR5_N20 SDEC5_10    UBIN5_N500 
+--------- ----------- -----------
+<group_begin>
+AAAAAAAA            0          60
+ACAAAAAA           -2         312
+BDAAAAAA           -3         473
+CBAAAAAA           -6          86
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+SBIN6_NUNIQ          SDEC6_4 CHAR6_N100
+-------------------- ------- ----------
+<group_begin>
+               -3766      -2 CQAAAAAA  
+               -2065      -1 BPAAAAAA  
+                -772       0 AWAAAAAA  
+                -702      -2 CCAAAAAA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s11
+
+SBIN7_N20 CHAR7_500 UDEC7_N10
+--------- --------- ---------
+<group_begin>
+      -12 DAAAGAAA       NULL
+       -9 CFAAEAAA       NULL
+       -4 EAAAGAAA       NULL
+       -1 ABAAEAAA       NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s12
+
+UBIN8_10 CHAR8_N1000 SDEC8_4    
+-------- ----------- -----------
+<group_begin>
+       4 FKAAIAAA              2
+       4 GFAAFAAA              0
+       8 DEAAMAAA              2
+       9 DBAAAAAA              1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s13
+
+SDEC9_UNIQ           CHAR9_100
+-------------------- ---------
+<group_begin>
+                -201 BX       
+                -200 AK       
+                -101 CL       
+                -100 AM       
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s14
+
+CHAR10_NUNIQ UDEC10_UNIQ
+------------ -----------
+<group_begin>
+AEAAJAAB            3766
+AIAALAAA            2065
+CCAAFAAC             772
+CJAAAAAC             702
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s15
+
+UDEC11_2000 SBIN11_100  CHAR11_UNIQ
+----------- ----------- -----------
+<group_begin>
+         81         -81 AAAAMAAB   
+        344         -44 EKAACAAE   
+        389         -89 CCAAKAAE   
+       1552         -52 DKAADAAC   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s16
+
+UBIN12_2 SDEC12_N1000         CHAR12_N2000
+-------- -------------------- ------------
+<group_begin>
+       0                 -724 GFAAFAAA    
+       0                 -678 DEAAMAAA    
+       0                 -594 FKAAIAAA    
+       1                 -509 DBAAAAAB    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s17
+
+UDEC13_500  CHAR13_1000
+----------- -----------
+<group_begin>
+         60 EFAAIAAA   
+         86 AHAAGAAA   
+        312 AJAAGAAA   
+        473 GEAAKAAA   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s18
+
+SBIN14_1000 UDEC14_100 CHAR14_N500
+----------- ---------- -----------
+<group_begin>
+       -772         72 CEAAHAAA   
+       -766         66 AGAAEAAA   
+       -702          2 CGAAAAAA   
+        -65         65 ABAAEAAA   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s19
+
+SBINNEG15_NUNIQ      SDECNEG15_100 CHAR15_100
+-------------------- ------------- ----------
+<group_begin>
+               -4344           -44 ATAAAAA   
+               -4081           -81 BGAAAAAA  
+               -3552           -52 ACAAAAAA  
+               -2389           -89 BOAAAAA   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s20
+
+UBIN16_N10 SDEC16_UNIQ          CHAR16_N20
+---------- -------------------- ----------
+<group_begin>
+      NULL                -4724 AEAA      
+      NULL                -3678 AB        
+      NULL                -2509 BE        
+      NULL                -1594 AA        
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s21
+
+SBIN17_UNIQ          SDEC17_NUNIQ         CHAR17_2
+-------------------- -------------------- --------
+<group_begin>
+              -76757                -1973 BAAA    
+              -49700                -2086 AAAAAA  
+              -37055                  -60 AAAA    
+              -15935                 -812 AAAAAAA 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

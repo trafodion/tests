@@ -1,0 +1,176 @@
+<section_begin>  a09s0
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+SUPPNUM SUPPNUM
+------- -------
+<group_begin>
+      1    NULL
+      2    NULL
+      3       3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a09s4
+
+SUPPNUM SUPPNUM
+------- -------
+<group_begin>
+      3      10
+      3      15
+      6      10
+      6      15
+      8      10
+      8      15
+     10      15
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a09s5
+
+SUPPNUM SUPPNUM
+------- -------
+<group_begin>
+      3      10
+      3      15
+      6      10
+      6      15
+      8      10
+      8      15
+     10      15
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a09s6
+
+SUPPNUM SUPPNUM SUPPNUM
+------- ------- -------
+<group_begin>
+      1       3      10
+      1       3      15
+      1       6      10
+      1       6      15
+      1       8      10
+      1       8      15
+      1      10      15
+      2       3      10
+      2       3      15
+      2       6      10
+      2       6      15
+      2       8      10
+      2       8      15
+      2      10      15
+      3       6      10
+      3       6      15
+      3       8      10
+      3       8      15
+      3      10      15
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a09s7
+
+SUPPNUM SUPPNUM SUPPNUM
+------- ------- -------
+<group_begin>
+      1       3      10
+      1       3      15
+      1       6      10
+      1       6      15
+      1       8      10
+      1       8      15
+      1      10      15
+      2       3      10
+      2       3      15
+      2       6      10
+      2       6      15
+      2       8      10
+      2       8      15
+      2      10      15
+      3       6      10
+      3       6      15
+      3       8      10
+      3       8      15
+      3      10      15
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a09s8
+
+SUPPNUM SUPPNUM SUPPNUM
+------- ------- -------
+<group_begin>
+      1       3      10
+      1       3      15
+      1       6      10
+      1       6      15
+      1       8      10
+      1       8      15
+      1      10      10
+      1      10      15
+      2       3      10
+      2       3      15
+      2       6      10
+      2       6      15
+      2       8      10
+      2       8      15
+      2      10      10
+      2      10      15
+      3       6      10
+      3       6      15
+      3       8      10
+      3       8      15
+      3      10      10
+      3      10      15
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>

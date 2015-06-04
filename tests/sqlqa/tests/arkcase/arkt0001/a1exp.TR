@@ -1,0 +1,38 @@
+<section_begin>  a1s1
+
+PIC_COMP_2 DATA_93
+---------- -------
+     -0.25     442
+      0.12     441
+      0.13     443
+      0.14     444
+      0.15     445
+      0.16     446
+      0.17     447
+      0.18     448
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a1s2
+
+B    (EXPR) (EXPR)
+---- ------ ------
+   2      2      2
+   4      4      4
+   6      6      6
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a1s3
+
+B    (EXPR) (EXPR)
+---- ------ ------
+   2      2      2
+   4      4      4
+   6      6      6
+
+--- 3 row(s) selected.
+
+<section_end>

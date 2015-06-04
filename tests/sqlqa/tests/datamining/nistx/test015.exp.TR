@@ -1,0 +1,28 @@
+<section_begin>  s1
+
+EMPNAME              GRADE 
+-------------------- ------
+<group_begin>
+Alice                    12
+Carmen                   13
+Don                      12
+Ed                       13
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+EMPNAME              GRADE 
+-------------------- ------
+<group_begin>
+Alice                    12
+Carmen                   13
+Don                      12
+Ed                       13
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

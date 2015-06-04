@@ -1,0 +1,81 @@
+<section_begin>  a05s0
+
+(EXPR)
+------
+99-11 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+(EXPR)
+---------
+ 1 02:03 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+(EXPR)
+---------
+  1 02:03
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+(EXPR)
+----------
+ 1 02:03  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+(EXPR)
+------
+1190  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+BINARY_32_U FLOAT_REAL     
+----------- ---------------
+      80.00          1.0E-4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+(EXPR)
+------
+80    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+(EXPR)
+--------
+1990-01 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+CHAR_1 VAR_CHAR_3
+------ ----------
+C      rum       
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,120 @@
+<section_begin>  a11s0
+
+EMPNAME            EMPNUM
+------------------ ------
+<group_begin>
+ALAN TERRY            343
+BILL WINN             321
+DAVE CLARK            337
+JACK RAYMOND           29
+JERRY HOWARD           23
+ROGER GREEN             1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s1
+
+EMPNAME            EMPNUM
+------------------ ------
+<group_begin>
+ALAN TERRY            343
+BILL WINN             321
+DAVE CLARK            337
+JACK RAYMOND           29
+JERRY HOWARD           23
+ROGER GREEN             1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s2
+
+EMPNAME            EMPNUM
+------------------ ------
+<group_begin>
+JACK RAYMOND           29
+JERRY HOWARD           23
+ROGER GREEN             1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+EMPNAME            EMPNUM
+------------------ ------
+<group_begin>
+ALAN TERRY            343
+BILL WINN             321
+DAVE CLARK            337
+JACK RAYMOND           29
+JERRY HOWARD           23
+ROGER GREEN             1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s4
+
+EMPNAME            EMPNUM
+------------------ ------
+<group_begin>
+JACK RAYMOND           29
+JERRY HOWARD           23
+ROGER GREEN             1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+EMPNAME            EMPNUM
+------------------ ------
+<group_begin>
+DAVID STRAND          104
+DONALD TAYLOR          93
+ERIC BROWN             87
+GLENN THOMAS           72
+JIM HERMAN            201
+LINDA JONES           178
+MANFRED CONRAD        180
+PETER SMITH            89
+SHERRIE WONG          111
+STEVE COOK            109
+SUSAN HENDERSON        65
+TIM WALKER             75
+TONY CRAFT            129
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a11s6
+
+EMPNAME            EMPNUM
+------------------ ------
+<group_begin>
+DAVID STRAND          104
+DONALD TAYLOR          93
+ERIC BROWN             87
+GLENN THOMAS           72
+JIM HERMAN            201
+LINDA JONES           178
+MANFRED CONRAD        180
+PETER SMITH            89
+SHERRIE WONG          111
+STEVE COOK            109
+SUSAN HENDERSON        65
+TIM WALKER             75
+TONY CRAFT            129
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>

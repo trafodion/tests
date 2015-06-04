@@ -1,0 +1,36 @@
+<section_begin>  b01s0
+
+PNUM    PNAME           BIRTHDAY   AGE    VACATION
+------- --------------- ---------- ------ --------
+<group_begin>
+      1 frank           1952-04-19  5-05   41     
+      1 frank           1952-04-19  5-05   41     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b01s1
+
+PNUM    PNAME           BIRTHDAY   AGE    VACATION
+------- --------------- ---------- ------ --------
+<group_begin>
+      1 frank           1952-04-19  5-05   41     
+      1 frank           1952-04-19  5-05   41     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b01s2
+
+PNUM    PNAME           BIRTHDAY   AGE    VACATION
+------- --------------- ---------- ------ --------
+<group_begin>
+      1 frank           1952-04-19  5-05   41     
+      1 frank           1952-04-19  5-05   41     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

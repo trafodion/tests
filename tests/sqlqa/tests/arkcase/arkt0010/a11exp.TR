@@ -1,0 +1,16 @@
+<section_begin>  a11s0
+
+MEDIUM_INT AGGR_EXP            
+---------- --------------------
+<group_begin>
+      5000                 1666
+      8000                 2500
+      8000                 8333
+      9000                30000
+     10000                   20
+     10000                  200
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

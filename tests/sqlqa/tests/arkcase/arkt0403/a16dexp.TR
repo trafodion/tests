@@ -1,0 +1,200 @@
+<section_begin>  a16ds0
+
+A        B       
+-------- --------
+<group_begin>
+20:00:00 10:00:00
+20:00:00 20:00:00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds1
+
+A        B       
+-------- --------
+<group_begin>
+20:00:00 10:00:00
+20:00:00 20:00:00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds2
+
+A      B   
+------ ----
+31 20  50  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds3
+
+A        B       
+-------- --------
+<group_begin>
+10:00:00 20:00:00
+20:00:00 10:00:00
+20:00:00 20:00:00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds4
+
+A           B       
+----------- --------
+<group_begin>
+          0 20:00:00
+          1 10:00:00
+          1 20:00:00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds5
+
+A      B   
+------ ----
+31 20  50  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds6
+
+A        B       
+-------- --------
+<group_begin>
+10:00:00 10:00:00
+10:00:00 20:00:00
+20:00:00 10:00:00
+20:00:00 20:00:00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds7
+
+A           B       
+----------- --------
+<group_begin>
+          0 10:00:00
+          0 20:00:00
+          1 10:00:00
+          1 20:00:00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds8
+
+A      B   
+------ ----
+<group_begin>
+31 10  30  
+31 20  50  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds9
+
+A        B       
+-------- --------
+<group_begin>
+10:00:00 20:00:00
+20:00:00 10:00:00
+20:00:00 20:00:00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds10
+
+A           B       
+----------- --------
+<group_begin>
+          0 20:00:00
+          1 10:00:00
+          1 20:00:00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds11
+
+A      B   
+------ ----
+31 20  50  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds12
+
+A        B          
+-------- -----------
+<group_begin>
+00:00:00           0
+10:00:00          10
+15:00:00          -1
+16:00:00          -1
+20:00:00          -1
+23:00:00          -1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds13
+
+A        B          
+-------- -----------
+<group_begin>
+00:00:00           0
+10:00:00          10
+15:00:00          -1
+16:00:00          -1
+20:00:00          -1
+23:00:00          -1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds14
+
+A        B          
+-------- -----------
+<group_begin>
+00:00:00           0
+10:00:00          10
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a16ds15
+
+A        B          
+-------- -----------
+<group_begin>
+00:00:00           0
+10:00:00          10
+15:00:00           0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

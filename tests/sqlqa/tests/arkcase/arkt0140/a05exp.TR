@@ -1,0 +1,12 @@
+<section_begin>  a05s0
+
+Y    Y_TO_MO MO   D    D_TO_H D_TO_MI   D_TO_S              H_TO_MI
+---- ------- ---- ---- ------ --------- ------------------- -------
+<group_begin>
+NULL NULL    NULL 23   22 13  23 12:55  25 14:55:55.000000  12:15  
+55    0-11   10   23   22 13   0 00:23   0 00:00:45.000000   0:30  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

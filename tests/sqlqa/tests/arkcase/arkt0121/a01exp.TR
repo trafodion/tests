@@ -1,0 +1,186 @@
+<section_begin>  a01s0
+
+BINARY_SIGNED SMALL_INT DATA_93
+------------- --------- -------
+<group_begin>
+         2001      6001     403
+         2002      6002     404
+         2003      6003     405
+         2004      6004     406
+         2005      6005     407
+         2006      6006     408
+         8000      2000     402
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+PIC_X_A PIC_X_B PIC_X_C
+------- ------- -------
+<group_begin>
+al      E       bo     
+ al     F       al     
+ al     F       di     
+al      F       al     
+P       P       P      
+al      Q       al     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+<group_begin>
+	_      junk    j       \%            0       0       0
+	s      t_go    j       to%go         0       0       0
+%t_     junk    j       %_            0       0       0
+_t%     junk    j       _%            0       0       0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+DATA_X3 (EXPR)              
+------- --------------------
+<group_begin>
+gun                      600
+nun                      700
+pun                      800
+run                      300
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+PIC_X_A (EXPR)              
+------- --------------------
+<group_begin>
+box                       44
+can                        7
+deb                       24
+joe                       17
+not                       27
+red                       60
+sue                       13
+why                       22
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+<group_begin>
+box     here    R       debby         5      11      50
+can     come    X       TED           7      77      77
+deb     bill    Y       BILL          4      10      30
+joe     over    W       maria         7      90     100
+not     time    P       diane         7      20      40
+red     long    S       tommy         5      15      70
+sue     mary    Z       MARY          3      10      20
+why     gone    R       billy         7      15      30
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+PIC_X_A (EXPR)              
+------- --------------------
+<group_begin>
+box                       44
+can                        7
+deb                       24
+joe                       17
+not                       27
+red                       60
+sue                       13
+why                       22
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+PIC_X_A (EXPR)              
+------- --------------------
+<group_begin>
+why                       22
+sue                       13
+red                       60
+not                       27
+joe                       17
+deb                       24
+can                        7
+box                       44
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+PIC_X_A (EXPR)              
+------- --------------------
+<group_begin>
+box                       44
+can                        7
+deb                       24
+joe                       17
+not                       27
+red                       60
+sue                       13
+why                       22
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+DATA_X3 (EXPR)
+------- ------
+<group_begin>
+nun        700
+pun        800
+sun        400
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+DATA_X3 (EXPR)
+------- ------
+<group_begin>
+nun        700
+pun        800
+sun        400
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+PIC_X_A
+-------
+joe    
+
+--- 1 row(s) selected.
+
+<section_end>

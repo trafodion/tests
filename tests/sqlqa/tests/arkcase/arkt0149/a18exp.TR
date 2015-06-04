@@ -1,0 +1,531 @@
+<section_begin>  a18s0
+
+C1   C2        
+---- ----------
+<group_begin>
+   1 0001-01-01
+   2 NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a18s1
+
+C1   C2        
+---- ----------
+<group_begin>
+   1 0001-01-01
+   2 NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a18s2
+
+C1   C2   C3         C4        
+---- ---- ---------- ----------
+<group_begin>
+   1    1 1910-10-10 NULL      
+   2 NULL NULL       NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a18s3
+
+C1   C2   (EXPR)     C4        
+---- ---- ---------- ----------
+<group_begin>
+   1    1 1910-10-10 NULL      
+   2 NULL NULL       NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a18s4
+
+C1   C2   (EXPR)               C4        
+---- ---- -------------------- ----------
+<group_begin>
+   1    1   208997668800000000 NULL      
+   2 NULL                 NULL NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a18s5
+
+C1   C2   (EXPR) C4        
+---- ---- ------ ----------
+<group_begin>
+   1    1      2 NULL      
+   2 NULL   NULL NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a18s6
+
+C1   C2   (EXPR)                     C4        
+---- ---- -------------------------- ----------
+<group_begin>
+   1    1 1910-10-10 00:00:00.000000 NULL      
+   2 NULL NULL                       NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a18s7
+
+C1   C2   C3         (EXPR)     (EXPR)               (EXPR) (EXPR)                    
+---- ---- ---------- ---------- -------------------- ------ --------------------------
+<group_begin>
+   1    1 1910-10-10 NULL                       NULL   NULL NULL                      
+   2 NULL NULL       NULL                       NULL   NULL NULL                      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a18s8
+
+C1   C2   (EXPR)     (EXPR)               (EXPR) C4        
+---- ---- ---------- -------------------- ------ ----------
+<group_begin>
+   1    1 1910-10-10   208997668800000000      2 NULL      
+   2 NULL NULL                       NULL   NULL NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a18s9
+
+ALWAYSNULL CHAR_1 VAR_CHAR_3 PIC_COMP_3 BINARY_32_U ORDERING
+---------- ------ ---------- ---------- ----------- --------
+<group_begin>
+      NULL a      AbC           1.00000        NULL        1
+      NULL NULL   zz            2.00000        NULL        2
+      NULL NULL   zy            2.00000        NULL        3
+      NULL C      rum         100.70000       80.00        4
+      NULL NULL   NULL             NULL        NULL        5
+      NULL NULL   NULL             NULL        NULL        6
+      NULL NULL   NULL             NULL        NULL        7
+      NULL NULL   NULL             NULL        NULL        8
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s10
+
+SMALL_INT VAR_CHAR                                                                                                                         CHAR_10    BINARY_32_U DECIMAL_2_SIGNED DECIMAL_3_UNSIGNED
+--------- -------------------------------------------------------------------------------------------------------------------------------- ---------- ----------- ---------------- ------------------
+<group_begin>
+       90 thomas                                                                                                                           michelle         90.00             0.93                140
+       10 B                                                                                                                                steven           50.00             0.50                 90
+     1000 B                                                                                                                                bobby            60.00             0.60                100
+       80 jimmy                                                                                                                            melissa          80.00             0.80                120
+     2000 christopher                                                                                                                      monica           90.00             0.90                 80
+     9000 marilyn                                                                                                                          maureen          80.00             0.97                150
+     8000 thomas                                                                                                                           marcia           40.00             0.99                110
+       90 thomas                                                                                                                           steven           70.00             0.70                110
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s11
+
+ALWAYSNULL SMALL_INT
+---------- ---------
+<group_begin>
+      NULL      NULL
+      NULL      NULL
+      NULL      NULL
+      NULL      NULL
+      NULL      NULL
+      NULL      NULL
+      NULL      NULL
+      NULL      NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s12
+
+CHAR_1 VAR_CHAR                                                                                                                        
+------ --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+C      NULL                                                                                                                            
+a      NULL                                                                                                                            
+NULL   NULL                                                                                                                            
+NULL   NULL                                                                                                                            
+NULL   NULL                                                                                                                            
+NULL   NULL                                                                                                                            
+NULL   NULL                                                                                                                            
+NULL   NULL                                                                                                                            
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s13
+
+CHAR_1 VAR_CHAR                                                                                                                        
+------ --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+C      NULL                                                                                                                            
+a      NULL                                                                                                                            
+NULL   NULL                                                                                                                            
+NULL   NULL                                                                                                                            
+NULL   NULL                                                                                                                            
+NULL   NULL                                                                                                                            
+NULL   NULL                                                                                                                            
+NULL   NULL                                                                                                                            
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s14
+
+VAR_CHAR_3 CHAR_10   
+---------- ----------
+<group_begin>
+AbC        NULL      
+rum        NULL      
+zy         NULL      
+zz         NULL      
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s15
+
+PIC_COMP_3 BINARY_32_U
+---------- -----------
+<group_begin>
+   1.00000        NULL
+   2.00000        NULL
+   2.00000        NULL
+ 100.70000        NULL
+      NULL        NULL
+      NULL        NULL
+      NULL        NULL
+      NULL        NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s16
+
+BINARY_32_U DECIMAL_3_UNSIGNED
+----------- ------------------
+<group_begin>
+      80.00                 80
+       NULL               NULL
+       NULL               NULL
+       NULL               NULL
+       NULL               NULL
+       NULL               NULL
+       NULL               NULL
+       NULL               NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s17
+
+ORDERING DECIMAL_2_SIGNED
+-------- ----------------
+<group_begin>
+       1             NULL
+       2             NULL
+       3             NULL
+       4             NULL
+       5             NULL
+       6             NULL
+       7             NULL
+       8             NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s18
+
+ORDERING
+--------
+<group_begin>
+       1
+       2
+       3
+       4
+       5
+       6
+       7
+       8
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s19
+
+ORDERING COL_VARCHAR
+-------- -----------
+<group_begin>
+       1 NULL       
+       2 NULL       
+       3 NULL       
+       4 NULL       
+       5 NULL       
+       6 NULL       
+       7 NULL       
+       8 NULL       
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s20
+
+Y_TO_D
+----------
+<group_begin>
+NULL      
+1975-01-01
+NULL      
+NULL      
+NULL      
+NULL      
+NULL      
+NULL      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s21
+
+Y_TO_D
+----------
+1975-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a18s22
+
+Y_TO_D     Y_TO_D    
+---------- ----------
+<group_begin>
+1975-01-01 1975-01-01
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s23
+
+Y_TO_D     Y_TO_D     (EXPR)     (EXPR)    
+---------- ---------- ---------- ----------
+<group_begin>
+1975-01-01 1975-01-01 1975-01-01 1975-01-01
+NULL       NULL       NULL       NULL      
+NULL       NULL       NULL       NULL      
+NULL       NULL       NULL       NULL      
+NULL       NULL       NULL       NULL      
+NULL       NULL       NULL       NULL      
+NULL       NULL       NULL       NULL      
+NULL       NULL       NULL       NULL      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s24
+
+Y_TO_D     Y_TO_D     (EXPR) (EXPR)
+---------- ---------- ------ ------
+<group_begin>
+1975-01-01 1975-01-01      4      4
+NULL       NULL         NULL   NULL
+NULL       NULL         NULL   NULL
+NULL       NULL         NULL   NULL
+NULL       NULL         NULL   NULL
+NULL       NULL         NULL   NULL
+NULL       NULL         NULL   NULL
+NULL       NULL         NULL   NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s25
+
+Y_TO_D     Y_TO_D     (EXPR)               (EXPR)              
+---------- ---------- -------------------- --------------------
+<group_begin>
+1975-01-01 1975-01-01   211024526400000000   211024526400000000
+NULL       NULL                       NULL                 NULL
+NULL       NULL                       NULL                 NULL
+NULL       NULL                       NULL                 NULL
+NULL       NULL                       NULL                 NULL
+NULL       NULL                       NULL                 NULL
+NULL       NULL                       NULL                 NULL
+NULL       NULL                       NULL                 NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s26
+
+H_TO_F
+------------
+<group_begin>
+15:00:00.000
+NULL        
+NULL        
+NULL        
+NULL        
+NULL        
+NULL        
+NULL        
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s27
+
+H_TO_F
+------------
+15:00:00.000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a18s28
+
+H_TO_F       H_TO_F       H_TO_F      
+------------ ------------ ------------
+<group_begin>
+15:00:00.000 15:00:00.000 NULL        
+NULL         NULL         NULL        
+NULL         NULL         NULL        
+NULL         NULL         NULL        
+NULL         NULL         NULL        
+NULL         NULL         NULL        
+NULL         NULL         NULL        
+NULL         NULL         NULL        
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s29
+
+IY_TO_MO
+--------
+<group_begin>
+NULL    
+1900-01 
+NULL    
+NULL    
+NULL    
+NULL    
+NULL    
+NULL    
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s30
+
+IH_TO_S
+----------------
+<group_begin>
+ 1:02:03.000000 
+NULL            
+NULL            
+NULL            
+NULL            
+NULL            
+NULL            
+NULL            
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s31
+
+IY_TO_MO
+--------
+<group_begin>
+NULL    
+1900-01 
+NULL    
+NULL    
+NULL    
+NULL    
+NULL    
+NULL    
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a18s32
+
+IY_TO_MO
+--------
+1900-01 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a18s33
+
+IY_TO_MO IH_TO_S          IY_TO_MO IH_TO_S         
+-------- ---------------- -------- ----------------
+<group_begin>
+1900-01   1:02:03.000000  1900-01   1:02:03.000000 
+NULL     NULL             NULL     NULL            
+NULL     NULL             NULL     NULL            
+NULL     NULL             NULL     NULL            
+NULL     NULL             NULL     NULL            
+NULL     NULL             NULL     NULL            
+NULL     NULL             NULL     NULL            
+NULL     NULL             NULL     NULL            
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

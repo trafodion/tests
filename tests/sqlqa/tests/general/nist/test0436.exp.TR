@@ -1,0 +1,99 @@
+<section_begin>  test0436a
+
+CHARTEST
+--------
+NULL    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0436b
+
+INTTEST
+-----------
+       NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0436c
+
+REALTEST
+---------------
+           NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0436d
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0436e
+
+SMALLTEST
+---------
+     NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0436f
+
+DOUBLETEST
+------------------------
+                    NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0436g
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0436h
+
+FLOATTEST
+------------------------
+                    NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0436i
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0436j
+
+NUMTEST
+-----------
+       NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0436k
+
+NUMTEST
+---------------
+           NULL
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,14 @@
+<section_begin>  test0408d
+
+EMPNUM PNUM HOURS  
+------ ---- -------
+<group_begin>
+E1     P2       460
+E2     P2      6640
+E3     P2       460
+E4     P2       460
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

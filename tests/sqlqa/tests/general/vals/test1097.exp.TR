@@ -1,0 +1,36 @@
+<section_begin>  test097a
+
+EMPNUM
+------
+E2    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test097b
+
+EMPNAME
+--------------------
+Betty               
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test097c
+
+GRADE
+------
+    10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test097d
+
+CITY
+---------------
+Vienna         
+
+--- 1 row(s) selected.
+
+<section_end>

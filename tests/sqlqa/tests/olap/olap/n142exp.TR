@@ -1,0 +1,508 @@
+<section_begin>  a2
+
+GENDER DEPTNUM    PAYGRADE   NUM        ROWCNT              
+------ ---------- ---------- ---------- --------------------
+<group_begin>
+M               1          1          1                    1
+M               2          7          3                    2
+M               3          1          4                    3
+M               2          3          6                    4
+F               2          3          8                    5
+F               3          4         10                    6
+F               3          5         11                    7
+M               1          6         13                    8
+M               2          7         15                    9
+M               1          8         18                   10
+F               3          5         20                   11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a4
+
+DEPTNUM    PAYGRADE   SALARY      NUM        ROWCNT              
+---------- ---------- ----------- ---------- --------------------
+         1          8       92100         18                    1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a5
+
+DEPTNUM    CB          ROWCNT              
+---------- ----------- --------------------
+<group_begin>
+         1        2000                    1
+         9        2048                    2
+         2        NULL                    3
+         3        1683                    4
+         9        7760                    5
+         2        1680                    6
+         5        4700                    7
+         2        4540                    8
+         6        2800                    9
+         3        2535                   10
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a7
+
+DEPTNUM    (EXPR)      ROWCNT              
+---------- ----------- --------------------
+<group_begin>
+         1       10200                    1
+         9       10262                    2
+         3       10790                    3
+         9        7460                    4
+         2       16470                    5
+         5       14900                    6
+         2       15200                    7
+         6       21800                    8
+         3       22195                    9
+         9       22590                   10
+         3       28668                   11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a8
+
+DEPTNUM    PAYGRADE   BONUS       ROWCNT              
+---------- ---------- ----------- --------------------
+<group_begin>
+         1          1     1800.00                    1
+         9          1     1838.00                    2
+         3          1     1510.00                    3
+         2          3     1530.00                    4
+         6          4     2300.00                    5
+         3          4     2005.00                    6
+         9          4     1810.00                    7
+         1          6     1270.00                    8
+         9          7     1890.00                    9
+         2          7     1100.00                   10
+         1          8     1235.00                   11
+         3          5     1532.00                   12
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a9
+
+DEPTNUM    BONUS     ROWCNT              
+---------- --------- --------------------
+<group_begin>
+         1        56                    1
+         9        47                    2
+         2        82                    3
+         5        28                    4
+         1        74                    5
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a10
+
+DEPTNUM    PAYGRADE   BONUS       ROWCNT              
+---------- ---------- ----------- --------------------
+<group_begin>
+         1          1     1800.00                    1
+         2          7        NULL                    2
+         3          1     1510.00                    3
+         2          3     1530.00                    4
+         2          3     3000.00                    5
+         3          4     2005.00                    6
+         3          5        NULL                    7
+         1          6     1270.00                    8
+         2          7     1100.00                    9
+         1          8     1235.00                   10
+         3          5     1532.00                   11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a11
+
+DEPTNUM    PAYGRADE   GENDER NUM        ROWCNT              
+---------- ---------- ------ ---------- --------------------
+<group_begin>
+         3          1 M               4                    1
+         5          3 M               7                    2
+         3          5 F              11                    3
+         5          7 M              16                    4
+         5          5 M              19                    5
+         3          5 F              20                    6
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a12
+
+DEPTNUM    PAYGRADE   COMMISION     ROWCNT              
+---------- ---------- ------------- --------------------
+<group_begin>
+         1          1        200.00                    1
+         9          1        210.00                    2
+         3          1        173.00                    3
+         9          2        220.00                    4
+         2          3        150.00                    5
+         5          3       1500.00                    6
+         2          3       1540.00                    7
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a13
+
+DEPTNUM    (EXPR)  (EXPR)      ROWCNT              
+---------- ------- ----------- --------------------
+<group_begin>
+         2    1645        NULL                    1
+         2     150        1530                    2
+         2    1540        3000                    3
+         6     500        2300                    4
+         2     225        1100                    5
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a14
+
+DEPTNUM    COMMISION     BONUS       ROWCNT              
+---------- ------------- ----------- --------------------
+<group_begin>
+         2       1645.00        NULL                    1
+         2        150.00     1530.00                    2
+         2       1540.00     3000.00                    3
+         6        500.00     2300.00                    4
+         2        225.00     1100.00                    5
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a15
+
+DEPTNUM    COMMISION     BONUS       ROWCNT              
+---------- ------------- ----------- --------------------
+<group_begin>
+         2       1645.00        NULL                    1
+         2        150.00     1530.00                    2
+         2       1540.00     3000.00                    3
+         6        500.00     2300.00                    4
+         2        225.00     1100.00                    5
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a16
+
+DEPTNUM    ROWCNT              
+---------- --------------------
+<group_begin>
+         2                    1
+         2                    2
+         2                    3
+         6                    4
+         2                    5
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a17
+
+NUM        DEPTNUM    PAYGRADE                 ROWCNT              
+---------- ---------- ------------------------ --------------------
+<group_begin>
+         3          2                      1.0                    1
+         6          2                      1.0                    2
+         8          2                      1.0                    3
+         9          6                      1.0                    4
+        15          2                      1.0                    5
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a18
+
+NUM        DEPTNUM    BONUS       (EXPR)      ROWCNT              
+---------- ---------- ----------- ----------- --------------------
+<group_begin>
+        11          3        NULL        NULL                    1
+        20          3     1532.00     1532.00                    2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a19
+
+NUM        DEPTNUM    BONUS       (EXPR)      ROWCNT              
+---------- ---------- ----------- ----------- --------------------
+<group_begin>
+        11          3        NULL        NULL                    1
+        20          3     1532.00     1532.00                    2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20
+
+NUM        DEPTNUM    PAYGRADE   BONUS       ROWCNT              
+---------- ---------- ---------- ----------- --------------------
+<group_begin>
+         1          1          1     1800.00                    1
+         2          9          1     1838.00                    2
+         4          3          1     1510.00                    3
+         5          9          2     7540.00                    4
+         6          2          3     1530.00                    5
+         7          5          3     3200.00                    6
+         8          2          3     3000.00                    7
+         9          6          4     2300.00                    8
+        10          3          4     2005.00                    9
+        12          9          4     1810.00                   10
+        13          1          6     1270.00                   11
+        14          9          7     1890.00                   12
+        15          2          7     1100.00                   13
+        16          5          7     3200.00                   14
+        17          9          7     5875.00                   15
+        18          1          8     1235.00                   16
+        20          3          5     1532.00                   17
+<group_end>
+
+--- 17 row(s) selected.
+
+<section_end>
+<section_begin>  a21
+
+NUM        DEPTNUM    PAYGRADE   BONUS       ROWCNT              
+---------- ---------- ---------- ----------- --------------------
+        18          1          8     1235.00                    1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a22
+
+NUM        DEPTNUM    PAYGRADE   BONUS       ROWCNT              
+---------- ---------- ---------- ----------- --------------------
+<group_begin>
+         1          1          1     1800.00                    1
+         2          9          1     1838.00                    2
+         4          3          1     1510.00                    3
+         5          9          2     7540.00                    4
+         6          2          3     1530.00                    5
+         7          5          3     3200.00                    6
+         8          2          3     3000.00                    7
+         9          6          4     2300.00                    8
+        10          3          4     2005.00                    9
+        12          9          4     1810.00                   10
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a23
+
+NUM        DEPTNUM    BONUS       ROWCNT              
+---------- ---------- ----------- --------------------
+<group_begin>
+         1          1     1800.00                    1
+         3          2        NULL                    2
+         4          3     1510.00                    3
+         6          2     1530.00                    4
+         8          2     3000.00                    5
+        10          3     2005.00                    6
+        11          3        NULL                    7
+        13          1     1270.00                    8
+        15          2     1100.00                    9
+        18          1     1235.00                   10
+        20          3     1532.00                   11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a24
+
+--- 0 row(s) selected.
+
+<section_end>
+<section_begin>  a26
+
+NUM        FIRSTNAME      LASTNAME                 DEPTNUM    ROWCNT              
+---------- -------------- ------------------------ ---------- --------------------
+<group_begin>
+         4 Arnold         Yang                              3                    1
+         7 Arthur         Sharma                            5                    2
+        10 Abby           Zhang                             3                    3
+        11 Becky          Yurgu                             3                    4
+        16 Bruce          Andersen                          5                    5
+        19 Bill           Zacker                            5                    6
+        20 Bridget        Buick                             3                    7
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a27
+
+NUM        FIRSTNAME      LASTNAME                 DEPTNUM    ROWCNT              
+---------- -------------- ------------------------ ---------- --------------------
+<group_begin>
+         4 Arnold         Yang                              3                    1
+         7 Arthur         Sharma                            5                    2
+        10 Abby           Zhang                             3                    3
+        11 Becky          Yurgu                             3                    4
+        16 Bruce          Andersen                          5                    5
+        19 Bill           Zacker                            5                    6
+        20 Bridget        Buick                             3                    7
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a28
+
+NUM        FIRSTNAME      DEPTNUM    R1          ROWCNT              
+---------- -------------- ---------- ----------- --------------------
+<group_begin>
+        11 Becky                   3        NULL                    1
+        20 Bridget                 3        NULL                    2
+        16 Bruce                   5       88340                    3
+        10 Abby                    3       23790                    4
+        19 Bill                    5       21336                    5
+         7 Arthur                  5       16705                    6
+         4 Arnold                  3       12139                    7
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a30
+
+NUM        DEPTNUM    LASTNAME                 MFIRST         (EXPR) ROWCNT
+---------- ---------- ------------------------ -------------- ------ ------
+<group_begin>
+         1          1 Zacker                   Abe            M           1
+         3          2 Quan                     Abe            M           2
+         4          3 Yang                     Arnold         M           3
+         6          2 Li                       Arthur         M           4
+         8          2 Li                       Amy            F           5
+        10          3 Zhang                    Abby           F           6
+        11          3 Yurgu                    Becky          F           7
+        13          1 Wilbert                  Aloysius       M           8
+        15          2 Therber                  Arnold         M           9
+        18          1 Linville                 Bruce          M          10
+        20          3 Buick                    Bridget        F          11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a31
+
+NUM        DEPTNUM    LASTNAME                 ROWCNT              
+---------- ---------- ------------------------ --------------------
+<group_begin>
+         1          1 Zacker                                      1
+         3          2 Quan                                        2
+         4          3 Yang                                        3
+         6          2 Li                                          4
+         8          2 Li                                          5
+        10          3 Zhang                                       6
+        11          3 Yurgu                                       7
+        13          1 Wilbert                                     8
+        15          2 Therber                                     9
+        18          1 Linville                                   10
+        20          3 Buick                                      11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a32
+
+NUM        DEPTNUM    LASTNAME                 ROWCNT              
+---------- ---------- ------------------------ --------------------
+<group_begin>
+         1          1 Zacker                                      1
+         3          2 Quan                                        2
+         4          3 Yang                                        3
+         6          2 Li                                          4
+         8          2 Li                                          5
+        10          3 Zhang                                       6
+        11          3 Yurgu                                       7
+        13          1 Wilbert                                     8
+        15          2 Therber                                     9
+        18          1 Linville                                   10
+        20          3 Buick                                      11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a33
+
+NUM        DEPTNUM    LASTNAME                 ROWCNT              
+---------- ---------- ------------------------ --------------------
+<group_begin>
+         1          1 Zacker                                      1
+         3          2 Quan                                        2
+         4          3 Yang                                        3
+         6          2 Li                                          4
+         8          2 Li                                          5
+        10          3 Zhang                                       6
+        11          3 Yurgu                                       7
+        13          1 Wilbert                                     8
+        15          2 Therber                                     9
+        18          1 Linville                                   10
+        20          3 Buick                                      11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a6
+
+INCOME
+--------------------
+<group_begin>
+                   1
+                   2
+                   3
+                   4
+                   5
+                   6
+                   7
+                   8
+                   9
+                  10
+                  11
+                  12
+                  13
+                  14
+                  15
+                  16
+                  17
+                  17
+                  17
+                  17
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>

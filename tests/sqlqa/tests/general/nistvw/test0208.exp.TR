@@ -1,0 +1,27 @@
+<section_begin>  s1
+
+CITY
+---------------
+China          
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+CITY
+---------------
+NIST           
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,82 @@
+
+def test0001(desc="test0001 select [last 1]"):
+
+    global _testmgr
+    global _testlist
+    global _dci
+    if not _testmgr.testcase_begin(_testlist):
+        return
+
+    qid = exec_obeyfile("c1.sql", "test001.log")
+
+    time.sleep(1)
+
+    stmt = 'control query cancel qid "' + qid + '";'
+    output = _dci.cmdexec(stmt)
+    _dci.expect_complete_msg(output)
+
+    check_logfile("test001.log")
+
+    _testmgr.testcase_end(desc)
+
+def exec_obeyfile(f1, f2):
+    classpath = '.:' + defs._jdbc_classpath + ':' + defs._hpdci_classpath
+    sqlfile = defs.test_dir + '/' + f1
+    logfile = defs.work_dir + '/' + f2
+    cmd = 'java -classpath ' + classpath + ' org.trafodion.ci.UserInterface -h ' + defs._target + ' -u ' + defs._user + ' -p ' + defs._pw
+    cmd = cmd + ' -s ' + sqlfile + ' >' + logfile + ' &'
+    _testmgr.log_write(cmd + '\n\n')
+    subprocess.call(cmd, shell=True)
+
+    # check for qid
+    qid = ''
+    for num in range(1, 200):
+        # check if file exists
+        if os.path.exists(logfile):
+            # read Qid
+            with open(logfile, 'r') as f:
+                data = f.readlines()
+                for line in data:
+                    if line.startswith('MXID'):
+                        token = line.split()
+                        qid = token[0]
+        if qid != '':
+            break
+        time.sleep(1)
+
+    return qid
+
+def check_logfile(f1):
+    logfile = defs.work_dir + '/' + f1
+
+    # check for command completed
+    done = False
+    data = ''
+    for num in range(1, 200):
+        # read Qid
+        with open(logfile, 'r') as f:
+            data = f.readlines()
+            for line in data:
+                if line.startswith('SQL>exit'):
+                    done = True
+        if done:
+            break
+        time.sleep(1)
+
+    cancelMsg = False
+    cancelTime = False
+    for line in data:
+        _testmgr.log_write(line)
+        if line.startswith('*** ERROR[8007]'):
+            cancelMsg = True
+        if line.startswith('Cancel Time'):
+            _dci.unexpect_any_substr(line, "Cancel Time*-1*")
+            cancelTime = True
+
+    if not cancelMsg:
+            _testmgr.mismatch_record("Cancel message not found")
+
+    if not cancelTime:
+            _testmgr.mismatch_record("Cancel Time not found")
+
+

@@ -1,0 +1,8 @@
+
+*** ERROR[4120] In a query with a GROUP BY, DISTINCT, or aggregate function, each column in the ORDER BY clause must be one of the columns explicitly SELECTed by the query.  Column in error: SBIN0_UNIQ. [*]
+
+<section_begin>  a13s1
+
+*** ERROR[4082] Object TRAFODION.CREATE_TBLAS_CTASCOLA.CTAS13A does not exist or is inaccessible. [2014-11-06 12:05:55]
+
+<section_end>

@@ -1,0 +1,14 @@
+<section_begin>  test0081
+
+EMPNUM EMPNAME              GRADE  CITY            PNUM PNAME                PTYPE  BUDGET      CITY           
+------ -------------------- ------ --------------- ---- -------------------- ------ ----------- ---------------
+<group_begin>
+E2     Betty                    10 Vienna          P2   CALM                 Code         30000 Vienna         
+E2     Betty                    10 Vienna          P5   IRM                  Test         10000 Vienna         
+E3     Carmen                   13 Vienna          P2   CALM                 Code         30000 Vienna         
+E3     Carmen                   13 Vienna          P5   IRM                  Test         10000 Vienna         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

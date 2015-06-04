@@ -1,0 +1,30 @@
+<section_begin>  a06gs0
+
+Y_TO_MO D_TO_S             
+------- -------------------
+ 0-01   17 14:16:01.000000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06gs1
+
+Y_TO_MO D_TO_S             
+------- -------------------
+10-01   17 14:16:01.000000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06gs2
+
+Y_TO_MO D_TO_S             
+------- -------------------
+<group_begin>
+ 0-01   17 14:16:01.000000 
+20-02   87 23:20:05.000000 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

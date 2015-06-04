@@ -1,0 +1,18 @@
+<section_begin>  test0022b
+
+EMPNUM PNUM
+------ ----
+E22    P22 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0022d
+
+(EXPR)
+--------------------
+                  12
+
+--- 1 row(s) selected.
+
+<section_end>

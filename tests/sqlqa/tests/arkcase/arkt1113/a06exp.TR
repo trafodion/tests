@@ -1,0 +1,44 @@
+<section_begin>  a06s0
+
+C1      C2      
+------- --------
+<group_begin>
+CAAAAAA CAAAAAA 
+EE      EE      
+X       X       
+NULL    CAAAAAAX
+NULL    NULL    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+C1
+-------
+<group_begin>
+CAAAAAA
+EE     
+X      
+NULL   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+C1      C2      
+------- --------
+<group_begin>
+CAAAAAA CAAAAAA 
+EE      EE      
+X       X       
+NULL    CAAAAAAX
+NULL    NULL    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

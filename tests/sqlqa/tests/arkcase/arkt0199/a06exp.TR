@@ -1,0 +1,158 @@
+<section_begin>  a06s2
+
+A
+---------------------------
+<group_begin>
+H                          
+Hi                         
+HI                         
+Hi                         
+Hi                         
+H                          
+Hi                         
+HI                         
+Hi                         
+Hi                         
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+A
+---------------------------
+<group_begin>
+1                          
+1.0                        
+1.234567                   
+-1.234567                  
+1.234567E+000              
+-1.234567E+000             
+1.2345678000000000E+000    
+-1.2345678000000000E+000   
+1980-01-01                 
+-1                         
+ -                         
+ -01.234567e0              
+ -01.2345678e0             
+1980-01-01                 
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+A
+---------------------------
+<group_begin>
+H                          
+Hi                         
+HI                         
+Hi                         
+Hi                         
+H                          
+Hi                         
+HI                         
+Hi                         
+Hi                         
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+A
+---------------------------
+<group_begin>
+1                          
+1.0                        
+1.234567                   
+-1.234567                  
+1.234567E+000              
+-1.234567E+000             
+1.2345678000000000E+000    
+-1.2345678000000000E+000   
+1980-01-01                 
+-1                         
+ -                         
+ -01.234567e0              
+ -01.2345678e0             
+1980-01-01                 
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a06s11
+
+A
+---------------------------
+<group_begin>
+1                          
+1                          
+-123456789                 
+123456788                  
+-123456789                 
+-1                         
+-12.3                      
+12.345                     
+12.345678901               
+12.345                     
+-1                         
+1234.5                     
+-.12345678901              
+-1                         
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a06s12
+
+A
+---------------------------
+<group_begin>
+1.23456780000000000E+000   
+1.23456780000000000E+000   
+1.23456700000000000E+000   
+-1.2345677E+000            
+-1.23456780000000000E+000  
+-1.0000000E+000            
+-1.2345670E+000            
+-1.2345677E+000            
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s13
+
+A
+---------------------------
+<group_begin>
+1980-01-01                 
+21:30:00                   
+1980-01-01 21:30:00.123456 
+09:30:00                   
+1980-01-01                 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s48
+
+I
+----
+<group_begin>
+0.22
+0.33
+0.44
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

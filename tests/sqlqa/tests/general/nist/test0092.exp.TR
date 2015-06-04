@@ -1,0 +1,27 @@
+<section_begin>  test0092b
+
+FLOATTEST
+------------------------
+           123456.123456
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0092c
+
+FLOATTEST                CNT        
+------------------------ -----------
+           123456.123456           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0092e
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

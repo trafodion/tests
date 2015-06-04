@@ -1,0 +1,39 @@
+<section_begin>  a006s0
+
+TS
+--------------------------
+<group_begin>
+0001-01-01 00:00:00.000000
+1997-02-12 10:30:15.123456
+9999-12-31 23:59:59.999999
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a006s1
+
+(EXPR)
+----------
+<group_begin>
+0001-01-01
+1997-02-12
+9999-12-31
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a006s2
+
+(EXPR)
+--------
+<group_begin>
+00:00:00
+10:30:15
+23:59:59
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

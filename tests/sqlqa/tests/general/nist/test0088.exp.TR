@@ -1,0 +1,45 @@
+<section_begin>  test0088b
+
+REALTEST
+---------------
+       1.234567
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0088c
+
+REALTEST        CNT        
+--------------- -----------
+       1.234567           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0088e
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0089b
+
+SMALLTEST
+---------
+      123
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0089d
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

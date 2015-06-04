@@ -1,0 +1,169 @@
+<section_begin>  a01s0
+
+COL_FIX1             COL_FIX2   COL_FIX3    
+-------------------- ---------- ------------
+<group_begin>
+First_Row            1975-01-01        100.0
+Second_Row           1986-02-12        200.0
+Third_Row            1997-12-31        300.0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+COL_FIX1             COL_FIX2   COL_FIX3    
+-------------------- ---------- ------------
+<group_begin>
+Row1                 1975-01-01        100.0
+Second_Row           1986-02-12        200.0
+Third_Row            1997-12-31        300.0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+COL_FIX1             COL_FIX2   COL_FIX3    
+-------------------- ---------- ------------
+<group_begin>
+First_Row            1975-01-01        100.0
+Second_Row           1986-02-12        200.0
+Third_Row            1997-12-31        300.0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+COL_FIX1             COL_FIX2   COL_FIX3    
+-------------------- ---------- ------------
+<group_begin>
+First_Row            1975-01-01        100.0
+Second_Row           1986-02-12        200.0
+Third_Row            1997-12-31        300.0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+COL_FIX1             COL_FIX2   COL_FIX3    
+-------------------- ---------- ------------
+<group_begin>
+First_Row            1975-01-01        100.0
+Row2                 1986-02-12        200.0
+Third_Row            1997-12-31        300.0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+COL_FIX1             COL_FIX2   COL_FIX3    
+-------------------- ---------- ------------
+<group_begin>
+First_Row            1975-01-01        100.0
+Second_Row           1986-02-12        200.0
+Third_Row            1997-12-31        300.0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+COL_FIX1             COL_FIX2   COL_FIX3    
+-------------------- ---------- ------------
+<group_begin>
+First_Row            1975-01-01        100.0
+Second_Row           1986-02-12        200.0
+Third_Row            1997-12-31        300.0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+COL_VAR1             COL_VAR2                  COL_VAR3                      
+-------------------- ------------------------- ------------------------------
+<group_begin>
+ELVIS PRESLEY        NULL                      music                         
+GWYNETH PALTROWL     MERRY STRIP               movie                         
+MICHALE JORDAN       DEION SANDERS             football                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+COL_VAR1             COL_VAR2                  COL_VAR3                      
+-------------------- ------------------------- ------------------------------
+<group_begin>
+ELVIS PRESLEY        SHNIA TWAIN               music stars                   
+GWYNETH PALTROWL     MERRY STRIP               movie                         
+MICHALE JORDAN       DEION SANDERS             football                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+COL_VAR1             COL_VAR2                  COL_VAR3                      
+-------------------- ------------------------- ------------------------------
+<group_begin>
+ELVIS PRESLEY        SHNIA TWAIN               music stars                   
+GWYNETH PALTROWL     MERRY STRIP               movie                         
+MICHALE JORDAN       DEION SANDERS             football                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+COL_VAR1             COL_VAR2                  COL_VAR3                      
+-------------------- ------------------------- ------------------------------
+<group_begin>
+ELVIS PRESLEY        SHNIA TWAIN               music stars                   
+GWYNETH PALTROWL     MERRY STRIP               movie                         
+MICHALE JORDAN       DEION SANDERS             football                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+COL_VAR1             COL_VAR2                  COL_VAR3                      
+-------------------- ------------------------- ------------------------------
+<group_begin>
+ELVIS PRESLEY        SHNIA TWAIN               music stars                   
+GWYNETH PALTROWL     MERRY STRIP               movie                         
+MICHALE JORDAN       DEION SANDERS             football                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+COL_VAR1             COL_VAR2                  COL_VAR3                      
+-------------------- ------------------------- ------------------------------
+<group_begin>
+ELVIS PRESLEY        NULL                      music                         
+GWYNETH PALTROWL     MERRY STRIP               movie                         
+MICHALE JORDAN       DEION SANDERS             football                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

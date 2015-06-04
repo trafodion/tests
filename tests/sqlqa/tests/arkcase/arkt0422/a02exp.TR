@@ -1,0 +1,778 @@
+<section_begin>  a02s0
+
+EMPNAME
+------------------
+JACK RAYMOND      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+EMPNAME
+------------------
+JACK RAYMOND      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+CUSTNAME
+------------------
+<group_begin>
+DATASPEED         
+CENTRAL UNIVERSITY
+VEREINIGTE CHEMIE 
+DEUTSCHE STAHL    
+BESTFOOD MARKETS  
+BROWN MEDICAL CO  
+MOTOR DISTRIBUTING
+STEVENS SUPPLY    
+FRESNO STATE BANK 
+METALL-AG.        
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+CUSTNAME
+------------------
+<group_begin>
+VEREINIGTE CHEMIE 
+BESTFOOD MARKETS  
+DATASPEED         
+CENTRAL UNIVERSITY
+BROWN MEDICAL CO  
+MOTOR DISTRIBUTING
+STEVENS SUPPLY    
+DEUTSCHE STAHL    
+FRESNO STATE BANK 
+METALL-AG.        
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+PARTNAME
+------------------
+<group_begin>
+SYSTEM 192KB CORE 
+SYSTEM 192KB SEMI 
+PROC     96KB SEMI
+DECIMAL ARITH     
+ENSCRIBE MICRO    
+COBOL MICRO       
+MEM MOD 64K MOS   
+MEM MOD 96K MOS   
+DISC CONT SINGLE  
+DISC CONT DUAL    
+MAG TAPE CONT 8/16
+LINE PRINTER CONT 
+MAG TAPE DR 800BPI
+MAG TAPE DR 8/16  
+SYNC CONTROLLER   
+ASYNC CONTROLLER  
+ASYNC EXTENSION   
+TERM CRT CHAR     
+TERM CRT PAGE     
+TERM HARD COPY    
+POWER MODULE      
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+COL_1
+------------------
+<group_begin>
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+TERM CRT CHAR     
+TERM CRT PAGE     
+TERM CRT PAGE     
+TERM CRT PAGE     
+TERM CRT PAGE     
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+MAG TAPE CONT 8/16
+DISC 10MB         
+DISC 10MB         
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+SUPPNUM PARTNUM
+------- -------
+<group_begin>
+      6    4101
+     15    4101
+      6    4102
+     15    4102
+      8    4103
+     15    4103
+      8    5101
+      8    5103
+      2    5504
+      6    5504
+      3    6401
+      2    6402
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+SUPPNUM PARTNUM
+------- -------
+<group_begin>
+      6    4101
+     15    4101
+      6    4102
+     15    4102
+      8    4103
+     15    4103
+      8    5101
+      8    5103
+      2    5504
+      6    5504
+      3    6401
+      2    6402
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+SUPPNUM PARTNUM
+------- -------
+<group_begin>
+      1     212
+      1     244
+      1    1403
+      1    2001
+      1    2002
+      1    2003
+      1    2402
+      1    2403
+      1    3102
+      1    3103
+      1    3201
+      1    3302
+      6    4102
+      8    4103
+      8    5101
+      8    5103
+      2    5502
+      6    5504
+     15    5505
+      1    6201
+      1    6301
+      1    6302
+      3    6401
+      2    6402
+      2    6603
+     10    7102
+      1    7301
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+SUPPNUM
+-------
+<group_begin>
+      6
+      8
+      2
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+     10
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFOMATION STORAGE
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s12
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFOMATION STORAGE
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFOMATION STORAGE
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s14
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFOMATION STORAGE
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s15
+
+PARTNAME
+------------------
+<group_begin>
+SYSTEM 192KB CORE 
+SYSTEM 192KB SEMI 
+PROC     96KB SEMI
+DECIMAL ARITH     
+ENSCRIBE MICRO    
+COBOL MICRO       
+MEM MOD 64K MOS   
+MEM MOD 96K MOS   
+DISC CONT SINGLE  
+DISC CONT DUAL    
+MAG TAPE CONT 8/16
+LINE PRINTER CONT 
+SYNC CONTROLLER   
+ASYNC CONTROLLER  
+ASYNC EXTENSION   
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a02s16
+
+PARTNAME
+------------------
+<group_begin>
+SYSTEM 192KB CORE 
+SYSTEM 192KB SEMI 
+PROC     96KB SEMI
+DECIMAL ARITH     
+ENSCRIBE MICRO    
+COBOL MICRO       
+MEM MOD 64K MOS   
+MEM MOD 96K MOS   
+DISC CONT SINGLE  
+DISC CONT DUAL    
+MAG TAPE CONT 8/16
+LINE PRINTER CONT 
+SYNC CONTROLLER   
+ASYNC CONTROLLER  
+ASYNC EXTENSION   
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a02s17
+
+PARTNAME
+------------------
+<group_begin>
+SYSTEM 192KB CORE 
+SYSTEM 192KB SEMI 
+PROC     96KB SEMI
+DECIMAL ARITH     
+ENSCRIBE MICRO    
+COBOL MICRO       
+MEM MOD 64K MOS   
+MEM MOD 96K MOS   
+DISC CONT SINGLE  
+DISC CONT DUAL    
+MAG TAPE CONT 8/16
+LINE PRINTER CONT 
+SYNC CONTROLLER   
+ASYNC CONTROLLER  
+ASYNC EXTENSION   
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a02s18
+
+REGNAME
+------------
+HEADQUARTERS
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s19
+
+REGNAME
+------------
+HEADQUARTERS
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s20
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s21
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s22
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s23
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s24
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s25
+
+PARTNUM
+-------
+<group_begin>
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a02s26
+
+PARTNUM
+-------
+<group_begin>
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a02s27
+
+PARTNUM
+-------
+<group_begin>
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a02s28
+
+SALESMAN ORDERNUM
+-------- --------
+<group_begin>
+     204       32
+     205       66
+     207       41
+     212       45
+     218       38
+     221      122
+     222       30
+     225       48
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s29
+
+SALESMAN ORDERNUM
+-------- --------
+<group_begin>
+     204       32
+     205       66
+     207       41
+     212       45
+     218       38
+     221      122
+     222       30
+     225       48
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s30
+
+SALESMAN ORDERNUM
+-------- --------
+<group_begin>
+     204       32
+     205       66
+     207       41
+     212       45
+     218       38
+     221      122
+     222       30
+     225       48
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s31
+
+SALESMAN ORDERNUM
+-------- --------
+<group_begin>
+     222       30
+     204       32
+     218       38
+     207       41
+     212       45
+     225       48
+     205       66
+     221      122
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s32
+
+PARTNAME
+------------------
+<group_begin>
+SYSTEM 192KB CORE 
+SYSTEM 192KB SEMI 
+PROC     96KB SEMI
+DISC CONT DUAL    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s33
+
+SALESMAN
+--------
+<group_begin>
+     205
+     212
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s34
+
+EMPNAME
+------------------
+<group_begin>
+ROGER GREEN       
+JERRY HOWARD      
+JACK RAYMOND      
+PAUL WINTER       
+SUSAN HENDERSON   
+GLENN THOMAS      
+TIM WALKER        
+ERIC BROWN        
+DAVID STRAND      
+LINDA JONES       
+MANFRED CONRAD    
+JIM HERMAN        
+LARRY CLARK       
+KATHRYN DAY       
+TOM HALL          
+DAVE FISHER       
+MARK FOLEY        
+SUE CRAMER        
+SUSAN CHAPMAN     
+JONATHAN MITCHEL  
+ROBERT WHITE      
+JULIA KELLY       
+JOHANN HUBER      
+OTTO SCHNABL      
+MARTIN SCHAEFER   
+HERBERT KARAJAN   
+MARIA JOSEF       
+PETE WELLINGTON   
+GEORGE STRICKER   
+ROCKY LEWIS       
+HERB ALBERT       
+THOMAS SPINNER    
+TED MCDONNALDS    
+MARY MILLER       
+MIRIAM KING       
+BILL WINN         
+ALAN TERRY        
+<group_end>
+
+--- 37 row(s) selected.
+
+<section_end>
+<section_begin>  a02s35
+
+EMPNAME
+------------------
+<group_begin>
+ROGER GREEN       
+JERRY HOWARD      
+JACK RAYMOND      
+PAUL WINTER       
+SUSAN HENDERSON   
+GLENN THOMAS      
+TIM WALKER        
+ERIC BROWN        
+DAVID STRAND      
+LINDA JONES       
+MANFRED CONRAD    
+JIM HERMAN        
+LARRY CLARK       
+KATHRYN DAY       
+TOM HALL          
+DAVE FISHER       
+MARK FOLEY        
+SUE CRAMER        
+SUSAN CHAPMAN     
+JONATHAN MITCHEL  
+ROBERT WHITE      
+JULIA KELLY       
+JOHANN HUBER      
+OTTO SCHNABL      
+MARTIN SCHAEFER   
+HERBERT KARAJAN   
+MARIA JOSEF       
+PETE WELLINGTON   
+GEORGE STRICKER   
+ROCKY LEWIS       
+HERB ALBERT       
+THOMAS SPINNER    
+TED MCDONNALDS    
+MARY MILLER       
+MIRIAM KING       
+BILL WINN         
+ALAN TERRY        
+<group_end>
+
+--- 37 row(s) selected.
+
+<section_end>
+<section_begin>  a02s36
+
+EMPNAME
+------------------
+<group_begin>
+THOMAS RUDLOFF    
+KLAUS SAFFERT     
+PETER SMITH       
+DONALD TAYLOR     
+STEVE COOK        
+SHERRIE WONG      
+TONY CRAFT        
+GEORGE FORSTER    
+RICHARD BARTON    
+JIMMY SCHNEIDER   
+WALTER LANCASTER  
+JOHN JONES        
+MARLENE BONNY     
+GEORGE FRENCHMAN  
+DAVID TERRY       
+KARL HELMSTED     
+HEIDI WEIGL       
+XAVER SEDLMEYER   
+DAVE CLARK        
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a02s37
+
+REGNAME
+------------
+<group_begin>
+EAST        
+WEST        
+GERMANY     
+ENGLAND     
+HEADQUARTERS
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s38
+
+CUSTNAME
+------------------
+<group_begin>
+CENTRAL UNIVERSITY
+VEREINIGTE CHEMIE 
+BESTFOOD MARKETS  
+METALL-AG.        
+SLEEPWELL HOTELS  
+DEUTSCHE STAHL    
+FRESNO STATE BANK 
+PREMIER INSURANCE 
+DATASPEED         
+BROWN MEDICAL CO  
+MOTOR DISTRIBUTING
+STEVENS SUPPLY    
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>

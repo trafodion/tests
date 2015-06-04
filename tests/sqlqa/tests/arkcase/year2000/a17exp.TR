@@ -1,0 +1,34 @@
+<section_begin>  a17s0
+
+NUM         DT        
+----------- ----------
+<group_begin>
+          1 1999-12-29
+          2 1999-12-30
+          3 1999-12-31
+          4 2000-01-01
+          5 2000-01-02
+          6 2000-01-03
+          7 2000-01-04
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a17s1
+
+DT         (EXPR)   
+---------- ---------
+<group_begin>
+1999-12-29 Wednesday
+1999-12-30 Thursday 
+1999-12-31 Friday   
+2000-01-01 Saturday 
+2000-01-02 Sunday   
+2000-01-03 Monday   
+2000-01-04 Tuesday  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

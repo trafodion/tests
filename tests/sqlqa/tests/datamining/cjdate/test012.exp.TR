@@ -1,0 +1,26 @@
+<section_begin>  s1
+
+SNUM
+-----
+<group_begin>
+s1   
+s2   
+s4   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+SNUM
+-----
+<group_begin>
+s1   
+s2   
+s4   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

@@ -1,0 +1,18 @@
+<section_begin>  test1110b
+
+(EXPR) (EXPR)
+------ ------
+NULL   NULL  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test1110c
+
+(EXPR)
+--------------------
+                  12
+
+--- 1 row(s) selected.
+
+<section_end>

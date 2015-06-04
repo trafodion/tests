@@ -1,0 +1,91 @@
+<section_begin>  a07s0
+
+L_NAME     F_NAME     D_NUM  MIN_SAL    MAX_SAL    AVG_SAL    
+---------- ---------- ------ ---------- ---------- -----------
+<group_begin>
+howard     jerry        4000      65000      65000    65000.00
+zann       kathy        3000      80000      80000    80000.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+clark      dinah          9000      37000              3
+crinar     jessica        8000      39500              2
+green      roger          9000     175500              2
+howard     jerry          4000      65000              1
+velcro     judy           2000      40000              3
+zann       kathy          3000      80000              1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+LAST_NAME  FIRST_NAME DEPT_NUM (EXPR)     MIN_SAL    MAX_SAL    AVG_SAL    
+---------- ---------- -------- ---------- ---------- ---------- -----------
+<group_begin>
+howard     jerry          4000      65000      65000      65000    65000.00
+zann       kathy          3000      80000      80000      80000    80000.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+L_NAME     F_NAME     D_NUM  CASE_D_NUM CASE_MIN_SAL
+---------- ---------- ------ ---------- ------------
+<group_begin>
+howard     jerry        4000 jerry      oops        
+zann       kathy        3000 kathy      great       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+L_NAME     F_NAME     D_NUM  (EXPR)
+---------- ---------- ------ ------
+zann       kathy        3000 great 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+L_NAME     F_NAME     D_NUM  (EXPR)
+---------- ---------- ------ ------
+howard     jerry        4000 great 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+(EXPR)
+---------------------
+<group_begin>
+zann       kathy     
+howjerry             
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s7
+
+L_NAME     MIN_SAL    MAX_SAL    AVG_SAL    
+---------- ---------- ---------- -----------
+zann            80000      80000    80000.00
+
+--- 1 row(s) selected.
+
+<section_end>

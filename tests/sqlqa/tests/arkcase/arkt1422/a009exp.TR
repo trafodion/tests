@@ -1,0 +1,57 @@
+<section_begin>  a009s0
+
+(EXPR)
+------
+<group_begin>
+    15
+    15
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a009s1
+
+HOUR_D HOUR_D
+------ ------
+    12     12
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a009s2
+
+HOUR_D HOUR_D
+------ ------
+    12     12
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a009s3
+
+HOUR_D HOUR_D
+------ ------
+    12     12
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a009s5
+
+HOUR_D
+------
+    12
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a009s5a
+
+D_N        M_N        D_OF_Y      W_K    Q_R    (EXPR)    
+---------- ---------- ----------- ------ ------ ----------
+Saturday   January              1     53      3 19        
+
+--- 1 row(s) selected.
+
+<section_end>

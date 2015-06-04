@@ -1,0 +1,45 @@
+<section_begin>  insin500a
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insin500za1
+
+COUNTSTAR            SUMTOTAL             AVERAGE             
+-------------------- -------------------- --------------------
+                 500              1188361                 2376
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insin500za2
+
+SUMTOTAL             AVERAGE             
+-------------------- --------------------
+        540323893462           1080647786
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insin500za3
+
+MAXIM_N MINIMUM
+------- -------
+   4994       4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insin500za4
+
+MAXIMUM_NUM MINIMUM    
+----------- -----------
+ 2147112463     4904635
+
+--- 1 row(s) selected.
+
+<section_end>

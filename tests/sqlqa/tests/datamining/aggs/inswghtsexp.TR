@@ -1,0 +1,36 @@
+<section_begin>  inswghtsa
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  inswghtsb
+
+(EXPR)
+--------------------
+                 100
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  inswghtsc
+
+COUNTSTAR            SUMSMALL             SUMINT               AVGSMALL             AVGINT              
+-------------------- -------------------- -------------------- -------------------- --------------------
+                 100               229723         109216225342                 2297           1092162253
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  inswghtsd
+
+MAXSMALL MAXINT      MINSMALL MININT     
+-------- ----------- -------- -----------
+    4911  2088441118       35    16691993
+
+--- 1 row(s) selected.
+
+<section_end>

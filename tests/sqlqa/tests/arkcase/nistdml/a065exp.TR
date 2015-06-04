@@ -1,0 +1,25 @@
+<section_begin>  a065s0
+
+(EXPR) PNAME               
+------ --------------------
+<group_begin>
+USER   MXSS                
+USER   CALM                
+USER   SDP                 
+USER   SDP                 
+USER   IRM                 
+USER   PAYR                
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a065s1
+
+PNUM (EXPR)              (EXPR)       
+---- ------------------- -------------
+P1   BUDGET IN GRAMS IS          50000
+
+--- 1 row(s) selected.
+
+<section_end>

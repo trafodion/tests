@@ -1,0 +1,27 @@
+<section_begin>  n05s0
+
+PIC_X_1
+-------
+Z      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n05s1
+
+PIC_X_1 PIC_X_1
+------- -------
+Z       Z      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n05s2
+
+PIC_X_1 PIC_X_1 PIC_X_1
+------- ------- -------
+Z       Z       Z      
+
+--- 1 row(s) selected.
+
+<section_end>

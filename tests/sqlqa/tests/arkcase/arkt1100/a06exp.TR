@@ -1,0 +1,391 @@
+<section_begin>  a06s0
+
+CHAR1_4 CHAR2_2 VARCHAR5_10 CHAR10_20 CHAR12_10 CHAR13_100
+------- ------- ----------- --------- --------- ----------
+<group_begin>
+AAAA    AA      AA          ABAA      AB        ABAA      
+AAAA    AA      ABAAAAAA    ABAA      AB        AVAA      
+AAAA    BA      ACAAAAAAI   ACAA      AC        AWAA      
+AAAA    BB      AAB         AAAA      AA        APAA      
+AAAA    BE      ABB         AAAA      AA        AFAA      
+AE      AA      ABC         AD        AD        AX        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+CHAR1_4 CHAR2_2 VARCHAR5_10 CHAR10_20 CHAR12_10 CHAR13_100
+------- ------- ----------- --------- --------- ----------
+<group_begin>
+AAAA    AA      AA          ABAA      AB        ABAA      
+AAAA    AA      ABAAAAAA    ABAA      AB        AVAA      
+AAAA    BA      ACAAAAAAI   ACAA      AC        AWAA      
+AAAA    BB      AAB         AAAA      AA        APAA      
+AAAA    BE      ABB         AAAA      AA        AFAA      
+AE      AA      ABC         AD        AD        AX        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+CHAR1_4 CHAR2_2 VARCHAR2_10     VARCHAR2_100              CHAR13_100
+------- ------- --------------- ------------------------- ----------
+<group_begin>
+AAAA    AA      AB              AYAAAAAAAAAAAAAA          AYAA      
+AAAA    AE      AE              ATAAAAAAAAAAAAAA          ATAA      
+AAAA    BA      AA              CIAAAAAAAAAAAAAA          AIAA      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+VARCHAR0_NUNIQ CHAR9_100 (EXPR)      
+-------------- --------- ------------
+<group_begin>
+AA             BB        AAx         
+ABC            AA        ABCx        
+AEAAEAAB       BF        AEAAEAAB   x
+BA             AE        BAx         
+EBAAEAAC       CC        EBAAEAAC   x
+GGAAKAAB       DD        GGAAKAAB   x
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+(EXPR)         (EXPR)         (EXPR)     (EXPR)      (EXPR)                            
+-------------- -------------- ---------- ----------- ----------------------------------
+<group_begin>
+AABB           aabb                    0 AA          trim leading spaces AA            
+ABCAA          abcaa                   0 ABC         trim leading spaces ABC           
+AEAAEAAB   BF  aeaaeaab   bf           9 AEAAEAAB    trim leading spaces AEAAEAAB      
+BAAE           baae                    0 BA          trim leading spaces BA            
+EBAAEAAC   CC  ebaaeaac   cc           9 EBAAEAAC    trim leading spaces EBAAEAAC      
+GGAAKAAB   DD  ggaakaab   dd           9 GGAAKAAB    trim leading spaces GGAAKAAB      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+E                                  (EXPR)                       (EXPR)     
+---------------------------------- ---------------------------- -----------
+<group_begin>
+trim leading spaces AA             aabb AABB                    aa         
+trim leading spaces ABC            abcaa ABCAA                  abc        
+trim leading spaces AEAAEAAB       aeaaeaab   bf AEAAEAAB   BF  aeaaeaab   
+trim leading spaces BA             baae BAAE                    ba         
+trim leading spaces EBAAEAAC       ebaaeaac   cc EBAAEAAC   CC  ebaaeaac   
+trim leading spaces GGAAKAAB       ggaakaab   dd GGAAKAAB   DD  ggaakaab   
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+CLOWER                 CCONCATCHAR                                         CPOSITION 
+---------------------- --------------------------------------------------- ----------
+<group_begin>
+aaaa                   2_2:BA 3_4:CAAAAAAA  4_n10:BDAAAAAA 5_n20:BBAAAAAA           0
+abcabc                 2_2:BE 3_4:AAAAAAAA  4_n10:BDAAAAAA 5_n20:AAAAAAAA           0
+aeaaeaab   aeaaeaab    2_2:AA 3_4:DAAAAAAA  4_n10:BBAAAAAA 5_n20:BAAAAAAA           9
+baba                   2_2:AB 3_4:BAAAAAAA  4_n10:ADAAAAAA 5_n20:AEAAAAAA           0
+ebaaeaac   ebaaeaac    2_2:BA 3_4:BAAAAAAA  4_n10:BCAAAAAA 5_n20:CCAAAAAA           9
+ggaakaab   ggaakaab    2_2:BA 3_4:AAAAAAAA  4_n10:BBAAAAAA 5_n20:DDAAAAAA           9
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+(EXPR)     D         
+---------- ----------
+<group_begin>
+         7          0
+         7          0
+         7          0
+         7          9
+         7          9
+         7          9
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+ROWNUM      SINT   INUN      
+----------- ------ ----------
+<group_begin>
+          1 -32768 4294967295
+          2  32767 4294967295
+          3 -32768 4294967295
+          4  32767 4294967295
+          5 -32768 4294967295
+          6  32767 4294967295
+          7 -32768 4294967295
+          8  32767 4294967295
+          9 -32768 4294967295
+         10 -32767 4294967295
+         11 -32767 4294967295
+         12 -32767 4294967295
+         13 -32767 4294967295
+         14 -32767 4294967295
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+CSIMPLE                 CSEARCHED         
+----------------------- ------------------
+<group_begin>
+Value A                 sint is the lowest
+Value B                 the great unknown 
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+A                       B         
+----------------------- ----------
+<group_begin>
+Value A                 A OK      
+Value B                 B prepared
+Value D -- Rowcount > 3 Now what? 
+Value D -- Rowcount > 3 Now what? 
+Value D -- Rowcount > 3 Now what? 
+Value D -- Rowcount > 3 Now what? 
+Value D -- Rowcount > 3 Now what? 
+Value D -- Rowcount > 3 Now what? 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s11
+
+INFO
+-----------------
+<group_begin>
+rownum over 10   
+rownum over 10   
+rownum over 10   
+rownum over 10   
+sint is negative 
+sint is negative 
+sint is negative 
+sint is negative 
+sint is negative 
+sint is negative 
+the great unknown
+the great unknown
+the great unknown
+the great unknown
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a06s12
+
+AGGCOUNT             AVGSINT     TEXTFORAGGREGATEVALUES
+-------------------- ----------- ----------------------
+                  14      -14043 cake for everyone     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s13
+
+UBIN19_10 CHAR1_4 VARCHAR5_10
+--------- ------- -----------
+<group_begin>
+        0 AAAA    AAB        
+        1 AAAA    AA         
+        2 AE      ABC        
+        3 AAAA    ABAAAAAA   
+        6 AAAA    ACAAAAAAI  
+        8 AAAA    ABB        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s14
+
+A     B     C        (EXPR)                      (EXPR)        (EXPR)         
+----- ----- -------- --------------------------- ------------- ---------------
+<group_begin>
+    0 AAAA  CAAAAAAA Zero                        Extra AA OKOK Now what?      
+    1 AAAA  CAAAAAAA One for all and all for one Extra AA OKOK Now what?      
+    2 AE    CAAAAAAA Tuba City                   Not AAAA      Now what?      
+    3 AAAA  CAAAAAAA Over 2                      Extra AA OKOK Now what?      
+    6 AAAA  CAAAAAAA Over 2                      Extra AA OKOK Now what?      
+    8 AAAA  CAAAAAAA Over 2                      Extra AA OKOK Now what?      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s15
+
+C1   C3   C3   C1  
+---- ---- ---- ----
+<group_begin>
+AA   AA   AA   AA  
+AA   AA   AA   AA  
+BA   BA   BA   BA  
+BA   BA   BA   BA  
+DA   DA   DA   DA  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s16
+
+C1   C3  
+---- ----
+<group_begin>
+AA   AA  
+AA   AA  
+BA   BA  
+BA   BA  
+DA   DA  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s17
+
+c1   c1   c2       c3   c1  
+---- ---- -------- ---- ----
+<group_begin>
+AA   AA   BA       AA   AA  
+AA   AA   BA       AA   AA  
+BA   BA   AA       BA   BA  
+BA   BA   CA       BA   BA  
+DA   DA   CA       DA   DA  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s18
+
+C1   COL2    
+---- --------
+<group_begin>
+AA   BA      
+AA   BA      
+BA   AA      
+BA   CA      
+DA   CA      
+EA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s19
+
+C1
+----
+<group_begin>
+AA  
+AA  
+BA  
+BA  
+DA  
+EA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s20
+
+quotc1
+------
+<group_begin>
+AA    
+AA    
+BA    
+BA    
+DA    
+EA    
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s21
+
+C1
+----
+<group_begin>
+AA  
+AA  
+BA  
+BA  
+DA  
+EA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s22
+
+C1   COL2     C1   COL2    
+---- -------- ---- --------
+<group_begin>
+AA   BA       AA   BA      
+AA   BA       AA   BA      
+BA   AA       BA   AA      
+BA   CA       BA   CA      
+DA   CA       DA   CA      
+EA   DA       EA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s23
+
+dembeddedquoc"1 "col"2   (EXPR)          (EXPR)
+--------------- -------- --------------- ------
+<group_begin>
+AA              BA       dembeddedquoc'1 'col'2
+AA              BA       dembeddedquoc'1 'col'2
+BA              AA       dembeddedquoc'1 'col'2
+BA              CA       dembeddedquoc'1 'col'2
+DA              CA       dembeddedquoc'1 'col'2
+EA              DA       dembeddedquoc'1 'col'2
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

@@ -1,0 +1,49 @@
+<section_begin>  a07s01
+
+ORDERING CH1  CV1 
+-------- ---- ----
+<group_begin>
+1        a    z   
+2        b    2   
+3        c    z   
+4        d    4   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s02
+
+ORDERING CH1  CV1  PX1 
+-------- ---- ---- ----
+<group_begin>
+1        a    z    0   
+2        b    2    0   
+3        c    z    0   
+4        d    4    0   
+6        e    6    6   
+z        NULL 5    5   
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s03
+
+ORDERING CH1  CV1  PX1  CV2 
+-------- ---- ---- ---- ----
+<group_begin>
+1        a    z    0    NULL
+2        b    2    0    NULL
+3        c    z    0    NULL
+4        d    4    0    NULL
+6        e    6    6    NULL
+7        f    7    7    NULL
+z        NULL 5    5    NULL
+z        NULL 9    9    NULL
+z        NULL z    0    ZZZ 
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>

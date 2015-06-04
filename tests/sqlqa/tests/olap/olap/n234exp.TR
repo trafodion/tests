@@ -1,0 +1,787 @@
+<section_begin>  t03s17
+
+NUM        DEPTNUM    SALARY      SB                   STDDEV                  
+---------- ---------- ----------- -------------------- ------------------------
+<group_begin>
+         4          3    12000.00              1500.00                      0.0
+         1          1    12000.00              1800.00                      0.0
+         2          1    12000.00              1800.00                      0.0
+         3          2    12000.00                 NULL                      0.0
+         5          9    15000.00              7500.00                      0.0
+         6          2    18000.00              1500.00                      0.0
+         8          2    18000.00              3000.00                      0.0
+         7          5    18000.00              3000.00                      0.0
+        12          9    24000.00              1800.00                      0.0
+        10          3    24000.00              2000.00                      0.0
+         9          6    24000.00              2000.00                      0.0
+        11          3    24000.00                 NULL                      0.0
+        20          3    30000.00              1500.00                      0.0
+        19          5    30000.00                 NULL                      0.0
+        13          1    72000.00              1200.00                      0.0
+        15          2    90000.00              1000.00                      0.0
+        14          9    90000.00              1800.00                      0.0
+        16          5    90000.00              5000.00                      0.0
+        17          9    90000.00              5000.00                      0.0
+        18          1    92000.00              1000.00                      0.0
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  t03s5
+
+COMMISION   BONUS   RANK                
+----------- ------- --------------------
+<group_begin>
+        150    1500                    1
+        200    1800                    2
+        200    1800                    2
+       NULL    NULL                    4
+        200    7500                    1
+        150    1500                    1
+       1500    3000                    2
+       1500    3000                    3
+        500    2000                    1
+        500    2000                    2
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  t03s7
+
+NUM        DEPTNUM    SB          RANK                
+---------- ---------- ----------- --------------------
+<group_begin>
+         5          9        7500                    1
+         1          1       10200                    1
+         2          1       10200                    1
+         7          5       15000                    1
+         8          2       15000                    1
+         9          6       22000                    1
+        10          3       22000                    1
+        20          3       28500                    1
+         4          3       10500                    3
+         6          2       16500                    3
+        12          9       22200                    3
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  t03s8
+
+DEPTNUM    PAYGRADE   BONUS         RANK                
+---------- ---------- ------------- --------------------
+<group_begin>
+         1          1      1980.000                    1
+         1          1      1980.000                    1
+         3          1      1650.000                    3
+         2          3      1650.000                    1
+         3          4      2200.000                    1
+         6          4      2200.000                    2
+         9          4      1980.000                    3
+         3          5      1650.000                    1
+         1          6      1320.000                    1
+         2          7      1100.000                    1
+         9          7      1980.000                    2
+         1          8      1100.000                    1
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  t03s9
+
+NUM        DEPTNUM    BONUS     RANK                
+---------- ---------- --------- --------------------
+<group_begin>
+        13          1        60                    1
+        14          9        50                    1
+        15          2        90                    2
+        18          1        92                    1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  t03s10
+
+PAYGRADE   BONUS       RANK                
+---------- ----------- --------------------
+<group_begin>
+         1     1500.00                    1
+         1     1800.00                    2
+         1     1800.00                    2
+         1        NULL                    4
+         2     7500.00                    1
+         3     1500.00                    1
+         3     3000.00                    2
+         3     3000.00                    2
+         4     1800.00                    1
+         4     2000.00                    2
+         4     2000.00                    2
+         4        NULL                    4
+         5     1500.00                    1
+         5        NULL                    2
+         6     1200.00                    1
+         7     1000.00                    1
+         7     1800.00                    2
+         7     5000.00                    3
+         7     5000.00                    3
+         8     1000.00                    1
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  t03s15
+
+SALARY      COMMISION     BONUS       RANK                
+----------- ------------- ----------- --------------------
+<group_begin>
+   12000.00        150.00     1500.00                    1
+   12000.00        200.00     1800.00                    1
+   12000.00        200.00     1800.00                    1
+   12000.00          NULL        NULL                    1
+   18000.00        150.00     1500.00                    1
+   18000.00       1500.00     3000.00                    1
+   24000.00        500.00     2000.00                    1
+   24000.00          NULL        NULL                    1
+   30000.00          NULL     1500.00                    1
+   72000.00        200.00     1200.00                    1
+   90000.00        200.00     1000.00                    1
+   92000.00       1500.00     1000.00                    1
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  t03s16
+
+NUM        DEPTNUM    SALARY      RANK                
+---------- ---------- ----------- --------------------
+<group_begin>
+         1          1    12000.00                    1
+         2          1    12000.00                    1
+        13          1    72000.00                    1
+        18          1    92000.00                    1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  t03s18
+
+NUM        DEPTNUM    BONUS       MAXBONUS    RANK                
+---------- ---------- ----------- ----------- --------------------
+<group_begin>
+         3          2        NULL        NULL                    1
+        11          3        NULL        NULL                    1
+        20          3     1500.00     1500.00                    1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  t03s19
+
+NUM        DEPTNUM    BONUS       MAXBONUS    RANK                
+---------- ---------- ----------- ----------- --------------------
+<group_begin>
+         3          2        NULL        NULL                    1
+        11          3        NULL        NULL                    1
+        20          3     1500.00     1500.00                    1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  t03s20
+
+SALARY      COMMISION     BONUS       RANK                
+----------- ------------- ----------- --------------------
+<group_begin>
+   12000.00        150.00     1500.00                    1
+   12000.00        200.00     1800.00                    2
+   12000.00        200.00     1800.00                    2
+   15000.00        200.00     7500.00                    1
+   18000.00        150.00     1500.00                    1
+   18000.00       1500.00     3000.00                    2
+   18000.00       1500.00     3000.00                    2
+   24000.00        500.00     1800.00                    1
+   24000.00        500.00     2000.00                    2
+   24000.00        500.00     2000.00                    2
+   30000.00          NULL     1500.00                    1
+   72000.00        200.00     1200.00                    1
+   90000.00        200.00     1000.00                    1
+   90000.00        500.00     1800.00                    2
+   90000.00       2000.00     5000.00                    3
+   90000.00       2000.00     5000.00                    3
+   92000.00       1500.00     1000.00                    1
+<group_end>
+
+--- 17 row(s) selected.
+
+<section_end>
+<section_begin>  t03s21
+
+NUM        DEPTNUM    PAYGRADE   BONUS       RANK                
+---------- ---------- ---------- ----------- --------------------
+        18          1          8     1000.00                    1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t03s22
+
+SALARY      PAYGRADE   BONUS      
+----------- ---------- -----------
+<group_begin>
+   12000.00          1     1500.00
+   12000.00          1     1800.00
+   12000.00          1     1800.00
+   12000.00          1        NULL
+   15000.00          2     7500.00
+   18000.00          3     1500.00
+   18000.00          3     3000.00
+   18000.00          3     3000.00
+   24000.00          4     1800.00
+   24000.00          4     2000.00
+   24000.00          4     2000.00
+   24000.00          4        NULL
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  t03s24
+
+--- 0 row(s) selected.
+
+<section_end>
+<section_begin>  t03s26
+
+NUM        FIRSTNAME      LASTNAME                 DEPTNUM    RANK                
+---------- -------------- ------------------------ ---------- --------------------
+<group_begin>
+         4 Arnold         Yang                              3                    1
+         7 Arthur         Sharma                            5                    1
+        10 Abby           Zhang                             3                    1
+        11 Becky          Yurgu                             3                    2
+        19 Bill           Zacker                            5                    1
+        20 Bridget        Buick                             3                    2
+        16 Bruce          Andersen                          5                    1
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  t03s27
+
+NUM        FIRSTNAME      LASTNAME                 DEPTNUM    RANK                
+---------- -------------- ------------------------ ---------- --------------------
+<group_begin>
+         4 Arnold         Yang                              3                    1
+         7 Arthur         Sharma                            5                    1
+        10 Abby           Zhang                             3                    1
+        11 Becky          Yurgu                             3                    2
+        20 Bridget        Buick                             3                    1
+        19 Bill           Zacker                            5                    2
+        16 Bruce          Andersen                          5                    1
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  t03s28
+
+NUM        FIRSTNAME      DEPTNUM    R1          RANK                
+---------- -------------- ---------- ----------- --------------------
+<group_begin>
+         4 Arnold                  3       11862                    1
+         7 Arthur                  5       16605                    1
+        11 Becky                   3        NULL                    1
+        10 Abby                    3       23620                    2
+        20 Bridget                 3        NULL                    1
+        19 Bill                    5       21475                    2
+        16 Bruce                   5       88560                    1
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  t03s30
+
+LASTNAME                 MFIRST         MGEN RANK  
+------------------------ -------------- ---- ------
+<group_begin>
+Andersen                 Abby           F         1
+Zhang                    Abby           F         1
+Quan                     Abe            M         2
+Zacker                   Abe            M         2
+Wilbert                  Aloysius       M         1
+Li                       Amy            F         1
+Therber                  Arnold         M         1
+Yang                     Arnold         M         4
+Li                       Arthur         M         2
+Yurgu                    Becky          F         2
+Buick                    Bridget        F         1
+Linville                 Bruce          M         1
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+SALARY      GENDER PAYGRADE   RANK                
+----------- ------ ---------- --------------------
+<group_begin>
+   12000.00 F               1                    1
+   12000.00 M               1                    2
+   15000.00 F               2                    1
+   18000.00 F               3                    1
+   18000.00 M               3                    2
+   24000.00 F               4                    1
+   24000.00 M               4                    2
+   30000.00 F               5                    1
+   30000.00 M               5                    2
+   72000.00 M               6                    1
+   90000.00 F               7                    1
+   90000.00 M               7                    2
+   92000.00 M               8                    1
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a04s14
+
+NUM        DEPTNUM    COMMISION     BONUS       RANK                
+---------- ---------- ------------- ----------- --------------------
+<group_begin>
+         3          2          NULL        NULL                    1
+         6          2        150.00     1500.00                    1
+         8          2       1500.00     3000.00                    2
+         9          6        500.00     2000.00                    1
+        15          2        200.00     1000.00                    1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+PAYGRADE      SALARY      RANK                
+------------- ----------- --------------------
+<group_begin>
+            4    12000.00             12000.00
+            4    12000.00             12000.00
+            4    12000.00             12000.00
+            4    12000.00             12000.00
+            6    18000.00             18000.00
+            6    18000.00             18000.00
+            7    24000.00             24000.00
+            7    24000.00             24000.00
+            8    30000.00             30000.00
+            9    72000.00             72000.00
+           10    90000.00             90000.00
+           11    92000.00             92000.00
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+DGRADE               SALARY      RANK                
+-------------------- ----------- --------------------
+<group_begin>
+                   1    12000.00                    1
+                   1    12000.00                    2
+                   2    12000.00                    3
+                   3    12000.00                    4
+                   6    18000.00                    1
+                   6    18000.00                    2
+                  12    24000.00                    1
+                  12    24000.00                    2
+                  15    30000.00                    1
+                   6    72000.00                    1
+                  14    90000.00                    1
+                   8    92000.00                    1
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+SALGRADE  SALARY      RANK       
+--------- ----------- -----------
+<group_begin>
+ 12000.00    12000.00    12000.00
+ 12000.00    12000.00    12000.00
+ 12000.00    12000.00    12000.00
+ 12000.00    12000.00    12000.00
+  6000.00    18000.00    18000.00
+  6000.00    18000.00    18000.00
+  6000.00    24000.00    24000.00
+  6000.00    24000.00    24000.00
+  6000.00    30000.00    30000.00
+ 12000.00    72000.00    72000.00
+ 12857.14    90000.00    90000.00
+ 11500.00    92000.00    92000.00
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+PAYGRADE      SALARY      RANK       
+------------- ----------- -----------
+<group_begin>
+           -1    12000.00        NULL
+           -1    12000.00        NULL
+           -1    12000.00        NULL
+           -1    12000.00        NULL
+            1    18000.00        NULL
+            1    18000.00        NULL
+            2    24000.00        NULL
+            2    24000.00        NULL
+            3    30000.00        NULL
+            4    72000.00        NULL
+            5    90000.00        NULL
+            6    92000.00        NULL
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+NUM        PAYGRADE   PAY2        SALARY      RANK                
+---------- ---------- ----------- ----------- --------------------
+<group_begin>
+         1          1           1    12000.00             12000.00
+         2          1           1    12000.00             24000.00
+         3          1           1    12000.00             36000.00
+         4          1           1    12000.00             48000.00
+         6          3           9    18000.00             18000.00
+         8          3           9    18000.00             36000.00
+        10          4          16    24000.00             24000.00
+        11          4          16    24000.00             48000.00
+        20          5          25    30000.00             30000.00
+        13          6          36    72000.00             72000.00
+        15          7          49    90000.00             90000.00
+        18          8          64    92000.00             92000.00
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+SALARY      PAYGRADE   RANK                    
+----------- ---------- ------------------------
+<group_begin>
+   12000.00          1                     NULL
+   12000.00          1                     NULL
+   12000.00          1                      0.0
+   18000.00          3                     NULL
+   24000.00          4                     NULL
+   30000.00          5                     NULL
+   72000.00          6                     NULL
+   90000.00          7                     NULL
+   92000.00          8                     NULL
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a07s9
+
+SALARY      PAYGRADE   RANK                
+----------- ---------- --------------------
+<group_begin>
+   12000.00          1                    1
+   12000.00          1                    1
+   12000.00          1                    1
+   18000.00          3                    1
+   24000.00          4                    1
+   30000.00          5                    1
+   72000.00          6                    1
+   90000.00          7                    1
+   92000.00          8                    1
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a07s12
+
+SALARY      PAYGRADE   RANK                
+----------- ---------- --------------------
+<group_begin>
+   12000.00          1             13500.00
+   12000.00          1             13800.00
+   12000.00          1             13800.00
+   12000.00          1                 NULL
+   18000.00          3             19500.00
+   18000.00          3             21000.00
+   24000.00          4             26000.00
+   24000.00          4                 NULL
+   30000.00          5             31500.00
+   72000.00          6             73200.00
+   90000.00          7             91000.00
+   92000.00          8             93000.00
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a07s13
+
+SALARY      PAYGRADE   RANK                    
+----------- ---------- ------------------------
+<group_begin>
+   12000.00          1                      0.0
+   12000.00          1                      0.0
+   12000.00          1                      0.0
+   18000.00          3                      0.0
+   18000.00          3                      0.0
+   24000.00          4                      0.0
+   24000.00          4                      0.0
+   30000.00          5                      0.0
+   72000.00          6                      0.0
+   90000.00          7                      0.0
+   92000.00          8                      0.0
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a07s14
+
+NUM        DEPTNUM    SALARY      RANK                    
+---------- ---------- ----------- ------------------------
+<group_begin>
+         1          1    12000.00                      0.0
+         2          1    12000.00                      0.0
+         3          2    12000.00                      0.0
+         4          3    12000.00                      0.0
+         6          2    18000.00                      0.0
+         8          2    18000.00                      0.0
+        10          3    24000.00                      0.0
+        11          3    24000.00                      0.0
+        20          3    30000.00                      0.0
+        13          1    72000.00                      0.0
+        15          2    90000.00                      0.0
+        18          1    92000.00                      0.0
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a07s15
+
+SALARY      PAYGRADE   RANK                
+----------- ---------- --------------------
+<group_begin>
+   12000.00          1                 NULL
+   18000.00          3                 NULL
+   24000.00          4                 NULL
+   30000.00          5                 NULL
+   72000.00          6                 NULL
+   90000.00          7                 NULL
+   92000.00          8                 NULL
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a07s18
+
+SALARY      PAYGRADE   RANK       
+----------- ---------- -----------
+<group_begin>
+   12000.00          1    12000.00
+   12000.00          1    12000.00
+   12000.00          1    12000.00
+   18000.00          3    18000.00
+   18000.00          3    18000.00
+   24000.00          4    24000.00
+   24000.00          4    24000.00
+   30000.00          5    30000.00
+   72000.00          6    72000.00
+   90000.00          7    90000.00
+   92000.00          8    92000.00
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a07s20
+
+FIRSTNAME      SALARY                   RANK
+-------------- ------------------------ ----
+<group_begin>
+Abby                         1.440001E8 F   
+Abe                          1.440001E8 M   
+Abe                          1.440001E8 M   
+Arnold                       1.440001E8 M   
+Amy                          3.240001E8 F   
+Arthur                       3.240001E8 M   
+Abby                         5.760001E8 F   
+Becky                        5.760001E8 F   
+Bridget                      9.000001E8 F   
+Aloysius                    5.1840001E9 M   
+Arnold                      8.1000001E9 M   
+Bruce                       8.4640001E9 M   
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a07s32
+
+PAYGRADE   SALARY      BONUS       SUMS        AVGS        MINS        MAXS        STDS        VARS        RANK                
+---------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- --------------------
+<group_begin>
+         1    12000.00     1500.00       24000          11        3000        1500        NULL        NULL                    1
+         3    18000.00     3000.00       36000          13        6000        1000        NULL        NULL                    1
+         4    24000.00     2000.00       48000          14        4000         500        NULL        NULL                    1
+         5    30000.00     1500.00       60000          15        3000         300        NULL        NULL                    1
+         7    90000.00     5000.00      180000          17       10000         714        NULL        NULL                    1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a09s5
+
+SALARY      CB          ROWCNT              
+----------- ----------- --------------------
+<group_begin>
+   12000.00        1650                    4
+   12000.00        2000                    3
+   18000.00        1650                    3
+   12000.00        2000                    2
+   18000.00        4500                    2
+   24000.00        2500                    2
+   12000.00        NULL                    1
+   15000.00        7700                    1
+   18000.00        4500                    1
+   24000.00        2500                    1
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a09s5a
+
+NUM        DEPTNUM    SALARY      CB          ROWCNT              
+---------- ---------- ----------- ----------- --------------------
+<group_begin>
+         3          2    12000.00        NULL                    1
+         5          9    15000.00        7700                    2
+         7          5    18000.00        4500                    3
+         8          2    18000.00        4500                    4
+         9          6    24000.00        2500                    5
+        10          3    24000.00        2500                    6
+         1          1    12000.00        2000                    7
+         2          1    12000.00        2000                    8
+         4          3    12000.00        1650                    9
+         6          2    18000.00        1650                   10
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a09s7
+
+ROWCNT               SB          SALARY     
+-------------------- ----------- -----------
+<group_begin>
+                   1       10200    12000.00
+                   2       10200    12000.00
+                   3       10500    12000.00
+                   1        7500    15000.00
+                   1       15000    18000.00
+                   2       15000    18000.00
+                   3       16500    18000.00
+                   1       22000    24000.00
+                   2       22000    24000.00
+                   3       22200    24000.00
+                   1       28500    30000.00
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a09s21
+
+NUM        DEPTNUM    PAYGRADE   BONUS       ROWCNT              
+---------- ---------- ---------- ----------- --------------------
+        18          1          8     1000.00                    1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s22
+
+PAYGRADE   BONUS       ROWCNT              
+---------- ----------- --------------------
+<group_begin>
+         1     1800.00                    1
+         1     1800.00                    2
+         1        NULL                    3
+         1     1500.00                    4
+         2     7500.00                    1
+         3     1500.00                    1
+         3     3000.00                    2
+         3     3000.00                    3
+         4     2000.00                    1
+         4        NULL                    2
+         4     2000.00                    3
+         4     1800.00                    4
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s27
+
+NUM        FIRSTNAME      LASTNAME                 DEPTNUM    ROWCNT              
+---------- -------------- ------------------------ ---------- --------------------
+<group_begin>
+        10 Abby           Zhang                             3                    1
+         4 Arnold         Yang                              3                    1
+         7 Arthur         Sharma                            5                    1
+        20 Bridget        Buick                             3                    1
+        16 Bruce          Andersen                          5                    1
+        11 Becky          Yurgu                             3                    2
+        19 Bill           Zacker                            5                    2
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a09s28
+
+NUM        FIRSTNAME      DEPTNUM    R1          ROWCNT              
+---------- -------------- ---------- ----------- --------------------
+<group_begin>
+         4 Arnold                  3       11862                    1
+         7 Arthur                  5       16605                    1
+        11 Becky                   3        NULL                    1
+        10 Abby                    3       23620                    2
+        20 Bridget                 3        NULL                    1
+        19 Bill                    5       21475                    2
+        16 Bruce                   5       88560                    1
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

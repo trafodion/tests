@@ -1,0 +1,18 @@
+<section_begin>  test017a
+
+Count                Max             Min            
+-------------------- --------------- ---------------
+                 100       31529.465      -32235.297
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test017b
+
+Avg                      Sum                     
+------------------------ ------------------------
+        6345.97421233187        615559.4985961914
+
+--- 1 row(s) selected.
+
+<section_end>

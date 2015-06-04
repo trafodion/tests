@@ -1,0 +1,15 @@
+<section_begin>  a12s5
+
+SBIN0_UNIQ UBIN1_N2 SDEC0_N500           REAL1_UNIQ      (EXPR)                       
+---------- -------- -------------------- --------------- -----------------------------
+<group_begin>
+         3     NULL                  387          102.36 value is neither zero nor one
+         1        0                  447          1013.6 value is neither zero nor one
+         0        0                  255          1019.5 value is neither zero nor one
+         4     NULL                  440         10251.0 value is neither zero nor one
+         2     NULL                  410         10222.0 value is neither zero nor one
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

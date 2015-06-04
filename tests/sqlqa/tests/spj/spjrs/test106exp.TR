@@ -1,0 +1,22 @@
+<section_begin>  verify
+<group_begin>
+
+*** WARNING[11236] Stored procedure TRAFODION.SPJ_SPJRS.RS202 attempted to return too many result sets. The maximum number of result sets this procedure can return is 2 and the procedure body attempted to return 3. [****-**-** **:**:**]
+E_CITY
+---------------
+San Francisco  
+San Francisco  
+
+--- 2 row(s) selected.
+
+E_DATE
+----------
+2001-10-30
+2001-10-30
+
+--- 2 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

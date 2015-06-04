@@ -1,0 +1,502 @@
+<section_begin>  a01s0
+
+CHAR_1
+------
+<group_begin>
+D     
+A     
+A     
+D     
+E     
+C     
+C     
+D     
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+CHAR_1
+------
+C     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+CHAR_1 CHAR_1
+------ ------
+<group_begin>
+C      C     
+C      C     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+CHAR_1 CHAR_1
+------ ------
+<group_begin>
+C      C     
+C      C     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+CHAR_1
+------
+<group_begin>
+D     
+A     
+A     
+D     
+E     
+C     
+C     
+D     
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+CHAR_1
+------
+C     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+CHAR_1 CHAR_1
+------ ------
+<group_begin>
+C      C     
+C      C     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+CHAR_1 CHAR_1
+------ ------
+<group_begin>
+C      C     
+C      C     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+CHAR_1
+------
+<group_begin>
+D     
+A     
+A     
+D     
+E     
+C     
+C     
+D     
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+CHAR_1
+------
+C     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+CHAR_1 CHAR_1
+------ ------
+<group_begin>
+D      NULL  
+A      NULL  
+A      NULL  
+D      NULL  
+E      NULL  
+C      C     
+C      C     
+D      NULL  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+CHAR_1
+------
+<group_begin>
+D     
+A     
+A     
+D     
+E     
+C     
+C     
+D     
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+CHAR_1
+------
+C     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+CHAR_1 CHAR_1
+------ ------
+<group_begin>
+D      NULL  
+A      NULL  
+A      NULL  
+D      NULL  
+E      NULL  
+C      C     
+C      C     
+D      NULL  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+CHAR_1 CHAR_1
+------ ------
+<group_begin>
+C      C     
+C      C     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+VAR_CHAR_3
+----------
+rum       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+VAR_CHAR_3
+----------
+<group_begin>
+AbC       
+rum       
+zy        
+zz        
+NULL      
+NULL      
+NULL      
+NULL      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+VAR_CHAR_3 VAR_CHAR_3
+---------- ----------
+rum        rum       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s18
+
+SMALL_INT
+---------
+<group_begin>
+       90
+       10
+     1000
+       80
+     2000
+     9000
+     8000
+       90
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s19
+
+SMALL_INT
+---------
+<group_begin>
+     9000
+     NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s20
+
+SMALL_INT SMALL_INT
+--------- ---------
+<group_begin>
+       90      NULL
+       10      NULL
+     1000      NULL
+       80      NULL
+     2000      NULL
+     9000      9000
+     8000      NULL
+       90      NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s21
+
+PIC_DECIMAL_2
+-------------
+        0.700
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s22
+
+PIC_DECIMAL_2
+-------------
+        0.002
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s23
+
+PIC_DECIMAL_2 PIC_DECIMAL_2
+------------- -------------
+        0.700          NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s24
+
+Y_TO_D
+----------
+1975-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s25
+
+Y_TO_D
+----------
+1975-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s26
+
+Y_TO_D     Y_TO_D    
+---------- ----------
+1975-01-01 1975-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s27
+
+IH_TO_S
+----------------
+ 1:02:03.000000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s28
+
+IH_TO_S
+----------------
+ 1:02:03.000000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s29
+
+IH_TO_S          IH_TO_S         
+---------------- ----------------
+ 1:02:03.000000   1:02:03.000000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s30
+
+FLOAT_BASIC
+------------------------
+                     1.2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s31
+
+FLOAT_DOUBLE_P
+------------------------
+                     1.2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s32
+
+FLOAT_BASIC              FLOAT_BASIC             
+------------------------ ------------------------
+                     1.2                      1.2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s33
+
+FLOAT_DOUBLE_P           FLOAT_DOUBLE_P          
+------------------------ ------------------------
+                     1.2                      1.2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s34
+
+SELECTOR TWO_FOUR_BIN ONE_ONE_BIN
+-------- ------------ -----------
+<group_begin>
+A              1.1001         1.1
+B              1.0016         0.1
+C              0.0001         9.9
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s35
+
+SELECTOR TWO_FOUR_BIN ONE_ONE_BIN
+-------- ------------ -----------
+<group_begin>
+A              1.1001         1.1
+B              1.0016         0.1
+C              0.0001         9.9
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s36
+
+SELECTOR TWO_FOUR_BIN ONE_ONE_BIN SELECTOR TWO_FOUR_BIN ONE_ONE_BIN
+-------- ------------ ----------- -------- ------------ -----------
+<group_begin>
+A              1.1001         1.1 A              1.1001         1.1
+B              1.0016         0.1 B              1.0016         0.1
+C              0.0001         9.9 C              0.0001         9.9
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s37
+
+SELECTOR TWO_FOUR_BIN ONE_ONE_BIN SELECTOR TWO_FOUR_BIN ONE_ONE_BIN
+-------- ------------ ----------- -------- ------------ -----------
+<group_begin>
+A              1.1001         1.1 A              1.1001         1.1
+B              1.0016         0.1 B              1.0016         0.1
+C              0.0001         9.9 C              0.0001         9.9
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s38
+
+SELECTOR TWO_FOUR_BIN ONE_ONE_BIN SELECTOR TWO_FOUR_BIN ONE_ONE_BIN
+-------- ------------ ----------- -------- ------------ -----------
+<group_begin>
+A              1.1001         1.1 A              1.1001         1.1
+B              1.0016         0.1 B              1.0016         0.1
+C              0.0001         9.9 C              0.0001         9.9
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s39
+
+SELECTOR TWO_FOUR_BIN ONE_ONE_BIN SELECTOR TWO_FOUR_BIN ONE_ONE_BIN
+-------- ------------ ----------- -------- ------------ -----------
+<group_begin>
+A              1.1001         1.1 A              1.1001         1.1
+B              1.0016         0.1 B              1.0016         0.1
+C              0.0001         9.9 C              0.0001         9.9
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s40
+
+SELECTOR TWO_FOUR_BIN ONE_ONE_BIN SELECTOR TWO_FOUR_BIN ONE_ONE_BIN
+-------- ------------ ----------- -------- ------------ -----------
+<group_begin>
+A              1.1001         1.1 A              1.1001         1.1
+A              1.1001         1.1 B              1.0016         0.1
+A              1.1001         1.1 C              0.0001         9.9
+B              1.0016         0.1 A              1.1001         1.1
+B              1.0016         0.1 B              1.0016         0.1
+B              1.0016         0.1 C              0.0001         9.9
+C              0.0001         9.9 A              1.1001         1.1
+C              0.0001         9.9 B              1.0016         0.1
+C              0.0001         9.9 C              0.0001         9.9
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>

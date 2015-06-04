@@ -1,0 +1,190 @@
+<section_begin>  a04s0
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+a            1 a           0.90 NULL    NULL NULL       0
+abcdefg      3 cc          0.09 alph     2.0 cc         1
+abcdefg      5 cc          0.09 cc       2.0 cc         2
+b            4 c     1234567.89 e     1234.5 c      12345
+cc           2 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+COUNT_TTF_VCH7       VCH7    VCH7   
+-------------------- ------- -------
+<group_begin>
+                   5 a       abcdefg
+                   5 a       abcdefg
+                   5 a       b      
+                   5 a       cc     
+                   5 abcdefg b      
+                   5 abcdefg b      
+                   5 abcdefg cc     
+                   5 abcdefg cc     
+                   5 b       cc     
+                   5 cc      NULL   
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+COUNT_TTF_VCH7       VCH7    VCH7   
+-------------------- ------- -------
+<group_begin>
+                   5 a       cc     
+                   5 abcdefg cc     
+                   5 abcdefg cc     
+                   5 b       cc     
+                   5 cc      cc     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+(EXPR)
+-------
+cc     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+COUNT_TTF_VCH7       VCH7    VCH7   
+-------------------- ------- -------
+<group_begin>
+                   5 a       cc     
+                   5 abcdefg cc     
+                   5 abcdefg cc     
+                   5 b       cc     
+                   5 cc      cc     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+COUNT_TTF_VCH7       VCH7    VCH7   
+-------------------- ------- -------
+<group_begin>
+                   5 a       cc     
+                   5 abcdefg cc     
+                   5 abcdefg cc     
+                   5 b       cc     
+                   5 cc      cc     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+COUNT_TTF_VCH7       VCH7    VCH7   
+-------------------- ------- -------
+<group_begin>
+                   5 a       cc     
+                   5 abcdefg cc     
+                   5 abcdefg cc     
+                   5 b       cc     
+                   5 cc      cc     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+(EXPR)
+-------
+cc     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+COUNT_TTF_VCH7       T1_VCH7 T2_VCH7
+-------------------- ------- -------
+<group_begin>
+                   5 a       a      
+                   5 a       abcdefg
+                   5 a       abcdefg
+                   5 a       b      
+                   5 a       cc     
+                   5 abcdefg a      
+                   5 abcdefg a      
+                   5 abcdefg abcdefg
+                   5 abcdefg abcdefg
+                   5 abcdefg abcdefg
+                   5 abcdefg abcdefg
+                   5 abcdefg b      
+                   5 abcdefg b      
+                   5 abcdefg cc     
+                   5 abcdefg cc     
+                   5 b       a      
+                   5 b       abcdefg
+                   5 b       abcdefg
+                   5 b       b      
+                   5 b       cc     
+                   5 cc      NULL   
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+COUNT_TTF_VCH7       T1_VCH7 T2_VCH7
+-------------------- ------- -------
+<group_begin>
+                   5 a       a      
+                   5 a       abcdefg
+                   5 a       abcdefg
+                   5 a       b      
+                   5 a       cc     
+                   5 abcdefg a      
+                   5 abcdefg a      
+                   5 abcdefg abcdefg
+                   5 abcdefg abcdefg
+                   5 abcdefg abcdefg
+                   5 abcdefg abcdefg
+                   5 abcdefg b      
+                   5 abcdefg b      
+                   5 abcdefg cc     
+                   5 abcdefg cc     
+                   5 b       a      
+                   5 b       abcdefg
+                   5 b       abcdefg
+                   5 b       b      
+                   5 b       cc     
+                   5 cc      NULL   
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+COUNT_TTF_VCH7       T1_VCH7 T2_VCH7
+-------------------- ------- -------
+<group_begin>
+                   5 a       NULL   
+                   5 abcdefg NULL   
+                   5 abcdefg NULL   
+                   5 b       NULL   
+                   5 cc      NULL   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

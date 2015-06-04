@@ -1,0 +1,15 @@
+<section_begin>  verify
+<group_begin>
+
+A          B          C         
+---------- ---------- ----------
+Radha      Rajani     Ramya     
+Sumathy    Sindhu     Sneha     
+Manasa     Manjula    Meghana   
+
+--- 3 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

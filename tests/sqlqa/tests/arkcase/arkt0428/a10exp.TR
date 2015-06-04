@@ -1,0 +1,162 @@
+<section_begin>  a10s1
+
+A           B           (EXPR)              
+----------- ----------- --------------------
+<group_begin>
+          0           0                    1
+          1           1                    1
+          2           2                    1
+          3           3                    1
+          4           4                    1
+          5           5                    1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s3
+
+A           B           (EXPR)              
+----------- ----------- --------------------
+<group_begin>
+          0           0                    1
+          1           1                    1
+          2           2                    1
+          3           3                    1
+          4           4                    1
+          5           5                    1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s5
+
+A
+-----------
+<group_begin>
+          0
+          1
+          2
+          3
+          4
+          5
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s7
+
+A           (EXPR)              
+----------- --------------------
+<group_begin>
+          0                    1
+          1                    1
+          2                    1
+          3                    1
+          4                    1
+          5                    1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s9
+
+A
+-----------
+<group_begin>
+          0
+          1
+          2
+          3
+          4
+          5
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s11
+
+A
+-----------
+<group_begin>
+          2
+          3
+          5
+          1
+          0
+          4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s13
+
+A           (EXPR)              
+----------- --------------------
+<group_begin>
+          2                    1
+          3                    1
+          5                    1
+          1                    1
+          0                    1
+          4                    1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s15
+
+A
+-----------
+<group_begin>
+          1
+          2
+          3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a10s17
+
+A           (EXPR)              
+----------- --------------------
+<group_begin>
+          1                    1
+          2                    1
+          3                    1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a10s19
+
+A           (EXPR)              
+----------- --------------------
+<group_begin>
+          2                    1
+          3                    1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a10s21
+
+A
+-----------
+<group_begin>
+          2
+          3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

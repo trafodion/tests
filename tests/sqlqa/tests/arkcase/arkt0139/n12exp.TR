@@ -1,0 +1,13 @@
+<section_begin>  n12s2
+
+DECIMAL_2_SIGNED (EXPR)               ORDERING
+---------------- -------------------- --------
+<group_begin>
+            0.10                 NULL        1
+            0.20                 NULL        2
+            NULL                 NULL        3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

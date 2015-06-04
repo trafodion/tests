@@ -1,0 +1,333 @@
+<section_begin>  a08s0
+
+(EXPR)
+----------------
+<group_begin>
+00000000bjaaiaaa
+00000001feaasaaa
+00000002agaahaaa
+00000003ahaafaaa
+00000004ejaajaaa
+00000005fiaadaaa
+00000006ejaaraaa
+00000007ajaasaaa
+00001466ddaaoaaa
+00001467abaaoaaa
+00001468egaakaaa
+00001469akaaqaaa
+00001470fhaaeaaa
+00001471fdaaiaaa
+00001472ciaadaaa
+00001473ejaataaa
+00001474ehaaiaaa
+00001475ddaanaaa
+00001476feaamaaa
+00001477ddaaraaa
+00001478ciaabaaa
+00001479fbaajaaa
+00001480bfaaqaaa
+00001481dfaaaaaa
+00001482aiaafaaa
+00001483dfaapaaa
+00001484bfaaiaaa
+00001485bdaahaaa
+00001486eeaabaaa
+00001487geaafaaa
+00001488feaapaaa
+00001489bcaacaaa
+00001490fiaaiaaa
+00001491fgaasaaa
+00001492afaafaaa
+00001493ajaamaaa
+00001494ffaaoaaa
+00001495ceaacaaa
+00001496bdaamaaa
+00001497cgaafaaa
+00001498baaakaaa
+00001499beaaraaa
+<group_end>
+
+--- 42 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+(EXPR)
+----------------
+<group_begin>
+00000000bjaaiaaa
+00000001feaasaaa
+00000002agaahaaa
+00000003ahaafaaa
+00000004ejaajaaa
+00000005fiaadaaa
+00000006ejaaraaa
+00000007ajaasaaa
+00001466ddaaoaaa
+00001467abaaoaaa
+00001468egaakaaa
+00001469akaaqaaa
+00001470fhaaeaaa
+00001471fdaaiaaa
+00001472ciaadaaa
+00001473ejaataaa
+00001474ehaaiaaa
+00001475ddaanaaa
+00001476feaamaaa
+00001477ddaaraaa
+00001478ciaabaaa
+00001479fbaajaaa
+00001480bfaaqaaa
+00001481dfaaaaaa
+00001482aiaafaaa
+00001483dfaapaaa
+00001484bfaaiaaa
+00001485bdaahaaa
+00001486eeaabaaa
+00001487geaafaaa
+00001488feaapaaa
+00001489bcaacaaa
+00001490fiaaiaaa
+00001491fgaasaaa
+00001492afaafaaa
+00001493ajaamaaa
+00001494ffaaoaaa
+00001495ceaacaaa
+00001496bdaamaaa
+00001497cgaafaaa
+00001498baaakaaa
+00001499beaaraaa
+<group_end>
+
+--- 42 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+CHAR0_09_UNIQ VARCHAR1_UNIQ (EXPR)          
+------------- ------------- ----------------
+<group_begin>
+00001401      AEAAJAAA      00001401feaaqaaa
+00001402      GKAAFAAA      00001402djaapaaa
+00001403      DEAAOAAA      00001403ejaahaaa
+00001404      AHAARAAA      00001404gkaapaaa
+00001405      CBAAOAAA      00001405ekaabaaa
+00001406      DKAALAAA      00001406gcaacaaa
+00001407      DBAABAAA      00001407fiaaaaaa
+00001408      EEAABAAA      00001408ahaapaaa
+00001409      DKAAFAAA      00001409cjaakaaa
+00001410      AJAARAAA      00001410cjaahaaa
+00001411      EEAAEAAA      00001411fkaaaaaa
+00001412      BFAAAAAA      00001412cbaakaaa
+00001413      CJAAQAAA      00001413cfaahaaa
+00001414      BBAAKAAA      00001414caaalaaa
+00001415      FKAAQAAA      00001415ccaaeaaa
+00001416      BJAAAAAA      00001416eiaaiaaa
+00001417      AKAAPAAA      00001417akaalaaa
+00001418      BKAANAAA      00001418egaadaaa
+00001419      GGAAFAAA      00001419dkaasaaa
+00001420      CDAAHAAA      00001420ehaajaaa
+00001421      DHAAPAAA      00001421agaaaaaa
+00001422      DDAACAAA      00001422adaagaaa
+00001423      EAAARAAA      00001423diaaeaaa
+00001424      CIAAIAAA      00001424dcaadaaa
+00001425      CIAADAAA      00001425dcaapaaa
+00001426      GEAAQAAA      00001426deaamaaa
+00001427      CEAAEAAA      00001427bdaajaaa
+00001428      BKAATAAA      00001428fkaakaaa
+00001429      DAAABAAA      00001429gfaabaaa
+00001430      AHAAKAAA      00001430eeaalaaa
+00001431      DGAAHAAA      00001431dgaanaaa
+00001432      FIAANAAA      00001432ejaabaaa
+00001433      GBAASAAA      00001433chaagaaa
+00001434      CAAASAAA      00001434agaaqaaa
+00001435      EAAAOAAA      00001435caaanaaa
+00001436      ABAAIAAA      00001436acaabaaa
+00001437      DBAAPAAA      00001437dcaaiaaa
+00001438      CCAAPAAA      00001438deaakaaa
+00001439      ABAAEAAA      00001439ehaaeaaa
+00001440      EJAAJAAA      00001440ceaaoaaa
+00001441      FDAAAAAA      00001441gcaadaaa
+00001442      BJAACAAA      00001442ggaasaaa
+00001443      ABAAKAAA      00001443fkaataaa
+00001444      FGAASAAA      00001444fcaabaaa
+00001445      GKAAHAAA      00001445aaaafaaa
+00001446      BBAAHAAA      00001446fjaadaaa
+00001447      BIAASAAA      00001447ehaaqaaa
+00001448      FAAARAAA      00001448biaadaaa
+00001449      AKAAOAAA      00001449fjaapaaa
+00001450      EGAALAAA      00001450efaafaaa
+00001451      DDAALAAA      00001451akaabaaa
+00001452      EDAACAAA      00001452biaalaaa
+00001453      DEAALAAA      00001453ebaabaaa
+00001454      BHAAEAAA      00001454acaalaaa
+00001455      GHAAPAAA      00001455cdaaoaaa
+00001456      DCAAKAAA      00001456fhaataaa
+00001457      AFAAKAAA      00001457ceaataaa
+00001458      GKAAMAAA      00001458dfaalaaa
+00001459      DFAAMAAA      00001459baaacaaa
+00001460      AFAASAAA      00001460djaaqaaa
+00001461      BDAAQAAA      00001461aaaamaaa
+00001462      GJAAKAAA      00001462ehaadaaa
+00001463      EKAACAAA      00001463ajaakaaa
+00001464      DJAAMAAA      00001464abaadaaa
+00001465      GDAATAAA      00001465biaabaaa
+00001466      DFAAOAAA      00001466ddaaoaaa
+00001467      BGAAKAAA      00001467abaaoaaa
+00001468      CFAAOAAA      00001468egaakaaa
+00001469      AFAAGAAA      00001469akaaqaaa
+00001470      DKAAIAAA      00001470fhaaeaaa
+00001471      CIAAGAAA      00001471fdaaiaaa
+00001472      EKAAHAAA      00001472ciaadaaa
+00001473      DIAATAAA      00001473ejaataaa
+00001474      CGAAEAAA      00001474ehaaiaaa
+00001475      GJAAAAAA      00001475ddaanaaa
+00001476      AIAAHAAA      00001476feaamaaa
+00001477      CKAALAAA      00001477ddaaraaa
+00001478      EKAARAAA      00001478ciaabaaa
+00001479      AIAAFAAA      00001479fbaajaaa
+00001480      EHAAPAAA      00001480bfaaqaaa
+00001481      EFAAHAAA      00001481dfaaaaaa
+00001482      GHAASAAA      00001482aiaafaaa
+00001483      BIAAIAAA      00001483dfaapaaa
+00001484      EGAAHAAA      00001484bfaaiaaa
+00001485      CGAATAAA      00001485bdaahaaa
+00001486      AEAACAAA      00001486eeaabaaa
+00001487      BFAADAAA      00001487geaafaaa
+00001488      GFAAJAAA      00001488feaapaaa
+00001489      FHAAKAAA      00001489bcaacaaa
+00001490      FGAAQAAA      00001490fiaaiaaa
+00001491      CFAADAAA      00001491fgaasaaa
+00001492      ECAALAAA      00001492afaafaaa
+00001493      FCAABAAA      00001493ajaamaaa
+00001494      DFAALAAA      00001494ffaaoaaa
+00001495      BDAAMAAA      00001495ceaacaaa
+00001496      CIAACAAA      00001496bdaamaaa
+00001497      GJAABAAA      00001497cgaafaaa
+00001498      CJAABAAA      00001498baaakaaa
+00001499      EFAAPAAA      00001499beaaraaa
+<group_end>
+
+--- 99 row(s) selected.
+
+<section_end>
+<section_begin>  a08s3
+
+CHAR0_09_UNIQ VARCHAR1_UNIQ (EXPR)          
+------------- ------------- ----------------
+<group_begin>
+00000150      AKAAQAAA      00000150ebaaoaaa
+00001106      GGAAQAAA      00001106cjaaoaaa
+00001382      CEAACAAA      00001382dkaafaaa
+00001421      DHAAPAAA      00001421agaaaaaa
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s4
+
+UDEC1_UNIQ  CHAR0_09_UNIQ (EXPR)                  
+----------- ------------- ------------------------
+<group_begin>
+         15 00000022      FHAABAAA00000022fkaadaaa
+          6 00000067      DBAAHAAA00000067ecaafaaa
+          3 00000150      AKAAQAAA00000150ebaaoaaa
+         13 00000340      GAAALAAA00000340ccaaraaa
+          5 00000375      CEAAOAAA00000375fbaanaaa
+         18 00000421      FBAAEAAA00000421fdaamaaa
+          7 00000425      BEAAJAAA00000425ebaajaaa
+         14 00000434      BBAAPAAA00000434fkaalaaa
+         22 00000613      BCAAQAAA00000613eaaabaaa
+         19 00000754      ABAASAAA00000754cgaacaaa
+         23 00000905      EHAARAAA00000905ffaacaaa
+          9 00000995      FJAAFAAA00000995afaadaaa
+          8 00001016      AJAAPAAA00001016cgaahaaa
+         10 00001093      EGAAKAAA00001093afaaraaa
+          1 00001106      GGAAQAAA00001106cjaaoaaa
+         16 00001186      BCAABAAA00001186cdaasaaa
+         11 00001226      DEAANAAA00001226edaaeaaa
+         17 00001259      DKAAEAAA00001259djaakaaa
+          4 00001382      CEAACAAA00001382dkaafaaa
+          2 00001421      DHAAPAAA00001421agaaaaaa
+         20 00001423      EAAARAAA00001423diaaeaaa
+         21 00001440      EJAAJAAA00001440ceaaoaaa
+         25 00001448      FAAARAAA00001448biaadaaa
+         24 00001465      GDAATAAA00001465biaabaaa
+         12 00001468      CFAAOAAA00001468egaakaaa
+<group_end>
+
+--- 25 row(s) selected.
+
+<section_end>
+<section_begin>  a08s5
+
+UDEC1_UNIQ  CHAR0_09_UNIQ VARCHAR1_UNIQ (EXPR)          
+----------- ------------- ------------- ----------------
+<group_begin>
+         15 00000022      FHAABAAA      00000022fkaadaaa
+          6 00000067      DBAAHAAA      00000067ecaafaaa
+          3 00000150      AKAAQAAA      00000150ebaaoaaa
+         13 00000340      GAAALAAA      00000340ccaaraaa
+         26 00000374      CFAABAAA      00000374fdaanaaa
+          5 00000375      CEAAOAAA      00000375fbaanaaa
+         18 00000421      FBAAEAAA      00000421fdaamaaa
+          7 00000425      BEAAJAAA      00000425ebaajaaa
+         14 00000434      BBAAPAAA      00000434fkaalaaa
+         22 00000613      BCAAQAAA      00000613eaaabaaa
+         19 00000754      ABAASAAA      00000754cgaacaaa
+         23 00000905      EHAARAAA      00000905ffaacaaa
+          9 00000995      FJAAFAAA      00000995afaadaaa
+          8 00001016      AJAAPAAA      00001016cgaahaaa
+         10 00001093      EGAAKAAA      00001093afaaraaa
+          1 00001106      GGAAQAAA      00001106cjaaoaaa
+         16 00001186      BCAABAAA      00001186cdaasaaa
+         11 00001226      DEAANAAA      00001226edaaeaaa
+         17 00001259      DKAAEAAA      00001259djaakaaa
+          4 00001382      CEAACAAA      00001382dkaafaaa
+          2 00001421      DHAAPAAA      00001421agaaaaaa
+         20 00001423      EAAARAAA      00001423diaaeaaa
+         21 00001440      EJAAJAAA      00001440ceaaoaaa
+         25 00001448      FAAARAAA      00001448biaadaaa
+         24 00001465      GDAATAAA      00001465biaabaaa
+         12 00001468      CFAAOAAA      00001468egaakaaa
+<group_end>
+
+--- 26 row(s) selected.
+
+<section_end>
+<section_begin>  a08s6
+
+UDEC1_UNIQ  CHAR0_09_UNIQ VARCHAR1_UNIQ (EXPR)          
+----------- ------------- ------------- ----------------
+<group_begin>
+        393 00001460      AFAASAAA      00001460djaaqaaa
+        718 00001461      BDAAQAAA      00001461aaaamaaa
+       1184 00001462      GJAAKAAA      00001462ehaadaaa
+        383 00001463      EKAACAAA      00001463ajaakaaa
+        492 00001464      DJAAMAAA      00001464abaadaaa
+         24 00001465      GDAATAAA      00001465biaabaaa
+        174 00001466      DFAAOAAA      00001466ddaaoaaa
+        791 00001467      BGAAKAAA      00001467abaaoaaa
+         12 00001468      CFAAOAAA      00001468egaakaaa
+       1286 00001469      AFAAGAAA      00001469akaaqaaa
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a08s7
+
+UDEC1_UNIQ  CHAR0_09_UNIQ VARCHAR1_UNIQ (EXPR)          
+----------- ------------- ------------- ----------------
+<group_begin>
+          3 00000150      AKAAQAAA      00000150ebaaoaaa
+          1 00001106      GGAAQAAA      00001106cjaaoaaa
+          0 00001265      DBAALAAA      00001265adaaiaaa
+          4 00001382      CEAACAAA      00001382dkaafaaa
+          2 00001421      DHAAPAAA      00001421agaaaaaa
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

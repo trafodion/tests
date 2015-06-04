@@ -1,0 +1,111 @@
+<section_begin>  n02s0
+
+Z           W          
+----------- -----------
+        200           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n02s1
+
+Y           Z          
+----------- -----------
+<group_begin>
+         10         100
+         20         200
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  n02s2
+
+Y           Z           W          
+----------- ----------- -----------
+         20         200           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n02s3
+
+X           Y          
+----------- -----------
+<group_begin>
+          1          10
+          1          20
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  n02s4
+
+Y           Z           W          
+----------- ----------- -----------
+         20         200           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n02s5
+
+X           Y           Y           Z           W          
+----------- ----------- ----------- ----------- -----------
+<group_begin>
+          1          10        NULL        NULL        NULL
+          1          20          20         200           3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  n02s10
+
+X           Y           Y           Z           W          
+----------- ----------- ----------- ----------- -----------
+<group_begin>
+          1          10        NULL        NULL        NULL
+          1          20        NULL        NULL        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  n02s15
+
+X           Y           Y           Z           W          
+----------- ----------- ----------- ----------- -----------
+<group_begin>
+          1          10        NULL        NULL        NULL
+          1          20        NULL        NULL        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  n02s16
+
+Y           Z          
+----------- -----------
+<group_begin>
+         10         100
+         20         200
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  n02s18
+
+X           Y           Y           Z           W          
+----------- ----------- ----------- ----------- -----------
+<group_begin>
+          1          10        NULL        NULL        NULL
+          1          20        NULL        NULL        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

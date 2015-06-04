@@ -1,0 +1,16 @@
+<section_begin>  s1
+
+PNUM (EXPR)               (EXPR)  (EXPR) 
+---- -------------------- ------- -------
+<group_begin>
+P1                     40      40      40
+P2                     35      20      80
+P3                     80      80      80
+P4                     30      20      40
+P5                     46      12      80
+P6                     12      12      12
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

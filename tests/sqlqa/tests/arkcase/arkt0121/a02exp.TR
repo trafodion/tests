@@ -1,0 +1,65 @@
+<section_begin>  a02s0
+
+DECIMAL_10   CHAR_10    PIC_9_7   PIC_X_7 PIC_X_A
+------------ ---------- --------- ------- -------
+<group_begin>
+          25 inside           400 for     rod    
+          90 ebediih            2 bobby   rob    
+          90 ebediih            2 bobby   bob    
+         100 abadefih           3 tom     tom    
+         110 ebedafiih          1 sue     sue    
+       10000 onsides         2000 they    ron    
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+COL_1  COL_2                COL_3      COL_4 COL_5 COL_6   COL_7  COL_8  
+------ -------------------- ---------- ----- ----- ------- ------ -------
+<group_begin>
+  1000                  999       9000     4 C     7           80 michael
+  2000             -1000000       8000     5 Q     sue       2000 8      
+  2000             -1000000       8000     5 Q     sue       2000 7      
+  3000                 2000       1000     7 E     jimmy     9000 7      
+  4000                    0       5000     8 Z     johnny    8000 7      
+  8000                 1000      10000     3 B     9           90 7      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+DATA_X3 DATA_93 SMALL_INT BINARY_SIGNED PIC_COMP_2
+------- ------- --------- ------------- ----------
+<group_begin>
+bob         200      2000          8000      -0.25
+tom         100      1000         -5000       0.12
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+DATA_X3 (EXPR)  
+------- --------
+<group_begin>
+bob         2200
+tom         1100
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+DATA_X3 (EXPR)              
+------- --------------------
+tom                        1
+
+--- 1 row(s) selected.
+
+<section_end>

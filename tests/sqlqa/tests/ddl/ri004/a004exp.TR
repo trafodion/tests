@@ -1,0 +1,41 @@
+<section_begin>  s1
+
+F_PK        F_D1_PK     F_D2_PK     F_V1        F_V2       
+----------- ----------- ----------- ----------- -----------
+          1           1           1          10          10
+          2           2           2          10          10
+          3           3           3          10        NULL
+          4           4           4          20          20
+          5           5           5          20          20
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+D1_PK       D1_C1       D1_V1       D1_V2      
+----------- ----------- ----------- -----------
+          1           1           1           1
+          2           1           1           2
+          3           2           2        NULL
+          4           2           2           1
+          5           3           3           2
+          6           3           3        NULL
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+D2_PK       D2_C1       D2_V1       D2_V2      
+----------- ----------- ----------- -----------
+          1           1           1           1
+          2           1           1           2
+          3           2           2        NULL
+          4           2           2           1
+          5           3           3           2
+          6           3           3        NULL
+
+--- 6 row(s) selected.
+
+<section_end>

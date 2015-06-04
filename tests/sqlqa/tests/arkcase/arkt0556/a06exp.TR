@@ -1,0 +1,14 @@
+<section_begin>  a06s2
+
+SALARY     (EXPR)              
+---------- --------------------
+<group_begin>
+  37000.00 CLARK               
+  39500.00 CRINAR              
+ 175500.00 GREENROGER          
+  65000.00 HOWARD    JERRY     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

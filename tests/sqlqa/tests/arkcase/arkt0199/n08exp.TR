@@ -1,0 +1,59 @@
+<section_begin>  n08s0
+
+DECIMAL_1
+---------
+        8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n08s7
+
+Y_TO_D
+----------
+<group_begin>
+1991-09-28
+1991-12-27
+1933-03-03
+NULL      
+1999-12-12
+2000-01-01
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  n08s10
+
+MEDIUM_INT
+----------
+<group_begin>
+         4
+        44
+       333
+      NULL
+2147483647
+         0
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  n08s14
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n08s15
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>

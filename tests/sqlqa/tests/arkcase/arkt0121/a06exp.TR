@@ -1,0 +1,46 @@
+<section_begin>  a06s2
+
+CHAR_10    PIC_X_7 INT_1 
+---------- ------- ------
+<group_begin>
+charlene   brown        1
+claire     green        0
+elizabeth  black        1
+jennifer   purple      -3
+johnny     orange       2
+samuel     red          1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+CHAR_10    PIC_X_7 INT_1 
+---------- ------- ------
+<group_begin>
+charlene   brown        1
+claire     green        0
+elizabeth  black        1
+jennifer   purple      -3
+johnny     orange       2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+AUTHOR     TITLE                          INT_1 
+---------- ------------------------------ ------
+<group_begin>
+Dr. Seuss  Green Eggs and Ham                100
+Kozol      Illiterate America                  1
+Kafka      Metamorphisis                   26217
+Steinbeck  Of Mice and Men                   100
+Hemmingway The Old Man and the Sea            77
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

@@ -1,0 +1,429 @@
+<section_begin>  a05s0
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+CITY
+--------------
+<group_begin>
+CUPERTINO     
+IRVINE        
+PALO ALTO     
+LEXINGTON     
+SEATTLE       
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+CITY
+--------------
+<group_begin>
+CUPERTINO     
+IRVINE        
+LEXINGTON     
+PALO ALTO     
+SEATTLE       
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+CITY
+--------------
+SEATTLE       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+CITY
+--------------
+SEATTLE       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+CITY
+--------------
+<group_begin>
+CUPERTINO     
+IRVINE        
+LEXINGTON     
+PALO ALTO     
+SEATTLE       
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE        SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------ ------- ------------------ ---------------------- -------------- ------------
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA         3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s14
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s15
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s16
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s17
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s18
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+      6
+      8
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s19
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE New Address            LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s20
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s21
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s22
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s23
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s24
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s25
+
+SUPPNUM SUPPNUM
+------- -------
+      8       8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s26
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s27
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s28
+
+SUPPNUM SUPPNUM
+------- -------
+      8       8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s29
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

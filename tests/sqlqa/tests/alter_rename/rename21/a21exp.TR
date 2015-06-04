@@ -1,0 +1,148 @@
+<section_begin>  a01s02
+
+SBIN0_10             CHAR0_2  UDEC0_UNIQ  UBIN0_UNIQ  SDEC0_500   VARCHAR0_10      VARCHAR1_20 SBIN1_5000 SDEC1_4              CHAR1_4 
+-------------------- -------- ----------- ----------- ----------- ---------------- ----------- ---------- -------------------- --------
+<group_begin>
+                   1 eeeeeeee      999999      999999          11 test_constraint  YZABCDEF          1001                   11 GHIJKLMN
+                   1 eeeeeeee      999999      999999          11 test_constraint  YZABCDEF          1001                   11 GHIJKLMN
+                   1 eeeeeeee      999999      999999          11 test_constraint  YZABCDEF          NULL                 NULL GHIJKLMN
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s02
+
+SBIN0_10             CHAR0_2  UDEC0_UNIQ  UBIN0_UNIQ  SDEC0_500   VARCHAR0_10      VARCHAR1_20 SBIN1_5000 SDEC1_4              CHAR1_4 
+-------------------- -------- ----------- ----------- ----------- ---------------- ----------- ---------- -------------------- --------
+<group_begin>
+                   1 eeeeeeee      999999      999999          11 test_constraint  YZABCDEF          1001                   11 GHIJKLMN
+                   1 eeeeeeee      999999      999999          11 test_constraint  YZABCDEF          1001                   11 GHIJKLMN
+                   1 eeeeeeee      999999      999999          11 test_constraint  YZABCDEF          NULL                 NULL GHIJKLMN
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s01
+
+SBIN0_10             CHAR0_2  UDEC0_UNIQ  UBIN0_UNIQ  SDEC0_500   VARCHAR0_10      VARCHAR1_20 SBIN1_5000 SDEC1_4              CHAR1_4 
+-------------------- -------- ----------- ----------- ----------- ---------------- ----------- ---------- -------------------- --------
+<group_begin>
+                   1 ABCDEFGH        1001        1001          11 IJKLMNOPQRSTUVWX YZABCDEF          1001                   11 GHIJKLMN
+                   2 ABCDEFGH        1002        1002          12 IJKLMNOPQRSTUVWX YZABCDEF          1002                   12 GHIJKLMN
+                   3 ABCDEFGH        1003        1003          13 IJKLMNOPQRSTUVWX YZABCDEF          1003                   13 GHIJKLMN
+                   4 ABCDEFGH        1004        1004          14 IJKLMNOPQRSTUVWX YZABCDEF          1004                   14 GHIJKLMN
+                   5 ABCDEFGH        1005        1005          15 IJKLMNOPQRSTUVWX YZABCDEF          1005                   15 GHIJKLMN
+                   6 ABCDEFGH        1006        1006          16 IJKLMNOPQRSTUVWX YZABCDEF          1006                   16 GHIJKLMN
+                   7 ABCDEFGH        1007        1007          17 IJKLMNOPQRSTUVWX YZABCDEF          1007                   17 GHIJKLMN
+                   8 ABCDEFGH        1008        1008          18 IJKLMNOPQRSTUVWX YZABCDEF          1008                   18 GHIJKLMN
+                   9 ABCDEFGH        1009        1009          19 IJKLMNOPQRSTUVWX YZABCDEF          1009                   19 GHIJKLMN
+                  10 ABCDEFGH        1010        1010          20 IJKLMNOPQRSTUVWX YZABCDEF          1010                   20 GHIJKLMN
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a03s02
+
+SBIN0_10             CHAR0_2  UDEC0_UNIQ  UBIN0_UNIQ  SDEC0_500   VARCHAR0_10      VARCHAR1_20 SBIN1_5000 SDEC1_4              CHAR1_4 
+-------------------- -------- ----------- ----------- ----------- ---------------- ----------- ---------- -------------------- --------
+<group_begin>
+                   1 ABCDEFGH        1001        1001          11 IJKLMNOPQRSTUVWX YZABCDEF          1001                   11 GHIJKLMN
+                   2 ABCDEFGH        1002        1002          12 IJKLMNOPQRSTUVWX YZABCDEF          1002                   12 GHIJKLMN
+                   3 ABCDEFGH        1003        1003          13 IJKLMNOPQRSTUVWX YZABCDEF          1003                   13 GHIJKLMN
+                   4 ABCDEFGH        1004        1004          14 IJKLMNOPQRSTUVWX YZABCDEF          1004                   14 GHIJKLMN
+                   5 ABCDEFGH        1005        1005          15 IJKLMNOPQRSTUVWX YZABCDEF          1005                   15 GHIJKLMN
+                   6 ABCDEFGH        1006        1006          16 IJKLMNOPQRSTUVWX YZABCDEF          1006                   16 GHIJKLMN
+                   7 ABCDEFGH        1007        1007          17 IJKLMNOPQRSTUVWX YZABCDEF          1007                   17 GHIJKLMN
+                   8 ABCDEFGH        1008        1008          18 IJKLMNOPQRSTUVWX YZABCDEF          1008                   18 GHIJKLMN
+                   9 ABCDEFGH        1009        1009          19 IJKLMNOPQRSTUVWX YZABCDEF          1009                   19 GHIJKLMN
+                  10 ABCDEFGH        1010        1010          20 IJKLMNOPQRSTUVWX YZABCDEF          1010                   20 GHIJKLMN
+                   1 eeeeeeee      999999      999999          11 test_constraint  YZABCDEF          1001                   11 GHIJKLMN
+                   1 eeeeeeee      999999      999999          11 test_constraint  YZABCDEF          1001                   11 GHIJKLMN
+                   1 eeeeeeee      999999      999999          11 test_constraint  YZABCDEF          NULL                 NULL GHIJKLMN
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a04s01
+
+SBIN0_10             CHAR0_2  UDEC0_UNIQ  UBIN0_UNIQ  SDEC0_500   VARCHAR0_10      VARCHAR1_20 SBIN1_5000 SDEC1_4              CHAR1_4 
+-------------------- -------- ----------- ----------- ----------- ---------------- ----------- ---------- -------------------- --------
+<group_begin>
+                   1 ABCDEFGH        1001        1001          11 IJKLMNOPQRSTUVWX YZABCDEF          1001                   11 GHIJKLMN
+                   2 ABCDEFGH        1002        1002          12 IJKLMNOPQRSTUVWX YZABCDEF          1002                   12 GHIJKLMN
+                   3 ABCDEFGH        1003        1003          13 IJKLMNOPQRSTUVWX YZABCDEF          1003                   13 GHIJKLMN
+                   4 ABCDEFGH        1004        1004          14 IJKLMNOPQRSTUVWX YZABCDEF          1004                   14 GHIJKLMN
+                   5 ABCDEFGH        1005        1005          15 IJKLMNOPQRSTUVWX YZABCDEF          1005                   15 GHIJKLMN
+                   6 ABCDEFGH        1006        1006          16 IJKLMNOPQRSTUVWX YZABCDEF          1006                   16 GHIJKLMN
+                   7 ABCDEFGH        1007        1007          17 IJKLMNOPQRSTUVWX YZABCDEF          1007                   17 GHIJKLMN
+                   8 ABCDEFGH        1008        1008          18 IJKLMNOPQRSTUVWX YZABCDEF          1008                   18 GHIJKLMN
+                   9 ABCDEFGH        1009        1009          19 IJKLMNOPQRSTUVWX YZABCDEF          1009                   19 GHIJKLMN
+                  10 ABCDEFGH        1010        1010          20 IJKLMNOPQRSTUVWX YZABCDEF          1010                   20 GHIJKLMN
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a04s02
+
+SBIN0_10             CHAR0_2  UDEC0_UNIQ  UBIN0_UNIQ  SDEC0_500   VARCHAR0_10      VARCHAR1_20 SBIN1_5000 SDEC1_4              CHAR1_4 
+-------------------- -------- ----------- ----------- ----------- ---------------- ----------- ---------- -------------------- --------
+<group_begin>
+                   1 ABCDEFGH        1001        1001          11 IJKLMNOPQRSTUVWX YZABCDEF          1001                   11 GHIJKLMN
+                   2 ABCDEFGH        1002        1002          12 IJKLMNOPQRSTUVWX YZABCDEF          1002                   12 GHIJKLMN
+                   3 ABCDEFGH        1003        1003          13 IJKLMNOPQRSTUVWX YZABCDEF          1003                   13 GHIJKLMN
+                   4 ABCDEFGH        1004        1004          14 IJKLMNOPQRSTUVWX YZABCDEF          1004                   14 GHIJKLMN
+                   5 ABCDEFGH        1005        1005          15 IJKLMNOPQRSTUVWX YZABCDEF          1005                   15 GHIJKLMN
+                   6 ABCDEFGH        1006        1006          16 IJKLMNOPQRSTUVWX YZABCDEF          1006                   16 GHIJKLMN
+                   7 ABCDEFGH        1007        1007          17 IJKLMNOPQRSTUVWX YZABCDEF          1007                   17 GHIJKLMN
+                   8 ABCDEFGH        1008        1008          18 IJKLMNOPQRSTUVWX YZABCDEF          1008                   18 GHIJKLMN
+                   9 ABCDEFGH        1009        1009          19 IJKLMNOPQRSTUVWX YZABCDEF          1009                   19 GHIJKLMN
+                  10 ABCDEFGH        1010        1010          20 IJKLMNOPQRSTUVWX YZABCDEF          1010                   20 GHIJKLMN
+                   1 eeeeeeee      999999      999999          11 test_constraint  YZABCDEF          1001                   11 GHIJKLMN
+                   1 eeeeeeee      999999      999999          11 test_constraint  YZABCDEF          1001                   11 GHIJKLMN
+                   1 eeeeeeee      999999      999999          11 test_constraint  YZABCDEF          NULL                 NULL GHIJKLMN
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a05s01
+
+(EXPR)
+--------------------
+                2000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s02
+
+(EXPR)
+--------------------
+                2003
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s01
+
+(EXPR)
+--------------------
+                2000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s02
+
+(EXPR)
+--------------------
+                2003
+
+--- 1 row(s) selected.
+
+<section_end>

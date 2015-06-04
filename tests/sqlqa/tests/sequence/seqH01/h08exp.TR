@@ -1,0 +1,107 @@
+<section_begin>  h08s1
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  h08s2
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  h08s3
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  h08s4
+
+--- 0 row(s) selected.
+
+<section_end>
+<section_begin>  h08s5
+
+A           B          
+----------- -----------
+          1           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  h08s6
+
+A           B          
+----------- -----------
+          1           1
+          2           2
+
+--- 2 row(s) selected.
+
+<section_end>
+
+<section_begin>  h08s8
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  h08s9
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  h08s10
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  h08s11
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+
+<section_begin>  h08s13
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  h08s14
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>

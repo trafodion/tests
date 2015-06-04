@@ -1,0 +1,91 @@
+<section_begin>  a01s1
+
+(EXPR)
+------------
+<group_begin>
+   74000.000
+   79000.000
+  175500.000
+   97500.000
+  103500.000
+   96000.000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR)
+--------------------
+<group_begin>
+NULL                
+SICACRIN            
+ERGREEN             
+HOWARD    JERRY     
+KING      DIANA     
+MARTIN    DEAN      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+(EXPR)
+--------
+<group_begin>
+ is Null
+its A   
+its B   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+(EXPR)
+--------
+<group_begin>
+ is Null
+its B   
+its A   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+(EXPR)
+---------------
+<group_begin>
+its Null       
+its B          
+its zero String
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+(EXPR)   (EXPR)       (EXPR)
+-------- ------------ ------
+<group_begin>
+ecaafaaa Other Values Money 
+ebaaoaaa Other Values Money 
+fbaanaaa Other Values Money 
+ebaajaaa Other Values Money 
+afaadaaa Other Values Money 
+cgaahaaa Other Values Money 
+cjaaoaaa Other Values Money 
+adaaiaaa Other Values Money 
+dkaafaaa Other Values Money 
+agaaaaaa Other Values Money 
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>

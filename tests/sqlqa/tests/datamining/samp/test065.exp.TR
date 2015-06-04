@@ -1,0 +1,15 @@
+<section_begin>  s1
+
+EMPID  SALARY    
+------ ----------
+<group_begin>
+   123   25000.00
+  1234   20000.00
+  2345   36000.00
+  3455   45000.00
+  4567   30000.00
+<group_end>
+
+--- 5 row(s) selected.  LIST_COUNT was reached.
+
+<section_end>

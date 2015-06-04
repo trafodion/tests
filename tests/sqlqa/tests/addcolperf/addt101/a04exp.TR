@@ -1,0 +1,30 @@
+<section_begin>  a04s01
+
+ORDERING    CH1  CH2  NUM    dec  PX2                 
+----------- ---- ---- ------ ---- --------------------
+<group_begin>
+          1 a    aaa    1.01    1                  100
+          2 b    bbb    2.02    2                    2
+          3 c    NULL   NULL NULL                  100
+          4 d    ddd    4.04    4                    4
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s02
+
+ORDERING    CH1  CH2  NUM    dec  PX2                  CV1 
+----------- ---- ---- ------ ---- -------------------- ----
+<group_begin>
+          1 a    aaa    1.01    1                  100 z   
+          2 b    bbb    2.02    2                    2 z   
+          3 c    NULL   NULL NULL                  100 z   
+          4 d    ddd    4.04    4                    4 z   
+          5 NULL NULL   NULL    5                 5000 z   
+          6 f    fff    6.06    6                    6 f   
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

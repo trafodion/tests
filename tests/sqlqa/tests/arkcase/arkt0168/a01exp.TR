@@ -1,0 +1,360 @@
+<section_begin>  a01s1
+
+TEAM NAME         (EXPR)               (EXPR)               ADDER
+---- ------------ -------------------- -------------------- -----
+<group_begin>
+Gi   *Pitchers                       0                    3     0
+Gi   Aldrete                         4                   10     0
+Gi   BrownC                          1                    2     0
+Gi   Butler                          2                    7     0
+Gi   ClarkW                          2                    6     0
+Gi   Maldonado                       1                    9     0
+Gi   Manwaring                       3                    7     0
+Gi   Melvin                          0                    1     0
+Gi   Riles                           4                    9     0
+Gi   ThompsonR                       2                    8     0
+Gi   Uribe                           0                    1     0
+Gi   WilliamsM                       0                    5     0
+Gi   Youngblood                      0                    2     0
+Me   *Pitchers                       1                    5     0
+Me   Backman                         4                    8     0
+Me   Borders                         0                    1     0
+Me   Brett                           2                    8     0
+Me   DavisJ                          1                    2     0
+Me   Dykstra                         3                    7     0
+Me   Elster                          0                    1     0
+Me   Fitzgerald                      3                    7     0
+Me   Hubbard                         1                    2     0
+Me   Jennings                        1                    3     0
+Me   JohnsonH                        3                    8     0
+Me   Lansford                        2                    8     0
+Me   Leonard                         0                    0     1
+Me   Marshall                        1                    7     0
+Me   MurphyDa                        0                    1     0
+Me   Pendleton                       1                    1     0
+Me   WashingtonC                     2                    4     0
+Me   WilsonW                         1                    1     0
+<group_end>
+
+--- 31 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+HOMERUN
+-------
+<group_begin>
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      1
+<group_end>
+
+--- 50 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+(EXPR)
+--------------------
+                2500
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+(EXPR)
+--------------------
+                  49
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+(EXPR)
+--------------------
+                  49
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+PROJ_ID PROJ_CODE_NAME                 PROD_NUMBER PROJ_DESCRIPTION                                                                                                                 PROJ_CLASS PROJ_TYPE PROD_NAME                      PROD_CLASS PROD_DISTRIBUTION PROG_CODE_NAME                 PROG_DESCRIPTION                                                                                                                 PROG_STATE PROG_TYPE
+------- ------------------------------ ----------- -------------------------------------------------------------------------------------------------------------------------------- ---------- --------- ------------------------------ ---------- ----------------- ------------------------------ -------------------------------------------------------------------------------------------------------------------------------- ---------- ---------
+<group_begin>
+P0004   Carpet                         T9002       Latest version of doormat                                                                                                        S          M         2222 Disc                      H          O                 Carpet                         Increase wordiness of code by 50%                                                                                                D          D        
+P0004   Carpet                         T9002       Latest version of doormat                                                                                                        S          M         NonStop Blat                   S          O                 Carpet                         Increase wordiness of code by 50%                                                                                                D          D        
+P0004   Carpet                         T9002       Latest version of doormat                                                                                                        S          M         Escapade                       S          S                 Carpet                         Increase wordiness of code by 50%                                                                                                D          D        
+P0004   Carpet                         T9002       Latest version of doormat                                                                                                        S          M         Enfold                         S          O                 Carpet                         Increase wordiness of code by 50%                                                                                                D          D        
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+LARGE_INT
+--------------------
+<group_begin>
+                   0
+                   1
+                   2
+                   3
+                   5
+                   6
+                   7
+                   8
+                   9
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+LARGE_INT
+--------------------
+<group_begin>
+          1234567890
+         12345678901
+        123456789012
+       1234567890123
+      12345678901234
+     123456789012345
+    1234567890123456
+   12345678901234567
+  123456789012345678
+  123456789012345679
+  123456789012345680
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+LARGE_INT
+--------------------
+<group_begin>
+       1234567890123
+      12345678901234
+     123456789012345
+    1234567890123456
+   12345678901234567
+  123456789012345678
+  123456789012345679
+  123456789012345680
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+LARGE_INT
+--------------------
+<group_begin>
+          1234567890
+         12345678901
+        123456789012
+       1234567890123
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+LARGE_INT
+--------------------
+<group_begin>
+          1234567890
+         12345678901
+        123456789012
+       1234567890123
+      12345678901234
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+LARGE_INT
+--------------------
+    1234567890123456
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+LARGE_INT
+--------------------
+<group_begin>
+  123456789012345678
+  123456789012345679
+  123456789012345680
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s18
+
+LARGE_INT
+--------------------
+<group_begin>
+       1234567890129
+       1234567890128
+       1234567890127
+       1234567890126
+       1234567890125
+       1234567890124
+       1234567890123
+       1234567890122
+       1234567890121
+       1234567890120
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a01s19
+
+LARGE_INT
+--------------------
+       1234567890123
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s20
+
+COL_A COL_B
+----- -----
+<group_begin>
+C     C    
+E     D    
+E     E    
+E     F    
+G     L    
+G     M    
+G     N    
+M     M    
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s21
+
+COL_A COL_B
+----- -----
+<group_begin>
+E     D    
+E     E    
+E     F    
+G     L    
+G     M    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s22
+
+COL_A COL_B
+----- -----
+<group_begin>
+E     D    
+E     E    
+E     F    
+G     L    
+G     M    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s25
+
+PIC_X_A PIC_X_B PIC_X_C
+------- ------- -------
+<group_begin>
+joe     A       jo     
+joe     B       to     
+joe     C       go     
+joe     Z       in     
+pam     D       al     
+sue     C       by     
+sue     D       so     
+sue     Q       on     
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s26
+
+PIC_X_A PIC_X_B PIC_X_C
+------- ------- -------
+<group_begin>
+pam     D       al     
+sue     C       by     
+sue     D       so     
+sue     Q       on     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

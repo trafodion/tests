@@ -1,0 +1,26 @@
+<section_begin>  a1
+
+A1
+-----------
+<group_begin>
+        111
+        112
+        113
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  fk12
+
+FK12
+-----------
+<group_begin>
+         21
+         21
+         22
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

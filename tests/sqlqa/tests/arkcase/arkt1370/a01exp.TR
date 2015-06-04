@@ -1,0 +1,825 @@
+<section_begin>  a01s0
+
+CHAR_1
+------
+<group_begin>
+D     
+A     
+A     
+D     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+PIC_X_1
+-------
+<group_begin>
+D      
+C      
+A      
+C      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+PIC_X_1 PIC_X_7
+------- -------
+<group_begin>
+D       michael
+C       walter 
+A       bobby  
+C       7      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+PIC_X_7 PIC_X_7
+------- -------
+<group_begin>
+michael michael
+walter  walter 
+bobby   bobby  
+7       7      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+PIC_X_7 BINARY_64_S          DECIMAL_1
+------- -------------------- ---------
+<group_begin>
+michael             2000.000         7
+walter               200.000         4
+bobby               1200.000         5
+7                   1500.000         5
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+PIC_X_LONG
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+rat                                                                                                                                                                                                     
+bob                                                                                                                                                                                                     
+bop                                                                                                                                                                                                     
+pop                                                                                                                                                                                                     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+VAR_CHAR
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+thomas                                                                                                                          
+B                                                                                                                               
+B                                                                                                                               
+jimmy                                                                                                                           
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+BINARY_SIGNED
+-------------
+<group_begin>
+        -5000
+           50
+           60
+         1000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+BINARY_32_U
+-----------
+<group_begin>
+      90.00
+      50.00
+      60.00
+      80.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+BINARY_64_S
+--------------------
+<group_begin>
+            2000.000
+             200.000
+            1200.000
+            1500.000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+PIC_COMP_1
+------------
+<group_begin>
+         500
+          50
+          60
+         500
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+PIC_COMP_2
+----------
+<group_begin>
+      0.40
+      0.12
+      0.79
+      0.20
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+PIC_COMP_3
+----------
+<group_begin>
+ 100.80000
+ 100.90000
+ 100.99000
+ 100.99990
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+SMALL_INT
+---------
+<group_begin>
+       90
+       10
+     1000
+       80
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+MEDIUM_INT
+----------
+<group_begin>
+      8000
+     10000
+      8000
+      9000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+LARGE_INT
+--------------------
+<group_begin>
+                 200
+          1000000000
+               -1000
+                 999
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+DECIMAL_1
+---------
+<group_begin>
+        7
+        4
+        5
+        5
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+DECIMAL_2_SIGNED
+----------------
+<group_begin>
+            0.93
+            0.50
+            0.60
+            0.80
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s18
+
+DECIMAL_3_UNSIGNED
+------------------
+<group_begin>
+               140
+                90
+               100
+               120
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s19
+
+PIC_DECIMAL_1
+-------------
+<group_begin>
+          6.1
+          1.1
+          2.1
+          4.1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s20
+
+PIC_DECIMAL_2
+-------------
+<group_begin>
+        0.600
+        0.100
+        0.200
+        0.400
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s21
+
+PIC_DECIMAL_3
+-------------
+<group_begin>
+            6
+            1
+            2
+            4
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s22
+
+PIC_X_A
+-------
+<group_begin>
+joe    
+joe    
+joe    
+joe    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s23
+
+PIC_X_B
+-------
+<group_begin>
+A      
+B      
+C      
+Z      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s24
+
+PIC_X_C
+-------
+<group_begin>
+jo     
+to     
+go     
+in     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s25
+
+COL_1
+------
+<group_begin>
+   100
+   300
+   100
+   100
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s26
+
+COL_3
+------
+<group_begin>
+   200
+   400
+   200
+   100
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s27
+
+COL_5
+-----
+<group_begin>
+ 1000
+ 1000
+ 1000
+  200
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s28
+
+COL_7
+------
+<group_begin>
+  1000
+  1000
+  1000
+   100
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s29
+
+COL_21
+-----------
+<group_begin>
+       1000
+       1000
+       1000
+        100
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s30
+
+COL_23
+-----------
+<group_begin>
+       1000
+       1000
+       1000
+        100
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s31
+
+COL_25
+-----------
+<group_begin>
+       1000
+       1000
+       1000
+        200
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s32
+
+COL_27
+-----------
+<group_begin>
+       1000
+       1000
+       1000
+        100
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s33
+
+COL_29
+-----------
+<group_begin>
+       1000
+       1000
+       1000
+         50
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s34
+
+COL_41
+-----------
+<group_begin>
+    1000.00
+    1000.00
+    1000.00
+     100.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s35
+
+COL_43
+-----------
+<group_begin>
+    1000.00
+    1000.00
+    1000.00
+     100.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s36
+
+COL_45
+-----------
+<group_begin>
+    1000.00
+    1000.00
+    1000.00
+     200.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s37
+
+COL_47
+-----------
+<group_begin>
+    1000.00
+    1000.00
+    1000.00
+     100.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s38
+
+COL_61
+--------------------
+<group_begin>
+                1000
+                1000
+                1000
+                 100
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s39
+
+COL_63
+--------------------
+<group_begin>
+                1000
+                1000
+                1000
+                 100
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s40
+
+COL_65
+--------------------
+<group_begin>
+                1000
+                1000
+                1000
+                 200
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s41
+
+COL_67
+--------------------
+<group_begin>
+                1000
+                1000
+                1000
+                 100
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s42
+
+COL_69
+--------------------
+<group_begin>
+                1000
+                1000
+                1000
+                  50
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s43
+
+PIC_X_1
+-------
+<group_begin>
+B      
+C      
+B      
+Q      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s44
+
+BINARY_32_U
+-----------
+<group_begin>
+       5.00
+       6.00
+       6.00
+    1000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s45
+
+VAR_CHAR
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+tom                                                                                                                             
+bob                                                                                                                             
+sue                                                                                                                             
+bobby                                                                                                                           
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s46
+
+COL_4
+-----
+<group_begin>
+amy  
+cathy
+debra
+debby
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s47
+
+PIC_X_C
+-------
+<group_begin>
+P      
+al     
+al     
+al     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s48
+
+PIC_252
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+carltons                                                                                                                                                                                                                                              
+squaw                                                                                                                                                                                                                                                 
+Q                                                                                                                                                                                                                                                     
+joseph                                                                                                                                                                                                                                                
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s49
+
+PIC_X_7
+-------
+<group_begin>
+     30
+     20
+     70
+     40
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s50
+
+BINARY_32_SIGNED
+----------------
+<group_begin>
+             100
+           -1000
+           -1000
+            -100
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s51
+
+CHAR_10
+----------
+<group_begin>
+gone      
+ebedafiih 
+abadefih  
+done      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s52
+
+MEDIUM_INT
+----------
+<group_begin>
+     10000
+      8000
+     10000
+      9000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s53
+
+PIC_X_1
+-------
+<group_begin>
+B      
+B      
+B      
+C      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s54
+
+NEW_NAME_2
+-----------
+<group_begin>
+       5.00
+       6.00
+       6.00
+       6.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s55
+
+PIC_COMP_1
+------------
+<group_begin>
+         200
+         300
+         500
+        1000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s56
+
+COL_4
+-----
+<group_begin>
+    1
+    2
+    2
+    3
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s57
+
+NEW_NAME_3
+----------
+<group_begin>
+A         
+7         
+7         
+B         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s58
+
+NEW_NAME_1
+----------
+<group_begin>
+        80
+        80
+        90
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

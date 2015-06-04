@@ -1,0 +1,40 @@
+<section_begin>  s1
+
+LNAME  A      B     
+------ ------ ------
+<group_begin>
+Brown       2     20
+Smith       1     10
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+COLID       A      B      (EXPR)              
+----------- ------ ------ --------------------
+<group_begin>
+          1      1     10                    1
+          1      2     20                    1
+          2      1     10                    1
+          2      2     20                    1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+COLID       LNAME  A      B      (EXPR)              
+----------- ------ ------ ------ --------------------
+<group_begin>
+          1 Brown       2     20                    1
+          2 Brown       2     20                    1
+          1 Smith       1     10                    1
+          2 Smith       1     10                    1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

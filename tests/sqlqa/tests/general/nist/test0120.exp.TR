@@ -1,0 +1,45 @@
+<section_begin>  test0120c
+
+EMPNUM
+------
+E9    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0120e
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0120f
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0120h
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0120i
+
+(EXPR)
+--------------------
+                  12
+
+--- 1 row(s) selected.
+
+<section_end>

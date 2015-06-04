@@ -1,0 +1,18 @@
+<section_begin>  test0174b
+
+CHARTEST
+--------
+a       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0174d
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

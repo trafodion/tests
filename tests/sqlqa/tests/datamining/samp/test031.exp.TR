@@ -1,0 +1,109 @@
+<section_begin>  s1
+
+A           B          
+----------- -----------
+<group_begin>
+          1          94
+          2       26602
+          3       30017
+          4       18297
+          5       20363
+          6       13015
+          7       28509
+          8       15290
+          9       29003
+         10       24399
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+A           B          
+----------- -----------
+<group_begin>
+          1          94
+          2       26602
+          3       30017
+          4       18297
+          5       20363
+          6       13015
+          7       28509
+          8       15290
+          9       29003
+         10       24399
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+A           B          
+----------- -----------
+<group_begin>
+         30       18376
+         29       15765
+         28       20183
+         27       30678
+         26       25482
+         25        4564
+         24       14082
+         23       14763
+         22         155
+         21       18431
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+A           B          
+----------- -----------
+<group_begin>
+         21       18431
+         22         155
+         23       14763
+         24       14082
+         25        4564
+         26       25482
+         27       30678
+         28       20183
+         29       15765
+         30       18376
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s5
+
+A           B          
+----------- -----------
+<group_begin>
+          1          94
+          2       26602
+          3       30017
+          4       18297
+          5       20363
+          6       13015
+          7       28509
+          8       15290
+          9       29003
+         10       24399
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s6
+
+(EXPR)
+--------------------
+               20558
+
+--- 1 row(s) selected.
+
+<section_end>

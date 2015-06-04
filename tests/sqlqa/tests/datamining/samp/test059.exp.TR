@@ -1,0 +1,52 @@
+<section_begin>  s1
+
+EMPID  SALARY    
+------ ----------
+<group_begin>
+   123   25000.00
+  1234   20000.00
+  2345   36000.00
+  3455   45000.00
+  4567   30000.00
+  5678   50000.00
+  6789   55000.00
+  6798   60000.00
+  8901   40000.00
+  9012   40000.00
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+EMPID  SALARY    
+------ ----------
+<group_begin>
+   123   25000.00
+  1234   20000.00
+  2345   36000.00
+  3455   45000.00
+  4567   30000.00
+  5678   50000.00
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+EMPID  SALARY    
+------ ----------
+<group_begin>
+  9012   40000.00
+  8901   40000.00
+  6798   60000.00
+  6789   55000.00
+  5678   50000.00
+  4567   30000.00
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

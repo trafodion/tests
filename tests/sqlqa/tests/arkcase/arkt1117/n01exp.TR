@@ -1,0 +1,63 @@
+<section_begin>  n01s3
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n01s4
+
+VARCHAR2_10               VARCHAR11_2                      VARCHAR15_UNIQ
+------------------------- -------------------------------- --------------
+xy12345678901234567890123 AB                               BB            
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n01s7
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n01s8
+
+VARCHAR2_10               VARCHAR11_2                      VARCHAR15_UNIQ
+------------------------- -------------------------------- --------------
+xy12345678901234567890123 AB                               BB            
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n01s11
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n01s14
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n01s15
+
+VARCHAR2_10               VARCHAR11_2                      VARCHAR15_UNIQ
+------------------------- -------------------------------- --------------
+xy12345678901234567890123 AB                               BB            
+
+--- 1 row(s) selected.
+
+<section_end>

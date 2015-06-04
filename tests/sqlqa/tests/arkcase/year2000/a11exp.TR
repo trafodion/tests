@@ -1,0 +1,108 @@
+<section_begin>  a11s0
+
+(EXPR)
+--------------------
+  211058632800000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s1
+
+(EXPR)
+--------------------
+  844234531200000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s2
+
+(EXPR)
+----------
+2000-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+(EXPR)
+----------
+2000-02-29
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s4
+
+(EXPR)
+----------
+1900-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+(EXPR)
+----------
+2004-02-29
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s6
+
+(EXPR)
+--------------------
+  211058632800000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s7
+
+(EXPR)
+--------------------
+  844234531200000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s8
+
+(EXPR)
+--------------------------
+2000-01-01 00:00:00.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s9
+
+(EXPR)
+--------------------------
+2000-02-29 00:00:00.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s10
+
+(EXPR)
+--------------------
+  211058632800000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s11
+
+(EXPR)
+--------------------
+  844234531200000000
+
+--- 1 row(s) selected.
+
+<section_end>

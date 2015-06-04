@@ -1,0 +1,30 @@
+<section_begin>  a05s6
+
+NAME                           *OF_THIS_COLUMN                      *OF_THIS_COLUMN
+------------------------------ -------------------------------------------------- ------------------------------
+<group_begin>
+under14                                                                                                         
+                               under14                                                                          
+                                                                                  under14                       
+under14                        under14                                            under14                       
+                               excessively large value - over 14                                                
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+*OF_THIS_COLUMN NAME                           *OF_THIS_COLUMN                     
+------------------------------ ------------------------------ --------------------------------------------------
+<group_begin>
+                               under14                                                                          
+                                                              under14                                           
+under14                                                                                                         
+under14                        under14                        under14                                           
+                                                              excessively large value - over 14                 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

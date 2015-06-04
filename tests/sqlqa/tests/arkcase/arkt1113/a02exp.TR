@@ -1,0 +1,188 @@
+<section_begin>  a02s0
+
+VARCHAR0_NUNIQ CHAR2_2 CHAR3_4   SDEC9_UNIQ           CHAR9_100 UBIN9_N4   
+-------------- ------- --------- -------------------- --------- -----------
+<group_begin>
+ LEADING B.    BA      AAAAAAAA                     3 DD               NULL
+AA             BA      CAAAAAAA                     1 BB               NULL
+ABC            BE      AAAAAAAA                     0 AA               NULL
+BA             AB      BAAAAAAA                     4 AE               NULL
+EBAAEAAC       BA      AAAAAAA                      2 CC               NULL
+TRAILING B     AA      DAAAAAAA                     5 BF               NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+CUPPER                 CLOWER                 FIVEPLUSVARCHAR
+---------------------- ---------------------- ---------------
+<group_begin>
+ LEADING B. LEADING B.  leading b. leading b.              16
+AAAA                   aaaa                                 7
+ABCABC                 abcabc                               8
+BABA                   baba                                 7
+EBAAEAAC   EBAAEAAC    ebaaeaac   ebaaeaac                 16
+TRAILING B TRAILING B  trailing b trailing b               16
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+COCTET_LENGTH CPOSITION  CSUBSTRING 
+------------- ---------- -----------
+<group_begin>
+            7          0 AA         
+            7          0 BA         
+            8          0 ABC        
+           16          1  LEADING B.
+           16          9 EBAAEAAC   
+           16          9 TRAILING B 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+CTRIM                              CCONCATCHAR  CCONCATVARCHAR        
+---------------------------------- ------------ ----------------------
+<group_begin>
+trim leading spaces  LEADING B.    start BA end  LEADING B. LEADING B.
+trim leading spaces AA             start BA end AAAA                  
+trim leading spaces ABC            start BE end ABCABC                
+trim leading spaces BA             start AB end BABA                  
+trim leading spaces EBAAEAAC       start BA end EBAAEAAC   EBAAEAAC   
+trim leading spaces TRAILING B     start AA end TRAILING B TRAILING B 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+----------
+<group_begin>
+A         
+A         
+BAAEAAC   
+BC        
+LEADING B.
+RAILING B 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+FROM1                                                                                                                            FROM5                                                                                                                            FROM13                                                                                                                          
+-------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+ LEADING B. bcDEFg8i                                                                                                             EFg8i  LEADING B.                                                                                                                bcDEFg8i                                                                                                                        
+ABC bcDEFg8i                                                                                                                     EFg8i ABC                                                                                                                                                                                                                                                        
+EBAAEAAC    bcDEFg8i                                                                                                             EFg8i EBAAEAAC                                                                                                                   bcDEFg8i                                                                                                                        
+TRAILING B  bcDEFg8i                                                                                                             EFg8i TRAILING B                                                                                                                 bcDEFg8i                                                                                                                        
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+CSUBSTRING  SUBSTRINGFROM3
+----------- --------------
+<group_begin>
+ LEADING B. EADING B.     
+ABC         C             
+EBAAEAAC    AAEAAC        
+TRAILING B  AILING B      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+TRIMMED             UNTRIMMED          
+------------------- -------------------
+<group_begin>
+startAAend          startAAend         
+startABCend         startABCend        
+startBAend          startBAend         
+startEBAAEAACend    startEBAAEAAC   end
+startLEADING B.end  start LEADING B.end
+startTRAILING Bend  startTRAILING B end
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+CTRIM
+----------------------------------
+<group_begin>
+trim leading spaces  LEADING B.   
+trim leading spaces AA            
+trim leading spaces ABC           
+trim leading spaces BA            
+trim leading spaces EBAAEAAC      
+trim leading spaces TRAILING B    
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+(EXPR)
+----------------
+<group_begin>
+AABF TRAILING B 
+ABAE BA         
+BABB AA         
+BACC EBAAEAAC   
+BADD  LEADING B.
+BEAA ABC        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+(EXPR)
+----------
+<group_begin>
+         7
+         7
+         8
+        16
+        16
+        16
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+CUPPER                 CLOWER                
+---------------------- ----------------------
+<group_begin>
+ LEADING B. LEADING B.  leading b. leading b.
+AAAA                   aaaa                  
+ABCABC                 abcabc                
+BABA                   baba                  
+EBAAEAAC   EBAAEAAC    ebaaeaac   ebaaeaac   
+TRAILING B TRAILING B  trailing b trailing b 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

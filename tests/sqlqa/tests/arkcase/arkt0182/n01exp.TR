@@ -1,0 +1,35 @@
+<section_begin>  n01s0
+
+(EXPR)
+------------------------
+<group_begin>
+                6.666E76
+   2.3450000000000005E67
+              1.11111E74
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  n01s5
+
+FLOAT1                   FLOAT22                 
+------------------------ ------------------------
+<group_begin>
+                    1.11    2.2200000000000002E22
+              1.2345E-67                     NULL
+                     0.0                     NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  n01s50
+
+FLOAT1                   FLOAT22                  (EXPR)                  
+------------------------ ------------------------ ------------------------
+                     0.0                     NULL                     NULL
+
+--- 1 row(s) selected.
+
+<section_end>

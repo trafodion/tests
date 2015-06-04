@@ -1,0 +1,369 @@
+<section_begin>  a05s0
+
+(EXPR)
+--------------------
+                   8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+(EXPR)
+--------------------
+                7375
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+(EXPR)
+--------------------
+                 300
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+(EXPR)
+--------------------
+            2000.000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+(EXPR)
+--------------------
+          1000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+(EXPR)
+--------------------
+            -1000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+(EXPR)
+------
+  0.50
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+(EXPR)
+--------------------
+               23.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+(EXPR)
+--------------------
+                  43
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+(EXPR)
+------
+Q     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+(EXPR)
+-------
+B      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+(EXPR)
+--------------------------------------------------------------------------------------------------------------------------------
+bill                                                                                                                            
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+(EXPR)
+------
+box   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+(EXPR)
+--------------------
+               65.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s14
+
+(EXPR)
+----------
+     10000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s15
+
+(EXPR)
+---------
+       80
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s16
+
+(EXPR)
+--------------------
+            4900.000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s17
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s18
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s19
+
+(EXPR)
+--------------------------------------------------------------------------------------------------------------------------------
+rum                                                                                                                                                                                                     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s20
+
+(EXPR)
+--------------------------------------------------------------------------------------------------------------------------------
+B                                                                                                                               
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s21
+
+(EXPR)
+--------------------
+              140.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s22
+
+(EXPR)
+--------------------
+              715.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s23
+
+(EXPR)
+----------------
+            8100
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s24
+
+(EXPR)
+------------------
+        18.0000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s25
+
+(EXPR)
+--------
+   -8110
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s26
+
+(EXPR)
+--------------------
+         -2000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s27
+
+(EXPR)
+--------------------
+               25213
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s28
+
+(EXPR)
+--------------------
+               12270
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s33
+
+(EXPR)
+--------------------
+                   8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s35
+
+(EXPR)
+--------------------
+                 4.6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s36
+
+(EXPR)
+--------------------
+                 4.6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s37
+
+(EXPR)
+------------
+      130.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s38
+
+(EXPR)
+--------------------
+                 203
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s39
+
+(EXPR)
+--------------------
+                1500
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s40
+
+(EXPR)
+--------------------
+                  92
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s41
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                 112                    5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s42
+
+(EXPR)               (EXPR)               (EXPR) (EXPR) (EXPR)               (EXPR)              
+-------------------- -------------------- ------ ------ -------------------- --------------------
+                  36                    4      8      1                    8                    8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s43
+
+(EXPR)               (EXPR)               (EXPR) 
+-------------------- -------------------- -------
+                 330                 5.75 B      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s44
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+              560.00               390.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s45
+
+(EXPR)               (EXPR)     
+-------------------- -----------
+               70.00       90.00
+
+--- 1 row(s) selected.
+
+<section_end>

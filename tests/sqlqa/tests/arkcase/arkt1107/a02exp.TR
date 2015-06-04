@@ -1,0 +1,115 @@
+<section_begin>  a02s0
+
+VC
+----------
+a value   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+01 literal 01 vc7      5 var NULL
+9 varchar  11 varchar  5 var 3 v 
+vc9 02     vc7 02      vc502 vc3 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+NULL       a value     NULL  a v 
+NULL       a value     NULL  a v 
+NULL       a value     NULL  a v 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+NULL       NULL        NULL  NULL
+NULL       NULL        NULL  NULL
+NULL       NULL        NULL  NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+9 varchar  11 varchar  5 var 3 v 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+I
+-----------
+<group_begin>
+          3
+          3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+I
+-----------
+<group_begin>
+       NULL
+       NULL
+       NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+V
+----
+def 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+V
+----
+<group_begin>
+NULL
+NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+I1          I2          I3          I4         
+----------- ----------- ----------- -----------
+<group_begin>
+          1           2           3           4
+       NULL          21        NULL          42
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

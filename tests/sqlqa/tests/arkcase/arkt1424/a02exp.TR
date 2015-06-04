@@ -1,0 +1,222 @@
+<section_begin>  a02s0
+
+COL_FIX1 COL_VAR2                       COL_FIX3 COL_VAR4            
+-------- ------------------------------ -------- --------------------
+<group_begin>
+      11 MERRY LYNCH                    12:23:59 HEY PAULA           
+      22 VANGUARD                       23:23:59 THE BODY GUARD      
+      33 DATEK                          23:12:59 UNCHANGED MELODY    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+COL_FIX1 COL_VAR2                       COL_FIX3 COL_VAR4            
+-------- ------------------------------ -------- --------------------
+<group_begin>
+      11 E-TRADE                        12:23:59 HEY PAULA           
+      22 VANGUARD                       23:23:59 THE BODY GUARD      
+      33 DATEK                          23:12:59 UNCHANGED MELODY    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+COL_FIX1 COL_VAR2                       COL_FIX3 COL_VAR4            
+-------- ------------------------------ -------- --------------------
+<group_begin>
+      11 MERRY LYNCH                    12:23:59 HEY PAULA           
+      22 VANGUARD                       23:23:59 THE BODY GUARD      
+      33 DATEK                          23:12:59 UNCHANGED MELODY    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+COL_FIX1 COL_VAR2                       COL_FIX3 COL_VAR4            
+-------- ------------------------------ -------- --------------------
+<group_begin>
+      11 MERRY LYNCH                    12:23:59 HEY PAULA           
+      22 VANGUARD                       23:23:59 THE BODY GUARD      
+      33 DATEK                          23:12:59 UNCHANGED MELODY    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+COL_FIX1 COL_VAR2                       COL_FIX3 COL_VAR4            
+-------- ------------------------------ -------- --------------------
+<group_begin>
+      11 MERRY LYNCH                    12:23:59 HEY PAULA           
+      22 Broker                         23:23:59 THE BODY GUARD      
+      33 DATEK                          23:12:59 UNCHANGED MELODY    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+COL_FIX1 COL_VAR2                       COL_FIX3 COL_VAR4            
+-------- ------------------------------ -------- --------------------
+<group_begin>
+      11 MERRY LYNCH                    12:23:59 HEY PAULA           
+      22 VANGUARD                       23:23:59 THE BODY GUARD      
+      33 DATEK                          23:12:59 UNCHANGED MELODY    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+COL_FIX1 COL_VAR2             COL_FIX3
+-------- -------------------- --------
+<group_begin>
+   12345 Pretty Woman           1111.1
+   23456 NULL                   2222.2
+   34567 Song of Music          3333.3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+COL_FIX1 COL_VAR2             COL_FIX3
+-------- -------------------- --------
+<group_begin>
+   12345 Pretty Woman           1111.1
+   23456 My Fair Lady           1000.0
+   34567 Song of Music          3333.3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+COL_FIX1 COL_VAR2             COL_FIX3
+-------- -------------------- --------
+<group_begin>
+   12345 Pretty Woman           1111.1
+   23456 NULL                   1000.0
+   34567 Song of Music          3333.3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+COL_FIX1 COL_VAR2             COL_FIX3
+-------- -------------------- --------
+<group_begin>
+   12345 Pretty Woman           1111.1
+   23456 NULL                   2222.2
+   34567 Song of Music          3333.3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s12
+
+COL_VAR1        COL_FIX2    COL_VAR3             COL_FIX4            
+--------------- ----------- -------------------- --------------------
+<group_begin>
+Karen                   100 College Station      What a big nice day 
+Shannon                 200 Houston              NULL                
+Cindy                   300 Santa Clara          What should be done 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+COL_VAR1        COL_FIX2    COL_VAR3             COL_FIX4            
+--------------- ----------- -------------------- --------------------
+<group_begin>
+NULL                    100 NULL                 What a big nice day 
+Shannon                 200 Houston              NULL                
+Cindy                   300 Santa Clara          What should be done 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s14
+
+COL_VAR1        COL_FIX2    COL_VAR3             COL_FIX4            
+--------------- ----------- -------------------- --------------------
+<group_begin>
+NULL                    100 NULL                 What a big nice day 
+Shannon                 200 Houston              NULL                
+Cindy                   300 Santa Clara          What should be done 
+NULL                   NULL NULL                 This is a test      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s15
+
+COL_VAR1        COL_FIX2    COL_VAR3             COL_FIX4            
+--------------- ----------- -------------------- --------------------
+<group_begin>
+Karen                   100 College Station      What a big nice day 
+Shannon                 200 Houston              NULL                
+Cindy                   300 Santa Clara          What should be done 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s16
+
+COL_VAR1                  COL_FIX2    COL_VAR3                      
+------------------------- ----------- ------------------------------
+<group_begin>
+Stevens Creek                       1 Cupertino                     
+Shoreline Park                      2 Mountain View                 
+Ricon Avenue                        3 Campbell                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s17
+
+COL_VAR1                  COL_FIX2    COL_VAR3                      
+------------------------- ----------- ------------------------------
+<group_begin>
+CHANGED VALUE                       1 Cupertino                     
+CHANGED VALUE                       2 Mountain View                 
+CHANGED VALUE                       3 Campbell                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s18
+
+COL_VAR1                  COL_FIX2    COL_VAR3                      
+------------------------- ----------- ------------------------------
+<group_begin>
+Stevens Creek                       1 Cupertino                     
+Shoreline Park                      2 Mountain View                 
+Ricon Avenue                        3 Campbell                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

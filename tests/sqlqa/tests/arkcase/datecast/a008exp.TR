@@ -1,0 +1,26 @@
+<section_begin>  a008s0
+
+DT
+----------
+<group_begin>
+0001-01-01
+1997-02-12
+9999-12-31
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a008s1
+
+(EXPR)
+--------------------------
+<group_begin>
+0001-01-01 00:00:00.000000
+1997-02-12 00:00:00.000000
+9999-12-31 00:00:00.000000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

@@ -1,0 +1,313 @@
+<section_begin>  a06s0
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+PARTNAME
+------------------
+<group_begin>
+SYSTEM 192KB CORE 
+SYSTEM 192KB SEMI 
+PROC     96KB SEMI
+DISC CONT DUAL    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+PARTNAME
+------------------
+<group_begin>
+SYSTEM 192KB CORE 
+SYSTEM 192KB SEMI 
+PROC     96KB SEMI
+DECIMAL ARITH     
+ENSCRIBE MICRO    
+COBOL MICRO       
+MEM MOD 64K MOS   
+MEM MOD 96K MOS   
+DISC CONT SINGLE  
+DISC CONT DUAL    
+MAG TAPE CONT 8/16
+LINE PRINTER CONT 
+MAG TAPE DR 800BPI
+MAG TAPE DR 8/16  
+SYNC CONTROLLER   
+ASYNC CONTROLLER  
+ASYNC EXTENSION   
+TERM CRT CHAR     
+TERM CRT PAGE     
+TERM HARD COPY    
+POWER MODULE      
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+COL_1
+------------------
+<group_begin>
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+TERM CRT CHAR     
+TERM CRT PAGE     
+TERM CRT PAGE     
+TERM CRT PAGE     
+TERM CRT PAGE     
+DISC 10MB         
+DISC 10MB         
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+MAG TAPE CONT 8/16
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+COL_1
+------------------
+<group_begin>
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+TERM CRT CHAR     
+TERM CRT PAGE     
+TERM CRT PAGE     
+TERM CRT PAGE     
+TERM CRT PAGE     
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+DISC 10MB         
+DISC 10MB         
+MAG TAPE DR 8/16  
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+MAG TAPE CONT 8/16
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+COL_1
+------------------
+<group_begin>
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+DECIMAL ARITH     
+TERM CRT CHAR     
+TERM CRT PAGE     
+TERM CRT PAGE     
+TERM CRT PAGE     
+TERM CRT PAGE     
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+DISC CONT SINGLE  
+MAG TAPE CONT 8/16
+DISC 10MB         
+DISC 10MB         
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+MAG TAPE DR 8/16  
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+SUPPNUM
+-------
+<group_begin>
+      6
+     15
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+PARTNUM
+-------
+<group_begin>
+    244
+   2001
+   2403
+   4103
+   5103
+   6301
+   6402
+   2002
+   2003
+   3102
+   4101
+   6302
+   2402
+   3202
+   3302
+   4102
+   5504
+   6201
+   3103
+   5503
+   5502
+   1403
+   7301
+    212
+   7102
+   5505
+   5101
+   6401
+   3201
+<group_end>
+
+--- 29 row(s) selected.
+
+<section_end>
+<section_begin>  a06s11
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFOMATION STORAGE
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s12
+
+PARTNUM
+-------
+<group_begin>
+   4102
+   4103
+   5504
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s13
+
+COL_1
+------
+  4103
+
+--- 1 row(s) selected.
+
+<section_end>

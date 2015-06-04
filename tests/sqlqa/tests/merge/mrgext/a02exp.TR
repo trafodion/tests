@@ -1,0 +1,42 @@
+<section_begin>  a02s1
+
+*** ERROR[3241] This MERGE statement is not supported. Reason:  Non-unique ON clause not allowed with INSERT. [*]
+
+<section_end>
+<section_begin>  a02s2
+
+*** ERROR[4024] Column COL1 has no default value, so it must be explicitly specified in the insert column list. [*]
+
+<section_end>
+<section_begin>  a02s3
+
+*** ERROR[8401] A row subquery or SELECT...INTO statement cannot return more than one row. [*]
+
+<section_end>
+<section_begin>  a02s0
+
+ 
+CREATE TABLE *.CTASCH3
+  (
+    COL1                             LARGEINT NO DEFAULT -- NOT NULL
+  , COL2                             CHAR(8) CHARACTER SET ISO88591  NO DEFAULT
+      -- NOT NULL
+  , COL3                             VARCHAR(50) CHARACTER SET ISO88591 
+      DEFAULT NULL
+  , COL4                             VARCHAR(50) CHARACTER SET ISO88591 
+      DEFAULT NULL
+  , COL5                             CHAR(10) CHARACTER SET ISO88591  DEFAULT
+      NULL
+  , COL6                             INT NO DEFAULT -- NOT NULL
+  , CONSTRAINT *.CTASCH3_*_* CHECK (*.CTASCH3.COL1 IS NOT
+      NULL AND *.CTASCH3.COL2 IS NOT NULL AND *.CTASCH3.COL6 IS NOT
+      NULL)
+  )
+  ATTRIBUTES ALIGNED FORMAT
+  HASH PARTITION
+  STORE BY (COL1 ASC)
+  ;
+
+--- SQL operation complete.
+
+<section_end>

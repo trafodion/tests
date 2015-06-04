@@ -1,0 +1,210 @@
+<section_begin>  a09s0
+
+(EXPR)                                                                                                                           (EXPR)                                                                                                                          
+-------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+Hello ,   Robert John,   @@@ Robert John   Hello ,                                                                                  Hello ,   Robert John,   @@@ Robert John   Hello ,                                                                           
+Hello ,   Robert John,   @@@ Robert John   Hello ,                                                                                  Hello ,   Robert John,   @@@ Robert John   Hello ,                                                                           
+Hello ,   Robert John,   @@@ Robert John   Hello ,                                                                                  Hello ,   Robert John,   @@@ Robert John   Hello ,                                                                           
+Hello ,   Robert John,   @@@ Robert John   Hello ,                                                                                  Hello ,   Robert John,   @@@ Robert John   Hello ,                                                                           
+Hello ,   Robert John,   @@@ Robert John   Hello ,                                                                                  Hello ,   Robert John,   @@@ Robert John   Hello ,                                                                           
+Hello ,   Robert John,   @@@ Robert John   Hello ,                                                                                  Hello ,   Robert John,   @@@ Robert John   Hello ,                                                                           
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+(EXPR)               (EXPR)                 
+-------------------- -----------------------
+CLARK     DINAH      CLARK        DINAH     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+(EXPR)                   (EXPR)              
+------------------------ --------------------
+<group_begin>
+ok, lower clark          successed upper case
+Hi, rest of you          NULL                
+Hi, rest of you          NULL                
+hi, Roger                Hello! Mr. Green    
+Hi, rest of you          NULL                
+well, upshift WHITE      successed lower case
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+(EXPR)     (EXPR)     START_TIME                 C4                   C5                  
+---------- ---------- -------------------------- -------------------- --------------------
+<group_begin>
+clark      DINAH      1977-05-02 08:12:00.110000 clark     dinah      CLARK     DINAH     
+crinar     JESSICA    1984-08-12 05:00:00.000233 crinar    jessica    CRINAR    JESSICA   
+green      ROGER      1908-09-23 12:34:00.320222 green     roger      GREEN     ROGER     
+hans       CHRISTIAN  1908-09-23 12:34:00.067222 hans      christian  HANS      CHRISTIAN 
+howard     JERRY      1923-11-05 10:30:00.999900 howard    jerry      HOWARD    JERRY     
+jerry      WHITE      1923-11-05 08:30:00.009999 jerry     white      JERRY     WHITE     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2a
+
+(EXPR)
+--------------------
+<group_begin>
+CLARK     DINAH     
+GREEN     ROGER     
+HOWARD    JERRY     
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2b
+
+(EXPR)
+--------------------
+<group_begin>
+HANS      CHRISTIAN 
+JERRY     WHITE     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s4
+
+(EXPR)                   LAST_NAME  (EXPR)                              (EXPR)           
+------------------------ ---------- ----------------------------------- -----------------
+<group_begin>
+Your last name is?       DINAH       Your first name is CLARK            Init. D         
+Your last name is?       JERRY       Your first name is HOWARD           Init. J         
+Your last name is?       JESSICA     Your first name is CRINAR           Init. J         
+Your last name is?       ROGER       Your first name is GREEN            Init. R         
+Your last name is?       christian   Your first name is hans             Init. C         
+Your last name is?       white       Your first name is jerry            Init. W         
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s5
+
+(EXPR)                     (EXPR)                    (EXPR)                                  (EXPR)                     
+-------------------------- ------------------------- --------------------------------------- ---------------------------
+<group_begin>
+ltrim nested with trim       rtrim nested with trim  ltrim with rtrim                        three trim functions       
+ltrim nested with trim       rtrim nested with trim  ltrim with rtrim                        three trim functions       
+ltrim nested with trim       rtrim nested with trim  ltrim with rtrim                        three trim functions       
+ltrim nested with trim       rtrim nested with trim  ltrim with rtrim                        three trim functions       
+ltrim nested with trim       rtrim nested with trim  ltrim with rtrim                        three trim functions       
+ltrim nested with trim       rtrim nested with trim  ltrim with rtrim                        three trim functions       
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s6
+
+(EXPR)                                (EXPR)
+------------------------------------- ------
+<group_begin>
+CLARK     DINAH       1977-05-02      LARK  
+CRINAR    JESSICA     1984-08-12      RINAR 
+GREEN     ROGER       1908-09-23      REEN  
+HOWARD    JERRY       1923-11-05      OWARD 
+hans      christian   1908-09-23      ans   
+jerry     white       1923-11-05      erry  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s7
+
+(EXPR)     (EXPR)     (EXPR)     (EXPR)     (EXPR)     (EXPR)     (EXPR)    
+---------- ---------- ---------- ---------- ---------- ---------- ----------
+<group_begin>
+clark      CLARK              10          1          0          0          0
+crinar     CRINAR             10          1          0          0          0
+green      GREEN              10          1          0          0          0
+hans       HANS               10          1          0          0          0
+howard     HOWARD             10          1         14          0          0
+jerry      JERRY              10          1          0          1          3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s8
+
+(EXPR)
+----------
+<group_begin>
+         1
+         1
+         1
+         1
+         1
+         1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s9
+
+(EXPR)
+----------
+<group_begin>
+         0
+         0
+         0
+         0
+         0
+         0
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s10
+
+(EXPR)
+---------
+<group_begin>
+LARK     
+OWARD    
+REEN     
+RINAR    
+ans      
+erry     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s11
+
+(EXPR)
+------
+<group_begin>
+      
+      
+      
+      
+      
+      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

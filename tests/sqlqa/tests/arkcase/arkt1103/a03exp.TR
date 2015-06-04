@@ -1,0 +1,299 @@
+<section_begin>  a03s0
+
+N1     C2   C3   C4      
+------ ---- ---- --------
+<group_begin>
+ -4344 AA   BA   BA      
+ -3552 BA   AA   AA      
+ -2789 DA   EA   NULL    
+ -2389 BA   AA   AA      
+  NULL NULL BA   BA      
+  NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+C4       C3   C2   N1    
+-------- ---- ---- ------
+<group_begin>
+AA       AA   BA    -3552
+AA       AA   BA    -2389
+BA       BA   AA    -4344
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+N1     C2   C3   C4      
+------ ---- ---- --------
+<group_begin>
+ -4344 AA   BA   BA      
+ -3552 BA   AA   AA      
+ -2389 BA   AA   AA      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+C3
+----
+<group_begin>
+AA  
+AA  
+BA  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+C2   C3  
+---- ----
+<group_begin>
+AA   BA  
+BA   AA  
+BA   AA  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+C3   N1    
+---- ------
+<group_begin>
+AA    -3552
+AA    -2389
+BA    -4344
+BA    -4344
+BA     NULL
+BA     NULL
+DA     NULL
+EA    -2789
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+C2   N1    
+---- ------
+<group_begin>
+AA    -4344
+AA    -4344
+BA    -3552
+BA    -3552
+BA    -2389
+BA    -2389
+DA    -2789
+NULL   NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+C2   J2C3 N1     C3   C4       J2N1   J2C2 J2C4    
+---- ---- ------ ---- -------- ------ ---- --------
+<group_begin>
+AA   AA    -4344 BA   BA        -3552 BA   AA      
+AA   AA    -4344 BA   BA        -2389 BA   AA      
+BA   BA    -3552 AA   AA        -4344 AA   BA      
+BA   BA    -2389 AA   AA        -4344 AA   BA      
+BA   BA    -3552 AA   AA         NULL NULL BA      
+BA   BA    -2389 AA   AA         NULL NULL BA      
+DA   DA    -2789 EA   NULL       NULL NULL DA      
+NULL NULL   NULL BA   BA         NULL NULL NULL    
+NULL NULL   NULL DA   DA         NULL NULL NULL    
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+B    G   
+---- ----
+<group_begin>
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+AA   AA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+DA   DA  
+DA   DA  
+DA   DA  
+DA   DA  
+DA   DA  
+DA   DA  
+DA   DA  
+DA   DA  
+DA   DA  
+NULL EA  
+NULL EA  
+NULL EA  
+NULL EA  
+NULL EA  
+NULL EA  
+NULL EA  
+NULL EA  
+NULL EA  
+<group_end>
+
+--- 72 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+CONCATENATED_FIELDS
+-------------------
+<group_begin>
+AA AA       AA AA  
+AA AA       BA BA  
+AA AA       DA DA  
+BA BA       AA AA  
+BA BA       BA BA  
+BA BA       DA DA  
+DA DA       AA AA  
+DA DA       BA BA  
+DA DA       DA DA  
+NULL               
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+(EXPR)
+------
+<group_begin>
+AA BA 
+BA AA 
+BA AA 
+BA AA 
+BA AA 
+DA EA 
+NULL  
+NULL  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a03s11
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s12
+
+(EXPR)
+------
+<group_begin>
+AA BA 
+BA AA 
+BA AA 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s13
+
+(EXPR)
+-----------
+<group_begin>
+AA BA AA BA
+AA BA BA AA
+AA BA DA EA
+BA AA AA BA
+BA AA BA AA
+BA AA DA EA
+NULL       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a03s14
+
+(EXPR)
+-----------
+<group_begin>
+AA BA AA BA
+AA BA BA AA
+AA BA DA EA
+BA AA AA BA
+BA AA BA AA
+BA AA DA EA
+NULL       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

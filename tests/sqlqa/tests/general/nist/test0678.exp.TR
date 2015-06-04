@@ -1,0 +1,36 @@
+<section_begin>  test0678e
+
+CH1A       CH1B CH1C      
+---------- ---- ----------
+FOO             0123456789
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0678i
+
+CH1A       CH1B CH1C      
+---------- ---- ----------
+FOO        F    BLANKS    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0678k
+
+(EXPR)   NUM1C2 NUM1C3     
+-------- ------ -----------
+  999.00    -99           9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0678p
+
+(EXPR)   NUM1C2 NUM1C3     
+-------- ------ -----------
+    0.00      0           0
+
+--- 1 row(s) selected.
+
+<section_end>

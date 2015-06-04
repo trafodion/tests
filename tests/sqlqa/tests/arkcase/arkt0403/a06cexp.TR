@@ -1,0 +1,28 @@
+<section_begin>  a06cs0
+
+Y     Y    D_TO_MI   D_TO_MI   (EXPR)    
+----- ---- --------- --------- ----------
+<group_begin>
+1975  10   14 21:49   0 12:10   15 09:59 
+1975  10   14 21:49  16 13:15   31 11:04 
+1975  10   14 21:49   0 12:10   15 09:59 
+1975  10   14 21:49  16 13:15   31 11:04 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06cs1
+
+ID2M
+---------
+<group_begin>
+15 09:59 
+15 09:59 
+31 11:04 
+31 11:04 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

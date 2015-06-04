@@ -1,0 +1,152 @@
+<section_begin>  a01s0
+
+SBIN0_4     SDEC5_10    SDEC6_4 VARCHAR0_UNIQ
+----------- ----------- ------- -------------
+<group_begin>
+         -2          -6       0 CCAAFAAC     
+         -2          -2      -1 AIAALAAA     
+         -1           0      -2 AEAAJAAB     
+          0          -3      -2 CJAAAAAC     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+(EXPR)
+------
+Found 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR)
+------
+Found 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+(EXPR)
+------
+Found 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+(EXPR)
+------
+Found 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+(EXPR)
+------
+Found 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+(EXPR)
+------
+Found 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+VARCHAR0_UNIQ CHAR2_2 CHAR3_4  CHAR15_100 CHAR17_2
+------------- ------- -------- ---------- --------
+<group_begin>
+AEAAJAAB      AA      AAAAAAAA ATAAAAA    AAAA    
+AIAALAAA      BA      BAAAAAAA BOAAAAA    AAAAAAA 
+CCAAFAAC      AA      AAAAAAAA ACAAAAAA   AAAAAA  
+CJAAAAAC      AA      BAAAAAAA BGAAAAAA   BAAA    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+VARCHAR0_UNIQ VARCHAR0_UNIQ
+------------- -------------
+<group_begin>
+AEAAJAAB      AEAAJAAB     
+AEAAJAAB      CCAAFAAC     
+AEAAJAAB      CJAAAAAC     
+AIAALAAA      AIAALAAA     
+CCAAFAAC      AEAAJAAB     
+CCAAFAAC      CCAAFAAC     
+CCAAFAAC      CJAAAAAC     
+CJAAAAAC      AEAAJAAB     
+CJAAAAAC      CCAAFAAC     
+CJAAAAAC      CJAAAAAC     
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+T_VARCHAR0_UNIQ T_CHAR2_2 T_CHAR3_4 U_VARCHAR0_UNIQ U_CHAR2_2
+--------------- --------- --------- --------------- ---------
+<group_begin>
+AEAAJAAB        AA        AAAAAAAA  AEAAJAAB        AA       
+AEAAJAAB        AA        AAAAAAAA  AIAALAAA        BA       
+AEAAJAAB        AA        AAAAAAAA  CCAAFAAC        AA       
+AEAAJAAB        AA        AAAAAAAA  CJAAAAAC        AA       
+AIAALAAA        BA        BAAAAAAA  AEAAJAAB        AA       
+AIAALAAA        BA        BAAAAAAA  AIAALAAA        BA       
+AIAALAAA        BA        BAAAAAAA  CCAAFAAC        AA       
+AIAALAAA        BA        BAAAAAAA  CJAAAAAC        AA       
+CCAAFAAC        AA        AAAAAAAA  AEAAJAAB        AA       
+CCAAFAAC        AA        AAAAAAAA  AIAALAAA        BA       
+CCAAFAAC        AA        AAAAAAAA  CCAAFAAC        AA       
+CCAAFAAC        AA        AAAAAAAA  CJAAAAAC        AA       
+CJAAAAAC        AA        BAAAAAAA  AEAAJAAB        AA       
+CJAAAAAC        AA        BAAAAAAA  AIAALAAA        BA       
+CJAAAAAC        AA        BAAAAAAA  CCAAFAAC        AA       
+CJAAAAAC        AA        BAAAAAAA  CJAAAAAC        AA       
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+T_VARCHAR0_UNIQ T_CHAR2_2 T_CHAR3_4 U_VARCHAR0_UNIQ U_CHAR2_2
+--------------- --------- --------- --------------- ---------
+<group_begin>
+AEAAJAAB        AA        AAAAAAAA  CJAAAAAC        AA       
+CCAAFAAC        AA        AAAAAAAA  CJAAAAAC        AA       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+VARCHAR0_UNIQ CHAR2_2 CHAR3_4  VARCHAR0_UNIQ CHAR2_2
+------------- ------- -------- ------------- -------
+<group_begin>
+AEAAJAAB      AA      AAAAAAAA CJAAAAAC      AA     
+CCAAFAAC      AA      AAAAAAAA CJAAAAAC      AA     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

@@ -1,0 +1,13 @@
+<section_begin>  a04s0
+
+COL_1 COL_2 COL_3
+----- ----- -----
+<group_begin>
+abc      12 a    
+def      34 b    
+ghi      56 c    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

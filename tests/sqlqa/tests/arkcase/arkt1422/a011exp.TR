@@ -1,0 +1,66 @@
+<section_begin>  a011s0a
+
+(EXPR)
+----------
+ 59.300000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a011s0
+
+(EXPR)
+----------
+<group_begin>
+ 59.300000
+ 59.300000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a011s1
+
+SECOND_D    SECOND_D   
+----------- -----------
+          1           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a011s2
+
+SECOND_D    SECOND_D   
+----------- -----------
+          1           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a011s3
+
+SECOND_D    SECOND_D   
+----------- -----------
+          1           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a011s5
+
+SECOND_D
+-----------
+          1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a011s5a
+
+D_N        M_N        D_OF_Y      W_K    Q_R    (EXPR)             
+---------- ---------- ----------- ------ ------ -------------------
+Saturday   January              1     53      3           40.000000
+
+--- 1 row(s) selected.
+
+<section_end>

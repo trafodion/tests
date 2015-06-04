@@ -1,0 +1,54 @@
+<section_begin>  a001s0
+
+DT1        DT2        IVY 
+---------- ---------- ----
+1997-01-21 1993-01-21  3  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a001s2
+
+(EXPR)
+----------
+1994-01-21
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a001s3
+
+(EXPR)               (EXPR)               (EXPR)              
+-------------------- -------------------- --------------------
+  211720564800000000   211594334400000000      126230400000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a001s4
+
+TM1      TM2      IVH 
+-------- -------- ----
+22:30:00 12:30:00 10  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a001s5
+
+SECONDS
+-------------
+       36000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a001s6
+
+(EXPR)
+--------
+12:30:00
+
+--- 1 row(s) selected.
+
+<section_end>

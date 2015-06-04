@@ -1,0 +1,55 @@
+<section_begin>  a03s0
+
+PIC_X_7 BINARY_32_U PIC_X4_A PIC_9_7   BINARY_64_S         
+------- ----------- -------- --------- --------------------
+<group_begin>
+A              5.00 make            90               200.00
+7              6.00 joe             80              1200.00
+8              6.00 joe             80              1200.00
+5           1000.00 5              100              1000.00
+michael       50.00 dave            50              1500.00
+7              6.00 john            80              2000.00
+B              6.00 mark            80              3000.00
+michael       70.00 joan            50              4000.00
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+PIC_X_7 BINARY_32_U PIC_X4_A PIC_9_7   BINARY_64_S         
+------- ----------- -------- --------- --------------------
+<group_begin>
+A              5.00 make            90               200.00
+7              6.00 joe             80              1200.00
+8              6.00 joe             80              1200.00
+5           1000.00 5              100              1000.00
+michael       50.00 dave            50              1500.00
+7              6.00 john            80              2000.00
+B              6.00 mark            80              3000.00
+michael       70.00 joan            50              4000.00
+1234           7.00 xyz             60              1300.00
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+PIC_X_7 BINARY_32_U PIC_X4_A PIC_9_7   BINARY_64_S         
+------- ----------- -------- --------- --------------------
+<group_begin>
+A              5.00 make            90               200.00
+7              6.00 joe             80              1200.00
+8              6.00 joe             80              1200.00
+5           1000.00 5              100              1000.00
+michael       50.00 dave            50              1500.00
+7              6.00 john            80              2000.00
+B              6.00 mark            80              3000.00
+michael       70.00 joan            50              4000.00
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

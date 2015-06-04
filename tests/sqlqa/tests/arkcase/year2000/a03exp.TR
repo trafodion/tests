@@ -1,0 +1,61 @@
+<section_begin>  a03s0
+
+DT
+----------
+<group_begin>
+2000-01-01
+1999-12-31
+1000-01-01
+NULL      
+2000-02-29
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+DT
+----------
+<group_begin>
+1000-01-01
+1999-12-31
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+DT
+----------
+<group_begin>
+1000-01-01
+1999-12-31
+2000-01-01
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+DT
+----------
+2000-02-29
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+DT
+----------
+<group_begin>
+2000-02-29
+2000-01-01
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

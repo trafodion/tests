@@ -1,0 +1,62 @@
+<section_begin>  s2
+
+D_TIME_PK   D_TIME_MO   D_TIME_QT   D_TIME_YR  
+----------- ----------- ----------- -----------
+          1           1           1        2009
+          2           2           1        2009
+          3           3           1        2009
+          4           4           2        2009
+          5           5           2        2009
+          6           6           2        2009
+          7           7           3        2009
+          8           8           3        2009
+          9           9           3        2009
+         10          10           4        2009
+         11          11           4        2009
+         12          12           4        2009
+         13          13           5        2009
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+D_PROD_PK   D_PROD_DESC D_PROD_CATEGORY D_PROD_PRICE   
+----------- ----------- --------------- ---------------
+          1 prod01      p1                         1.25
+          2 prod02      p1                          1.5
+          3 prod03      p1                         1.75
+          4 prod04      p1                          2.0
+          5 prod01      p2                        100.0
+          6 prod02      p2                        200.0
+          7 prod03      p2                        300.0
+          8 prod01      p3                       1000.0
+          9 prod02      p3                       1500.0
+         10 prod01      p4                       5000.0
+         11 prod05      p5                        500.0
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+D_REGION_PK D_REGION_DESC
+----------- -------------
+          1 ce           
+          2 we           
+          3 ea           
+          4 ca           
+          5 wa           
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s1
+
+F_SALE_PK   F_SALE_TIME F_SALE_PROD F_SALE_STORE F_SALE_QTY 
+----------- ----------- ----------- ------------ -----------
+          9          13          11            5           9
+
+--- 1 row(s) selected.
+
+<section_end>

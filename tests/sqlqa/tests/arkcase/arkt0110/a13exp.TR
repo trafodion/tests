@@ -1,0 +1,234 @@
+<section_begin>  a13s0
+
+I1          C2    
+----------- ------
+<group_begin>
+          1 abcd  
+          2 abcef 
+          3 xycd  
+          4 abcf  
+          5 a%c_f 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a13s1
+
+I1          C2    
+----------- ------
+<group_begin>
+          1 abcd  
+          2 abcef 
+          4 abcf  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s2
+
+I1          C2    
+----------- ------
+<group_begin>
+          2 abcef 
+          4 abcf  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s3
+
+I1          C2    
+----------- ------
+<group_begin>
+          1 abcd  
+          3 xycd  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s4
+
+I1          C2    
+----------- ------
+<group_begin>
+          1 abcd  
+          2 abcef 
+          4 abcf  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s5
+
+I1          C2    
+----------- ------
+<group_begin>
+          1 abcd  
+          2 abcef 
+          4 abcf  
+          5 a%c_f 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s6
+
+I1          C2    
+----------- ------
+<group_begin>
+          1 abcd  
+          2 abcef 
+          4 abcf  
+          5 a%c_f 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s7
+
+I1          C2    
+----------- ------
+<group_begin>
+          1 abcd  
+          2 abcef 
+          4 abcf  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s8
+
+I1          C2    
+----------- ------
+          2 abcef 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s9
+
+I1          C2    
+----------- ------
+<group_begin>
+          3 xycd  
+          5 a%c_f 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s10
+
+I1          C2    
+----------- ------
+<group_begin>
+          3 xycd  
+          5 a%c_f 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s11
+
+I1          C2    
+----------- ------
+<group_begin>
+          1 abcd  
+          2 abcef 
+          4 abcf  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s12
+
+I1          C2    
+----------- ------
+          5 a%c_f 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s13
+
+I1          C2    
+----------- ------
+          5 a%c_f 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s14
+
+I1          C2    
+----------- ------
+<group_begin>
+          1 abcd  
+          2 abcef 
+          3 xycd  
+          4 abcf  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s15
+
+I1          C2    
+----------- ------
+<group_begin>
+          1 abcd  
+          2 abcef 
+          3 xycd  
+          4 abcf  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s19
+
+I1          C2    
+----------- ------
+          1 abcd  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s20
+
+I1          C2    
+----------- ------
+<group_begin>
+          2 abcef 
+          4 abcf  
+          5 a%c_f 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s21
+
+I1          C2    
+----------- ------
+<group_begin>
+          1 abcd  
+          2 abcef 
+          4 abcf  
+          5 a%c_f 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

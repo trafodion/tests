@@ -1,0 +1,646 @@
+<section_begin>  a20s0
+
+CNO  CNAME                 
+---- ----------------------
+C66  RELATIONAL DATABASES  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s1
+
+CNO  CNAME                  CDEPT
+---- ---------------------- -----
+<group_begin>
+C33  DISCREET MATHEMATICS   CIS  
+C44  DIGITAL CIRCUITS       CIS  
+P44  SOLIPSISM              PHIL 
+T33  HEDONISM               THEO 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a20s2
+
+CNO  CNAME                  CDEPT
+---- ---------------------- -----
+<group_begin>
+C22  DATA STRUCTURES        CIS  
+P22  RATIONALISM            PHIL 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s3
+
+CNO  CNAME                  CDEPT CLABFEE
+---- ---------------------- ----- -------
+<group_begin>
+P33  EXISTENTIALISM         PHIL   200.00
+T44  COMMUNISM              THEO   200.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s4
+
+CNO  CNAME                  CDEPT CLABFEE
+---- ---------------------- ----- -------
+<group_begin>
+P33  EXISTENTIALISM         PHIL   200.00
+T44  COMMUNISM              THEO   200.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s5
+
+CNO  CNAME                  CDEPT CLABFEE
+---- ---------------------- ----- -------
+<group_begin>
+C22  DATA STRUCTURES        CIS     50.00
+P22  RATIONALISM            PHIL    50.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s6
+
+CNO  CNAME                  CDEPT CLABFEE
+---- ---------------------- ----- -------
+<group_begin>
+C22  DATA STRUCTURES        CIS     50.00
+P22  RATIONALISM            PHIL    50.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s7
+
+ENAME      ETITLE    
+---------- ----------
+<group_begin>
+LUKE       EVANGLIST3
+MARK       EVANGLIST2
+MATTHEW    EVANGLIST1
+DICK NIX   CROOK     
+HANK KISS  JESTER    
+JOHN       EVANGLIST4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a20s8
+
+ENAME      ETITLE    
+---------- ----------
+<group_begin>
+LUKE       EVANGLIST3
+MARK       EVANGLIST2
+MATTHEW    EVANGLIST1
+DICK NIX   CROOK     
+HANK KISS  JESTER    
+JOHN       EVANGLIST4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a20s9
+
+CNO  CNAME                 
+---- ----------------------
+P33  EXISTENTIALISM        
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s10
+
+CNO  CNAME                  CDEPT CLABFEE
+---- ---------------------- ----- -------
+T44  COMMUNISM              THEO   200.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s11
+
+CNO  CNAME                  CDEPT CLABFEE
+---- ---------------------- ----- -------
+<group_begin>
+P44  SOLIPSISM              PHIL     0.00
+T33  HEDONISM               THEO     0.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s12
+
+CNO  CNAME                  CDEPT CLABFEE
+---- ---------------------- ----- -------
+<group_begin>
+P44  SOLIPSISM              PHIL     0.00
+T33  HEDONISM               THEO     0.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s13
+
+CNO  CNAME                  CDEPT CLABFEE
+---- ---------------------- ----- -------
+<group_begin>
+P44  SOLIPSISM              PHIL     0.00
+T33  HEDONISM               THEO     0.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s14
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C11  INTRO TO CS             100.00
+C22  DATA STRUCTURES          50.00
+C33  DISCREET MATHEMATICS      0.00
+C44  DIGITAL CIRCUITS          0.00
+C55  COMPUTER ARCH.          100.00
+P11  EMPIRICISM              100.00
+P22  RATIONALISM              50.00
+P44  SOLIPSISM                 0.00
+T12  FUNDAMENTALISM           90.00
+T33  HEDONISM                  0.00
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a20s15
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C11  INTRO TO CS             100.00
+C22  DATA STRUCTURES          50.00
+C33  DISCREET MATHEMATICS      0.00
+C44  DIGITAL CIRCUITS          0.00
+C55  COMPUTER ARCH.          100.00
+P11  EMPIRICISM              100.00
+P22  RATIONALISM              50.00
+P44  SOLIPSISM                 0.00
+T12  FUNDAMENTALISM           90.00
+T33  HEDONISM                  0.00
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a20s16
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s17
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s18
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C11  INTRO TO CS             100.00
+C55  COMPUTER ARCH.          100.00
+C66  RELATIONAL DATABASES    500.00
+P11  EMPIRICISM              100.00
+P33  EXISTENTIALISM          200.00
+T11  SCHOLASTICISM           150.00
+T12  FUNDAMENTALISM           90.00
+T44  COMMUNISM               200.00
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a20s19
+
+ENAME      ESALARY    
+---------- -----------
+<group_begin>
+LUKE                53
+MARK                52
+MATTHEW             51
+JOHN                54
+ARCHIMEDES         200
+DA VINCI           500
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a20s20
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a20s21
+
+ENAME      ETITLE    
+---------- ----------
+<group_begin>
+LUKE       EVANGLIST3
+MARK       EVANGLIST2
+MATTHEW    EVANGLIST1
+DICK NIX   CROOK     
+HANK KISS  JESTER    
+JOHN       EVANGLIST4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a20s22
+
+DEPT DCHFNO
+---- ------
+<group_begin>
+THEO 10    
+PHIL 60    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s23
+
+DBLD DROOM
+---- -----
+HU   200  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s24
+
+DCHFNO
+------
+<group_begin>
+10    
+60    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s25
+
+CNO  SEC  CBLD
+---- ---- ----
+<group_begin>
+P11  01   HU  
+T33  01   HU  
+T11  02   HU  
+T11  01   HU  
+P33  01   HU  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a20s26
+
+CNO  SEC  CBLD
+---- ---- ----
+<group_begin>
+P11  01   HU  
+P33  01   HU  
+T11  01   HU  
+T11  02   HU  
+T33  01   HU  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a20s27
+
+CNO  SEC  CBLD
+---- ---- ----
+<group_begin>
+P11  01   HU  
+P33  01   HU  
+T11  01   HU  
+T11  02   HU  
+T33  01   HU  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a20s28
+
+FNO  FNAME               
+---- --------------------
+<group_begin>
+10   JESSIE MARTYN       
+60   JULIE MARTYN        
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s29
+
+FNO  FNAME               
+---- --------------------
+<group_begin>
+10   JESSIE MARTYN       
+60   JULIE MARTYN        
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s30
+
+ENAME      ETITLE     DEPT
+---------- ---------- ----
+<group_begin>
+EUCLID     LAB ASSIST MATH
+ARCHIMEDES LAB ASSIST ENG 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s31
+
+FNAME                FDEPT
+-------------------- -----
+JULIE MARTYN         PHIL 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s32
+
+CDEPT (EXPR)              
+----- --------------------
+PHIL                 87.50
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s33
+
+DEPT (EXPR)              
+---- --------------------
+THEO                   52
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s34
+
+CDEPT
+-----
+<group_begin>
+CIS  
+THEO 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s35
+
+CDEPT
+-----
+CIS  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s36
+
+ENAME      ETITLE    
+---------- ----------
+<group_begin>
+LUKE       EVANGLIST3
+MARK       EVANGLIST2
+MATTHEW    EVANGLIST1
+DICK NIX   CROOK     
+HANK KISS  JESTER    
+JOHN       EVANGLIST4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a20s37
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C22  DATA STRUCTURES          50.00
+C33  DISCREET MATHEMATICS      0.00
+C44  DIGITAL CIRCUITS          0.00
+P22  RATIONALISM              50.00
+P44  SOLIPSISM                 0.00
+T33  HEDONISM                  0.00
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a20s38
+
+ENAME      ESALARY    
+---------- -----------
+<group_begin>
+DICK NIX         25001
+HANK KISS        25000
+EUCLID            1000
+DA VINCI           500
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a20s39
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C11  INTRO TO CS             100.00
+C55  COMPUTER ARCH.          100.00
+C66  RELATIONAL DATABASES    500.00
+P11  EMPIRICISM              100.00
+P33  EXISTENTIALISM          200.00
+T11  SCHOLASTICISM           150.00
+T12  FUNDAMENTALISM           90.00
+T44  COMMUNISM               200.00
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a20s40
+
+CNO  CNAME                  CLABFEE
+---- ---------------------- -------
+<group_begin>
+C11  INTRO TO CS             100.00
+C55  COMPUTER ARCH.          100.00
+C66  RELATIONAL DATABASES    500.00
+P11  EMPIRICISM              100.00
+P33  EXISTENTIALISM          200.00
+T11  SCHOLASTICISM           150.00
+T12  FUNDAMENTALISM           90.00
+T44  COMMUNISM               200.00
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a20s41
+
+FNAME                FNUM_DEP   
+-------------------- -----------
+BARB HLAVATY                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s42
+
+FNAME                FNUM_DEP   
+-------------------- -----------
+BARB HLAVATY                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s43
+
+CNO  CNAME                 
+---- ----------------------
+<group_begin>
+C11  INTRO TO CS           
+P33  EXISTENTIALISM        
+T11  SCHOLASTICISM         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a20s44
+
+CNO
+----
+<group_begin>
+C11 
+P33 
+T11 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a20s45
+
+CNO  SEC  CINSTRFNO CDAY CTIME           CBLD CROOM
+---- ---- --------- ---- --------------- ---- -----
+<group_begin>
+C33  01   80        WE   09:00-10:30A.M. SC   305  
+T33  01   65        WE   11:00-12:00A.M. HU   101  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s46
+
+SNO  REG_DATE  
+---- ----------
+<group_begin>
+325  1988-01-04
+800  1987-12-15
+100  1987-12-17
+150  1987-12-17
+100  1987-12-23
+800  1987-12-23
+100  1987-12-23
+150  1987-12-15
+800  1987-12-15
+111  1992-12-26
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a20s47
+
+CNO  CNAME                  CDEPT CLABFEE
+---- ---------------------- ----- -------
+<group_begin>
+P33  EXISTENTIALISM         PHIL   200.00
+T44  COMMUNISM              THEO   200.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s48
+
+FNAME                FNUM_DEP   
+-------------------- -----------
+<group_begin>
+KATHY PEPE                     2
+JESSIE MARTYN                  1
+JOE COHN                       2
+JULIE MARTYN                   1
+LISA BOBAK                     1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a20s49
+
+CNO  CNAME                 
+---- ----------------------
+C66  RELATIONAL DATABASES  
+
+--- 1 row(s) selected.
+
+<section_end>

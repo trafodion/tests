@@ -1,0 +1,73 @@
+<section_begin>  a16s0
+
+IV
+----
+<group_begin>
+9   
+0   
+1   
+NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s1
+
+IV
+-------------------
+<group_begin>
+123456789012345678 
+                 0 
+                 1 
+NULL               
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s2
+
+IV
+----
+<group_begin>
+0   
+1   
+9   
+9   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a16s3
+
+IV
+-------------------
+<group_begin>
+999999999999999999 
+123456789012345678 
+                 1 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a16s4
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a16s5
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

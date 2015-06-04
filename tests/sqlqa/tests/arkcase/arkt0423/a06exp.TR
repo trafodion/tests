@@ -1,0 +1,101 @@
+<section_begin>  a06s0
+
+PARTNUM (EXPR)              
+------- --------------------
+<group_begin>
+   4103           1568000.00
+   6201             29000.00
+   2402            112500.00
+   5505             42000.00
+   5504            147000.00
+   6402             63000.00
+   3103            325500.00
+   7102            680000.50
+   2001             36000.00
+   6301             43500.00
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+REGNUM BRANCHNUM (EXPR)              
+------ --------- --------------------
+     4         1                38750
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+REGNUM BRANCHNUM (EXPR)              
+------ --------- --------------------
+     3         1           40000.0000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+REGNUM BRANCHNUM
+------ ---------
+<group_begin>
+     3         1
+     2         1
+     3         3
+     3         2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+REGNUM BRANCHNUM
+------ ---------
+<group_begin>
+     2         1
+     3         3
+     3         1
+     3         2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+REGNUM BRANCHNUM
+------ ---------
+<group_begin>
+     5         3
+     5         2
+     6         1
+     1         1
+     3         3
+     4         2
+     2         2
+     2         3
+     1         2
+     4         1
+     5         1
+     3         1
+     3         2
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+REGNUM BRANCHNUM
+------ ---------
+<group_begin>
+    99         1
+     3         1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

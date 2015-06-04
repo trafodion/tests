@@ -1,0 +1,276 @@
+<section_begin>  a10s0
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable1      10 aaa  
+aatable1      11 aaa  
+aatable1      12 aaa  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a10s1
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable1      10 aaa  
+aatable1      11 aaa  
+aatable1      12 aaa  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a10s2
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable1      10 aaa  
+aatable1      11 aaa  
+aatable1      12 aaa  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a10s3
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable2      20 aaa  
+aatable1      10 aaa  
+aatable2      21 aaa  
+aatable1      11 aaa  
+aatable2      22 aaa  
+aatable1      12 aaa  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s4
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable1      10 aaa  
+aatable1      11 aaa  
+aatable1      12 aaa  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a10s5
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable2      20 aaa  
+aatable2      21 aaa  
+aatable2      22 aaa  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a10s6
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable2      20 aaa  
+aatable1      10 aaa  
+aatable2      21 aaa  
+aatable1      11 aaa  
+aatable2      22 aaa  
+aatable1      12 aaa  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s7
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable2      20 aaa  
+aatable1      10 aaa  
+aatable2      21 aaa  
+aatable1      11 aaa  
+aatable2      22 aaa  
+aatable1      12 aaa  
+aatasame       4 aaa  
+aatable1      13 aaa  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a10s8
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable1      10 aaa  
+aatable1      11 aaa  
+aatable1      12 aaa  
+aatable1      13 aaa  
+aatasame       4 aaa  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a10s9
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable2      20 aaa  
+aatable2      21 aaa  
+aatable2      22 aaa  
+aatasame       4 aaa  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a10s10
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable2      20 aaa  
+aatable1      10 aaa  
+aatable2      21 aaa  
+aatable1      11 aaa  
+aatable2      22 aaa  
+aatable1      12 aaa  
+aatasame       4 aaa  
+aatable1      13 aaa  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a10s11
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable2      20 aaa  
+aatable1      10 aaa  
+aatable2      21 aaa  
+aatable1      11 aaa  
+aatable2      22 aaa  
+aatable1      12 aaa  
+aatasame       4 aaa  
+aatable1      13 aaa  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a10s12
+
+C2
+-----
+<group_begin>
+   20
+   10
+   21
+   11
+   22
+   12
+    4
+   13
+    4
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a10s13
+
+C2
+-----
+<group_begin>
+   20
+   10
+   21
+   11
+   22
+   12
+    4
+   13
+    4
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a10s14
+
+C2
+-----
+<group_begin>
+   20
+   10
+   21
+   11
+   22
+   12
+    4
+   13
+    4
+   20
+   10
+   21
+   11
+   22
+   12
+    4
+   13
+    4
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a10s15
+
+V1         V2    V3   
+---------- ----- -----
+<group_begin>
+aatable1      10 aaa  
+aatable1      11 aaa  
+aatable1      12 aaa  
+aatable1      13 aaa  
+aatasame       4 aaa  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a10s16
+
+C1         C2    C3   
+---------- ----- -----
+<group_begin>
+aatable1      10 aaa  
+aatable1      11 aaa  
+aatable1      12 aaa  
+aatable1      13 aaa  
+aatasame       4 aaa  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

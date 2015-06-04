@@ -1,0 +1,24 @@
+<section_begin>  verify
+<group_begin>
+
+VCHARCOL
+----------
+bc        
+
+--- 1 row(s) selected.
+
+VCHARCOL
+----------
+bc        
+cde       
+defg      
+efghi     
+fghijk    
+bc        
+
+--- 6 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

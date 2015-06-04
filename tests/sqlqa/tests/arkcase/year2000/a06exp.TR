@@ -1,0 +1,66 @@
+<section_begin>  a06s0
+
+TS
+-----------------------
+<group_begin>
+2000-01-01 00:00:00.000
+1999-12-31 23:59:59.999
+NULL                   
+2000-01-01 00:00:00.001
+1000-01-01 00:00:00.000
+2000-02-29 12:30:00.000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+TS
+-----------------------
+<group_begin>
+1000-01-01 00:00:00.000
+1999-12-31 23:59:59.999
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+TS
+-----------------------
+<group_begin>
+1000-01-01 00:00:00.000
+1999-12-31 23:59:59.999
+2000-01-01 00:00:00.000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+TS
+-----------------------
+<group_begin>
+2000-01-01 00:00:00.001
+2000-02-29 12:30:00.000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+TS
+-----------------------
+<group_begin>
+2000-01-01 00:00:00.000
+2000-01-01 00:00:00.001
+2000-02-29 12:30:00.000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

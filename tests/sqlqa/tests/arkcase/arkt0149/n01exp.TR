@@ -1,0 +1,244 @@
+<section_begin>  n01s9
+
+COL_N
+------
+<group_begin>
+     1
+   123
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  n01s16
+
+--- SQL command prepared.
+
+<section_end>
+<section_begin>  n01s17
+
+PARTNUM
+-------
+<group_begin>
+   6301
+   6302
+   7102
+   2003
+   2001
+   4101
+   4102
+   3103
+   3102
+   4103
+   2002
+   3302
+   5505
+   5502
+   5504
+   3201
+   5103
+   5101
+   2402
+   2403
+   7301
+   1403
+   6201
+    212
+    244
+   6401
+   6402
+   6603
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  n01s18
+
+--- SQL command prepared.
+
+<section_end>
+<section_begin>  n01s19
+
+PARTNUM
+-------
+<group_begin>
+   6301
+   6302
+   7102
+   2003
+   2001
+   4101
+   4102
+   3103
+   3102
+   4103
+   2002
+   3302
+   5505
+   5502
+   5504
+   3201
+   5103
+   5101
+   2402
+   2403
+   7301
+   1403
+   6201
+    212
+    244
+   6401
+   6402
+   6603
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  n01s20
+LEFT select partnum from *parts
+
+<section_end>
+<section_begin>  n01s21
+JOIN select partnum from *parts
+
+<section_end>
+<section_begin>  n01s21a
+
+JOIN
+ select partnum from *parts
+
+LEFT
+ select partnum from *parts
+
+S
+ SELECT EE.CAN_NUM, EE.SET_ID, EE.EXPR, SS.*
+ FROM *expr EE
+ LEFT JOIN *sets1 SS
+ ON (EE.EXPR >= 2)
+ ORDER BY 1, 2, 4, 5
+
+S1
+ SELECT count(*)
+ from *expr EE , *require RR , *sets1 SS
+
+S2
+ SELECT EE.CAN_NUM, EE.SET_ID, EE.EXPR,
+ RR.EXPR, RR.SKILL_ID, SS.SET_ID, SS.SKILL_ID
+ FROM *require RR
+ JOIN *expr EE
+ ON RR.JOB_ID = ?JOB
+ AND EE.CAN_NUM IN (100669,100677,100700, 100081)
+ LEFT JOIN *sets1 SS
+ ON (EE.SET_ID, RR.SKILL_ID) = (SS.SET_ID, SS.SKILL_ID)
+ AND (RR.PRI = 0 OR
+ (RR.PRI > 0 AND EE.EXPR >= RR.EXPR))
+ ORDER BY 1, 2, 3, 5, 6
+
+S3
+ SELECT EE.CAN_NUM, EE.SET_ID, EE.EXPR, SS.*
+ FROM *require RR
+ JOIN *expr EE
+ ON RR.JOB_ID = ?JOB
+ LEFT JOIN *sets1 SS
+ ON (RR.PRI = 0 OR (RR.PRI > 0
+ AND EE.EXPR >= RR.EXPR))
+ ORDER BY 1, 2, 4, 5
+
+T
+ insert into *b4table2 values (?p,?q,?r)
+
+<section_end>
+<section_begin>  n01s28
+
+CITY           STATE        CITY           STATE       
+-------------- ------------ -------------- ------------
+<group_begin>
+PHILADELPHIA   PENN         NULL           NULL        
+SAN FRANCISCO  CALIFORNIA   CUPERTINO      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   SUNNYVALE      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   PALO ALTO      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   IRVINE         CALIFORNIA  
+DENVER         COLORADO     NULL           NULL        
+LUBBOCK        TEXAS        DALLAS         TEXAS       
+FRESNO         CALIFORNIA   CUPERTINO      CALIFORNIA  
+FRESNO         CALIFORNIA   SUNNYVALE      CALIFORNIA  
+FRESNO         CALIFORNIA   PALO ALTO      CALIFORNIA  
+FRESNO         CALIFORNIA   IRVINE         CALIFORNIA  
+FRANKFURT      GERMANY      NULL           NULL        
+NEW YORK       NEW YORK     NULL           NULL        
+LINCOLN        NEBRASKA     NULL           NULL        
+DUISBURG       GERMANY      NULL           NULL        
+MUENCHEN       GERMANY      NULL           NULL        
+CHICAGO        ILLINOIS     NULL           NULL        
+DALLAS         TEXAS        DALLAS         TEXAS       
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  n01s29
+
+C1             S1           C2             S2          
+-------------- ------------ -------------- ------------
+<group_begin>
+PHILADELPHIA   PENN         NULL           NULL        
+SAN FRANCISCO  CALIFORNIA   CUPERTINO      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   SUNNYVALE      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   PALO ALTO      CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA   IRVINE         CALIFORNIA  
+DENVER         COLORADO     NULL           NULL        
+LUBBOCK        TEXAS        DALLAS         TEXAS       
+FRESNO         CALIFORNIA   CUPERTINO      CALIFORNIA  
+FRESNO         CALIFORNIA   SUNNYVALE      CALIFORNIA  
+FRESNO         CALIFORNIA   PALO ALTO      CALIFORNIA  
+FRESNO         CALIFORNIA   IRVINE         CALIFORNIA  
+FRANKFURT      GERMANY      NULL           NULL        
+NEW YORK       NEW YORK     NULL           NULL        
+LINCOLN        NEBRASKA     NULL           NULL        
+DUISBURG       GERMANY      NULL           NULL        
+MUENCHEN       GERMANY      NULL           NULL        
+CHICAGO        ILLINOIS     NULL           NULL        
+DALLAS         TEXAS        DALLAS         TEXAS       
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  n01s31
+
+(EXPR)
+--------------
+CHICAGO       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n01s32
+
+(EXPR)
+------------
+CALIFORNIA  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n01s33
+
+(EXPR)
+--------------
+CUPERTINO     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n01s34
+
+(EXPR)
+------------
+CALIFORNIA  
+
+--- 1 row(s) selected.
+
+<section_end>

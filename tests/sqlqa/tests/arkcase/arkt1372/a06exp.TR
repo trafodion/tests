@@ -1,0 +1,144 @@
+<section_begin>  a06s0
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+	s      t_go    j       to%go         0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+	s      t_go    j       to%go         0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+	s      t_go    j       to%go         0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+	s      t_go    j       to%go         0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+	_      junk    j       \%            0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+PIC_X_A PIC_X_B PIC_X_C
+------- ------- -------
+ al     F       al     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+	s      t_go    j       to%go         0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+	s      t_go    j       to%go         0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+	s      t_go    j       to%go         0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s11
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+_t%     junk    j       _%            0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s12
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+_t%     junk    j       _%            0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s13
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+	s      t_go    j       to%go         0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s14
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+	s      t_go    j       to%go         0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s15
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+	s      t_go    j       to%go         0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s16
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+%t_     junk    j       %_            0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s17
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+%t_     junk    j       %_            0       0       0
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,105 @@
+<section_begin>  s01
+
+F_NO        F_NAME                         F_REALNAME                                         F_BIRTHDAY
+----------- ------------------------------ -------------------------------------------------- ----------
+<group_begin>
+          0 No female actor                No female actor                                    %%%%-%%-%%
+       6111 Grace Kelly                    Grace Patricia Kelly                               1929-11-12
+       6123 Katherine Hepburn              Katharine Houghton Hepburn                         1907-05-12
+       6124 Joan Crawford                  Lucille Fay LeSueur                                1904-03-23
+       6125 Ingrid Bergman                 Ingrid Bergman                                     1915-08-29
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s02
+
+MV_NO       MV_NAME                                  MV_MALESTAR MV_FEMALESTAR MV_DIRECTOR MV_YEARMADE MV_STAR_RATING MV_MOVIETYPE   
+----------- ---------------------------------------- ----------- ------------- ----------- ----------- -------------- ---------------
+<group_begin>
+          1 To Catch a Thief                                1111          6111        1234        1955 ****           Mystery        
+          2 High Noon                                       1222          6111        1456        1951 ****           Western        
+          3 Unforgiven                                      1333             0        1345        1990 ***            Action         
+          4 The Women                                          0          6124        1567        1939 ****           Drama          
+          5 The Philadelphia Story                          1111          6123        1567        1940 ****           Drama          
+          6 Notorious                                       1111          6125        1234        1946 ****           Mystery        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  s03
+
+M_NO        M_NAME                         M_REALNAME                                         M_BIRTHDAY
+----------- ------------------------------ -------------------------------------------------- ----------
+<group_begin>
+          0 No male actor                  No male actor                                      %%%%-%%-%%
+       1111 Cary Grant                     Archibald Alec Leach                               1904-01-18
+       1222 Gary Cooper                    Frank James Cooper                                 1901-05-07
+       1333 Clint Eastwood                 Clinton Eastwood Jr.                               1930-05-31
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  s04
+
+D_NO        D_NAME                         d_specialty    
+----------- ------------------------------ ---------------
+<group_begin>
+          0 No director named              Unknown        
+       1234 Alfred Hitchcock               Mystery        
+       1345 Clint Eastwood                 Action         
+       1456 Fred Zinneman                  Western        
+       1567 George Cukor                   Drama          
+       1789 Roger Corman                   Scary          
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  s05
+
+F_NO        F_NAME                         F_REALNAME                                         MV_NAME                                 
+----------- ------------------------------ -------------------------------------------------- ----------------------------------------
+<group_begin>
+       6111 Grace Kelly                    Grace Patricia Kelly                                                                       
+       6123 Katherine Hepburn              Katharine Houghton Hepburn                                                                 
+       6124 Joan Crawford                  Lucille Fay LeSueur                                                                        
+       6125 Ingrid Bergman                 Ingrid Bergman                                                                             
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  s07
+
+F_NO        F_NAME                         F_REALNAME                                         MV_NAME                                 
+----------- ------------------------------ -------------------------------------------------- ----------------------------------------
+<group_begin>
+       6111 Grace Kelly                    Grace Patricia Kelly                               High Noon                               
+       6123 Katherine Hepburn              Katharine Houghton Hepburn                         The Philadelphia Story                  
+       6124 Joan Crawford                  Lucille Fay LeSueur                                The Women                               
+       6125 Ingrid Bergman                 Ingrid Bergman                                     Notorious                               
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  s09
+
+F_NO        F_NAME                         F_REALNAME                                         MV_NAME                                 
+----------- ------------------------------ -------------------------------------------------- ----------------------------------------
+<group_begin>
+          0 No female actor                No female actor                                    Unforgiven                              
+       6111 Grace Kelly                    Grace Patricia Kelly                               High Noon                               
+       6123 Katherine Hepburn              Katharine Houghton Hepburn                         The Philadelphia Story                  
+       6124 Joan Crawford                  Lucille Fay LeSueur                                The Women                               
+       6125 Ingrid Bergman                 Ingrid Bergman                                     Notorious                               
+       7125 Marilyn Monroe                 Jean Pateau                                        Naked City                              
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

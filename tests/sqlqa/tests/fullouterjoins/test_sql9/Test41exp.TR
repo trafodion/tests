@@ -1,0 +1,152 @@
+<section_begin>  a1s5
+
+A_R_L       A_R        
+----------- -----------
+       NULL           0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a1s11
+
+E_L_L       D_R        
+----------- -----------
+          0        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a1s12
+
+D_L         E_R        
+----------- -----------
+<group_begin>
+          0           5
+          0          10
+          0          15
+          0          20
+          0          25
+          0          30
+          0          35
+          0          40
+          0          45
+       NULL           0
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a1s13
+
+D_L         E_R         B_R        
+----------- ----------- -----------
+          0        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a1s14
+
+C_L         B_L         A_R         B_R        
+----------- ----------- ----------- -----------
+<group_begin>
+          0           0        NULL        NULL
+          0        NULL        NULL        NULL
+          2        NULL        NULL        NULL
+          3           2        NULL        NULL
+          4        NULL        NULL        NULL
+          6           4        NULL        NULL
+          6        NULL        NULL        NULL
+          8        NULL        NULL        NULL
+          9           6        NULL        NULL
+         10        NULL        NULL        NULL
+         12           8        NULL        NULL
+         12        NULL        NULL        NULL
+         14        NULL        NULL        NULL
+         15          10        NULL        NULL
+         16        NULL        NULL        NULL
+         18          12        NULL        NULL
+         18        NULL        NULL        NULL
+         21          14        NULL        NULL
+         24          16        NULL        NULL
+         27          18        NULL        NULL
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a1s15
+
+C_L         B_L         C_L_R      
+----------- ----------- -----------
+<group_begin>
+          0           0        NULL
+          3           2        NULL
+          6           4        NULL
+          9           6        NULL
+         12           8        NULL
+         15          10        NULL
+         18          12        NULL
+         21          14        NULL
+         24          16        NULL
+         27          18        NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a1s17
+
+E_L         A_L         D_L         B_R        
+----------- ----------- ----------- -----------
+<group_begin>
+          0           0           0        NULL
+       NULL        NULL        NULL          10
+       NULL        NULL        NULL          12
+       NULL        NULL        NULL          14
+       NULL        NULL        NULL          16
+       NULL        NULL        NULL          18
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a1s18
+
+C_L         C_L_R      
+----------- -----------
+<group_begin>
+          0           0
+          3        NULL
+          6        NULL
+          9        NULL
+         12        NULL
+         15        NULL
+         18        NULL
+         21        NULL
+         24        NULL
+         27        NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a1s19
+
+C_L         B_L         D_L         B_R_R_R    
+----------- ----------- ----------- -----------
+<group_begin>
+          3           2           4        NULL
+          6           4           8        NULL
+          9           6          12        NULL
+         12           8          16        NULL
+         15          10          20        NULL
+         18          12          24        NULL
+         21          14          28        NULL
+         24          16          32        NULL
+         27          18          36        NULL
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>

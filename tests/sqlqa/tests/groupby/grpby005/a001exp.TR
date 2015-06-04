@@ -1,0 +1,167 @@
+<section_begin>  a01s1
+
+(EXPR)
+------
+   -50
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR)
+------
+     1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+(EXPR)
+-----------
+<group_begin>
+   38000.00
+   40500.00
+  176500.00
+   66000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+(EXPR)
+-----------
+<group_begin>
+   36000.00
+   38500.00
+  174500.00
+   64000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+(EXPR)
+-----------
+<group_begin>
+   46000.00
+   43000.00
+  184500.00
+   66000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+(EXPR)
+-----------
+<group_begin>
+   36997.00
+   39498.00
+  175498.00
+   64999.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+(EXPR)
+-------------
+<group_begin>
+   40700.0000
+   43450.0000
+  193050.0000
+   71500.0000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+(EXPR)
+--------------
+<group_begin>
+  333000000.00
+  138250000.00
+ 1579500000.00
+   65000000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+(EXPR)
+---------------
+<group_begin>
+   999000000.00
+   276500000.00
+  3159000000.00
+    65000000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+------------------------
+<group_begin>
+                 1.369E9
+               1.56025E9
+             3.080025E10
+                 4.225E9
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+(EXPR)
+------
+    36
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+(EXPR)
+---------------
+<group_begin>
+   332889000.00
+   138171000.00
+  1579149000.00
+    64935000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+(EXPR)
+-------------
+<group_begin>
+     65047.00
+     75548.00
+    342048.00
+    129049.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

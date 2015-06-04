@@ -1,0 +1,30 @@
+<section_begin>  a14s1
+
+UBIN1_N2 CHAR0_N10 DATE1_N4   (EXPR)  
+-------- --------- ---------- --------
+<group_begin>
+    NULL NULL      NULL        is Null
+       0 AB        NULL       its B   
+       0 AA        NULL       its A   
+    NULL BB        2100-01-01  is Null
+    NULL BA        2100-01-03 its B   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a14s2
+
+UBIN1_N2 CHAR0_N10 DATE1_N4   (EXPR)         
+-------- --------- ---------- ---------------
+<group_begin>
+    NULL NULL      NULL       its Null       
+       0 AB        NULL       its B          
+       0 AA        NULL       its zero String
+    NULL BB        2100-01-01 its Null       
+    NULL BA        2100-01-03 its B          
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

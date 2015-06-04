@@ -1,0 +1,23 @@
+<section_begin>  s1
+
+COL1        (EXPR)        (EXPR)       
+----------- ------------- -------------
+<group_begin>
+          0             3             1
+         10            50             1
+        100          1223           100
+       1000          1000          5000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>

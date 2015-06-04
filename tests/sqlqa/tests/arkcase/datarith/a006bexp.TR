@@ -1,0 +1,117 @@
+<section_begin>  a006bs0
+
+IVYR  IVMT IVDY IVHR IVMN IVSC      
+----- ---- ---- ---- ---- ----------
+<group_begin>
+1997   6   15   12   59    1.000000 
+9999  31   24   -23  -59  -59.000000
+   0   0    0    0    0    0.000000 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a006bs1
+
+IVYR  (EXPR)
+----- ------
+<group_begin>
+1997   1987 
+9999   9989 
+   0    -10 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a006bs2
+
+IVMT (EXPR)
+---- ------
+<group_begin>
+ 6    -4   
+31    21   
+ 0   -10   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a006bs3
+
+IVDY (EXPR)
+---- ------
+<group_begin>
+15    -85  
+24    -76  
+ 0   -100  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a006bs4
+
+IVHR (EXPR)
+---- ------
+<group_begin>
+12    -8   
+-23  -43   
+ 0   -20   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a006bs5
+
+IVMN (EXPR)
+---- ------
+<group_begin>
+59    58   
+-59  -60   
+ 0    -1   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a006bs6
+
+IVSC       (EXPR)     
+---------- -----------
+<group_begin>
+ 1.000000   -0.500000 
+-59.000000 -60.500000 
+ 0.000000   -1.500000 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a006bs7
+
+IVYR  IVMT IVDY IVHR IVMN IVSC      
+----- ---- ---- ---- ---- ----------
+<group_begin>
+1997   6   15   12   59    1.000000 
+9999  31   24   -23  -59  -59.000000
+   0   0    0    0    0    0.000000 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a006bs9
+
+IVYR  IVMT IVDY IVHR IVMN IVSC      
+----- ---- ---- ---- ---- ----------
+<group_begin>
+1997   6   15   12   59    1.000000 
+9999  31   24   -23  -59  -59.000000
+   0   0    0    0    0    0.000000 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

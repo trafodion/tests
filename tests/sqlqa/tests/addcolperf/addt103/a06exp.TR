@@ -1,0 +1,209 @@
+<section_begin>  a06s1
+
+ORDERS DT00       TI00     TS00                  
+------ ---------- -------- ----------------------
+<group_begin>
+1      NULL       11:11:11 NULL                  
+2      2001-01-02 12:34:56 2001-01-02 12:34:56.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+ORDERS DT00       TI00     TS00                   S12_2            YR4   MO00
+------ ---------- -------- ---------------------- ---------------- ----- ----
+<group_begin>
+1      NULL       11:11:11 NULL                   NULL             NULL   0  
+2      2001-01-02 12:34:56 2001-01-02 12:34:56.00 NULL             NULL   0  
+3      2005-01-01 11:11:11 NULL                   NULL             NULL   0  
+4      NULL       11:11:11 NULL                            -10.00  NULL   0  
+5      2005-01-01 15:00:00 2005-01-01 15:00:00.00            5.50  1005   0  
+6      2006-01-01 16:00:00 2006-01-01 16:00:00.00         6000.55  1006   0  
+7      NULL       17:00:00 NULL                           7000.55  NULL   0  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+ORDERS DT00       TI00     TS00                   S12_2            YR4   MO00 VCHAR8  
+------ ---------- -------- ---------------------- ---------------- ----- ---- --------
+<group_begin>
+1      NULL       11:11:11 NULL                   NULL             NULL   0   interval
+2      2001-01-02 12:34:56 2001-01-02 12:34:56.00 NULL             NULL   0   interval
+3      2005-01-01 11:11:11 NULL                   NULL             NULL   0   interval
+4      NULL       11:11:11 NULL                            -10.00  NULL   0   interval
+5      2005-01-01 15:00:00 2005-01-01 15:00:00.00            5.50  1005   0   interval
+6      2006-01-01 16:00:00 2006-01-01 16:00:00.00         6000.55  1006   0   interval
+7      NULL       17:00:00 NULL                           7000.55  NULL   0   interval
+8      NULL       11:11:11 NULL                              7.20  1717   0   interval
+9      2006-09-09 19:00:00 20%%-01-01 19:00:00.00         9000.55  1009  29   interval
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+ORDERS DT00       TI00     TS00                   S12_2            YR4   MO00 VCHAR8  
+------ ---------- -------- ---------------------- ---------------- ----- ---- --------
+<group_begin>
+1      NULL       11:11:11 NULL                   NULL             NULL   0   interval
+10     NULL       11:11:11 NULL                   NULL             NULL  10   interval
+11     2006-10-10 10:10:00 20%%-10-10 10:10:10.00           10.10    10  -2   row_11  
+2      2001-01-02 12:34:56 2001-01-02 12:34:56.00 NULL             NULL   0   interval
+3      2005-01-01 11:11:11 NULL                   NULL             NULL   0   interval
+4      NULL       11:11:11 NULL                            -10.00  NULL   0   interval
+5      2005-01-01 15:00:00 2005-01-01 15:00:00.00            5.50  1005   0   interval
+6      2006-01-01 16:00:00 2006-01-01 16:00:00.00         6000.55  1006   0   interval
+7      NULL       17:00:00 NULL                           7000.55  NULL   0   interval
+8      NULL       11:11:11 NULL                              7.20  1717   0   interval
+9      2006-09-09 19:00:00 20%%-01-01 19:00:00.00         9000.55  1009  29   interval
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+ORDERS DT00       TI00     TS00                   S12_2            YR4   MO00 VCHAR8   DAY18              
+------ ---------- -------- ---------------------- ---------------- ----- ---- -------- -------------------
+<group_begin>
+1      NULL       11:11:11 NULL                   NULL             NULL   0   interval              18888 
+10     NULL       11:11:11 NULL                   NULL             NULL  10   interval              18888 
+11     20%%-%%-%% 10:10:00 20%%-%%-%% %%:%%:%%.%%           10.10    10  -2   row_11   NULL               
+12     1996-01-31 11:11:11 1996-01-31 12:12:12.00         1212.12  NULL  12   interval              18888 
+13     2006-10-13 13:13:03 2003-10-13 13:10:10.00           13.13    13   2   row_13                   13 
+2      2001-01-02 12:34:56 2001-01-02 12:34:56.00 NULL             NULL   0   interval              18888 
+3      2005-01-01 11:11:11 NULL                   NULL             NULL   0   interval              18888 
+4      20%%-%%-%% 11:11:11 20%%-%%-%% %%:%%:%%.%%          -10.00  NULL   0   interval              18888 
+5      2005-01-01 15:00:00 2005-01-01 15:00:00.00            5.50  1005   0   interval NULL               
+6      2006-01-01 16:00:00 2006-01-01 16:00:00.00         6000.55  1006   0   interval NULL               
+7      NULL       17:00:00 NULL                           7000.55  NULL   0   interval              18888 
+8      NULL       11:11:11 NULL                              7.20  1717   0   interval NULL               
+9      2006-09-09 19:00:00 20%%-01-01 19:00:00.00         9000.55  1009  29   interval NULL               
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6v1
+
+ORDERS S12_2            MO_MO H08_S0          VCHAR8  
+------ ---------------- ----- --------------- --------
+<group_begin>
+10     NULL             11    NULL            interval
+11               10.10  11    NULL            row_11  
+12             1212.12  11    NULL            interval
+13               13.13  11    NULL            row_13  
+2      NULL             11    NULL            interval
+20     NULL             11    NULL            interval
+21             2121.21  11    NULL            interval
+22     NULL             11    NULL            R22     
+23     NULL             11    NULL            R23     
+3      NULL             11    NULL            interval
+4               -10.00  11    NULL            interval
+5                 5.50  11    NULL            interval
+6              6000.55  11    NULL            interval
+7              7000.55  11    NULL            interval
+8                 7.20  11    NULL            interval
+9              9000.55  11    NULL            interval
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6v2
+
+ORDERS YR4   Y11_M           H02_S6           VCHAR3
+------ ----- --------------- ---------------- ------
+<group_begin>
+10     NULL  NULL            NULL             NULL  
+11       10  NULL            NULL             NULL  
+12     NULL  NULL            NULL             NULL  
+13       13  NULL            NULL             NULL  
+2      NULL  NULL            NULL             NULL  
+20     NULL         1414-01  NULL             NULL  
+21     NULL       100000-11  NULL             NULL  
+22     NULL  NULL            NULL             NULL  
+23     NULL  NULL            23:23:23.123456  NULL  
+3      NULL  NULL            NULL             NULL  
+4      NULL  NULL            NULL             NULL  
+5      1005  NULL            NULL             NULL  
+6      1006  NULL            NULL             NULL  
+7      NULL  NULL            NULL             NULL  
+8      1717  NULL            NULL             NULL  
+9      1009  NULL            NULL             NULL  
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+ORDERS DT00       TI00     TS00                   S12_2            YR4   MO00 VCHAR8   DAY18               MO_MO D07_S5                  H08_S0          M10_S                 Y11_M           S5F1     H02_S6           VCHAR3
+------ ---------- -------- ---------------------- ---------------- ----- ---- -------- ------------------- ----- ----------------------- --------------- --------------------- --------------- -------- ---------------- ------
+<group_begin>
+1      NULL       11:11:11 NULL                   NULL             NULL   0   interval              18888  11    NULL                    NULL            NULL                  NULL            12345.0  NULL             NULL  
+10     NULL       11:11:11 NULL                   NULL             NULL  10   interval              18888  11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+11     20%%-%%-%% 10:10:00 20%%-%%-%% %%:%%:%%.%%           10.10    10  -2   row_11   NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+12     1996-01-31 11:11:11 1996-01-31 12:12:12.00         1212.12  NULL  12   interval              18888  11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+13     2006-10-13 13:13:03 2003-10-13 13:10:10.00           13.13    13   2   row_13                   13  11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+14     NULL       14:14:00 NULL                             14.14  NULL  14   row_14   NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+15     NULL       11:11:11 NULL                             15.15  NULL  15   interval NULL                11          7 07:07:07.12345  NULL            NULL                  NULL                5.1  NULL             NULL  
+16     NULL       11:11:11 NULL                             16.16  NULL  16   interval NULL                11    NULL                    NULL                    16:16.123456         1616-06  NULL     NULL             R16   
+17     1991-07-31 17:30:30 1991-07-31 17:30:30.00           17.17    17  17   row_17               170000  17    1700000 17:17:17.12345        17:17:17  1700000000:17.123456      1700000-11  17000.7  17:17:17.123456  R17   
+2      2001-01-02 12:34:56 2001-01-02 12:34:56.00 NULL             NULL   0   interval              18888  11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+20     NULL       11:11:11 NULL                   NULL             NULL   0   interval NULL                11    NULL                    NULL            NULL                         1414-01  NULL     NULL             NULL  
+21     NULL       11:11:11 NULL                           2121.21  NULL   0   interval NULL                11    NULL                    NULL            NULL                       100000-11  NULL     NULL             NULL  
+22     NULL       11:11:11 NULL                   NULL             NULL   0   R22      NULL                11    NULL                    NULL                 55555:55.123456  NULL            55555.5  NULL             NULL  
+23     NULL       11:11:11 NULL                   NULL             NULL   0   R23      NULL                11    NULL                    NULL            NULL                  NULL            23232.3  23:23:23.123456  NULL  
+3      2005-01-01 11:11:11 NULL                   NULL             NULL   0   interval              18888  11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+4      20%%-%%-%% 11:11:11 20%%-%%-%% %%:%%:%%.%%          -10.00  NULL   0   interval              18888  11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+5      2005-01-01 15:00:00 2005-01-01 15:00:00.00            5.50  1005   0   interval NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+6      2006-01-01 16:00:00 2006-01-01 16:00:00.00         6000.55  1006   0   interval NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+7      NULL       17:00:00 NULL                           7000.55  NULL   0   interval              18888  11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+8      NULL       11:11:11 NULL                              7.20  1717   0   interval NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+9      2006-09-09 19:00:00 20%%-01-01 19:00:00.00         9000.55  1009  29   interval NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+ORDERS DT00       TI00     TS00                   S12_2            YR4   MO00 VCHAR8   DAY18               MO_MO D07_S5                  H08_S0          M10_S                 Y11_M           S5F1     H02_S6           VCHAR3
+------ ---------- -------- ---------------------- ---------------- ----- ---- -------- ------------------- ----- ----------------------- --------------- --------------------- --------------- -------- ---------------- ------
+<group_begin>
+16     NULL       11:11:11 NULL                             16.16  NULL  16   interval NULL                11    NULL                    NULL                    16:16.123456         1616-06  NULL     NULL             R16   
+17     1991-07-31 17:30:30 1991-07-31 17:30:30.00           17.17    17  17   row_17               170000  17    1700000 17:17:17.12345        17:17:17  1700000000:17.123456      1700000-11  17000.7  17:17:17.123456  R17   
+20     NULL       11:11:11 NULL                   NULL             NULL   0   interval NULL                11    NULL                    NULL            NULL                         1414-01  NULL     NULL             NULL  
+21     NULL       11:11:11 NULL                           2121.21  NULL   0   interval NULL                11    NULL                    NULL            NULL                       100000-11  NULL     NULL             NULL  
+6      2006-01-01 16:00:00 2006-01-01 16:00:00.00         6000.55  1006   0   interval NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+7      NULL       17:00:00 NULL                           7000.55  NULL   0   interval              18888  11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+9      2006-09-09 19:00:00 20%%-01-01 19:00:00.00         9000.55  1009  29   interval NULL                11    NULL                    NULL            NULL                  NULL            NULL     NULL             NULL  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+ORDERS YR4   Y11_M           H02_S6           VCHAR3
+------ ----- --------------- ---------------- ------
+<group_begin>
+16     NULL         1616-06  NULL             R16   
+17       17      1700000-11  17:17:17.123456  R17   
+20     NULL         1414-01  NULL             NULL  
+21     NULL       100000-11  NULL             NULL  
+6      1006  NULL            NULL             NULL  
+7      NULL  NULL            NULL             NULL  
+9      1009  NULL            NULL             NULL  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

@@ -1,0 +1,54 @@
+<section_begin>  test0433a
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0433b
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0433c
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0433d
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0433e
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0433f
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

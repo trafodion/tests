@@ -1,0 +1,324 @@
+<section_begin>  a11s0
+
+CHAR_1 VAR_CHAR                                                                                                                         MEDIUM_INT SMALL_INT
+------ -------------------------------------------------------------------------------------------------------------------------------- ---------- ---------
+<group_begin>
+A      B                                                                                                                                     10000        10
+D      jimmy                                                                                                                                  9000        80
+D      thomas                                                                                                                                 8000        90
+D      thomas                                                                                                                                10000        90
+A      B                                                                                                                                      8000      1000
+E      christopher                                                                                                                            8000      2000
+C      thomas                                                                                                                                 5000      8000
+C      marilyn                                                                                                                                1000      9000
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a11s1
+
+CHAR_1 VAR_CHAR                                                                                                                         MEDIUM_INT SMALL_INT
+------ -------------------------------------------------------------------------------------------------------------------------------- ---------- ---------
+<group_begin>
+A      B                                                                                                                                     10000        10
+D      jimmy                                                                                                                                  9000        80
+D      thomas                                                                                                                                10000        90
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s2
+
+CHAR_1 VAR_CHAR                                                                                                                         MEDIUM_INT SMALL_INT
+------ -------------------------------------------------------------------------------------------------------------------------------- ---------- ---------
+<group_begin>
+D      jimmy                                                                                                                                  9000        80
+D      thomas                                                                                                                                 8000        90
+D      thomas                                                                                                                                10000        90
+E      christopher                                                                                                                            8000      2000
+C      thomas                                                                                                                                 5000      8000
+C      marilyn                                                                                                                                1000      9000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+CHAR_1 VAR_CHAR                                                                                                                         MEDIUM_INT SMALL_INT
+------ -------------------------------------------------------------------------------------------------------------------------------- ---------- ---------
+<group_begin>
+D      thomas                                                                                                                                 8000        90
+D      thomas                                                                                                                                10000        90
+C      thomas                                                                                                                                 5000      8000
+C      marilyn                                                                                                                                1000      9000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s4
+
+CHAR_1 SMALL_INT
+------ ---------
+<group_begin>
+A             10
+A           1000
+A             10
+C           9000
+C           8000
+D             80
+D             90
+D             90
+D             80
+D             90
+E           2000
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+CHAR_1 SMALL_INT
+------ ---------
+<group_begin>
+A           1000
+A             10
+A             10
+C           9000
+C           8000
+D             90
+D             80
+D             90
+D             80
+D             90
+E           2000
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a11s6
+
+CHAR_1 SMALL_INT
+------ ---------
+<group_begin>
+A             10
+D             80
+D             90
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s7
+
+SMALL_INT
+---------
+<group_begin>
+       90
+       10
+     1000
+       80
+     2000
+     9000
+     8000
+       90
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a11s8
+
+SMALL_INT
+---------
+<group_begin>
+       90
+       10
+     1000
+       80
+     2000
+     9000
+     8000
+       90
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a11s9
+
+SMALL_INT
+---------
+<group_begin>
+       90
+       80
+       90
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s10
+
+SMALL_INT
+---------
+<group_begin>
+       80
+       90
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s11
+
+(EXPR)   SMALL_INT
+-------- ---------
+<group_begin>
+      90        90
+      80        80
+      90        90
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s12
+
+CHAR_1 VAR_CHAR                                                                                                                        
+------ --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+A      B                                                                                                                               
+C      thomas                                                                                                                          
+C      marilyn                                                                                                                         
+D      jimmy                                                                                                                           
+D      thomas                                                                                                                          
+E      christopher                                                                                                                     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s13
+
+CHAR_1 VAR_CHAR                                                                                                                        
+------ --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+A      B                                                                                                                               
+C      marilyn                                                                                                                         
+C      thomas                                                                                                                          
+D      thomas                                                                                                                          
+D      jimmy                                                                                                                           
+E      christopher                                                                                                                     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s14
+
+CHAR_1 VAR_CHAR                                                                                                                        
+------ --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+C      marilyn                                                                                                                         
+C      thomas                                                                                                                          
+C      marilyn                                                                                                                         
+C      thomas                                                                                                                          
+D      thomas                                                                                                                          
+D      thomas                                                                                                                          
+D      thomas                                                                                                                          
+D      thomas                                                                                                                          
+D      jimmy                                                                                                                           
+E      christopher                                                                                                                     
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a11s15
+
+Y_TO_D
+----------
+<group_begin>
+1988-01-01
+1977-03-02
+1802-09-07
+1901-01-01
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s16
+
+Y_TO_D
+----------
+<group_begin>
+1988-01-01
+1977-03-02
+1901-01-01
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s17
+
+Y_TO_D
+----------
+1802-09-07
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s18
+
+Y_TO_D
+----------
+<group_begin>
+1802-09-07
+1901-01-01
+1977-03-02
+1988-01-01
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s19
+
+Y_TO_D
+----------
+<group_begin>
+1802-09-07
+1901-01-01
+1977-03-02
+1988-01-01
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s20
+
+IH_TO_S
+----------------
+ 1:02:03.000000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s21
+
+IH_TO_S
+----------------
+ 1:02:03.000000 
+
+--- 1 row(s) selected.
+
+<section_end>

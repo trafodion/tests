@@ -1,0 +1,63 @@
+<section_begin>  a20s0
+
+Z           W          
+----------- -----------
+        200           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s1
+
+Y           Z          
+----------- -----------
+<group_begin>
+         10         100
+         20         200
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s2
+
+Y           Z           W          
+----------- ----------- -----------
+         20         200           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s3
+
+X           Y          
+----------- -----------
+<group_begin>
+          1          10
+          1          20
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a20s4
+
+Y           Z           W          
+----------- ----------- -----------
+         20         200           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a20s5
+
+Y           Z          
+----------- -----------
+<group_begin>
+         10         100
+         20         200
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

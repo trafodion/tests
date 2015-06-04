@@ -1,0 +1,211 @@
+<section_begin>  a15s0
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+C77  INTRODUCTION TO SQL    GOOD STUFF!                         3  150.00 CIS  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s1
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C77  INTRODUCTION TO SQL    GOOD STUFF!                         3  150.00 CIS  
+C77  INTRODUCTION TO SQL    GOOD STUFF!                         3  150.00 CIS  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a15s2
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+C78  EMBEDDED SQL                                            NULL    NULL CIS  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s3
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C78  EMBEDDED SQL                                            NULL    NULL CIS  
+C78  EMBEDDED SQL                                            NULL    NULL CIS  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a15s4
+
+ENAME      ETITLE     ESALARY     DEPT
+---------- ---------- ----------- ----
+ALAN       LAB ASSIST        3000 CIS 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s5
+
+ENAME      ETITLE     ESALARY     DEPT
+---------- ---------- ----------- ----
+GEORGE                       NULL CIS 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s7
+
+CISCNO CISCNAME               CISCRED     CISCLABFEE
+------ ---------------------- ----------- ----------
+<group_begin>
+C11    INTRO TO CS                      3     100.00
+C22    DATA STRUCTURES                  3      50.00
+C33    DISCREET MATHEMATICS             3       0.00
+C44    DIGITAL CIRCUITS                 3       0.00
+C55    COMPUTER ARCH.                   3     100.00
+C66    RELATIONAL DATABASES             3     500.00
+C77    INTRODUCTION TO SQL              3     150.00
+C77    INTRODUCTION TO SQL              3     150.00
+C78    EMBEDDED SQL                  NULL       NULL
+C78    EMBEDDED SQL                  NULL       NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a15s8
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C77  INTRODUCTION TO SQL    GOOD STUFF!                         3  175.00 CIS  
+C77  INTRODUCTION TO SQL    GOOD STUFF!                         3  175.00 CIS  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a15s9
+
+CISCNO CISCNAME               CISCRED     CISCLABFEE
+------ ---------------------- ----------- ----------
+<group_begin>
+C11    INTRO TO CS                      9     100.00
+C22    DATA STRUCTURES                  9      50.00
+C33    DISCREET MATHEMATICS             9       0.00
+C44    DIGITAL CIRCUITS                 9       0.00
+C55    COMPUTER ARCH.                   9     100.00
+C66    RELATIONAL DATABASES             9     500.00
+C77    INTRODUCTION TO SQL              9     150.00
+C77    INTRODUCTION TO SQL              9     150.00
+C78    EMBEDDED SQL                     9       NULL
+C78    EMBEDDED SQL                     9       NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a15s10
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C77  INTRODUCTION TO SQL    THE LANGUAGE OF SQL                 6  192.50 CIS  
+C77  INTRODUCTION TO SQL    THE LANGUAGE OF SQL                 6  192.50 CIS  
+C78  EMBEDDED SQL           THE LANGUAGE OF SQL                 6    NULL CIS  
+C78  EMBEDDED SQL           THE LANGUAGE OF SQL                 6    NULL CIS  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a15s11
+
+CISCNO CISCNAME               CISCRED     CISCLABFEE
+------ ---------------------- ----------- ----------
+<group_begin>
+C77    INTRODUCTION TO SQL              9     500.00
+C77    INTRODUCTION TO SQL              9     500.00
+C78    EMBEDDED SQL                     9     500.00
+C78    EMBEDDED SQL                     9     500.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a15s12
+
+CISCNO CISCNAME               CISCRED     CISCLABFEE
+------ ---------------------- ----------- ----------
+<group_begin>
+C77    INTRODUCTION TO SQL              4     500.00
+C77    INTRODUCTION TO SQL              4     500.00
+C78    EMBEDDED SQL                     4     500.00
+C78    EMBEDDED SQL                     4     500.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a15s13
+
+ENAME      ETITLE     ESALARY     DEPT
+---------- ---------- ----------- ----
+<group_begin>
+ALAN       LAB ASSIST        4000 CIS 
+GEORGE                       4000 CIS 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a15s15
+
+EXPCNO EXPCNAME               EXPCLABFEE EXPCDEPT
+------ ---------------------- ---------- --------
+<group_begin>
+C66    RELATIONAL DATABASES       500.00 CIS     
+P33    EXISTENTIALISM             200.00 PHIL    
+T11    SCHOLASTICISM              150.00 THEO    
+T44    COMMUNISM                  200.00 THEO    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a15s16
+
+EXPCNO EXPCNAME               EXPCLABFEE EXPCDEPT
+------ ---------------------- ---------- --------
+C66    RELATIONAL DATABASES       450.00 CIS     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s17
+
+EXPCNO EXPCNAME               EXPCLABFEE EXPCDEPT
+------ ---------------------- ---------- --------
+X99                                 NULL XXX     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s18
+
+EXPCNO EXPCNAME               EXPCLABFEE EXPCDEPT
+------ ---------------------- ---------- --------
+<group_begin>
+C66    JUNK                       450.00 CIS     
+P33    JUNK                       200.00 PHIL    
+X99    JUNK                         NULL XXX     
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

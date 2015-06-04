@@ -1,0 +1,154 @@
+<section_begin>  a06s0
+
+Y_TO_MO  Y    
+-------- -----
+<group_begin>
+  10-01    10 
+9999-11  9999 
+   1-01     1 
+   1-01     1 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+(EXPR)
+---------
+<group_begin>
+   20-01 
+19998-11 
+    2-01 
+    2-01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+D_TO_S       D_TO_F          
+------------ ----------------
+<group_begin>
+17 14:16:01  18 15:17:02.123 
+28 03:58:59  27 04:57:58.999 
+ 1 01:01:01   1 01:01:01.100 
+ 0 00:00:00   0 00:00:00.000 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+(EXPR)
+-----------------
+<group_begin>
+ -1 01:01:01.123 
+  0 23:01:00.001 
+ -0 00:00:00.100 
+  0 00:00:00.000 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+Y_TO_MO
+--------
+<group_begin>
+  10-01 
+9999-11 
+   1-01 
+   1-01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+(EXPR)
+---------
+<group_begin>
+   20-02 
+19999-10 
+    2-02 
+    2-02 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+D_TO_S
+------------
+<group_begin>
+17 14:16:01 
+28 03:58:59 
+ 1 01:01:01 
+ 0 00:00:00 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+(EXPR)
+------------
+<group_begin>
+ 3 12:27:12 
+ 5 15:11:47 
+ 0 05:00:12 
+ 0 00:00:00 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+Y_TO_MO
+--------
+<group_begin>
+  10-01 
+9999-11 
+   1-01 
+   1-01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+(EXPR)
+---------
+<group_begin>
+   50-05 
+49999-07 
+    5-05 
+    5-05 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+Y_TO_MO  Y    
+-------- -----
+<group_begin>
+  10-01    10 
+9999-11  9999 
+   1-01     1 
+   1-01     1 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

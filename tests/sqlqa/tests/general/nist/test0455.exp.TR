@@ -1,0 +1,61 @@
+<section_begin>  test0455a
+
+EMPNUM CITY           
+------ ---------------
+<group_begin>
+Code   Vienna         
+Design Deale          
+E1     Deale          
+E2     Vienna         
+E3     Vienna         
+E4     Deale          
+E5     Akron          
+Test   Tampa          
+Test   Vienna         
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  test0455b
+
+EMPNUM CITY           
+------ ---------------
+<group_begin>
+E1     Deale          
+E2     Vienna         
+E3     Vienna         
+E4     Deale          
+E5     Akron          
+e1     Deale          
+e1     Tampa          
+e1     Vienna         
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  test0455c
+
+EMPNUM GRADE  
+------ -------
+<group_begin>
+E1          12
+E1          20
+E1          40
+E1          80
+E2          10
+E2          40
+E2          80
+E3          13
+E3          20
+E4          12
+E4          20
+E4          40
+E4          80
+E5          13
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>

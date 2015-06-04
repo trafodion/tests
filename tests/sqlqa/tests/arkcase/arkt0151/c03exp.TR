@@ -1,0 +1,56 @@
+<section_begin>  c03s0
+
+DATE1_1    DATE1     
+---------- ----------
+<group_begin>
+1988-10-25 1988-10-25
+0100-01-01 0100-01-01
+0500-01-01 0500-01-01
+1800-05-06 1800-05-06
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c03s1
+
+TIME1    TIME1   
+-------- --------
+<group_begin>
+10:10:10 10:10:10
+00:00:00 00:00:00
+21:59:59 21:59:59
+12:23:24 12:23:24
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c03s2
+
+TIME1    TIME1   
+-------- --------
+<group_begin>
+10:10:10 10:10:10
+00:00:00 00:00:00
+21:59:59 21:59:59
+12:23:24 12:23:24
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c03s3
+
+TIME1    TIME1   
+-------- --------
+<group_begin>
+10:10:10 10:10:10
+00:00:00 00:00:00
+21:59:59 21:59:59
+12:23:24 12:23:24
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

@@ -1,0 +1,152 @@
+<section_begin>  s1
+
+PNAME                HOURS  
+-------------------- -------
+<group_begin>
+CALM                      12
+CALM                      12
+CALM                      20
+CALM                      20
+CALM                      20
+CALM                      40
+CALM                      40
+CALM                      40
+CALM                      80
+CALM                      80
+CALM                      80
+IRM                       12
+IRM                       12
+IRM                       20
+IRM                       20
+IRM                       20
+IRM                       40
+IRM                       40
+IRM                       40
+IRM                       80
+IRM                       80
+IRM                       80
+MXSS                      12
+MXSS                      12
+MXSS                      20
+MXSS                      20
+MXSS                      20
+MXSS                      40
+MXSS                      40
+MXSS                      40
+MXSS                      80
+MXSS                      80
+MXSS                      80
+PAYR                      12
+PAYR                      12
+PAYR                      20
+PAYR                      20
+PAYR                      20
+PAYR                      40
+PAYR                      40
+PAYR                      40
+PAYR                      80
+PAYR                      80
+PAYR                      80
+SDP                       12
+SDP                       12
+SDP                       12
+SDP                       12
+SDP                       20
+SDP                       20
+SDP                       20
+SDP                       20
+SDP                       20
+SDP                       20
+SDP                       40
+SDP                       40
+SDP                       40
+SDP                       40
+SDP                       40
+SDP                       40
+SDP                       80
+SDP                       80
+SDP                       80
+SDP                       80
+SDP                       80
+SDP                       80
+<group_end>
+
+--- 66 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+PNAME                HOURS  
+-------------------- -------
+<group_begin>
+CALM                      12
+CALM                      12
+CALM                      20
+CALM                      20
+CALM                      20
+CALM                      40
+CALM                      40
+CALM                      40
+CALM                      80
+CALM                      80
+CALM                      80
+IRM                       12
+IRM                       12
+IRM                       20
+IRM                       20
+IRM                       20
+IRM                       40
+IRM                       40
+IRM                       40
+IRM                       80
+IRM                       80
+IRM                       80
+MXSS                      12
+MXSS                      12
+MXSS                      20
+MXSS                      20
+MXSS                      20
+MXSS                      40
+MXSS                      40
+MXSS                      40
+MXSS                      80
+MXSS                      80
+MXSS                      80
+PAYR                      12
+PAYR                      12
+PAYR                      20
+PAYR                      20
+PAYR                      20
+PAYR                      40
+PAYR                      40
+PAYR                      40
+PAYR                      80
+PAYR                      80
+PAYR                      80
+SDP                       12
+SDP                       12
+SDP                       12
+SDP                       12
+SDP                       20
+SDP                       20
+SDP                       20
+SDP                       20
+SDP                       20
+SDP                       20
+SDP                       40
+SDP                       40
+SDP                       40
+SDP                       40
+SDP                       40
+SDP                       40
+SDP                       80
+SDP                       80
+SDP                       80
+SDP                       80
+SDP                       80
+SDP                       80
+<group_end>
+
+--- 66 row(s) selected.
+
+<section_end>

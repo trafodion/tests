@@ -1,0 +1,24 @@
+<section_begin>  s1
+
+SNUM  CITY           
+----- ---------------
+<group_begin>
+s1    London         
+s4    London         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+SNUM  CITY           
+----- ---------------
+<group_begin>
+s1    London         
+s4    London         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

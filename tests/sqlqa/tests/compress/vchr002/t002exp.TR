@@ -1,0 +1,520 @@
+<section_begin>  t002s3
+
+I1          V1         V2                          V3  
+----------- ---------- --------------------------- ----
+<group_begin>
+         10 0          10                          00  
+          1 1             01                       11  
+          2 2             02                       22  
+          3 3             03                       33  
+          4 4          04                          44  
+          5 5             05                       55  
+          6 6          06                          66  
+          7 7           07                         77  
+          8 8           08                         88  
+          9 9           09                         99  
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  t002s6
+
+V1   V2       V3              
+---- -------- ----------------
+<group_begin>
+1    001      11              
+2    002      22              
+3    003      33              
+4    004      44              
+5    005      55              
+6    006      66              
+7    007      77              
+8    008      88              
+9    009      99              
+0    010      00              
+1    011      11              
+2    012      22              
+3    013      33              
+4    014      44              
+5    015      55              
+6    016      66              
+7    017      77              
+8    018      88              
+9    019      99              
+0    020      00              
+1    021      11              
+2    022      22              
+3    023      33              
+4    024      44              
+5    025      55              
+6    026      66              
+7    027      77              
+8    028      88              
+9    029      99              
+0    030      00              
+1    031      11              
+2    032      22              
+3    033      33              
+4    034      44              
+5    035      55              
+6    036      66              
+7    037      77              
+8    038      88              
+9    039      99              
+0    040      00              
+1    041      11              
+2    042      22              
+3    043      33              
+4    044      44              
+5    045      55              
+6    046      66              
+7    047      77              
+8    048      88              
+9    049      99              
+0    050      00              
+1    051      11              
+2    052      22              
+3    053      33              
+4    054      44              
+5    055      55              
+6    056      66              
+7    057      77              
+8    058      88              
+9    059      99              
+0    060      00              
+1    061      11              
+2    062      22              
+3    063      33              
+4    064      44              
+5    065      55              
+6    066      66              
+7    067      77              
+8    068      88              
+9    069      99              
+0    070      00              
+1    071      11              
+2    072      22              
+3    073      33              
+4    074      44              
+5    075      55              
+6    076      66              
+7    077      77              
+8    078      88              
+9    079      99              
+0    080      00              
+1    081      11              
+2    082      22              
+3    083      33              
+4    084      44              
+5    085      55              
+6    086      66              
+7    087      77              
+8    088      88              
+9    089      99              
+0    090      00              
+1    091      11              
+2    092      22              
+3    093      33              
+4    094      44              
+5    095      55              
+6    096      66              
+7    097      77              
+8    098      88              
+9    099      99              
+0    100      00              
+1    101      11              
+2    102      22              
+3    103      33              
+4    104      44              
+5    105      55              
+6    106      66              
+7    107      77              
+8    108      88              
+9    109      99              
+0    110      00              
+1    111      11              
+2    112      22              
+3    113      33              
+4    114      44              
+5    115      55              
+6    116      66              
+7    117      77              
+8    118      88              
+9    119      99              
+0    120      00              
+1    121      11              
+2    122      22              
+3    123      33              
+4    124      44              
+5    125      55              
+6    126      66              
+7    127      77              
+8    128      88              
+9    129      99              
+0    130      00              
+1    131      11              
+2    132      22              
+3    133      33              
+4    134      44              
+5    135      55              
+6    136      66              
+7    137      77              
+8    138      88              
+9    139      99              
+0    140      00              
+1    141      11              
+2    142      22              
+3    143      33              
+4    144      44              
+5    145      55              
+6    146      66              
+7    147      77              
+8    148      88              
+9    149      99              
+0    150      00              
+<group_end>
+
+--- 150 row(s) selected.
+
+<section_end>
+<section_begin>  t002s13
+
+I1          V1         V2                          V3  
+----------- ---------- --------------------------- ----
+       NULL z          1                           ZZ  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  upds01
+
+V1   V2       V3              
+---- -------- ----------------
+9    099      ZZ              
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  upds02
+
+V1   V2       V3              
+---- -------- ----------------
+<group_begin>
+9    009      ZZ              
+9    019      ZZ              
+9    029      ZZ              
+9    039      ZZ              
+9    049      ZZ              
+9    059      ZZ              
+9    069      ZZ              
+9    079      ZZ              
+9    089      ZZ              
+9    099      ZZ              
+9    109      ZZ              
+9    119      ZZ              
+9    129      ZZ              
+9    139      ZZ              
+9    149      ZZ              
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  upds03
+
+V1   V2       V3              
+---- -------- ----------------
+2    052      62.345670000    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  exes04
+
+--- 1 row(s) updated.
+
+<section_end>
+<section_begin>  upds04
+
+V1   V2       V3              
+---- -------- ----------------
+9    119      119.ZZ-123456789
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t002s23
+
+V1   V2       V3              
+---- -------- ----------------
+<group_begin>
+1    001      Mckinley        
+2    002      Mckinley        
+3    003      Mckinley        
+4    004      Mckinley        
+5    005      55              
+6    006      66              
+7    007      77              
+8    008      88              
+9    009      ZZ              
+0    010      Mckinley        
+1    011      Mckinley        
+2    012      Mckinley        
+3    013      Mckinley        
+4    014      Mckinley        
+5    015      55              
+6    016      66              
+7    017      77              
+8    018      88              
+9    019      ZZ              
+0    020      Mckinley        
+1    021      Mckinley        
+2    022      Mckinley        
+3    023      Mckinley        
+4    024      Mckinley        
+5    025      55              
+6    026      66              
+7    027      77              
+8    028      88              
+9    029      ZZ              
+0    030      Mckinley        
+1    031      Mckinley        
+2    032      Mckinley        
+3    033      Mckinley        
+4    034      Mckinley        
+5    035      55              
+6    036      66              
+7    037      77              
+8    038      88              
+9    039      ZZ              
+0    040      Mckinley        
+1    041      Mckinley        
+2    042      Mckinley        
+3    043      Mckinley        
+4    044      Mckinley        
+5    045      55              
+6    046      66              
+7    047      77              
+8    048      88              
+9    049      ZZ              
+0    050      Mckinley        
+1    051      Mckinley        
+2    052      Mckinley        
+3    053      Mckinley        
+4    054      Mckinley        
+5    055      55              
+6    056      66              
+7    057      77              
+8    058      88              
+9    059      ZZ              
+0    060      Mckinley        
+1    061      Mckinley        
+2    062      Mckinley        
+3    063      Mckinley        
+4    064      Mckinley        
+5    065      55              
+6    066      66              
+7    067      77              
+8    068      88              
+9    069      ZZ              
+0    070      Mckinley        
+1    071      Mckinley        
+2    072      Mckinley        
+3    073      Mckinley        
+4    074      Mckinley        
+5    075      55              
+6    076      66              
+7    077      77              
+8    078      88              
+9    079      ZZ              
+0    080      Mckinley        
+1    081      Mckinley        
+2    082      Mckinley        
+3    083      Mckinley        
+4    084      Mckinley        
+5    085      55              
+6    086      66              
+7    087      77              
+8    088      88              
+9    089      ZZ              
+0    090      Mckinley        
+1    091      Mckinley        
+2    092      Mckinley        
+3    093      Mckinley        
+4    094      Mckinley        
+5    095      55              
+6    096      66              
+7    097      77              
+8    098      88              
+9    099      0001-01-01      
+0    100      Mckinley        
+1    101      Mckinley        
+2    102      Mckinley        
+3    103      Mckinley        
+4    104      Mckinley        
+5    105      55              
+6    106      66              
+7    107      77              
+8    108      88              
+9    109      ZZ              
+0    110      Mckinley        
+1    111      Mckinley        
+2    112      Mckinley        
+3    113      Mckinley        
+4    114      Mckinley        
+5    115      55              
+6    116      66              
+7    117      77              
+8    118      88              
+9    119      119.ZZ-123456789
+0    120      Mckinley        
+1    121      Mckinley        
+2    122      Mckinley        
+3    123      Mckinley        
+4    124      Mckinley        
+5    125      55              
+6    126      66              
+7    127      77              
+8    128      88              
+9    129      ZZ              
+0    130      Mckinley        
+1    131      Mckinley        
+2    132      Mckinley        
+3    133      Mckinley        
+4    134      Mckinley        
+5    135      55              
+6    136      66              
+7    137      77              
+8    138      88              
+9    139      ZZ              
+0    140      Mckinley        
+1    141      Mckinley        
+2    142      Mckinley        
+3    143      Mckinley        
+4    144      Mckinley        
+5    145      55              
+6    146      66              
+7    147      77              
+8    148      88              
+9    149      ZZ              
+0    150      Mckinley        
+<group_end>
+
+--- 150 row(s) selected.
+
+<section_end>
+<section_begin>  t002d25
+
+--- 1 row(s) deleted.
+
+<section_end>
+<section_begin>  t002d27
+
+--- 54 row(s) deleted.
+
+<section_end>
+<section_begin>  t002s28
+
+V1   V2       V3              
+---- -------- ----------------
+<group_begin>
+1    001      Mckinley        
+3    003      Mckinley        
+5    005      55              
+6    006      66              
+7    007      77              
+8    008      88              
+9    009      ZZ              
+1    011      Mckinley        
+3    013      Mckinley        
+5    015      55              
+6    016      66              
+7    017      77              
+8    018      88              
+9    019      ZZ              
+1    021      Mckinley        
+3    023      Mckinley        
+5    025      55              
+6    026      66              
+7    027      77              
+8    028      88              
+9    029      ZZ              
+1    031      Mckinley        
+3    033      Mckinley        
+5    035      55              
+6    036      66              
+7    037      77              
+8    038      88              
+9    039      ZZ              
+1    041      Mckinley        
+3    043      Mckinley        
+5    045      55              
+6    046      66              
+7    047      77              
+8    048      88              
+9    049      ZZ              
+1    051      Mckinley        
+3    053      Mckinley        
+5    055      55              
+6    056      66              
+7    057      77              
+8    058      88              
+9    059      ZZ              
+1    061      Mckinley        
+3    063      Mckinley        
+5    065      55              
+6    066      66              
+7    067      77              
+8    068      88              
+9    069      ZZ              
+1    071      Mckinley        
+3    073      Mckinley        
+5    075      55              
+6    076      66              
+7    077      77              
+8    078      88              
+9    079      ZZ              
+1    081      Mckinley        
+3    083      Mckinley        
+5    085      55              
+6    086      66              
+7    087      77              
+8    088      88              
+9    089      ZZ              
+1    091      Mckinley        
+3    093      Mckinley        
+5    095      55              
+6    096      66              
+7    097      77              
+8    098      88              
+0    100      Mckinley        
+1    101      Mckinley        
+2    102      Mckinley        
+3    103      Mckinley        
+4    104      Mckinley        
+5    105      55              
+6    106      66              
+7    107      77              
+8    108      88              
+9    109      ZZ              
+0    110      Mckinley        
+1    111      Mckinley        
+2    112      Mckinley        
+3    113      Mckinley        
+4    114      Mckinley        
+5    115      55              
+6    116      66              
+7    117      77              
+8    118      88              
+0    120      Mckinley        
+1    121      Mckinley        
+2    122      Mckinley        
+3    123      Mckinley        
+4    124      Mckinley        
+5    125      55              
+<group_end>
+
+--- 94 row(s) selected.
+
+<section_end>

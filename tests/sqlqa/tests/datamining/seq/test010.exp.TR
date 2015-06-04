@@ -1,0 +1,120 @@
+<section_begin>  s1
+
+offset (i1,3)
+-------------
+<group_begin>
+         NULL
+         NULL
+         NULL
+            1
+            2
+            3
+            4
+            5
+            6
+            7
+            8
+            9
+           10
+           11
+           12
+           13
+           14
+           15
+           16
+           17
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+offset (i2,10)
+--------------
+<group_begin>
+          NULL
+          NULL
+          NULL
+          NULL
+          NULL
+          NULL
+          NULL
+          NULL
+          NULL
+          NULL
+            61
+          1464
+          1985
+          2580
+          4597
+          4818
+          6215
+          6516
+          7447
+          9235
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+offset (ts,19)
+--------------------------
+<group_begin>
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+1950-03-05 08:32:09.000000
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+offset (ts,21)
+--------------------------
+<group_begin>
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+NULL                      
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>

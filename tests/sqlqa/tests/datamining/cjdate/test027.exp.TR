@@ -1,0 +1,44 @@
+<section_begin>  s1
+
+COLOR
+------
+red   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+COLOR
+------
+<group_begin>
+red   
+green 
+blue  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+COLOR
+------
+red   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s5
+
+COLOR
+------
+<group_begin>
+red   
+green 
+blue  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

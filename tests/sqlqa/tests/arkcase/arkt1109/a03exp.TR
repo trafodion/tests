@@ -1,0 +1,69 @@
+<section_begin>  a03s0
+
+C_AT VC9       VC7     VC5   VC3 
+---- --------- ------- ----- ----
+<group_begin>
+a    abcd      bcdef   efghi jkl 
+a    a         a             aa  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+VC9       VC7     VC5   VC3 
+--------- ------- ----- ----
+<group_begin>
+a         b       c     d   
+a         NULL    NULL  f   
+abcd      bcdef   efghi jkl 
+e         f       g     h   
+i         a       b     a   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+VC9       VC7     VC5   VC3 
+--------- ------- ----- ----
+<group_begin>
+a         NULL    b     NULL
+c         NULL    a     NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+VC9       VC7     VC5   VC3 
+--------- ------- ----- ----
+<group_begin>
+a         a       a     NULL
+a         NULL    a     NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+VC9       VC7     VC5   VC3 
+--------- ------- ----- ----
+lily      pad     lily  NULL
+
+--- 1 row(s) selected.
+
+<section_end>

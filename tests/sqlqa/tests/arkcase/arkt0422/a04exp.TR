@@ -1,0 +1,271 @@
+<section_begin>  a04s0
+
+SUPPNAME
+------------------
+DATADRIVE         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+SUPPNAME
+------------------
+DATADRIVE         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+SUPPNAME
+------------------
+DATADRIVE         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+SUPPNUM
+-------
+<group_begin>
+      6
+     15
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+SUPPNUM
+-------
+<group_begin>
+      6
+     15
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+CUSTNUM
+-------
+<group_begin>
+     21
+    123
+    143
+    324
+    543
+    926
+   1234
+   3210
+   3333
+   5635
+   7654
+   7777
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+CUSTNUM
+-------
+<group_begin>
+     21
+    123
+    143
+    324
+    543
+    926
+   1234
+   3210
+   3333
+   5635
+   7654
+   7777
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+PARTNUM
+-------
+<group_begin>
+    244
+   2001
+   3102
+   3103
+   4103
+   5103
+   6201
+   6302
+   6401
+    212
+   1403
+   3302
+   4101
+   6301
+   7301
+   2002
+   3202
+   5101
+   7102
+   2402
+   2003
+   2403
+   4102
+   5504
+   5502
+   6402
+   5503
+   3201
+   5505
+<group_end>
+
+--- 29 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+PARTNUM
+-------
+<group_begin>
+   2001
+   2002
+   2403
+   3102
+   4101
+   5503
+   1403
+   3201
+   5502
+   5504
+   6302
+   6402
+    244
+   6301
+   6201
+   7301
+   2003
+   4102
+    212
+   3103
+   3302
+   5103
+   2402
+   3202
+   4103
+   5505
+   7102
+   6401
+   5101
+<group_end>
+
+--- 29 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+CUSTNUM
+-------
+   3210
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+CUSTNUM
+-------
+   3210
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+CUSTNUM
+-------
+   3210
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s12
+
+CUSTNUM
+-------
+<group_begin>
+    324
+    926
+   1234
+   7654
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s13
+
+CUSTNUM
+-------
+<group_begin>
+   3210
+    143
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s14
+
+CUSTNUM
+-------
+<group_begin>
+   3210
+    143
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s15
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      1
+      1
+      1
+      1
+      1
+      1
+      1
+      1
+      1
+     15
+      1
+      1
+     15
+      1
+     15
+      1
+      1
+     15
+      1
+     15
+     15
+     15
+<group_end>
+
+--- 23 row(s) selected.
+
+<section_end>

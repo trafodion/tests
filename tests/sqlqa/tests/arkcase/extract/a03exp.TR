@@ -1,0 +1,260 @@
+<section_begin>  a03s0
+
+IDH    IDM       IDS                
+------ --------- -------------------
+<group_begin>
+13 23  15 12:30  25 01:45:09.000000 
+ 1 01  31 23:59  13 11:05:59.999999 
+NULL    0 00:00   0 00:00:00.000000 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+(EXPR)
+------
+<group_begin>
+    13
+     1
+  NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+(EXPR)
+------
+<group_begin>
+    23
+     1
+  NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+(EXPR)
+------
+<group_begin>
+    15
+    31
+     0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+(EXPR)
+------
+<group_begin>
+    12
+    23
+     0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+(EXPR)
+------
+<group_begin>
+    30
+    59
+     0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+(EXPR)
+------
+<group_begin>
+    25
+    13
+     0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+(EXPR)
+------
+<group_begin>
+     1
+    11
+     0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+(EXPR)
+------
+<group_begin>
+    45
+     5
+     0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+(EXPR)
+----------
+<group_begin>
+  9.000000
+ 59.999999
+  0.000000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+IDH    IDM       IDS                
+------ --------- -------------------
+<group_begin>
+13 23  15 12:30  25 01:45:09.000000 
+ 1 01  31 23:59  13 11:05:59.999999 
+NULL    0 00:00   0 00:00:00.000000 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s11
+
+(EXPR)
+------
+<group_begin>
+    13
+     1
+  NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s12
+
+(EXPR)
+------
+<group_begin>
+    23
+     1
+  NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s13
+
+(EXPR)
+------
+<group_begin>
+    15
+    31
+     0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s14
+
+(EXPR)
+------
+<group_begin>
+    12
+    23
+     0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s15
+
+(EXPR)
+------
+<group_begin>
+    30
+    59
+     0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s16
+
+(EXPR)
+------
+<group_begin>
+    25
+    13
+     0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s17
+
+(EXPR)
+------
+<group_begin>
+     1
+    11
+     0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s18
+
+(EXPR)
+------
+<group_begin>
+    45
+     5
+     0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s19
+
+(EXPR)
+----------
+<group_begin>
+  9.000000
+ 59.999999
+  0.000000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

@@ -1,0 +1,54 @@
+<section_begin>  s1
+
+JNAME
+----------
+<group_begin>
+console   
+sorter    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+JNAME
+----------
+<group_begin>
+collator  
+punch     
+reader    
+tape      
+terminal  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+JNAME
+----------
+<group_begin>
+console   
+sorter    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+JNAME
+----------
+<group_begin>
+collator  
+punch     
+reader    
+tape      
+terminal  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

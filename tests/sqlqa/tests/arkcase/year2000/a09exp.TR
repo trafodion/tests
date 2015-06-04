@@ -1,0 +1,53 @@
+<section_begin>  a09s0
+
+(EXPR)
+------
+<group_begin>
+     7
+     3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+DY
+-----------
+<group_begin>
+          7
+          3
+          6
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+(EXPR)
+------
+<group_begin>
+     7
+     3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+DY
+-----------
+<group_begin>
+          7
+          3
+          6
+          7
+          3
+          6
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

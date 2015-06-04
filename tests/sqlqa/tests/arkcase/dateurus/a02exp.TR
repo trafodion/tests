@@ -1,0 +1,55 @@
+<section_begin>  a02s0
+
+TM
+--------
+<group_begin>
+23:02:55
+13:05:24
+10:40:05
+01:25:45
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+TM
+--------
+13:05:24
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+TM
+--------
+23:02:55
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+TM
+--------
+<group_begin>
+10:40:05
+10:40:05
+13:05:24
+13:05:24
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

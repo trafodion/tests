@@ -1,0 +1,594 @@
+<section_begin>  a02s0
+
+PIC_X_8
+--------
+maureen 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+CHAR_1
+------
+<group_begin>
+D     
+A     
+A     
+D     
+E     
+C     
+C     
+D     
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+PIC_X_8  CHAR_1
+-------- ------
+<group_begin>
+maureen  D     
+maureen  C     
+maureen  E     
+maureen  D     
+maureen  A     
+maureen  A     
+maureen  C     
+maureen  D     
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+PIC_X_8  CHAR_1
+-------- ------
+maureen  NULL  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+PIC_X_8  CHAR_1
+-------- ------
+maureen  NULL  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+PIC_X_8  CHAR_1
+-------- ------
+maureen  NULL  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+PIC_X_8  CHAR_1
+-------- ------
+maureen  NULL  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+VAR_CHAR_2
+----------
+<group_begin>
+aB        
+NULL      
+az        
+E         
+zy        
+NULL      
+NULL      
+NULL      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+VAR_CHAR_3
+----------
+E         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+VAR_CHAR_2 VAR_CHAR_3
+---------- ----------
+<group_begin>
+E          E         
+aB         NULL      
+az         NULL      
+zy         NULL      
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+VAR_CHAR_2 VAR_CHAR_3
+---------- ----------
+<group_begin>
+E          NULL      
+aB         NULL      
+az         NULL      
+zy         NULL      
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+VAR_CHAR_2 VAR_CHAR_3
+---------- ----------
+<group_begin>
+E          NULL      
+aB         NULL      
+az         NULL      
+zy         NULL      
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+NULL       NULL      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s12
+
+VAR_CHAR_2 VAR_CHAR_3
+---------- ----------
+E          E         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+FLOAT_BASIC
+------------------------
+                     1.2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s14
+
+FLOAT_DOUBLE_P
+------------------------
+                     1.2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s15
+
+FLOAT_BASIC              FLOAT_DOUBLE_P          
+------------------------ ------------------------
+                     1.2                      1.2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s16
+
+FLOAT_BASIC              FLOAT_DOUBLE_P          
+------------------------ ------------------------
+                     1.2                      1.2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s17
+
+CHAR_1
+------
+<group_begin>
+D     
+A     
+A     
+D     
+E     
+C     
+C     
+D     
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s18
+
+PIC_X_8
+--------
+maureen 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s19
+
+CHAR_1 PIC_X_8 
+------ --------
+<group_begin>
+A      NULL    
+A      NULL    
+D      NULL    
+D      NULL    
+D      NULL    
+C      NULL    
+C      NULL    
+E      NULL    
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s20
+
+VAR_CHAR
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+bill                                                                                                                            
+bob                                                                                                                             
+bobby                                                                                                                           
+christopher                                                                                                                     
+marilyn                                                                                                                         
+sue                                                                                                                             
+tom                                                                                                                             
+william                                                                                                                         
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s21
+
+CHAR_1
+------
+<group_begin>
+C     
+a     
+NULL  
+NULL  
+NULL  
+NULL  
+NULL  
+NULL  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s22
+
+VAR_CHAR                                                                                                                         CHAR_1
+-------------------------------------------------------------------------------------------------------------------------------- ------
+<group_begin>
+bill                                                                                                                             NULL  
+bob                                                                                                                              NULL  
+bobby                                                                                                                            NULL  
+christopher                                                                                                                      NULL  
+marilyn                                                                                                                          NULL  
+sue                                                                                                                              NULL  
+tom                                                                                                                              NULL  
+william                                                                                                                          NULL  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s23
+
+VAR_CHAR
+--------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+thomas                                                                                                                          
+B                                                                                                                               
+B                                                                                                                               
+jimmy                                                                                                                           
+christopher                                                                                                                     
+marilyn                                                                                                                         
+thomas                                                                                                                          
+thomas                                                                                                                          
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s24
+
+CHAR_1
+------
+<group_begin>
+C     
+a     
+NULL  
+NULL  
+NULL  
+NULL  
+NULL  
+NULL  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s25
+
+VAR_CHAR                                                                                                                         CHAR_1
+-------------------------------------------------------------------------------------------------------------------------------- ------
+<group_begin>
+NULL                                                                                                                             C     
+NULL                                                                                                                             a     
+NULL                                                                                                                             NULL  
+NULL                                                                                                                             NULL  
+NULL                                                                                                                             NULL  
+NULL                                                                                                                             NULL  
+NULL                                                                                                                             NULL  
+NULL                                                                                                                             NULL  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s26
+
+VAR_CHAR                                                                                                                         CHAR_1
+-------------------------------------------------------------------------------------------------------------------------------- ------
+<group_begin>
+B                                                                                                                                NULL  
+B                                                                                                                                NULL  
+christopher                                                                                                                      NULL  
+jimmy                                                                                                                            NULL  
+marilyn                                                                                                                          NULL  
+thomas                                                                                                                           NULL  
+thomas                                                                                                                           NULL  
+thomas                                                                                                                           NULL  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s27
+
+SMALL_INT
+---------
+<group_begin>
+     NULL
+     NULL
+     NULL
+     9000
+     NULL
+     NULL
+     NULL
+     NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s28
+
+MEDIUM_INT
+----------
+<group_begin>
+      1000
+      NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s29
+
+SMALL_INT MEDIUM_INT
+--------- ----------
+<group_begin>
+     9000       NULL
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s30
+
+SMALL_INT MEDIUM_INT
+--------- ----------
+<group_begin>
+     NULL       1000
+     NULL       NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s31
+
+SMALL_INT MEDIUM_INT
+--------- ----------
+<group_begin>
+     NULL       1000
+     NULL       NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s32
+
+SMALL_INT MEDIUM_INT
+--------- ----------
+<group_begin>
+     NULL       1000
+     NULL       NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s33
+
+SMALL_INT MEDIUM_INT
+--------- ----------
+<group_begin>
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+     9000       NULL
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s34
+
+SMALL_INT MEDIUM_INT
+--------- ----------
+<group_begin>
+     9000       NULL
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+     NULL       NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s35
+
+SMALL_INT MEDIUM_INT
+--------- ----------
+<group_begin>
+     9000       NULL
+     NULL       NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s36
+
+SMALL_INT MEDIUM_INT
+--------- ----------
+<group_begin>
+     9000       NULL
+     NULL       NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s37
+
+DATA_93 SOME_DATA
+------- ---------
+<group_begin>
+    417      NULL
+    418      NULL
+    419      NULL
+    420      NULL
+    421      NULL
+    422      NULL
+    423      NULL
+    424      NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s38
+
+DATA_93 SOME_DATA
+------- ---------
+<group_begin>
+    417      NULL
+    418      NULL
+    419      NULL
+    420      NULL
+    421      NULL
+    422      NULL
+    423      NULL
+    424      NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s39
+
+DATA_93 SOME_DATA
+------- ---------
+<group_begin>
+    417      NULL
+    418      NULL
+    419      NULL
+    420      NULL
+    421      NULL
+    422      NULL
+    423      NULL
+    424      NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s40
+
+DATA_93 SOME_DATA
+------- ---------
+<group_begin>
+    417      NULL
+    418      NULL
+    419      NULL
+    420      NULL
+    421      NULL
+    422      NULL
+    423      NULL
+    424      NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

@@ -1,0 +1,99 @@
+<section_begin>  a435s0
+
+CHARTEST
+--------
+NULL    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a435s1
+
+INTTEST
+-----------
+       NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a435s2
+
+REALTEST
+---------------
+           NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a435s3
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a435s4
+
+SMALLTEST
+---------
+     NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a435s5
+
+DOUBLETEST
+------------------------
+                    NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a435s6
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a435s7
+
+FLOATTEST
+------------------------
+                    NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a435s8
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a435s9
+
+NUMTEST
+------------------------
+                    NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a435s10
+
+NUMTEST
+------------------------
+                    NULL
+
+--- 1 row(s) selected.
+
+<section_end>

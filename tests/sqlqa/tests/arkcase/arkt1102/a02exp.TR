@@ -1,0 +1,147 @@
+<section_begin>  a02s0
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+a            1 a           0.90 NULL    NULL NULL       0
+abcdefg      3 cc          0.09 alph     2.0 cc         1
+abcdefg      5 cc          0.09 cc       2.0 cc         2
+b            4 c     1234567.89 e     1234.5 c      12345
+cc           2 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+abcdefg      3 cc          0.09 alph     2.0 cc         1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+A
+-----
+cc   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+A
+------
+     5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+A
+-----------
+       3.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)
+------
+     3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+(EXPR)
+------
+<group_begin>
+     1
+     2
+     3
+     4
+     5
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+VCH7
+-------
+abcdefg
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+VCH7    VCH5  NINT  
+------- ----- ------
+abcdefg cc         3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s12
+
+VCH7    VCH5  NINT  
+------- ----- ------
+abcdefg cc         3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+VCH7    VCH5  NINT  
+------- ----- ------
+abcdefg cc         3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s14
+
+VCH7    VCH5  NINT  
+------- ----- ------
+abcdefg cc         3
+
+--- 1 row(s) selected.
+
+<section_end>

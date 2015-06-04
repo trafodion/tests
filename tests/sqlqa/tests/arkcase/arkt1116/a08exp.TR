@@ -1,0 +1,365 @@
+<section_begin>  a08s0
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+ANANDHI       RAMASWAMY       PROGRAMMER      FEMALE  
+BHAVESH       MEHTA           ENGINEER        MALE    
+Kathy         Baxter          secretary       female  
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+YUGAL         AGGARWAL        SYSADMIN        MALE    
+shanti        aradhyula       salesrep        female  
+steve         martin          director        male    
+sulu          kapoor          manager         female  
+NULL          HAUSMANN        PROGRAMMER      MALE    
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+FIRST_NAME    LAST_NAME       SALARY      DEPT_NUM    STR 
+------------- --------------- ----------- ----------- ----
+<group_begin>
+ANANDHI       RAMASWAMY             50000          13 E   
+BHAVESH       MEHTA                 50000          14 C   
+Kathy         Baxter                36000          15 F   
+MARIA         JOYCE                 40000          16 I   
+YUGAL         AGGARWAL              80000          14 D   
+shanti        aradhyula             60000          12 A   
+steve         martin               120000          13 H   
+sulu          kapoor                90000          13 B   
+NULL          HAUSMANN              52000          14 J   
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+(EXPR)          (EXPR)       
+--------------- -------------
+hausmann        NULL         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s3
+
+(EXPR)          (EXPR)          (EXPR)
+--------------- --------------- ------
+<group_begin>
+hausmann        programmer            
+kapoor          manager               
+martin          director              
+ramaswamy       programmer            
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s4
+
+(EXPR)          (EXPR)        (EXPR)          (EXPR)  
+--------------- ------------- --------------- --------
+<group_begin>
+aradhyula       shanti        salesrep        female  
+kapoor          sulu          manager         female  
+martin          steve         director        male    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s5
+
+(EXPR)              (EXPR)         
+------------------- ---------------
+<group_begin>
+abcdefghijklmnopqrs aggarwal       
+abcdefghijklmnopqrs kapoor         
+abcdefghijklmnopqrs martin         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s6
+
+(EXPR)
+------------
+abcdefghijkl
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s7
+
+(EXPR)                                                                                                                           (EXPR)                                                                                                                          
+-------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+aradhyulaabcdefg                                                                                                                 HIJKLMNfemale                                                                                                                   
+baxterabcdefg                                                                                                                    HIJKLMNfemale                                                                                                                   
+joyceabcdefg                                                                                                                     HIJKLMNFEMALE                                                                                                                   
+kapoorabcdefg                                                                                                                    HIJKLMNfemale                                                                                                                   
+ramaswamyabcdefg                                                                                                                 HIJKLMNFEMALE                                                                                                                   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s8
+
+(EXPR)          (EXPR)              
+--------------- --------------------
+<group_begin>
+aradhyula       abcdefghijklmn      
+baxter          abcdefghijklmn      
+joyce           abcdefghijklmn      
+kapoor          abcdefghijklmn      
+ramaswamy       abcdefghijklmn      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s9
+
+(EXPR)          (EXPR)              
+--------------- --------------------
+<group_begin>
+aradhyula       hijklmn             
+baxter          hijklmn             
+joyce           hijklmn             
+kapoor          hijklmn             
+ramaswamy       hijklmn             
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s10
+
+(EXPR)          (EXPR)               
+--------------- ---------------------
+<group_begin>
+aradhyula       abcdefghijklmnabcdefg
+baxter          abcdefghijklmnabcdefg
+joyce           abcdefghijklmnabcdefg
+kapoor          abcdefghijklmnabcdefg
+ramaswamy       abcdefghijklmnabcdefg
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s11
+
+(EXPR)        (EXPR)              
+------------- --------------------
+kathy         abcdefghijklmn      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s12
+
+LAST_NAME       FIRST_NAME   
+--------------- -------------
+<group_begin>
+Baxter          Kathy        
+aradhyula       shanti       
+kapoor          sulu         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s13
+
+LAST_NAME       JOB            
+--------------- ---------------
+<group_begin>
+JOYCE           HAIRDRESSER    
+kapoor          manager        
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s14
+
+FIRST_NAME    LAST_NAME      
+------------- ---------------
+Kathy         Baxter         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s15
+
+LAST_NAME       FIRST_NAME   
+--------------- -------------
+<group_begin>
+AGGARWAL        YUGAL        
+HAUSMANN        NULL         
+MEHTA           BHAVESH      
+martin          steve        
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s16
+
+LAST_NAME
+---------------
+<group_begin>
+JOYCE          
+MEHTA          
+RAMASWAMY      
+aradhyula      
+kapoor         
+martin         
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a08s17
+
+LAST_NAME       FIRST_NAME   
+--------------- -------------
+<group_begin>
+AGGARWAL        YUGAL        
+Baxter          Kathy        
+JOYCE           MARIA        
+aradhyula       shanti       
+kapoor          sulu         
+martin          steve        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a08s18
+
+LAST_NAME       JOB             GENDER  
+--------------- --------------- --------
+<group_begin>
+MEHTA           ENGINEER        MALE    
+martin          director        male    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s19
+
+LAST_NAME       FIRST_NAME   
+--------------- -------------
+<group_begin>
+MEHTA           BHAVESH      
+RAMASWAMY       ANANDHI      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s20
+
+LAST_NAME       JOB             GENDER  
+--------------- --------------- --------
+<group_begin>
+AGGARWAL        SYSADMIN        MALE    
+Baxter          secretary       female  
+HAUSMANN        PROGRAMMER      MALE    
+JOYCE           HAIRDRESSER     FEMALE  
+MEHTA           ENGINEER        MALE    
+RAMASWAMY       PROGRAMMER      FEMALE  
+aradhyula       salesrep        female  
+kapoor          manager         female  
+martin          director        male    
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a08s21
+
+LAST_NAME       FIRST_NAME    JOB            
+--------------- ------------- ---------------
+<group_begin>
+Baxter          Kathy         secretary      
+aradhyula       shanti        salesrep       
+kapoor          sulu          manager        
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s22
+
+LOWER_LAST      UPPER_LAST    LOWER_JOB      
+--------------- ------------- ---------------
+<group_begin>
+aradhyula       shanti        salesrep       
+baxter          kathy         secretary      
+kapoor          sulu          manager        
+martin          steve         director       
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s23
+
+LAST_NAME       FIRST_NAME   
+--------------- -------------
+kapoor          sulu         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s24
+
+LAST_NAME       FIRST_NAME    JOB            
+--------------- ------------- ---------------
+<group_begin>
+AGGARWAL        YUGAL         SYSADMIN       
+HAUSMANN        NULL          PROGRAMMER     
+JOYCE           MARIA         HAIRDRESSER    
+MEHTA           BHAVESH       ENGINEER       
+RAMASWAMY       ANANDHI       PROGRAMMER     
+martin          steve         director       
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a08s25
+
+(EXPR)          (EXPR)        (EXPR)         
+--------------- ------------- ---------------
+<group_begin>
+aradhyula       shanti        salesrep       
+baxter          kathy         secretary      
+kapoor          sulu          manager        
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s26
+
+LAST_NAME       FIRST_NAME   
+--------------- -------------
+<group_begin>
+kapoor          sulu         
+martin          steve        
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

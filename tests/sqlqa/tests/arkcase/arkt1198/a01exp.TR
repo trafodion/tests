@@ -1,0 +1,66 @@
+<section_begin>  a01s0
+
+VARCHAR5_10 UBIN15_UNIQ CHAR0_10
+----------- ----------- --------
+<group_begin>
+AA                   11 ABAA    
+AAB                  10 AAAA    
+ABAAAAAA              3 ABAA    
+ABB                   8 AAAA    
+ABC                  12 ADAA    
+ACAAAAAAI             6 ACAA    
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+VARCHAR5_10 UBIN15_UNIQ CHAR0_10
+----------- ----------- --------
+<group_begin>
+AA                   11 ABAA    
+AAB                  10 AAAA    
+ABAAAAAA              3 ABAA    
+ABB                   8 AAAA    
+ABC                  12 ADAA    
+ACAAAAAAI             6 ACAA    
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+VARCHAR5_10 UBIN15_UNIQ CHAR0_10
+----------- ----------- --------
+<group_begin>
+AA                   11 ABAA    
+AAB                  10 AAAA    
+ABAAAAAA              3 ABAA    
+ABB                   8 AAAA    
+ABC                  12 ADAA    
+ACAAAAAAI             6 ACAA    
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

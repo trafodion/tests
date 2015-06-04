@@ -1,0 +1,54 @@
+<section_begin>  a17s0
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                NULL                    0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s1
+
+(EXPR)               (EXPR)
+-------------------- ------
+                NULL      7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s2
+
+(EXPR)               (EXPR)
+-------------------- ------
+                   0      7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s3
+
+(EXPR)               (EXPR)
+-------------------- ------
+                NULL      7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s4
+
+(EXPR)      (EXPR)
+----------- ------
+       NULL      7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s5
+
+(EXPR)      (EXPR)
+----------- ------
+       NULL      7
+
+--- 1 row(s) selected.
+
+<section_end>

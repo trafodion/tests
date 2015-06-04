@@ -1,0 +1,68 @@
+<section_begin>  s1
+
+EMPNAME
+--------------------
+Betty               
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+EMPNAME
+--------------------
+<group_begin>
+Alice               
+Betty               
+Don                 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+EMPNAME
+--------------------
+<group_begin>
+Betty               
+Carmen              
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+EMPNAME
+--------------------
+Betty               
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s5
+
+EMPNAME
+--------------------
+<group_begin>
+Alice               
+Betty               
+Don                 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s6
+
+EMPNAME
+--------------------
+<group_begin>
+Betty               
+Carmen              
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

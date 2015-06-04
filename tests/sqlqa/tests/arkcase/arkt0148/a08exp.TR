@@ -1,0 +1,49 @@
+<section_begin>  a08s0
+
+CITY
+--------------
+<group_begin>
+LEXINGTON     
+CUPERTINO     
+SEATTLE       
+IRVINE        
+PALO ALTO     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+CITY
+--------------
+<group_begin>
+SUNNYVALE     
+DALLAS        
+LEXINGTON     
+CUPERTINO     
+SEATTLE       
+IRVINE        
+PALO ALTO     
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+CITY
+--------------
+<group_begin>
+CUPERTINO     
+IRVINE        
+PALO ALTO     
+SUNNYVALE     
+LEXINGTON     
+DALLAS        
+SEATTLE       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

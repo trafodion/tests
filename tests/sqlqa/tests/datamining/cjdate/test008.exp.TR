@@ -1,0 +1,34 @@
+<section_begin>  s1
+
+CITY            CITY           
+--------------- ---------------
+<group_begin>
+Athens          London         
+Athens          Paris          
+Athens          Rome           
+London          London         
+Paris           London         
+Paris           Paris          
+Paris           Rome           
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+CITY            CITY           
+--------------- ---------------
+<group_begin>
+Athens          London         
+Athens          Paris          
+Athens          Rome           
+London          London         
+Paris           London         
+Paris           Paris          
+Paris           Rome           
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

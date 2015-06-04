@@ -1,0 +1,27 @@
+<section_begin>  test0038a
+
+(EXPR)
+--------------------
+                  12
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0038c
+
+(EXPR)
+--------------------
+                  11
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0038e
+
+(EXPR)
+--------------------
+                  12
+
+--- 1 row(s) selected.
+
+<section_end>

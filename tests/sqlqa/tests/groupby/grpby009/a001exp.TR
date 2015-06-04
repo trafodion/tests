@@ -1,0 +1,296 @@
+<section_begin>  a01s1
+
+(EXPR)
+-----------
+<group_begin>
+   37010.00
+   39510.00
+  175510.00
+   65010.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR)
+------------------------
+<group_begin>
+       1.191787306098946
+       1.164728475737487
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+(EXPR)
+------------------------
+<group_begin>
+     0.17641362782351158
+      0.0650458580746109
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+(EXPR)
+------------------------
+<group_begin>
+      1.5707692997678762
+      1.5707710103392059
+      1.5707906287891986
+      1.5707809421795131
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+(EXPR)
+------------------------
+<group_begin>
+      1.5437758776076318
+      1.5454852776520482
+      1.5650983827619174
+      1.5554129250143014
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+(EXPR)
+------------------------
+<group_begin>
+                 37000.0
+                 39500.0
+                175500.0
+                 65000.0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+(EXPR)
+------------------------
+<group_begin>
+    -0.10727085288167627
+     -0.7278832682348264
+    -0.35340062290195745
+      0.9013164330299555
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+------------------------
+<group_begin>
+       20.23601394326887
+      25.977310768303415
+    2.0933322378289394E7
+       332.5715682417774
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+(EXPR)
+------------------------
+<group_begin>
+        2119943.87814639
+      2263183.3293724973
+     1.005540947607274E7
+       3724225.731878793
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+(EXPR)
+------------------------
+<group_begin>
+        40.4473043600674
+       51.93536683483144
+    4.1866644756578766E7
+       665.1416330443618
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+(EXPR)
+------------------------
+<group_begin>
+                 37000.0
+                 39500.0
+                175500.0
+                 65000.0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+(EXPR)
+------------------------
+<group_begin>
+       10.51867319162636
+      10.584055950889214
+      12.075394321888057
+      11.082142548877775
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+(EXPR)
+------------------------
+<group_begin>
+       4.568201724066995
+       4.596597095626461
+       5.244277120801843
+       4.812913356642856
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+(EXPR)
+------
+     1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+(EXPR)
+------------------------
+               3.1415926
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+(EXPR)
+------------------------
+<group_begin>
+                 1.369E9
+               1.56025E9
+             3.080025E10
+                 4.225E9
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+(EXPR)
+------------------------
+<group_begin>
+       645.7718122222223
+       689.4050427777778
+             3063.052785
+      1134.4639944444443
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+(EXPR)
+------
+     1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+(EXPR)
+------------------------
+<group_begin>
+      -0.994229834656976
+     -0.6857010630178342
+     -0.9354720731975426
+      0.4331612719878797
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+(EXPR)
+------------------------
+<group_begin>
+       20.21129041679853
+      25.958056066528027
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+(EXPR)
+------------------------
+<group_begin>
+      192.35384061671346
+       198.7460691435179
+       418.9272013130682
+      254.95097567963924
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+(EXPR)
+------------------------
+<group_begin>
+       9.268406169508584
+      0.9420481180735376
+       2.647058359761485
+      0.4805873454805672
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+(EXPR)
+------------------------
+                     1.0
+
+--- 1 row(s) selected.
+
+<section_end>

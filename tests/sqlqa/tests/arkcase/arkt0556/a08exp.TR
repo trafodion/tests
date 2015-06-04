@@ -1,0 +1,68 @@
+<section_begin>  a08s1
+
+(EXPR)
+--------------------
+                1500
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+(EXPR)
+--------------
+<group_begin>
+LENGTH IS 2   
+LENGTH IS 2   
+LENGTH IS 3   
+LENGTH IS 3   
+LENGTH IS 3   
+Length is >= 4
+Length is >= 4
+Length is >= 4
+Length is >= 4
+Length is >= 4
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a08s5
+
+(EXPR)
+------
+Fine  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s6
+
+(EXPR)
+-----------------
+it is Wrong      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s8
+
+(EXPR)
+-----------
+<group_begin>
+   74000.00
+  175500.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s9
+
+(EXPR)
+------------
+  175500.000
+
+--- 1 row(s) selected.
+
+<section_end>

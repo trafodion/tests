@@ -1,0 +1,36 @@
+<section_begin>  test004a
+
+(EXPR)
+------
+  1999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test004b
+
+(EXPR)
+-------------
+           53
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test004c
+
+(EXPR)    (EXPR) (EXPR)    (EXPR)
+--------- ------ --------- ------
+Saturday      25 December    1999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test004d
+
+(EXPR)
+------
+     7
+
+--- 1 row(s) selected.
+
+<section_end>

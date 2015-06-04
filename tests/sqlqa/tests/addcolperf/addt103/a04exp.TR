@@ -1,0 +1,270 @@
+<section_begin>  a04s1
+
+VCH1 VCH2 INT3        I64_4               
+---- ---- ----------- --------------------
+<group_begin>
+555  GGG            5                 2000
+666  H              6                 3000
+77   7              7                 NULL
+aaa  AAA            1                 NULL
+bbb  BBB            1                 NULL
+ccc  CCC            1                 NULL
+ddd  DDD            1                 NULL
+eee  EEE            3                 NULL
+fff  NULL           4                 1000
+NULL 88             8                 NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+VCH1 VCH2 INT3        I64_4                VCH5 
+---- ---- ----------- -------------------- -----
+<group_begin>
+555  GGG            5                 2000 AAAAA
+666  H              6                 3000 AAAAA
+77   7              7                 NULL AAAAA
+aaa  AAA            1                 NULL AAAAA
+bbb  BBB            1                 NULL AAAAA
+ccc  CCC            1                 NULL AAAAA
+ddd  DDD            1                 NULL AAAAA
+eee  EEE            3                 NULL AAAAA
+fff  NULL           4                 1000 AAAAA
+NULL 88             8                 NULL AAAAA
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+VCH1 VCH2 INT3        I64_4                VCH5 
+---- ---- ----------- -------------------- -----
+<group_begin>
+555  GGG            5                 2000 AAAAA
+666  H              6                 3000 AAAAA
+77   7              7                 NULL AAAAA
+aaa  AAA            1                 NULL AAAAA
+bbb  BBB            1                 NULL AAAAA
+ccc  CCC            1                 NULL AAAAA
+ddd  DDD            1                 NULL AAAAA
+eee  EEE            3                 NULL AAAAA
+fff  NULL           4                 1000 AAAAA
+NULL 88             8                 8000 ABCDE
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+VCH1 VCH2 INT3        I64_4                VCH5 
+---- ---- ----------- -------------------- -----
+<group_begin>
+555  GGG            5               102000 AAAAA
+666  H              6               103000 AAAAA
+77   7              7                 NULL AAAAA
+aaa  AAA            1                 NULL AAAAA
+bbb  BBB            1                 NULL AAAAA
+ccc  CCC            1                 NULL AAAAA
+ddd  DDD            1                 NULL AAAAA
+eee  EEE            3                 NULL AAAAA
+fff  NULL       50500               101000 AAAAA
+NULL 88             8               108000 ABCDE
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+VCH1 VCH2 INT3        I64_4                VCH5 
+---- ---- ----------- -------------------- -----
+<group_begin>
+11   NULL         123                 NULL VAR11
+555  GGG           27               102000 AAAAA
+666  H             38               103000 AAAAA
+77   7             51                 NULL AAAAA
+9    X             83            987654321 VCH5 
+aaa  AAA            3                 NULL AAAAA
+bbb  BBB            3                 NULL AAAAA
+ccc  CCC            1                 NULL AAAAA
+ddd  DDD            1                 NULL AAAAA
+eee  EEE            3                 NULL AAAAA
+fff  NULL       50500               101000 AAAAA
+NULL 88             8               108000 ABCDE
+NULL NULL          10                 NULL VAR10
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+VCH1 VCH2 INT3        I64_4                VCH5  VCH6
+---- ---- ----------- -------------------- ----- ----
+<group_begin>
+11   NULL         123                 NULL VAR11 NULL
+555  GGG           27               102000 AAAAA NULL
+666  H             38               103000 AAAAA NULL
+77   7             51                 NULL AAAAA NULL
+9    X             83            987654321 VCH5  NULL
+aaa  AAA            3                 NULL AAAAA NULL
+bbb  BBB            3                 NULL AAAAA NULL
+ccc  CCC            1                 NULL AAAAA NULL
+ddd  DDD            1                 NULL AAAAA NULL
+eee  EEE            3                 NULL AAAAA NULL
+fff  NULL       50500               101000 AAAAA NULL
+NULL 88             8               108000 ABCDE NULL
+NULL NULL          10                 NULL VAR10 NULL
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+VCH1 VCH2 INT3        I64_4                VCH5  VCH6
+---- ---- ----------- -------------------- ----- ----
+<group_begin>
+11   NULL         123                 NULL VAR11 NULL
+13   y             13            123456789 VAR13 V13 
+555  GGG           27               102000 AAAAA NULL
+666  H             38               103000 AAAAA NULL
+77   7             51                 NULL AAAAA NULL
+9    X             83            987654321 VCH5  NULL
+CCC  CCC            1               101010 CCC   CCC 
+CCC  CCC            1               101010 CCC   CCC 
+CCC  CCC            3               101010 CCC   CCC 
+CCC  CCC            3               101010 CCC   CCC 
+CCC  CCC            3               101010 CCC   CCC 
+CCC  CCC            8               101010 CCC   CCC 
+CCC  CCC           10               101010 CCC   CCC 
+fff  NULL       50500               101000 AAAAA NULL
+NULL NULL          12                 NULL VAR12 NULL
+NULL NULL          14                 NULL AAAAA NULL
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+VCH1 VCH2 INT3        I64_4                VCH5  VCH6 PIC7          PIC8     
+---- ---- ----------- -------------------- ----- ---- ------------- ---------
+<group_begin>
+11   NULL         123                 NULL VAR11 NULL         -0.77      NULL
+13   y             13            123456789 VAR13 V13          -0.77      NULL
+555  GGG           27               102000 AAAAA NULL         -0.77      NULL
+666  H             38               103000 AAAAA NULL         -0.77      NULL
+77   7             51                 NULL AAAAA NULL         -0.77      NULL
+9    X             83            987654321 VCH5  NULL         -0.77      NULL
+CCC  CCC            1               101010 CCC   CCC          -0.77      NULL
+CCC  CCC            1               101010 CCC   CCC          -0.77      NULL
+CCC  CCC            3               101010 CCC   CCC          -0.77      NULL
+CCC  CCC            3               101010 CCC   CCC          -0.77      NULL
+CCC  CCC            3               101010 CCC   CCC          -0.77      NULL
+CCC  CCC            8               101010 CCC   CCC          -0.77      NULL
+CCC  CCC           10               101010 CCC   CCC          -0.77      NULL
+fff  NULL       50500               101000 AAAAA NULL         -0.77      NULL
+NULL NULL          12                 NULL VAR12 NULL         -0.77      NULL
+NULL NULL          14                 NULL AAAAA NULL         -0.77      NULL
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+VCH1 VCH2 INT3        I64_4                VCH5  VCH6 PIC7          PIC8     
+---- ---- ----------- -------------------- ----- ---- ------------- ---------
+<group_begin>
+11   NULL         123                 NULL VAR11 NULL         -0.77      NULL
+13   y             13            123456789 VAR13 V13          -0.77      NULL
+16   z             16            163456789 VAR16 V16           7.16     8.160
+555  GGG           27               102000 AAAAA NULL         -0.77      NULL
+666  H             38               103000 AAAAA NULL         -0.77      NULL
+77   7             51                 NULL AAAAA NULL       -100.01   100.010
+9    X             83            987654321 VCH5  NULL         -0.77      NULL
+CCC  CCC            1               101010 CCC   CCC          -0.77      NULL
+CCC  CCC            1               101010 CCC   CCC          -0.77      NULL
+CCC  CCC            3               101010 CCC   CCC          -0.77      NULL
+CCC  CCC            3               101010 CCC   CCC          -0.77      NULL
+CCC  CCC            3               101010 CCC   CCC          -0.77      NULL
+CCC  CCC            8               101010 CCC   CCC          -0.77      NULL
+CCC  CCC           10               101010 CCC   CCC          -0.77      NULL
+fff  NULL       50500               101000 AAAAA NULL         -0.77      NULL
+NULL NULL          12                 NULL VAR12 NULL       -100.01   100.010
+NULL NULL          14                 NULL AAAAA NULL       -100.01   100.010
+NULL NULL          15                 NULL AAAAA V15        -100.01   100.010
+NULL NULL          17                 NULL AAAAA NULL       -100.01   100.010
+NULL NULL          18                 NULL AAAAA NULL       -100.01   100.010
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+VCH1 VCH2 INT3        I64_4                VCH5  VCH6 PIC7          PIC8      VCH9
+---- ---- ----------- -------------------- ----- ---- ------------- --------- ----
+<group_begin>
+11   NULL         123                 NULL VAR11 NULL         -0.77      NULL NULL
+13   y             13            123456789 VAR13 V13          -0.77      NULL NULL
+16   z             16            163456789 VAR16 V16           7.16     8.160 NULL
+555  GGG           27               102000 AAAAA NULL         -0.77      NULL NULL
+666  H             38               103000 AAAAA NULL         -0.77      NULL NULL
+77   7             51                 NULL AAAAA NULL       -100.01   100.010 NULL
+9    X             83            987654321 VCH5  NULL         -0.77      NULL NULL
+CCC  CCC            1               101010 CCC   CCC          -0.77      NULL NULL
+CCC  CCC            1               101010 CCC   CCC          -0.77      NULL NULL
+CCC  CCC            3               101010 CCC   CCC          -0.77      NULL NULL
+CCC  CCC            3               101010 CCC   CCC          -0.77      NULL NULL
+CCC  CCC            3               101010 CCC   CCC          -0.77      NULL NULL
+CCC  CCC            8               101010 CCC   CCC          -0.77      NULL NULL
+CCC  CCC           10               101010 CCC   CCC          -0.77      NULL NULL
+fff  NULL       50500               101000 AAAAA NULL         -0.77      NULL NULL
+NULL NULL          12                 NULL VAR12 NULL       -100.01   100.010 NULL
+NULL NULL          14                 NULL AAAAA NULL       -100.01   100.010 NULL
+NULL NULL          15                 NULL AAAAA V15        -100.01   100.010 NULL
+NULL NULL          17                 NULL AAAAA NULL       -100.01   100.010 NULL
+NULL NULL          18                 NULL AAAAA NULL       -100.01   100.010 NULL
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+VCH1 VCH2 INT3        I64_4                VCH5  VCH6 PIC7          PIC8      VCH9
+---- ---- ----------- -------------------- ----- ---- ------------- --------- ----
+<group_begin>
+13   y             13            123456789 VAR13 V13          -0.77      NULL NULL
+16   z             16            163456789 VAR16 V16           7.16     8.160 NULL
+20   20            20            203456789 VAR20 V20          -9.20     9.200 9   
+555  GGG           27               102000 AAAAA NULL         -0.77      NULL NULL
+666  H             38               103000 AAAAA NULL         -0.77      NULL NULL
+77   7             51                 NULL AAAAA NULL       -100.01   100.010 NULL
+9    X             83            987654321 VCH5  NULL         -0.77      NULL NULL
+CCC  CCC            1               101010 CCC   CCC          -0.77      NULL NULL
+CCC  CCC            1               101010 CCC   CCC          -0.77      NULL NULL
+CCC  CCC            3               101010 CCC   CCC          -0.77      NULL NULL
+CCC  CCC            3               101010 CCC   CCC          -0.77      NULL NULL
+CCC  CCC            3               101010 CCC   CCC          -0.77      NULL NULL
+CCC  CCC            8               101010 CCC   CCC          -0.77      NULL NULL
+CCC  CCC           10               101010 CCC   CCC          -0.77      NULL NULL
+ggg  NULL         123                 NULL VAR11 NULL         -0.77   200.220 g   
+ggg  NULL       50500               101000 AAAAA NULL         -0.77   200.220 g   
+NULL NULL          12                 NULL VAR12 NULL       -100.01   100.010 NULL
+NULL NULL          14                 NULL AAAAA NULL       -100.01   100.010 NULL
+NULL NULL          15                 NULL AAAAA V15        -100.01   100.010 NULL
+NULL NULL          17                 NULL AAAAA NULL       -100.01   100.010 NULL
+NULL NULL          18                 NULL AAAAA NULL       -100.01   100.010 NULL
+NULL NULL          19                 NULL AAAAA NULL         19.19      NULL NULL
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>

@@ -1,0 +1,14 @@
+<section_begin>  a257s0
+
+COL1        (EXPR)        (EXPR)       
+----------- ------------- -------------
+<group_begin>
+          0             3             1
+         10            50             1
+        100          1223           100
+       1000          1000          5000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

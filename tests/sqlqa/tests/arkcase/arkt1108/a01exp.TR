@@ -1,0 +1,368 @@
+<section_begin>  a01s0
+
+VC
+---------
+<group_begin>
+c        
+d        
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+VC9       VC7     VC5   VC3 
+--------- ------- ----- ----
+<group_begin>
+2bcd      2cdef   2fghi 2kl 
+3bcd      3cdef   3fghi 3kl 
+abcd      bcdef   efghi jkl 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+VC
+---------
+<group_begin>
+c        
+d        
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+VC        VC       
+--------- ---------
+<group_begin>
+c         c        
+c         d        
+d         c        
+d         d        
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+VC5   VC5  
+----- -----
+<group_begin>
+2fghi 2fghi
+2fghi 3fghi
+2fghi efghi
+3fghi 2fghi
+3fghi 3fghi
+3fghi efghi
+efghi 2fghi
+efghi 3fghi
+efghi efghi
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+VC9       VC7     VC5   VC3 
+--------- ------- ----- ----
+<group_begin>
+2bcd      2cdef   2fghi 2kl 
+3bcd      3cdef   3fghi 3kl 
+abcd      bcdef   efghi jkl 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+VC5   VC5  
+----- -----
+<group_begin>
+2fghi 2fghi
+2fghi 3fghi
+2fghi efghi
+3fghi 2fghi
+3fghi 3fghi
+3fghi efghi
+efghi 2fghi
+efghi 3fghi
+efghi efghi
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+C2   C3   C4      
+---- ---- --------
+<group_begin>
+AA   BA   BA      
+BA   AA   AA      
+BA   AA   AA      
+DA   EA   NULL    
+NULL BA   BA      
+NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+C2   C4       C3  
+---- -------- ----
+<group_begin>
+AA   BA       AA  
+AA   BA       AA  
+AA   BA       BA  
+AA   BA       BA  
+AA   BA       DA  
+AA   BA       EA  
+BA   AA       AA  
+BA   AA       AA  
+BA   AA       AA  
+BA   AA       AA  
+BA   AA       BA  
+BA   AA       BA  
+BA   AA       BA  
+BA   AA       BA  
+BA   AA       DA  
+BA   AA       DA  
+BA   AA       EA  
+BA   AA       EA  
+DA   NULL     AA  
+DA   NULL     AA  
+DA   NULL     BA  
+DA   NULL     BA  
+DA   NULL     DA  
+DA   NULL     EA  
+NULL BA       AA  
+NULL BA       AA  
+NULL BA       BA  
+NULL BA       BA  
+NULL BA       DA  
+NULL BA       EA  
+NULL DA       AA  
+NULL DA       AA  
+NULL DA       BA  
+NULL DA       BA  
+NULL DA       DA  
+NULL DA       EA  
+<group_end>
+
+--- 36 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+VC        VC       
+--------- ---------
+<group_begin>
+c         c        
+c         d        
+d         c        
+d         d        
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+N1     C2   C3   C4      
+------ ---- ---- --------
+<group_begin>
+ -4344 AA   BA   BA      
+ -3552 BA   AA   AA      
+ -2789 DA   EA   NULL    
+ -2389 BA   AA   AA      
+  NULL NULL BA   BA      
+  NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+C2   C3  
+---- ----
+<group_begin>
+AA   AA  
+AA   AA  
+AA   BA  
+AA   BA  
+AA   DA  
+AA   EA  
+BA   AA  
+BA   AA  
+BA   AA  
+BA   AA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   BA  
+BA   DA  
+BA   DA  
+BA   EA  
+BA   EA  
+DA   AA  
+DA   AA  
+DA   BA  
+DA   BA  
+DA   DA  
+DA   EA  
+NULL AA  
+NULL AA  
+NULL AA  
+NULL AA  
+NULL BA  
+NULL BA  
+NULL BA  
+NULL BA  
+NULL DA  
+NULL DA  
+NULL EA  
+NULL EA  
+<group_end>
+
+--- 36 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+VC        VC        VC       
+--------- --------- ---------
+<group_begin>
+c         c         c        
+c         c         d        
+c         d         c        
+c         d         d        
+d         c         c        
+d         c         d        
+d         d         c        
+d         d         d        
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+VC5   VC5   VC5  
+----- ----- -----
+<group_begin>
+2fghi 2fghi 2fghi
+2fghi 2fghi 3fghi
+2fghi 2fghi efghi
+2fghi 3fghi 2fghi
+2fghi 3fghi 3fghi
+2fghi 3fghi efghi
+2fghi efghi 2fghi
+2fghi efghi 3fghi
+2fghi efghi efghi
+3fghi 2fghi 2fghi
+3fghi 2fghi 3fghi
+3fghi 2fghi efghi
+3fghi 3fghi 2fghi
+3fghi 3fghi 3fghi
+3fghi 3fghi efghi
+3fghi efghi 2fghi
+3fghi efghi 3fghi
+3fghi efghi efghi
+efghi 2fghi 2fghi
+efghi 2fghi 3fghi
+efghi 2fghi efghi
+efghi 3fghi 2fghi
+efghi 3fghi 3fghi
+efghi 3fghi efghi
+efghi efghi 2fghi
+efghi efghi 3fghi
+efghi efghi efghi
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+VC5   VC5   VC5  
+----- ----- -----
+<group_begin>
+2fghi 2fghi 2fghi
+2fghi 2fghi 3fghi
+2fghi 2fghi efghi
+2fghi 3fghi 2fghi
+2fghi 3fghi 3fghi
+2fghi 3fghi efghi
+2fghi efghi 2fghi
+2fghi efghi 3fghi
+2fghi efghi efghi
+3fghi 2fghi 2fghi
+3fghi 2fghi 3fghi
+3fghi 2fghi efghi
+3fghi 3fghi 2fghi
+3fghi 3fghi 3fghi
+3fghi 3fghi efghi
+3fghi efghi 2fghi
+3fghi efghi 3fghi
+3fghi efghi efghi
+efghi 2fghi 2fghi
+efghi 2fghi 3fghi
+efghi 2fghi efghi
+efghi 3fghi 2fghi
+efghi 3fghi 3fghi
+efghi 3fghi efghi
+efghi efghi 2fghi
+efghi efghi 3fghi
+efghi efghi efghi
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+VC        VC        VC       
+--------- --------- ---------
+<group_begin>
+c         c         c        
+c         c         d        
+c         d         c        
+c         d         d        
+d         c         c        
+d         c         d        
+d         d         c        
+d         d         d        
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+VC        VC        VC       
+--------- --------- ---------
+<group_begin>
+c         c         c        
+c         c         d        
+c         d         c        
+c         d         d        
+d         c         c        
+d         c         d        
+d         d         c        
+d         d         d        
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

@@ -1,0 +1,72 @@
+<section_begin>  a05s0
+
+LARGE_BIN_1          LARGE_BIN_2          (EXPR)              
+-------------------- -------------------- --------------------
+  999999999999999999                    3   333333333333333333
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+LARGE_BIN_1          LARGE_BIN_2          (EXPR)              
+-------------------- -------------------- --------------------
+  999999999999999999                    2   499999999999999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+LARGE_BIN_1          SMALL_BIN_2          (EXPR)              
+-------------------- -------------------- --------------------
+  100000000000000000 0.100000000000000000  1000000000000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+SMALL_BIN_1          SEMI_LARGE_BIN_1    (EXPR)              
+-------------------- ------------------- --------------------
+0.000000000000000001                  10 0.000000000000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+(EXPR)               SEMI_LARGE_BIN_1    (EXPR)              
+-------------------- ------------------- --------------------
+  0.0000000000000000                  10   0.0000000000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+SEMI_LARGE_BIN_1    SMALL_BIN_1          (EXPR)              
+------------------- -------------------- --------------------
+  99999999999999999 0.100000000000000000   999999999999999990
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+LARGE_BIN_1          ONE_NINE_BIN (EXPR)              
+-------------------- ------------ --------------------
+  999999999999999999  2.500000000   399999999999999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+SEMI_LARGE_BIN_2    ONE_EIGHT_BIN (EXPR)              
+------------------- ------------- --------------------
+                100    8.00000000                   12
+
+--- 1 row(s) selected.
+
+<section_end>

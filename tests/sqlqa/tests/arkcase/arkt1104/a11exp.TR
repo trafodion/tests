@@ -1,0 +1,119 @@
+<section_begin>  a11s0
+
+(EXPR)   (EXPR)     (EXPR)   (EXPR)    
+-------- ---------- -------- ----------
+v1.               2 c1     .          7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s1
+
+(EXPR)   (EXPR)     (EXPR)   (EXPR)    
+-------- ---------- -------- ----------
+<group_begin>
+v1.               2 c1     .          7
+v2.               2 c2     .          7
+v3.               2 c3     .          7
+v4.               2 c444   .          7
+v66666.           6 c4     .          7
+v777777.          7 c777777.          7
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s2
+
+(EXPR)   (EXPR)     (EXPR)   (EXPR)    
+-------- ---------- -------- ----------
+<group_begin>
+v4.               2 c4     .          7
+v777777.          7 c777777.          7
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+(EXPR)   (EXPR)     (EXPR)   (EXPR)    
+-------- ---------- -------- ----------
+v1.               2 c1     .          7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s4
+
+(EXPR)   (EXPR)     (EXPR)   (EXPR)    
+-------- ---------- -------- ----------
+<group_begin>
+v2.               2 c2     .          7
+v3.               2 c3     .          7
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+(EXPR)   (EXPR)     (EXPR)   (EXPR)    
+-------- ---------- -------- ----------
+<group_begin>
+v4.               2 c444   .          7
+v66666.           6 c4     .          7
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s6
+
+(EXPR)   (EXPR)     (EXPR)   (EXPR)    
+-------- ---------- -------- ----------
+v1.               2 c1     .          7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s7
+
+(EXPR)   (EXPR)     (EXPR)   (EXPR)    
+-------- ---------- -------- ----------
+<group_begin>
+v1  .             4 c2     .          7
+v1.               2 c1     .          7
+v1.               2 c3     .          7
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s8
+
+(EXPR)   (EXPR)     (EXPR)   (EXPR)    
+-------- ---------- -------- ----------
+<group_begin>
+v1  .             4 c2     .          7
+v1.               2 c1     .          7
+v1.               2 c3     .          7
+v1.               2 c444   .          7
+v66666.           6 c4     .          7
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s9
+
+VARCOL
+-------
+<group_begin>
+v1     
+v66666 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

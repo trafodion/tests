@@ -1,0 +1,160 @@
+<section_begin>  b00s0
+
+DATE1      TIME1   
+---------- --------
+1988-10-25 10:10:10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  b00s1
+
+DATE1      TIME1   
+---------- --------
+<group_begin>
+0100-01-01 00:00:00
+0100-01-01 23:59:59
+1954-05-06 22:23:24
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  b00s2
+
+DATE1      TIME1   
+---------- --------
+<group_begin>
+0100-01-01 00:00:00
+0100-01-01 23:59:59
+1954-05-06 22:23:24
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  b00s3
+
+DATE1      TIME1   
+---------- --------
+<group_begin>
+0100-01-01 00:00:00
+0100-01-01 23:59:59
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b00s4
+
+DATE1      TIME1   
+---------- --------
+<group_begin>
+1988-10-25 10:10:10
+1954-05-06 22:23:24
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b00s5
+
+DATE1      TIME1   
+---------- --------
+<group_begin>
+1988-10-25 10:10:10
+0100-01-01 00:00:00
+0100-01-01 23:59:59
+1954-05-06 22:23:24
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b00s6
+
+DATE1      TIME1   
+---------- --------
+<group_begin>
+1988-10-25 10:10:10
+0100-01-01 00:00:00
+0100-01-01 23:59:59
+1954-05-06 22:23:24
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b00s7
+
+DATE1      TIME1   
+---------- --------
+1988-10-25 10:10:10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  b00s8
+
+DATE1      TIME1   
+---------- --------
+<group_begin>
+0100-01-01 00:00:00
+0100-01-01 23:59:59
+1954-05-06 22:23:24
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  b00s9
+
+DATE1      TIME1   
+---------- --------
+<group_begin>
+1988-10-25 10:10:10
+0100-01-01 00:00:00
+1954-05-06 22:23:24
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  b00s10
+
+DATE1      TIME1   
+---------- --------
+<group_begin>
+1988-10-25 10:10:10
+0100-01-01 23:59:59
+1954-05-06 22:23:24
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  b00s11
+
+DATE1      TIME1   
+---------- --------
+<group_begin>
+1988-10-25 10:10:10
+0100-01-01 00:00:00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  b00s12
+
+DATE1      TIME1   
+---------- --------
+<group_begin>
+1988-10-25 10:10:10
+0100-01-01 23:59:59
+1954-05-06 22:23:24
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

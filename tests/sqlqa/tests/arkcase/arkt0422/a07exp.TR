@@ -1,0 +1,207 @@
+<section_begin>  a07s0
+
+PARTNAME
+------------------
+<group_begin>
+SYSTEM 192KB CORE 
+SYSTEM 192KB SEMI 
+PROC     96KB SEMI
+DECIMAL ARITH     
+ENSCRIBE MICRO    
+COBOL MICRO       
+MEM MOD 64K MOS   
+MEM MOD 96K MOS   
+DISC CONT SINGLE  
+DISC CONT DUAL    
+MAG TAPE CONT 8/16
+LINE PRINTER CONT 
+MAG TAPE DR 800BPI
+MAG TAPE DR 8/16  
+SYNC CONTROLLER   
+ASYNC CONTROLLER  
+ASYNC EXTENSION   
+TERM CRT CHAR     
+TERM CRT PAGE     
+TERM HARD COPY    
+POWER MODULE      
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+BRANCHNAME
+--------------
+<group_begin>
+CHICAGO       
+DALLAS        
+FRANKFURT     
+CUPERTINO     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+EMPNAME
+------------------
+<group_begin>
+ROGER GREEN       
+GLENN THOMAS      
+JOHANN HUBER      
+OTTO SCHNABL      
+PETE WELLINGTON   
+ALAN TERRY        
+JACK RAYMOND      
+PAUL WINTER       
+GEORGE FRENCHMAN  
+KARL HELMSTED     
+THOMAS RUDLOFF    
+ERIC BROWN        
+MANFRED CONRAD    
+TOM HALL          
+GEORGE STRICKER   
+HERB ALBERT       
+DAVE CLARK        
+JERRY HOWARD      
+KLAUS SAFFERT     
+TIM WALKER        
+PETER SMITH       
+DAVID STRAND      
+STEVE COOK        
+SHERRIE WONG      
+JULIA KELLY       
+MARTIN SCHAEFER   
+TONY CRAFT        
+THOMAS SPINNER    
+TED MCDONNALDS    
+<group_end>
+
+--- 29 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+EMPNAME
+------------------
+<group_begin>
+ROGER GREEN       
+JOHANN HUBER      
+OTTO SCHNABL      
+PETE WELLINGTON   
+ALAN TERRY        
+JACK RAYMOND      
+PAUL WINTER       
+GEORGE FRENCHMAN  
+KARL HELMSTED     
+THOMAS RUDLOFF    
+ERIC BROWN        
+MANFRED CONRAD    
+TOM HALL          
+GEORGE STRICKER   
+HERB ALBERT       
+DAVE CLARK        
+JERRY HOWARD      
+KLAUS SAFFERT     
+TIM WALKER        
+PETER SMITH       
+DAVID STRAND      
+STEVE COOK        
+SHERRIE WONG      
+JULIA KELLY       
+MARTIN SCHAEFER   
+TONY CRAFT        
+LARRY CLARK       
+THOMAS SPINNER    
+TED MCDONNALDS    
+<group_end>
+
+--- 29 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+EMPNAME
+------------------
+<group_begin>
+JACK RAYMOND      
+SUSAN HENDERSON   
+STEVE COOK        
+SHERRIE WONG      
+LINDA JONES       
+GEORGE FORSTER    
+SUE CRAMER        
+RICHARD BARTON    
+WALTER LANCASTER  
+HEIDI WEIGL       
+PETE WELLINGTON   
+HERB ALBERT       
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+EMPNAME
+------------------
+<group_begin>
+JACK RAYMOND      
+SUSAN HENDERSON   
+STEVE COOK        
+SHERRIE WONG      
+LINDA JONES       
+GEORGE FORSTER    
+SUE CRAMER        
+RICHARD BARTON    
+WALTER LANCASTER  
+HEIDI WEIGL       
+PETE WELLINGTON   
+HERB ALBERT       
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+EMPNAME
+------------------
+<group_begin>
+ROGER GREEN       
+PETE WELLINGTON   
+GLENN THOMAS      
+OTTO SCHNABL      
+JOHANN HUBER      
+JACK RAYMOND      
+WALTER LANCASTER  
+KARL HELMSTED     
+GEORGE FRENCHMAN  
+PAUL WINTER       
+HERB ALBERT       
+GEORGE STRICKER   
+DAVE CLARK        
+TOM HALL          
+MANFRED CONRAD    
+THOMAS RUDLOFF    
+STEVE COOK        
+JULIA KELLY       
+TIM WALKER        
+KLAUS SAFFERT     
+SHERRIE WONG      
+JERRY HOWARD      
+DAVE FISHER       
+MARTIN SCHAEFER   
+DAVID STRAND      
+PETER SMITH       
+LARRY CLARK       
+TED MCDONNALDS    
+THOMAS SPINNER    
+TONY CRAFT        
+<group_end>
+
+--- 30 row(s) selected.
+
+<section_end>

@@ -1,0 +1,163 @@
+<section_begin>  a09s0
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+a            1 a           0.90 NULL    NULL NULL       0
+abcdefg      3 cc          0.09 alph     2.0 cc         1
+abcdefg      5 cc          0.09 cc       2.0 cc         2
+b            4 c     1234567.89 e     1234.5 c      12345
+cc           2 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+a            1 a           0.90 NULL    NULL NULL       0
+abcdefg      3 cc          0.09 alph     2.0 cc         1
+abcdefg      5 cc          0.09 cc       2.0 cc         2
+b            4 c     1234567.89 e     1234.5 c      12345
+cc           2 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+a            1 a           0.90 NULL    NULL NULL       0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+a            1 a           0.90 NULL    NULL NULL       0
+abcdefg      3 cc          0.09 alph     2.0 cc         1
+abcdefg      5 cc          0.09 cc       2.0 cc         2
+b            4 c     1234567.89 e     1234.5 c      12345
+cc           2 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a09s4
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+a            1 a           0.90 NULL    NULL NULL       0
+abcdefg      3 cc          0.09 alph     2.0 cc         1
+abcdefg      5 cc          0.09 cc       2.0 cc         2
+b            4 c     1234567.89 e     1234.5 c      12345
+cc           2 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a09s5
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+a            1 a           0.90 NULL    NULL NULL       0
+abcdefg      3 cc          0.09 alph     2.0 cc         1
+abcdefg      5 cc          0.09 cc       2.0 cc         2
+b            4 c     1234567.89 e     1234.5 c      12345
+cc           2 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a09s6
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+z          501 cc          2.00 cc       2.0 cc         2
+y          452 cc          2.00 cc       2.0 cc         2
+x          101 a           0.90 NULL    NULL NULL       0
+w            7 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s7
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+w            7 cc          2.00 cc       2.0 cc         2
+x          101 a           0.90 NULL    NULL NULL       0
+y          452 cc          2.00 cc       2.0 cc         2
+z          501 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s8
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+w            7 cc          2.00 cc       2.0 cc         2
+x          101 a           0.90 NULL    NULL NULL       0
+y          452 cc          2.00 cc       2.0 cc         2
+z          501 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s9
+
+NINT
+------
+   452
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s10
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+w            7 cc          2.00 cc       2.0 cc         2
+x          101 a           0.90 NULL    NULL NULL       0
+y          452 cc          2.00 cc       2.0 cc         2
+z          501 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s11
+
+VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+w            7 cc          2.00 cc       2.0 cc         2
+x          101 a           0.90 NULL    NULL NULL       0
+y          452 cc          2.00 cc       2.0 cc         2
+z          501 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

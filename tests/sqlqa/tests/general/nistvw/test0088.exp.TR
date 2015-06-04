@@ -1,0 +1,27 @@
+<section_begin>  s1
+
+REALTEST
+---------------
+       1.234567
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+REALTEST        CNT        
+--------------- -----------
+       1.234567           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

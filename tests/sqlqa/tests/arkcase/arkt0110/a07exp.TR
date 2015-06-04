@@ -1,0 +1,36 @@
+<section_begin>  a07s0
+
+CHAR_1 CHAR_10   
+------ ----------
+<group_begin>
+D      michelle  
+A      steven    
+A      bobby     
+D      melissa   
+E      monica    
+C      maureen   
+C      marcia    
+D      steven    
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+CHAR_1 CHAR_10    CHAR_1
+------ ---------- ------
+<group_begin>
+D      michelle   D     
+A      steven     A     
+A      bobby      A     
+D      melissa    D     
+E      monica     E     
+C      maureen    C     
+C      marcia     C     
+D      steven     D     
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

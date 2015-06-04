@@ -1,0 +1,18 @@
+<section_begin>  a13s1
+
+A           B           C          
+----------- ----------- -----------
+         10          20          30
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s2
+
+A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- -----------
+         10          20          30          10          30          20
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,91 @@
+<section_begin>  a09s0
+
+VARCHAR15_UNIQ (EXPR)    CHAR6_20 (EXPR)  
+-------------- --------- -------- --------
+<group_begin>
+BEAAGAAC       EAAGAAC   ACAAAAAA C       
+BEAAGAAC       EAAGAAC   AF       F       
+BEAAGAAC       EAAGAAC   AH       H       
+BEAAGAAC       EAAGAAC   AL       L       
+BEAAGAAC       EAAGAAC   AM       M       
+BEAAGAAD       EAAGAAD   AE       E       
+BEAAGAAD       EAAGAAD   AK       K       
+BEAAGAAE       EAAGAAE   AG       G       
+BEAAGAAF       EAAGAAF   AI       I       
+BEAAGAAG       EAAGAAG   AJ       J       
+FGAAAAAB       FGAAAAA   ABAAAAAA         
+FJAAGAA        FJAAG     AEAAAAAA E       
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+VARCHAR15_UNIQ (EXPR)    CHAR6_20 (EXPR)  
+-------------- --------- -------- --------
+<group_begin>
+BEAAGAAC       BEAAGAAC  ACAAAAAA C       
+BEAAGAAC       BEAAGAAC  AF       F       
+BEAAGAAC       BEAAGAAC  AH       H       
+BEAAGAAC       BEAAGAAC  AL       L       
+BEAAGAAC       BEAAGAAC  AM       M       
+BEAAGAAD       BEAAGAAD  AE       E       
+BEAAGAAD       BEAAGAAD  AK       K       
+BEAAGAAE       BEAAGAAE  AG       G       
+BEAAGAAF       BEAAGAAF  AI       I       
+BEAAGAAG       BEAAGAAG  AJ       J       
+EJAAJAA        EJAAJ     CCAAAAAA CC      
+FGAAAAAB       FGAAAAAB  ABAAAAAA B       
+FJAAGAA        FJAAG     AEAAAAAA E       
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+(EXPR)    (EXPR)  
+--------- --------
+<group_begin>
+EAAGAAC   C       
+EAAGAAC   F       
+EAAGAAC   H       
+EAAGAAC   L       
+EAAGAAC   M       
+EAAGAAD   E       
+EAAGAAD   K       
+EAAGAAE   G       
+EAAGAAF   I       
+EAAGAAG   J       
+EJAAJ     CC      
+FGAAAAA   B       
+FJAAG     E       
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+(EXPR)    (EXPR)  
+--------- --------
+<group_begin>
+EAAGAAC   C       
+EAAGAAC   F       
+EAAGAAC   H       
+EAAGAAC   L       
+EAAGAAC   M       
+EAAGAAD   E       
+EAAGAAD   K       
+EAAGAAE   G       
+EAAGAAF   I       
+EAAGAAG   J       
+EJAAJ     CC      
+FGAAAAA           
+FJAAG     E       
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>

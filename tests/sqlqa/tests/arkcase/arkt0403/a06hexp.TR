@@ -1,0 +1,36 @@
+<section_begin>  a06hs0
+
+Y    D_TO_S             
+---- -------------------
+10   17 14:16:01.000000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06hs1
+
+(EXPR) (EXPR)             
+------ -------------------
+ 2      5 20:45:20.333333 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06hs2
+
+(EXPR) (EXPR)              
+------ --------------------
+ 200    52 18:48:03.000000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06hs3
+
+(EXPR) (EXPR)              
+------ --------------------
+ 200    52 18:48:03.000000 
+
+--- 1 row(s) selected.
+
+<section_end>

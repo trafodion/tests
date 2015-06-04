@@ -1,0 +1,434 @@
+<section_begin>  a04s0
+
+FLOAT1                   (EXPR)                   (EXPR)         (EXPR)         (EXPR)        
+------------------------ ------------------------ -------------- -------------- --------------
+<group_begin>
+                    1.11   -2.2200000000000002E22 1.110000E+000  1.110000E+000  -2.220000E+022
+                     0.0                     NULL 0.000000E+000  0.000000E+000  NULL          
+                     0.0                     NULL 0.000000E+000  0.000000E+000  NULL          
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+DECIMAL_1 DECIMAL_1 (EXPR)
+--------- --------- ------
+<group_begin>
+        1         1      1
+        1         1      1
+     NULL      NULL   NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+SMALL_INT (EXPR)   (EXPR)
+--------- -------- ------
+<group_begin>
+     9000    -9000  -9000
+     NULL     NULL   NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+MEDIUM_INT (EXPR)        (EXPR)     
+---------- ------------- -----------
+<group_begin>
+      1000         -1000       -1000
+      NULL          NULL        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+LARGE_INT            LARGE_INT            (EXPR)              
+-------------------- -------------------- --------------------
+<group_begin>
+                2000                 2000                 2000
+                NULL                 NULL                 NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+BINARY_32_U BINARY_32_U (EXPR)              
+----------- ----------- --------------------
+      80.00       80.00                   80
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+PIC_COMP_3 PIC_COMP_3 (EXPR)              
+---------- ---------- --------------------
+ 100.70000  100.70000                  100
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+DECIMAL_2_SIGNED DECIMAL_2_SIGNED (EXPR)              
+---------------- ---------------- --------------------
+            0.97             0.97                    0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+PIC_DECIMAL_1 PIC_DECIMAL_1 (EXPR)              
+------------- ------------- --------------------
+          7.1           7.1                    7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+PIC_DECIMAL_2 PIC_DECIMAL_2 (EXPR)              
+------------- ------------- --------------------
+<group_begin>
+         NULL          NULL                 NULL
+         NULL          NULL                 NULL
+         NULL          NULL                 NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+FLOAT1                   FLOAT1                   (EXPR)              
+------------------------ ------------------------ --------------------
+<group_begin>
+                     0.0                      0.0                    0
+                     0.0                      0.0                    0
+                    1.11                     1.11                    1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+FLOAT22                  FLOAT22                  (EXPR)                  
+------------------------ ------------------------ ------------------------
+<group_begin>
+   2.2200000000000002E22    2.2200000000000002E22    2.2200000000000002E22
+                    NULL                     NULL                     NULL
+                    NULL                     NULL                     NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s12
+
+FLOAT1                   (EXPR)                   (EXPR)         (EXPR)         (EXPR)        
+------------------------ ------------------------ -------------- -------------- --------------
+<group_begin>
+                    1.11   -2.2200000000000002E22 1.110000E+000  1.110000E+000  -2.220000E+022
+                     0.0                     NULL 0.000000E+000  0.000000E+000  NULL          
+                     0.0                     NULL 0.000000E+000  0.000000E+000  NULL          
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s13
+
+(EXPR)                   (EXPR)                   (EXPR)                   (EXPR)                  
+------------------------ ------------------------ ------------------------ ------------------------
+<group_begin>
+   2.2200000000000002E22   -2.2200000000000002E22 2.2200000000000000E+022  2.2200000000000000E+022 
+                    NULL                     NULL NULL                     NULL                    
+                    NULL                     NULL NULL                     NULL                    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s14
+
+DECIMAL_1 ORDERING (EXPR)   (EXPR)   (EXPR) (EXPR)
+--------- -------- -------- -------- ------ ------
+<group_begin>
+        1        1        2        1 2      1     
+        1        2        4        2 4      2     
+     NULL        3        6     NULL 6      NULL  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s15
+
+(EXPR) (EXPR)        (EXPR)     
+------ ------------- -----------
+     0   0.000000000 0          
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s16
+
+(EXPR)     (EXPR)        (EXPR)     
+---------- ------------- -----------
+.000000000   0.000000000 .000000000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s17
+
+DECIMAL_1 ORDERING (EXPR)               (EXPR)   (EXPR)               (EXPR)              
+--------- -------- -------------------- -------- -------------------- --------------------
+<group_begin>
+        1        1             3.000000  1.00000 3.00000000000        1.00000             
+        1        2             1.500000  0.50000 1.50000000000        .50000              
+     NULL        3             1.000000     NULL 1.00000000000        NULL                
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s18
+
+(EXPR) (EXPR) (EXPR)
+------ ------ ------
+     3 3      6     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s19
+
+SMALL_INT MEDIUM_INT LARGE_INT           
+--------- ---------- --------------------
+<group_begin>
+     9000       1000                 2000
+     NULL       NULL                 NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s20
+
+(EXPR)
+------
+  9000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s21
+
+(EXPR)
+-----------
+       2000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s22
+
+(EXPR)
+------
+  1000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s23
+
+(EXPR)
+------
+  2000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s24
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s25
+
+(EXPR)               (EXPR)                    
+-------------------- --------------------------
+<group_begin>
+  211434753600000000 1988-01-01 00:00:00.000000
+  211092868800000000 1977-03-02 00:00:00.000000
+  174029774400000000 0802-09-07 00:00:00.000000
+  151855300800000000 0100-01-01 00:00:00.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s26
+
+(EXPR)
+--------------------
+<group_begin>
+  211434753600000000
+  211092868800000000
+  174029774400000000
+  151855300800000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s27
+
+(EXPR)
+--------------------
+<group_begin>
+  211434753600000000
+  211434753600000000
+  211434753600000000
+  211434753600000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s28
+
+(EXPR)
+--------------------
+<group_begin>
+  211434753600000000
+  211434753600000000
+  211434753600000000
+  211434753600000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s29
+
+(EXPR)
+----------
+1990-06-11
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s30
+
+(EXPR)
+----------
+1990-06-11
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s31
+
+(EXPR)
+----------
+1990-06-11
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s32
+
+(EXPR)
+-----------------------------
+<group_begin>
+06/11/1990 07:00:02.000000 AM
+06/11/1990 07:00:02.000000 AM
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s33
+
+(EXPR)
+----------
+<group_begin>
+06/11/1990
+06/11/1990
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s34
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR)
+-------------------
+06/11/1990 07:00:09
+06/11/1990 07:00:09
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s35
+
+(EXPR)
+------
+     3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s36
+
+(EXPR)
+------
+     3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s37
+
+(EXPR)
+------
+<group_begin>
+     3
+     3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s38
+
+(EXPR)
+------
+<group_begin>
+     3
+     3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

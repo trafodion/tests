@@ -1,0 +1,15 @@
+<section_begin>  verify
+<group_begin>
+
+E_LONG
+--------------------
+  123456789987654321
+  123456789987654321
+  123456789987654321
+
+--- 3 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

@@ -1,0 +1,15 @@
+<section_begin>  test0082
+
+CITY            CITY           
+--------------- ---------------
+<group_begin>
+Deale           Deale          
+Deale           Tampa          
+Deale           Vienna         
+Vienna          Deale          
+Vienna          Vienna         
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

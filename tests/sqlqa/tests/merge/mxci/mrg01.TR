@@ -1,0 +1,18 @@
+<section_begin>  s01
+
+F_NO        F_NAME                         F_REALNAME                                         F_BIRTHDAY
+----------- ------------------------------ -------------------------------------------------- ----------
+       6124 Joan Crawford                  Lucille Fay LeSueur                                1904-03-23
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s03
+
+F_NO        F_NAME                         F_REALNAME                                         F_BIRTHDAY
+----------- ------------------------------ -------------------------------------------------- ----------
+       6124 Joan Bette Crawford            Lucy May LeSueur                                   1908-05-12
+
+--- 1 row(s) selected.
+
+<section_end>

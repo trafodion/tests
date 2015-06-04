@@ -1,0 +1,24 @@
+<section_begin>  verify
+<group_begin>
+
+REALCOL
+--------------
+       1.39036
+
+--- 1 row(s) selected.
+
+REALCOL
+--------------
+        0.34759
+        1.39036
+        3.12832
+        5.56146
+        8.68978
+        0.34759
+
+--- 6 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

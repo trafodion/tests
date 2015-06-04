@@ -1,0 +1,396 @@
+<section_begin>  a05s0
+
+N1                   C2   C3   C4      
+-------------------- ---- ---- --------
+<group_begin>
+               -4344 AA   BA   BA      
+               -3552 BA   AA   AA      
+               -2389 BA   AA   AA      
+               -2789 DA   EA   NULL    
+                NULL NULL BA   BA      
+                NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+(EXPR) (EXPR) (EXPR)   (EXPR)  
+------ ------ -------- --------
+DA     EA     AA       DA      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+(EXPR)
+--------
+DAAAAAAA
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+CHAR5_N20
+---------
+<group_begin>
+AAAAAAAA 
+AAAAAAAA 
+ACAAAAAA 
+CBAAAAAA 
+CCAAAAAA 
+DAAAAAAA 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+VC
+----------
+<group_begin>
+a         
+b         
+c         
+d         
+e         
+f         
+g         
+h         
+i         
+j         
+k         
+l         
+m         
+n         
+o         
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+VC
+----------
+<group_begin>
+AA        
+AA        
+AA        
+DA        
+DA        
+DA        
+DA        
+a         
+d         
+e         
+f         
+h         
+i         
+n         
+o         
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+a1         b1          c1    d1  
+a2         DAEA        c2    d2  
+a3         DAEA        c3    d3  
+a4         DAEA        c4    d4  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+param one  j           param j   
+param one  j           param j   
+param one  j           param j   
+param one  j           param j   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+par one    j           par o j   
+par one    j           par o j   
+par one    j           par o j   
+par one    j           par o j   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+VC9        (EXPR)                                                                                                                          
+---------- --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+a1         par one                                                                                                                         
+a2         par one                                                                                                                         
+a3         par one                                                                                                                         
+a4         par one                                                                                                                         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+VC9        (EXPR)
+---------- ------
+a1         pa    
+a2         pa    
+a3         pa    
+a4         pa    
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+pa         b1          c1    d1  
+pa         b2          c2    d2  
+pa         b3          c3    d3  
+pa         b4          c4    d4  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+a1         b1          pa    d1  
+a2         b2          pa    d2  
+a3         b3          pa    d3  
+a4         b4          pa    d4  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+a1         b1          c1    d1  
+a2         b2          c2    d2  
+a3         b3          c3    d3  
+a4         b4          c4    d4  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s14
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+change6    DAEA        NULL  par 
+change6    DAEA        NULL  par 
+change6    DAEA        NULL  par 
+change6    DAEA        NULL  par 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s15
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+change6    DAEA        NULL  thi 
+change6    DAEA        NULL  thi 
+change6    DAEA        NULL  thi 
+change6    DAEA        NULL  thi 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s16
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+DA         EA          DA    AA  
+DA         EA          DA    AA  
+DA         EA          DA    AA  
+DA         EA          DA    AA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s17
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+DA         EA          DA    AA  
+DA         EA          DA    AA  
+DA         EA          DA    AA  
+DA         EA          DA    AA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s18
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+DA         EA          DA    AA  
+DA         EA          DA    AA  
+DA         EA          DA    AA  
+DA         EA          DA    AA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s19
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+EA         EA          DA    AA. 
+EA         EA          DA    AA. 
+EA         EA          DA    AA. 
+EA         EA          DA    AA. 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s20
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+DAAAAAAA   EA          DA    DAA 
+DAAAAAAA   EA          DA    DAA 
+DAAAAAAA   EA          DA    DAA 
+DAAAAAAA   EA          DA    DAA 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s21
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+DA       x AA       n  DA    AA  
+DA       x AA       n  DA    AA  
+DA       x AA       n  DA    AA  
+DA       x AA       n  DA    AA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s22
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+DA       X EA          AA    AA  
+DA       X EA          AA    AA  
+DA       X EA          AA    AA  
+DA       X EA          AA    AA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s23
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+DA         EA          NULL  AA  
+DA         EA          NULL  AA  
+DA         EA          NULL  AA  
+DA         EA          NULL  AA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s24
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+DA         EA          DA    AA  
+DA         EA          DA    AA  
+DA         EA          DA    AA  
+DA         EA          DA    AA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s25
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+DA         change6     DA    AA  
+DA         change6     DA    AA  
+DA         change6     DA    AA  
+DA         change6     DA    AA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s26
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+DA         change6     NULL  AA  
+DA         change6     NULL  AA  
+DA         change6     NULL  AA  
+DA         change6     NULL  AA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

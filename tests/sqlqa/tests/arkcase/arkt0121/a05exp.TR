@@ -1,0 +1,147 @@
+<section_begin>  a05s0
+
+REF_NUM              Z_TEXT EMP_NUM
+-------------------- ------ -------
+<group_begin>
+                 100 abc         99
+                 100 abd         99
+                 100 abe         99
+                 100 abc        100
+                 100 abd        100
+                 100 abe        100
+                 100 abc        101
+                 100 abd        101
+                 100 abe        101
+                 100 abb       NULL
+                 100 abc       NULL
+                 100 abd       NULL
+                 100 abe       NULL
+                 100 NULL        99
+                 100 NULL       100
+                 100 NULL       101
+                 200 abc        200
+                 200 abd        200
+                 200 abe        200
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+REF_NUM              Z_TEXT EMP_NUM
+-------------------- ------ -------
+                 100 abd        100
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+REF_NUM              Z_TEXT EMP_NUM
+-------------------- ------ -------
+                 100 abd        100
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+REF_NUM              Z_TEXT EMP_NUM
+-------------------- ------ -------
+<group_begin>
+                 100 abe         99
+                 100 abe        100
+                 100 abd        101
+                 100 abe        101
+                 100 abe       NULL
+                 200 abc        200
+                 200 abd        200
+                 200 abe        200
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+REF_NUM              Z_TEXT EMP_NUM
+-------------------- ------ -------
+<group_begin>
+                 100 abe         99
+                 100 abd        100
+                 100 abe        100
+                 100 abd        101
+                 100 abe        101
+                 100 abe       NULL
+                 200 abc        200
+                 200 abd        200
+                 200 abe        200
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+REF_NUM              Z_TEXT EMP_NUM
+-------------------- ------ -------
+<group_begin>
+                 100 abc         99
+                 100 abd         99
+                 100 abc        100
+                 100 abc        101
+                 100 abb       NULL
+                 100 abc       NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+REF_NUM              Z_TEXT EMP_NUM
+-------------------- ------ -------
+<group_begin>
+                 100 abc         99
+                 100 abd         99
+                 100 abc        100
+                 100 abd        100
+                 100 abc        101
+                 100 abb       NULL
+                 100 abc       NULL
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+REF_NUM              Z_TEXT EMP_NUM
+-------------------- ------ -------
+<group_begin>
+                 200 abc        200
+                 200 abd        200
+                 100 abd        101
+                 100 abd        100
+                 100 abe       NULL
+                 100 abe        101
+                 100 abe        100
+                 100 abe         99
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+REF_NUM              Z_TEXT EMP_NUM
+-------------------- ------ -------
+<group_begin>
+                 100 abd        100
+                 100 abd         99
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

@@ -1,0 +1,40 @@
+<section_begin>  s01
+
+SKY                  VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+-------------------- ------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+                   1 a            1 a           0.90 NULL    NULL NULL       0
+                   2 cc           2 cc          2.00 cc       2.0 cc         2
+                   3 abcdefg      3 cc          0.09 alph     2.0 cc         1
+                   4 b            4 c     1234567.89 e     1234.5 c      12345
+                   5 abcdefg      5 cc          0.09 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s03
+
+NNUM9       NNUM5   NSINT 
+----------- ------- ------
+      12.00    13.0     14
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s05
+
+SKY                  VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+-------------------- ------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+                   1 a            1 a           0.90 NULL    NULL NULL       0
+                   2 cc           2 cc          2.00 cc       2.0 cc         2
+                   3 abcdefg      3 cc          0.09 alph     2.0 cc         1
+                   4 b            4 c          12.00 e       13.0 c         14
+                   5 abcdefg      5 cc          0.09 cc       2.0 cc         2
+                  10 ab          10 YYY        12.00 zzzz    12.0 banjo     12
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

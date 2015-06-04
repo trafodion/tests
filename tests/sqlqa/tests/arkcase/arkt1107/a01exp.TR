@@ -1,0 +1,370 @@
+<section_begin>  a01s0
+
+N1                   C2   C3   C4      
+-------------------- ---- ---- --------
+<group_begin>
+               -4344 AA   BA   BA      
+               -3552 BA   AA   AA      
+               -2789 DA   EA   NULL    
+               -2389 BA   AA   AA      
+                NULL NULL BA   BA      
+                NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+CHAR5_N20 CHAR6_N100 CHAR7_500 CHAR12_N2000 CHAR15_100 CHAR16_N20
+--------- ---------- --------- ------------ ---------- ----------
+<group_begin>
+AAAAAAAA  CQAAAAAA   EAAAGAAA  DBAAAAAB     ATAAAAAA   BE        
+AAAAAAAA  CQAAAAAA   EAAAGAAA  DBAAAAAB     ATAAAAAA   BE        
+ACAAAAAA  BPAAAAAA   CFAAEAAA  FKAAIAAA     BOAAAAAA   AE        
+CBAAAAAA  AWAAAAAA   DAAAGAAA  DEAAMAAA     ACAAAAAA   ADAA      
+CCAAAAAA  AJAAAAAA   EGAAGAAA  FIAAIAAA     CAAAAAAA   AB        
+DAAAAAAA  ALAAAAAA   DFAAIAAA  AGAAKAAB     BOAAAAAA   BCAA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR)
+--------
+AA      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+VC
+----------
+<group_begin>
+AA        
+DA        
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+VC
+----------
+<group_begin>
+1 literal 
+2 literal 
+param one 
+NULL      
+NULL      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+VC
+----------
+<group_begin>
+10 literal
+11 literal
+12 literal
+13 literal
+14 literal
+15 literal
+16 literal
+17 literal
+18 literal
+19 literal
+20 literal
+21 literal
+22 literal
+3 literal 
+4 literal 
+5 literal 
+6 literal 
+7 literal 
+8 literal 
+9 literal 
+param one 
+NULL      
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+C2
+----
+<group_begin>
+AA  
+AA  
+AA  
+BA  
+BA  
+BA  
+BA  
+DA  
+DA  
+EA  
+NULL
+NULL
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+VC
+----------
+<group_begin>
+AA        
+AA        
+AA        
+BA        
+BA        
+BA        
+BA        
+DA        
+DA        
+EA        
+NULL      
+NULL      
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+C2
+----
+<group_begin>
+AA  
+BA  
+DA  
+EA  
+NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+VC
+----------
+<group_begin>
+AA        
+BA        
+DA        
+EA        
+NULL      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+VC
+----------
+<group_begin>
+AA        
+BA        
+BA        
+DA        
+NULL      
+NULL      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+AA         DA          5 var 3 v 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+01 literal param val   5 var NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+06 literal 07 literal  5 var 08  
+11 literal 12 literal  5 var 13  
+14 literal 15 literal  5 var  16 
+17 literal 18 literal  5 var NULL
+19 literal 20 literal  5 var  21 
+param val  09 literal  5 var 10  
+param val  04 literal  5 var 05  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+C2   C4      
+---- --------
+<group_begin>
+AA   AA      
+AA   AA      
+AA   BA      
+BA   AA      
+BA   AA      
+BA   BA      
+BA   BA      
+DA   DA      
+DA   NULL    
+EA   NULL    
+NULL BA      
+NULL DA      
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+AA         11 varchar  AA    3 v 
+AA         11 varchar  AA    3 v 
+AA         11 varchar  BA    3 v 
+BA         11 varchar  AA    3 v 
+BA         11 varchar  AA    3 v 
+BA         11 varchar  BA    3 v 
+BA         11 varchar  BA    3 v 
+DA         11 varchar  DA    3 v 
+DA         11 varchar  NULL  3 v 
+EA         11 varchar  NULL  3 v 
+NULL       11 varchar  BA    3 v 
+NULL       11 varchar  DA    3 v 
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+C2   C4      
+---- --------
+<group_begin>
+AA   AA      
+AA   BA      
+BA   AA      
+BA   BA      
+DA   DA      
+DA   NULL    
+EA   NULL    
+NULL BA      
+NULL DA      
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s18
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+AA         AA          5 var 3 v 
+AA         BA          5 var 3 v 
+BA         AA          5 var 3 v 
+BA         BA          5 var 3 v 
+DA         DA          5 var 3 v 
+DA         NULL        5 var 3 v 
+EA         NULL        5 var 3 v 
+NULL       BA          5 var 3 v 
+NULL       DA          5 var 3 v 
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s19
+
+CHAR5_N20
+---------
+DAAAAAAA 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s20
+
+CHAR15_100
+----------
+ACAAAAAA  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s21
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR)
+------
+ACA   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s23
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+9 varchar  11 varchar  5 var ACA 
+ACAAAAAA   11 varchar  5 var 3 v 
+DAAAAAAA   11 varchar  5 var 3 v 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s24
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+AAAAAAAA   ATAAAAAA    5 var 3 v 
+AAAAAAAA   ATAAAAAA    5 var 3 v 
+ACAAAAAA   BOAAAAAA    5 var 3 v 
+ACAAAAAA   CBAAAAAA    5 var 3 v 
+ATAAAAAA   AAAAAAAA    5 var 3 v 
+ATAAAAAA   AAAAAAAA    5 var 3 v 
+BOAAAAAA   ACAAAAAA    5 var 3 v 
+BOAAAAAA   DAAAAAAA    5 var 3 v 
+CAAAAAAA   CCAAAAAA    5 var 3 v 
+CBAAAAAA   ACAAAAAA    5 var 3 v 
+CCAAAAAA   CAAAAAAA    5 var 3 v 
+DAAAAAAA   BOAAAAAA    5 var 3 v 
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>

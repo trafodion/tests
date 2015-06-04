@@ -1,0 +1,162 @@
+<section_begin>  a08s0
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+(EXPR)
+--------------------
+                7000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+(EXPR)
+-------
+B      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s3
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s4
+
+(EXPR)
+--------------------
+                NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s5
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                   0                 NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s6
+
+(EXPR)               (EXPR)               (EXPR)              
+-------------------- -------------------- --------------------
+                   0                 NULL                 NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s7
+
+(EXPR)
+--------------------
+            4700.000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s8
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s9
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s10
+
+(EXPR)
+--------------------
+              800.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s11
+
+(EXPR)
+------------------
+        18.0000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s12
+
+(EXPR)
+--------------------
+                NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s14
+
+(EXPR)
+--------------------
+                 4.1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s15
+
+(EXPR)
+--------------------
+                1500
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s16
+
+(EXPR)
+--------------------
+                  60
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s17
+
+(EXPR)               (EXPR)               (EXPR) (EXPR) (EXPR)               (EXPR)              
+-------------------- -------------------- ------ ------ -------------------- --------------------
+                  28                    4      7      1                    7                    7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s18
+
+(EXPR)               (EXPR)               (EXPR) 
+-------------------- -------------------- -------
+                 330                 5.75 B      
+
+--- 1 row(s) selected.
+
+<section_end>

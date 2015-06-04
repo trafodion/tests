@@ -1,0 +1,22 @@
+<section_begin>  a1s1
+
+C1          C2                  
+----------- --------------------
+<group_begin>
+          1 a                   
+          2 b                   
+          3 c                   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a1s3
+
+C1          C2        
+----------- ----------
+          3 c         
+
+--- 1 row(s) selected.
+
+<section_end>

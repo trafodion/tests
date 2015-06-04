@@ -1,0 +1,145 @@
+<section_begin>  a13s0
+
+IV
+----
+<group_begin>
+ 3  
+ 0  
+ 1  
+NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s1
+
+IV
+----
+<group_begin>
+3   
+0   
+1   
+NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s2
+
+IV
+----
+<group_begin>
+345 
+  0 
+  1 
+NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s3
+
+IV
+-------------------
+<group_begin>
+123456789012345678 
+                 0 
+                 1 
+NULL               
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s4
+
+IV
+----
+<group_begin>
+99  
+99  
+99  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s5
+
+IV
+----
+<group_begin>
+0   
+1   
+3   
+9   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s6
+
+IV
+----
+<group_begin>
+345 
+ 99 
+  1 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s7
+
+IV
+-------------------
+<group_begin>
+999999999999999999 
+123456789012345678 
+                 1 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s8
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s9
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s10
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s11
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,516 @@
+<section_begin>  a1
+
+NUM        LASTNAME                 GENDER DEPTNUM    RANK                
+---------- ------------------------ ------ ---------- --------------------
+<group_begin>
+         1 Zacker                   M               1                    1
+         3 Quan                     M               2                    2
+         4 Yang                     M               3                    3
+         6 Li                       M               2                    4
+         8 Li                       F               2                    5
+        10 Zhang                    F               3                    6
+        11 Yurgu                    F               3                    7
+        13 Wilbert                  M               1                    8
+        15 Therber                  M               2                    9
+        18 Linville                 M               1                   10
+        20 Buick                    F               3                   11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a2
+
+GENDER PAYGRADE   DEPTNUM    RANK                
+------ ---------- ---------- --------------------
+<group_begin>
+M               1          1                    1
+M               7          2                    2
+M               1          3                    3
+M               3          2                    4
+F               3          2                    5
+F               4          3                    6
+F               5          3                    7
+M               6          1                    8
+M               7          2                    9
+M               8          1                   10
+F               5          3                   11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a3
+
+NUM        DEPTNUM    PAYGRADE   SALARY      RANK                
+---------- ---------- ---------- ----------- --------------------
+        18          1          8       92100                    1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a4
+
+NUM        DEPTNUM    (EXPR)      (EXPR)  RANK                
+---------- ---------- ----------- ------- --------------------
+<group_begin>
+         1          1         200    1800                    1
+         2          9         210    1838                    2
+         3          2        1645    NULL                    3
+         4          3         173    1510                    4
+         5          9         220    7540                    5
+         6          2         150    1530                    6
+         7          5        1500    3200                    7
+         8          2        1540    3000                    8
+         9          6         500    2300                    9
+        10          3         530    2005                   10
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a5
+
+DEPTNUM    (EXPR)      RANK                
+---------- ----------- --------------------
+<group_begin>
+         1       10200                    1
+         9       10262                    2
+         3       10790                    3
+         9        7460                    4
+         2       16470                    5
+         5       14900                    6
+         2       15200                    7
+         6       21800                    8
+         3       22195                    9
+         9       22590                   10
+         3       28668                   11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a6
+
+DEPTNUM    PAYGRADE   (EXPR)        RANK                
+---------- ---------- ------------- --------------------
+<group_begin>
+         1          1      1980.000                    1
+         9          1      2021.800                    2
+         3          1      1661.000                    3
+         2          3      1683.000                    4
+         6          4      2530.000                    5
+         3          4      2205.500                    6
+         9          4      1991.000                    7
+         1          6      1397.000                    8
+         9          7      2079.000                    9
+         2          7      1210.000                   10
+         1          8      1358.500                   11
+         3          5      1685.200                   12
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a7
+
+DEPTNUM    BONUS     RANK                
+---------- --------- --------------------
+<group_begin>
+         1        56                    1
+         9        47                    2
+         2        82                    3
+         5        28                    4
+         1        74                    5
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a8
+
+DEPTNUM    PAYGRADE   BONUS       RANK                
+---------- ---------- ----------- --------------------
+<group_begin>
+         1          1     1800.00                    1
+         9          1     1838.00                    2
+         2          7        NULL                    3
+         3          1     1510.00                    4
+         9          2     7540.00                    5
+         2          3     1530.00                    6
+         5          3     3200.00                    7
+         2          3     3000.00                    8
+         6          4     2300.00                    9
+         3          4     2005.00                   10
+         3          5        NULL                   11
+         9          4     1810.00                   12
+         1          6     1270.00                   13
+         9          7     1890.00                   14
+         2          7     1100.00                   15
+         5          7     3200.00                   16
+         9          7     5875.00                   17
+         1          8     1235.00                   18
+         5          5        NULL                   19
+         3          5     1532.00                   20
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a9
+
+PAYGRADE   GENDER NUM        RANK                
+---------- ------ ---------- --------------------
+<group_begin>
+         1 M               1                    1
+         1 F               2                    2
+         7 M               3                    3
+         1 M               4                    4
+         2 F               5                    5
+         3 M               6                    6
+         3 M               7                    7
+         3 F               8                    8
+         4 F               9                    9
+         4 F              10                   10
+         5 F              11                   11
+         4 M              12                   12
+         6 M              13                   13
+         7 M              14                   14
+         7 M              15                   15
+         7 M              16                   16
+         7 F              17                   17
+         8 M              18                   18
+         5 M              19                   19
+         5 F              20                   20
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a10
+
+DEPTNUM    PAYGRADE   COMMISION     RANK                
+---------- ---------- ------------- --------------------
+<group_begin>
+         1          1        200.00                    1
+         9          1        210.00                    2
+         3          1        173.00                    3
+         9          2        220.00                    4
+         2          3        150.00                    5
+         5          3       1500.00                    6
+         2          3       1540.00                    7
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a28
+
+DEPTNUM    COMMISION     BONUS       RANK                
+---------- ------------- ----------- --------------------
+<group_begin>
+         1        200.00     1800.00                    1
+         2       1645.00        NULL                    2
+         3        173.00     1510.00                    3
+         2        150.00     1530.00                    4
+         2       1540.00     3000.00                    5
+         3        530.00     2005.00                    6
+         3          NULL        NULL                    7
+         1        240.00     1270.00                    8
+         2        225.00     1100.00                    9
+         1       1600.00     1235.00                   10
+         3          NULL     1532.00                   11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a30
+
+DEPTNUM    PAYGRADE   RANK                
+---------- ---------- --------------------
+<group_begin>
+         5          3                    1
+         6          4                    2
+         5          7                    3
+         5          5                    4
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a31
+
+DEPTNUM    BONUS       (EXPR)      RANK                
+---------- ----------- ----------- --------------------
+<group_begin>
+         3        NULL        NULL                    1
+         3     1532.00     1532.00                    2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a32
+
+DEPTNUM    BONUS       (EXPR)      RANK                
+---------- ----------- ----------- --------------------
+<group_begin>
+         3        NULL        NULL                    1
+         3     1532.00     1532.00                    2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a33
+
+DEPTNUM    PAYGRADE   BONUS       NUM        RANK                
+---------- ---------- ----------- ---------- --------------------
+<group_begin>
+         1          1     1800.00          1                    1
+         9          1     1838.00          2                    2
+         3          1     1510.00          4                    3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a34
+
+DEPTNUM    PAYGRADE   BONUS       RANK                
+---------- ---------- ----------- --------------------
+         1          8     1235.00                    1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a35
+
+DEPTNUM    PAYGRADE   BONUS       RANK                
+---------- ---------- ----------- --------------------
+<group_begin>
+         1          1     1800.00                    1
+         9          1     1838.00                    2
+         3          1     1510.00                    3
+         9          2     7540.00                    4
+         2          3     1530.00                    5
+         5          3     3200.00                    6
+         2          3     3000.00                    7
+         6          4     2300.00                    8
+         3          4     2005.00                    9
+         9          4     1810.00                   10
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a36
+
+DEPTNUM    BONUS       RANK                
+---------- ----------- --------------------
+<group_begin>
+         1     1800.00                    1
+         2        NULL                    2
+         3     1510.00                    3
+         2     1530.00                    4
+         2     3000.00                    5
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a37
+
+--- 0 row(s) selected.
+
+<section_end>
+<section_begin>  a38
+
+FIRSTNAME      LASTNAME                 DEPTNUM    RANK                
+-------------- ------------------------ ---------- --------------------
+<group_begin>
+Arnold         Yang                              3                    1
+Arthur         Sharma                            5                    2
+Abby           Zhang                             3                    3
+Becky          Yurgu                             3                    4
+Bruce          Andersen                          5                    5
+Bill           Zacker                            5                    6
+Bridget        Buick                             3                    7
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a39
+
+NUM        FIRSTNAME      LASTNAME                 DEPTNUM    RANK                
+---------- -------------- ------------------------ ---------- --------------------
+<group_begin>
+         4 Arnold         Yang                              3                    1
+         7 Arthur         Sharma                            5                    2
+        10 Abby           Zhang                             3                    3
+        11 Becky          Yurgu                             3                    4
+        16 Bruce          Andersen                          5                    5
+        19 Bill           Zacker                            5                    6
+        20 Bridget        Buick                             3                    7
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a40
+
+FIRSTNAME      DEPTNUM    R1          RANK                
+-------------- ---------- ----------- --------------------
+<group_begin>
+Arnold                  3       12139                    1
+Arthur                  5       16705                    2
+Abby                    3       23790                    3
+Becky                   3        NULL                    4
+Bruce                   5       88340                    5
+Bill                    5       21336                    6
+Bridget                 3        NULL                    7
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a41
+
+DEPTNUM    LASTNAME                 MFIRST         (EXPR) NUM        RANK  
+---------- ------------------------ -------------- ------ ---------- ------
+<group_begin>
+         1 Zacker                   Abe            M               1      1
+         2 Quan                     Abe            M               3      2
+         3 Yang                     Arnold         M               4      3
+         2 Li                       Arthur         M               6      4
+         2 Li                       Amy            F               8      5
+         3 Zhang                    Abby           F              10      6
+         3 Yurgu                    Becky          F              11      7
+         1 Wilbert                  Aloysius       M              13      8
+         2 Therber                  Arnold         M              15      9
+         1 Linville                 Bruce          M              18     10
+         3 Buick                    Bridget        F              20     11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a42
+
+DEPTNUM    LASTNAME                 RANK                
+---------- ------------------------ --------------------
+<group_begin>
+         1 Zacker                                      1
+         2 Quan                                        2
+         3 Yang                                        3
+         2 Li                                          4
+         2 Li                                          5
+         3 Zhang                                       6
+         3 Yurgu                                       7
+         1 Wilbert                                     8
+         2 Therber                                     9
+         1 Linville                                   10
+         3 Buick                                      11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a43
+
+DEPTNUM    LASTNAME                 RANK                
+---------- ------------------------ --------------------
+<group_begin>
+         1 Zacker                                      1
+         2 Quan                                        2
+         3 Yang                                        3
+         2 Li                                          4
+         2 Li                                          5
+         3 Zhang                                       6
+         3 Yurgu                                       7
+         1 Wilbert                                     8
+         2 Therber                                     9
+         1 Linville                                   10
+         3 Buick                                      11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a44
+
+DEPTNUM    LASTNAME                 RANK                
+---------- ------------------------ --------------------
+<group_begin>
+         1 Zacker                                      1
+         2 Quan                                        2
+         3 Yang                                        3
+         2 Li                                          4
+         2 Li                                          5
+         3 Zhang                                       6
+         3 Yurgu                                       7
+         1 Wilbert                                     8
+         2 Therber                                     9
+         1 Linville                                   10
+         3 Buick                                      11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a45
+
+DEPTNUM    PAYGRADE   NUM        RANK                
+---------- ---------- ---------- --------------------
+<group_begin>
+         1          1          1                    1
+         9          1          2                    2
+         2          7          3                    3
+         3          1          4                    4
+         9          2          5                    5
+         2          3          6                    6
+         5          3          7                    7
+         2          3          8                    8
+         6          4          9                    9
+         3          4         10                   10
+         3          5         11                   11
+         9          4         12                   12
+         1          6         13                   13
+         9          7         14                   14
+         2          7         15                   15
+         5          7         16                   16
+         9          7         17                   17
+         1          8         18                   18
+         5          5         19                   19
+         3          5         20                   20
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a50
+
+NUM        PAYGRADE   SALARY      (EXPR)              
+---------- ---------- ----------- --------------------
+<group_begin>
+         1          1    12000.00             39178.57
+         2          1    12100.00             39178.57
+         3          7    12200.00             39178.57
+         4          1    12300.00             39178.57
+         6          3    18000.00             39178.57
+         7          3    18100.00             39178.57
+         8          3    18200.00             39178.57
+        11          5    24300.00             39178.57
+        14          7    90100.00             39178.57
+        15          7    90200.00             39178.57
+        16          7    90300.00             39178.57
+        17          7    90400.00             39178.57
+        19          5    30100.00             39178.57
+        20          5    30200.00             39178.57
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>

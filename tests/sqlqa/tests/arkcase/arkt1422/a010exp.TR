@@ -1,0 +1,115 @@
+<section_begin>  a010s0
+
+D_T_M_E                    D_N        M_N        D_OF_Y      W_K    Q_R    YEAR_D      MONTH_D DAY_D  HOUR_D MINUTE_D SECOND_D   
+-------------------------- ---------- ---------- ----------- ------ ------ ----------- ------- ------ ------ -------- -----------
+1990-10-05 15:19:59.300000 Saturday   January              1     53      3        2106       8     31     12       59           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a010s1
+
+(EXPR)
+------
+    19
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a010s1a
+
+(EXPR)
+------
+    19
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a010s2
+
+(EXPR)
+------
+    19
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a010s3
+
+(EXPR)
+------
+<group_begin>
+    19
+    19
+    19
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a010s4
+
+MINUTE_D MINUTE_D
+-------- --------
+<group_begin>
+      59       59
+      59       59
+      59       59
+      59       59
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a010s5
+
+MINUTE_D MINUTE_D
+-------- --------
+<group_begin>
+      59       59
+      59       59
+      59       59
+      59       59
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a010s6
+
+MINUTE_D MINUTE_D
+-------- --------
+<group_begin>
+      59       59
+      59       59
+      59       59
+      59       59
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a010s8
+
+MINUTE_D
+--------
+<group_begin>
+      59
+      59
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a010s8a
+
+D_N        M_N        D_OF_Y      W_K    Q_R    (EXPR)    
+---------- ---------- ----------- ------ ------ ----------
+<group_begin>
+Saturday   January              1     53      3 Ninteen 19
+Saturday   January              1     53      3 Ninteen 19
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

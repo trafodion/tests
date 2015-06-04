@@ -1,0 +1,24 @@
+<section_begin>  verify
+<group_begin>
+
+INTEGERCOL
+-----------
+          2
+
+--- 1 row(s) selected.
+
+INTEGERCOL
+-----------
+          1
+          2
+          3
+          4
+          5
+          6
+
+--- 6 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

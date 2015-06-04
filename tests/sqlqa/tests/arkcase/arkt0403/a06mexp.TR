@@ -1,0 +1,39 @@
+<section_begin>  a06ms0
+
+DATE1      Y_TO_MO 
+---------- --------
+1988-10-25 1974-02 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06ms1
+
+(EXPR)
+----------
+0014-08-25
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06ms3
+
+Y     Y_TO_MO 
+----- --------
+<group_begin>
+1975  1974-02 
+1975  1975-03 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06ms4
+
+(EXPR)   (EXPR)   
+-------- ---------
+1989-10   1 00:00 
+
+--- 1 row(s) selected.
+
+<section_end>

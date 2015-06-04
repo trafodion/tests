@@ -1,0 +1,27 @@
+<section_begin>  test0244c
+
+INTTEST
+-----------
+  999999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0244e
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0244g
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

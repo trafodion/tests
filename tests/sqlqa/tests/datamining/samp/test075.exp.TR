@@ -1,0 +1,48 @@
+<section_begin>  s1
+
+GENDER NAME                 SALARY     
+------ -------------------- -----------
+<group_begin>
+F      Abbie                      90000
+M      Chris                       2000
+M      David                     300000
+F      Debbie                    500000
+F      Donna                     100000
+F      Ellie                     100000
+F      Elory                       2000
+F      Hema                      100000
+F      Iris                      100000
+F      Jane                       70000
+M      Larry                      80000
+F      Melody                     90000
+F      Nikki                      60000
+F      Sydney                    500000
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+--- SQL command prepared.
+
+<section_end>
+<section_begin>  s3
+
+GENDER NAME                 SALARY     
+------ -------------------- -----------
+<group_begin>
+F      Abbie                      90000
+M      Chris                       2000
+F      Debbie                    500000
+F      Ellie                     100000
+F      Elory                       2000
+F      Iris                      100000
+F      Jane                       70000
+F      Nikki                      60000
+F      Sydney                    500000
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>

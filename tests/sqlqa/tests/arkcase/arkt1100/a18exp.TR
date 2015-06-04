@@ -1,0 +1,211 @@
+<section_begin>  a18s0
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+7                        94 OVC                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a18s1
+
+PARTNAME
+------------------
+<group_begin>
+ASYNC CONTROLLER  
+ASYNC EXTENSION   
+COBOL MICRO       
+DECIMAL ARITH     
+DISC CONT DUAL    
+DISC CONT SINGLE  
+ENSCRIBE MICRO    
+LINE PRINTER CONT 
+MAG TAPE CONT 8/16
+MAG TAPE DR 8/16  
+MAG TAPE DR 800BPI
+MEM MOD 64K MOS   
+MEM MOD 96K MOS   
+POWER MODULE      
+PROC     96KB SEMI
+SYNC CONTROLLER   
+SYSTEM 192KB CORE 
+SYSTEM 192KB SEMI 
+TERM CRT CHAR     
+TERM CRT PAGE     
+TERM HARD COPY    
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a18s2
+
+BRANCHNAME
+--------------
+<group_begin>
+CHICAGO       
+CUPERTINO     
+DALLAS        
+FRANKFURT     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a18s3
+
+EMPNAME
+------------------
+<group_begin>
+GEORGE FORSTER    
+HEIDI WEIGL       
+HERB ALBERT       
+JACK RAYMOND      
+LINDA JONES       
+PETE WELLINGTON   
+RICHARD BARTON    
+SHERRIE WONG      
+STEVE COOK        
+SUE CRAMER        
+SUSAN HENDERSON   
+WALTER LANCASTER  
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a18s4
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+7                        94 OVC                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a18s5
+
+(EXPR)             (EXPR)            
+------------------ ------------------
+GEORGE FORSTER     WALTER LANCASTER  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a18s6
+
+(EXPR)             (EXPR)            
+------------------ ------------------
+ASYNC CONTROLLER   TERM HARD COPY    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a18s7
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+7                        94 GEO                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a18s8
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+7                        94 WAL                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a18s9
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+TERM HARD COPY           94 GEO                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a18s10
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+TERM HARD COPY            4 WAL                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>

@@ -1,0 +1,20 @@
+<section_begin>  verify
+<group_begin>
+
+COF_NAME                         SUP_ID      PRICE                    SALES       TOTAL      
+-------------------------------- ----------- ------------------------ ----------- -----------
+Andhra_Tea                               142                    10.98           0           0
+Assam_Coffee                             123                     7.88           0           0
+Colombian                                101                     7.99           0           0
+Colombian_Decaf                          101                     8.99           0           0
+Espresso                                 150                     9.99           0           0
+French_Roast                              49                     8.99           0           0
+French_Roast_Decaf                        49                     9.99           0           0
+Indian_Assam_Coffee                       68                    10.99           0           0
+
+--- 5 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

@@ -1,0 +1,260 @@
+<section_begin>  a21.savs3d
+
+PARTNUM PARTNAME          
+------- ------------------
+<group_begin>
+      1 TANDEM COMPUTERS  
+      2 DATA TERMINAL CO  
+      3 DISPLAY INC       
+      6 INFOMATION STORAGE
+      8 MAGNETICS CORP    
+     10 STEELWORK INC     
+     15 DATADRIVE         
+    212 SYSTEM 192KB CORE 
+    244 SYSTEM 192KB SEMI 
+   1403 PROC     96KB SEMI
+   2001 DECIMAL ARITH     
+   2002 ENSCRIBE MICRO    
+   2003 COBOL MICRO       
+   2402 MEM MOD 64K MOS   
+   2403 MEM MOD 96K MOS   
+   3102 DISC CONT SINGLE  
+   3103 DISC CONT DUAL    
+   3201 MAG TAPE CONT 8/16
+   3302 LINE PRINTER CONT 
+   4101 DISC 10MB         
+   4102 DISC 50MB         
+   4103 DISK 160MB        
+   5101 MAG TAPE DR 800BPI
+   5103 MAG TAPE DR 8/16  
+   5502 LP  300 LPM       
+   5504 LP  900 LPM       
+   5505 LP  1500LPM       
+   6201 SYNC CONTROLLER   
+   6301 ASYNC CONTROLLER  
+   6302 ASYNC EXTENSION   
+   6401 TERM CRT CHAR     
+   6402 TERM CRT PAGE     
+   6603 TERM HARD COPY    
+   7102 CABINET LARGE     
+   7301 POWER MODULE      
+<group_end>
+
+--- 35 row(s) selected.
+
+<section_end>
+<section_begin>  a21.savs4
+
+PARTNUM PARTNAME          
+------- ------------------
+<group_begin>
+    212 SYSTEM 192KB CORE 
+    244 SYSTEM 192KB SEMI 
+   1403 PROC     96KB SEMI
+   2001 DECIMAL ARITH     
+   2002 ENSCRIBE MICRO    
+   2003 COBOL MICRO       
+   2402 MEM MOD 64K MOS   
+   2403 MEM MOD 96K MOS   
+   3102 DISC CONT SINGLE  
+   3103 DISC CONT DUAL    
+   3201 MAG TAPE CONT 8/16
+   3302 LINE PRINTER CONT 
+   4101 DISC 10MB         
+   4102 DISC 50MB         
+   4103 DISK 160MB        
+   5101 MAG TAPE DR 800BPI
+   5103 MAG TAPE DR 8/16  
+   5502 LP  300 LPM       
+   5504 LP  900 LPM       
+   5505 LP  1500LPM       
+   6201 SYNC CONTROLLER   
+   6301 ASYNC CONTROLLER  
+   6302 ASYNC EXTENSION   
+   6401 TERM CRT CHAR     
+   6402 TERM CRT PAGE     
+   6603 TERM HARD COPY    
+   7102 CABINET LARGE     
+   7301 POWER MODULE      
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  a21.savs5a
+
+C              S           
+-------------- ------------
+<group_begin>
+CUPERTINO      CALIFORNIA  
+IRVINE         CALIFORNIA  
+PALO ALTO      CALIFORNIA  
+LEXINGTON      MASS        
+SEATTLE        WASHINGTON  
+SUNNYVALE      CALIFORNIA  
+DALLAS         TEXAS       
+PHILADELPHIA   PENN        
+SAN FRANCISCO  CALIFORNIA  
+DENVER         COLORADO    
+LUBBOCK        TEXAS       
+FRESNO         CALIFORNIA  
+FRANKFURT      GERMANY     
+NEW YORK       NEW YORK    
+LINCOLN        NEBRASKA    
+DUISBURG       GERMANY     
+MUENCHEN       GERMANY     
+CHICAGO        ILLINOIS    
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a21.savs6
+
+C              S           
+-------------- ------------
+<group_begin>
+CHICAGO        ILLINOIS    
+CUPERTINO      CALIFORNIA  
+DALLAS         TEXAS       
+DENVER         COLORADO    
+DUISBURG       GERMANY     
+FRANKFURT      GERMANY     
+FRESNO         CALIFORNIA  
+IRVINE         CALIFORNIA  
+LEXINGTON      MASS        
+LINCOLN        NEBRASKA    
+LUBBOCK        TEXAS       
+MUENCHEN       GERMANY     
+NEW YORK       NEW YORK    
+PALO ALTO      CALIFORNIA  
+PHILADELPHIA   PENN        
+SAN FRANCISCO  CALIFORNIA  
+SEATTLE        WASHINGTON  
+SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a21.savs8
+
+C              S           
+-------------- ------------
+<group_begin>
+CHICAGO        ILLINOIS    
+CUPERTINO      CALIFORNIA  
+DALLAS         TEXAS       
+DENVER         COLORADO    
+DUISBURG       GERMANY     
+FRANKFURT      GERMANY     
+FRESNO         CALIFORNIA  
+IRVINE         CALIFORNIA  
+LEXINGTON      MASS        
+LINCOLN        NEBRASKA    
+LUBBOCK        TEXAS       
+MUENCHEN       GERMANY     
+NEW YORK       NEW YORK    
+PALO ALTO      CALIFORNIA  
+PHILADELPHIA   PENN        
+SAN FRANCISCO  CALIFORNIA  
+SEATTLE        WASHINGTON  
+SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a21.savs9
+
+(EXPR)
+------------
+CALIFORNIA  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a21.savs9b
+
+C              S           
+-------------- ------------
+<group_begin>
+CHICAGO        ILLINOIS    
+CUPERTINO      CALIFORNIA  
+DALLAS         TEXAS       
+DENVER         COLORADO    
+DUISBURG       GERMANY     
+FRANKFURT      GERMANY     
+FRESNO         CALIFORNIA  
+IRVINE         CALIFORNIA  
+LEXINGTON      MASS        
+LINCOLN        NEBRASKA    
+LUBBOCK        TEXAS       
+MUENCHEN       GERMANY     
+NEW YORK       NEW YORK    
+PALO ALTO      CALIFORNIA  
+PHILADELPHIA   PENN        
+SAN FRANCISCO  CALIFORNIA  
+SEATTLE        WASHINGTON  
+SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a21.savs10a
+
+C              S           
+-------------- ------------
+<group_begin>
+CUPERTINO      CALIFORNIA  
+PHILADELPHIA   PENN        
+IRVINE         CALIFORNIA  
+SAN FRANCISCO  CALIFORNIA  
+PALO ALTO      CALIFORNIA  
+DENVER         COLORADO    
+LEXINGTON      MASS        
+LUBBOCK        TEXAS       
+SEATTLE        WASHINGTON  
+FRESNO         CALIFORNIA  
+SUNNYVALE      CALIFORNIA  
+FRANKFURT      GERMANY     
+DALLAS         TEXAS       
+NEW YORK       NEW YORK    
+LINCOLN        NEBRASKA    
+DUISBURG       GERMANY     
+MUENCHEN       GERMANY     
+CHICAGO        ILLINOIS    
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a21.savs11a
+
+C              S           
+-------------- ------------
+<group_begin>
+CHICAGO        ILLINOIS    
+CUPERTINO      CALIFORNIA  
+DALLAS         TEXAS       
+DENVER         COLORADO    
+DUISBURG       GERMANY     
+FRANKFURT      GERMANY     
+FRESNO         CALIFORNIA  
+IRVINE         CALIFORNIA  
+LEXINGTON      MASS        
+LINCOLN        NEBRASKA    
+LUBBOCK        TEXAS       
+MUENCHEN       GERMANY     
+NEW YORK       NEW YORK    
+PALO ALTO      CALIFORNIA  
+PHILADELPHIA   PENN        
+SAN FRANCISCO  CALIFORNIA  
+SEATTLE        WASHINGTON  
+SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>

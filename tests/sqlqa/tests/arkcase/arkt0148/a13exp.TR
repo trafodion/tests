@@ -1,0 +1,705 @@
+<section_begin>  a13s0
+
+VAR_CHAR_3 SMALL_INT
+---------- ---------
+rum             9000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s1
+
+PIC_X_8  SMALL_INT
+-------- ---------
+maureen       9000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s2
+
+PIC_X_8  (EXPR)              
+-------- --------------------
+<group_begin>
+maureen                  9000
+rum                      9000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s3
+
+PIC_X_8  (EXPR)              
+-------- --------------------
+<group_begin>
+maureen                  9000
+rum                      9000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s4
+
+PIC_X_8
+--------
+<group_begin>
+maureen 
+rum     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s5
+
+PIC_X_8
+--------
+<group_begin>
+maureen 
+rum     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s6
+
+VAR_CHAR_3
+----------
+<group_begin>
+maureen   
+rum       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s7
+
+VAR_CHAR_3
+----------
+<group_begin>
+maureen   
+rum       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s8
+
+PIC_X_8
+--------
+<group_begin>
+maureen 
+rum     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s9
+
+PIC_X_8
+--------
+<group_begin>
+maureen 
+rum     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s10
+
+PIC_X_8
+--------
+<group_begin>
+A       
+C       
+D       
+E       
+maureen 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a13s11
+
+CHAR_1
+--------
+<group_begin>
+A       
+C       
+D       
+E       
+maureen 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a13s12
+
+VAR_CHAR_3
+----------
+<group_begin>
+E         
+rum       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s13
+
+VAR_CHAR_2 VAR_CHAR_3
+---------- ----------
+<group_begin>
+E          rum       
+E          rum       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s14
+
+SMALL_INT
+------------
+<group_begin>
+          10
+          80
+          90
+        1000
+        1000
+        2000
+        8000
+        9000
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a13s15
+
+SMALL_INT
+--------------------
+<group_begin>
+                2000
+                9000
+                NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s16
+
+MEDIUM_INT
+------------
+<group_begin>
+          10
+          80
+          90
+        1000
+        2000
+        8000
+        9000
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a13s17
+
+MEDIUM_INT
+--------------------
+<group_begin>
+            -1000000
+               -1000
+                   0
+                 200
+                 999
+                1000
+                2000
+          1000000000
+                NULL
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a13s18
+
+LARGE_INT
+--------------------
+<group_begin>
+            -1000000
+               -1000
+                   0
+                 200
+                 999
+                1000
+                2000
+          1000000000
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a13s19
+
+LARGE_INT
+--------------------
+<group_begin>
+                1000
+                2000
+                NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s20
+
+BINARY_64_S
+--------------------
+<group_begin>
+              80.000
+             200.000
+            1200.000
+            1500.000
+            2000.000
+                NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a13s21
+
+BINARY_32_U
+--------------------
+<group_begin>
+                NULL
+            2000.000
+            1500.000
+            1200.000
+             200.000
+              80.000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a13s22
+
+FLOAT_DOUBLE_P
+------------------------
+<group_begin>
+                  2.0E-4
+                     1.2
+                    NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s23
+
+FLOAT_BASIC
+------------------------
+<group_begin>
+                  2.0E-4
+                     1.2
+                    NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s24
+
+FLOAT_BASIC              FLOAT_DOUBLE_P          
+------------------------ ------------------------
+<group_begin>
+                 -5000.0                     90.0
+                     1.2                   2.0E-4
+                    50.0                     10.0
+                    60.0                   1000.0
+                  1000.0                     80.0
+                  2000.0                   2000.0
+                  3000.0                   9000.0
+                  4000.0                   8000.0
+                  8000.0                     90.0
+                    NULL                     NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a13s25
+
+SOME_DATA
+---------
+<group_begin>
+       50
+      100
+     1000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s26
+
+COL_9
+------
+<group_begin>
+    50
+   100
+  1000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s27
+
+CHAR_1
+------
+<group_begin>
+A     
+C     
+D     
+E     
+E     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a13s28
+
+PIC_X_8
+--------
+<group_begin>
+maureen 
+rum     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s29
+
+PIC_X_8
+--------
+<group_begin>
+maureen 
+rum     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s30
+
+PIC_X_8
+--------
+<group_begin>
+A       
+C       
+D       
+E       
+maureen 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a13s31
+
+CHAR_1
+--------
+<group_begin>
+A       
+C       
+D       
+E       
+maureen 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a13s32
+
+VAR_CHAR_3
+----------
+<group_begin>
+E         
+rum       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s33
+
+VAR_CHAR_2 VAR_CHAR_3
+---------- ----------
+E          rum       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s34
+
+SMALL_INT
+------------
+<group_begin>
+          10
+          80
+          90
+        1000
+        2000
+        8000
+        9000
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a13s35
+
+SMALL_INT
+--------------------
+<group_begin>
+                2000
+                9000
+                NULL
+                NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s36
+
+MEDIUM_INT
+------------
+<group_begin>
+          10
+          80
+          90
+        1000
+        1000
+        2000
+        8000
+        9000
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a13s37
+
+MEDIUM_INT
+--------------------
+<group_begin>
+            -1000000
+               -1000
+                   0
+                 200
+                 999
+                1000
+                1000
+                2000
+          1000000000
+                NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a13s38
+
+LARGE_INT
+--------------------
+<group_begin>
+            -1000000
+               -1000
+                   0
+                 200
+                 999
+                1000
+                1000
+                2000
+          1000000000
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a13s39
+
+LARGE_INT
+--------------------
+<group_begin>
+                1000
+                2000
+                NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s40
+
+BINARY_64_S
+--------------------
+<group_begin>
+              80.000
+             200.000
+            1200.000
+            1500.000
+            2000.000
+                NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a13s41
+
+BINARY_32_U
+--------------------
+<group_begin>
+                NULL
+            2000.000
+            1500.000
+            1200.000
+             200.000
+              80.000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a13s42
+
+FLOAT_DOUBLE_P
+------------------------
+<group_begin>
+                  2.0E-4
+                     1.2
+                    NULL
+                    NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s43
+
+FLOAT_BASIC
+------------------------
+<group_begin>
+                  2.0E-4
+                     1.2
+                    NULL
+                    NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s44
+
+FLOAT_BASIC              FLOAT_DOUBLE_P          
+------------------------ ------------------------
+<group_begin>
+                 -5000.0                     90.0
+                     1.2                   2.0E-4
+                    50.0                     10.0
+                    60.0                   1000.0
+                  1000.0                     80.0
+                  2000.0                   2000.0
+                  3000.0                   9000.0
+                  4000.0                   8000.0
+                  8000.0                     90.0
+                    NULL                     NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a13s45
+
+SOME_DATA
+---------
+<group_begin>
+       50
+      100
+     1000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s46
+
+COL_9
+------
+<group_begin>
+    50
+   100
+  1000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a13s47
+
+CHAR_1
+------
+<group_begin>
+A     
+C     
+D     
+E     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a13s48
+
+PIC_X_8
+--------
+<group_begin>
+maureen 
+rum     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a13s49
+
+PIC_X_8
+--------
+<group_begin>
+maureen 
+rum     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

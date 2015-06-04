@@ -1,0 +1,54 @@
+<section_begin>  test0299d
+
+COL2
+-----------
+        299
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0299e
+
+COLUMN123456789IS19
+-------------------
+                299
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0299f
+
+COL3
+-----------
+        299
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0299h
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0299i
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0299j
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

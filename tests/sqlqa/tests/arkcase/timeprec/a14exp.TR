@@ -1,0 +1,145 @@
+<section_begin>  a14s0
+
+IV
+-------------
+<group_begin>
+99:59.999999 
+ 1:01.000001 
+ 0:00.000000 
+NULL         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a14s1
+
+IV
+------
+<group_begin>
+99:59 
+ 1:01 
+ 0:00 
+NULL  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a14s2
+
+IV
+------------
+<group_begin>
+4:56.000000 
+9:59.000000 
+0:00.000000 
+NULL        
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a14s3
+
+IV
+---------------------
+<group_begin>
+1234567890123:59.999 
+            1:01.001 
+            0:00.000 
+NULL                 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a14s4
+
+IV
+-------------
+<group_begin>
+ 1:01.000001 
+99:00.000000 
+99:59.999999 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a14s5
+
+IV
+------
+<group_begin>
+ 1:01 
+33:44 
+99:59 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a14s6
+
+IV
+------------
+<group_begin>
+9:01.123456 
+9:01.123456 
+9:01.123456 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a14s7
+
+IV
+---------------------
+<group_begin>
+            0:00.000 
+            1:01.001 
+1234567890123:59.999 
+9876543210987:59.999 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a14s8
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a14s9
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a14s10
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a14s11
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

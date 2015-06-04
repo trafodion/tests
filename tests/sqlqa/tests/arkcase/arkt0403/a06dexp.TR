@@ -1,0 +1,33 @@
+<section_begin>  a06ds0
+
+D_TO_MI
+---------
+ 1 00:00 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06ds1
+
+D_TO_MI
+---------
+<group_begin>
+ 0 12:10 
+16 13:15 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06ds2
+
+ID2M
+---------
+<group_begin>
+ 0 11:50 
+-15 13:15
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

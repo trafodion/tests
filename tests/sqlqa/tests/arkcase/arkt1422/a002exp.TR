@@ -1,0 +1,201 @@
+<section_begin>  a002s0
+
+D_T_M_E                    D_N        M_N        D_OF_Y      W_K    Q_R    YEAR_D      MONTH_D DAY_D  HOUR_D MINUTE_D SECOND_D   
+-------------------------- ---------- ---------- ----------- ------ ------ ----------- ------- ------ ------ -------- -----------
+<group_begin>
+1901-10-10 23:15:00.300000 Wednesday  October              1     53      1        1945       8     31     12       59           0
+1999-12-31 23:59:59.999999 Monday     January            365      1      2           1       7     28     12       59          59
+0001-12-13 00:00:00.000000 Wednesday  October              1     39      4        1945      10     29      0        0          40
+1901-05-10 15:19:59.300000 Friday     January              1     14      3        2106       4     31     12       59           1
+1990-10-05 15:19:59.900000 Saturday   January              1     53      3        2106       8     31     12       59           1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a002s1
+
+(EXPR)
+---------
+<group_begin>
+December 
+December 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a002s2
+
+(EXPR)
+---------
+<group_begin>
+December 
+October  
+May      
+December 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a002s3
+
+D_T_M_E                    (EXPR)   
+-------------------------- ---------
+<group_begin>
+1901-10-10 23:15:00.300000 October  
+1999-12-31 23:59:59.999999 December 
+0001-12-13 00:00:00.000000 December 
+1901-05-10 15:19:59.300000 May      
+1990-10-05 15:19:59.900000 October  
+1990-10-05 15:19:59.300000 October  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a002s4
+
+(EXPR)
+---------
+<group_begin>
+October  
+December 
+December 
+October  
+May      
+December 
+October  
+December 
+October  
+May      
+October  
+October  
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a002s6
+
+M_N        M_N       
+---------- ----------
+<group_begin>
+October    October   
+October    October   
+January    January   
+January    January   
+January    January   
+January    January   
+October    October   
+October    October   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a002s7
+
+M_N        M_N       
+---------- ----------
+<group_begin>
+October    October   
+October    October   
+January    January   
+January    January   
+January    January   
+January    January   
+October    October   
+October    October   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a002s8
+
+M_N        M_N       
+---------- ----------
+<group_begin>
+October    October   
+October    October   
+January    January   
+January    January   
+January    January   
+January    January   
+October    October   
+October    October   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+January    January   
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a002s10
+
+M_N
+----------
+<group_begin>
+January   
+January   
+January   
+January   
+October   
+October   
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a002s11
+
+D_N        M_N        W_K    Q_R    (EXPR)         
+---------- ---------- ------ ------ ---------------
+<group_begin>
+Wednesday  October        53      1  With the year.
+Monday     January         1      2 Last month.    
+Wednesday  October        39      4 Last month.    
+Friday     January        14      3  With the year.
+Saturday   January        53      3  With the year.
+Saturday   January        53      3  With the year.
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

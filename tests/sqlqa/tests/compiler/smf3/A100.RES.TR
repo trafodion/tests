@@ -1,0 +1,760 @@
+<section_begin>  ds9
+
+I_ITEM_ID        TOTAL_SALES         
+---------------- --------------------
+<group_begin>
+AAAAAAAAIKOCAAAA                 0.00
+AAAAAAAAMHNAAAAA                 0.00
+AAAAAAAAKNDAAAAA                 3.90
+AAAAAAAAMMPBAAAA                 6.24
+AAAAAAAACJFBAAAA                11.43
+AAAAAAAACGEBAAAA                15.60
+AAAAAAAAMKBDAAAA                17.84
+AAAAAAAAANKAAAAA                18.24
+AAAAAAAAAIIBAAAA                21.45
+AAAAAAAAGKFEAAAA                29.12
+AAAAAAAADBKCAAAA                29.92
+AAAAAAAAGBEAAAAA                31.08
+AAAAAAAAGGBAAAAA                31.44
+AAAAAAAAMLKBAAAA                35.70
+AAAAAAAAIBDBAAAA                37.10
+AAAAAAAAMNBCAAAA                39.05
+AAAAAAAAELDCAAAA                44.25
+AAAAAAAABGFEAAAA                51.47
+AAAAAAAAGOCAAAAA                56.20
+AAAAAAAAMPOCAAAA                56.43
+AAAAAAAADKFEAAAA                58.14
+AAAAAAAAOHHDAAAA                62.40
+AAAAAAAAGLDCAAAA                70.53
+AAAAAAAAFMDCAAAA                75.21
+AAAAAAAAJINBAAAA                82.95
+AAAAAAAAKGABAAAA                97.68
+AAAAAAAAGNECAAAA                99.64
+AAAAAAAAGEICAAAA               104.16
+AAAAAAAAIFICAAAA               114.30
+AAAAAAAACHGBAAAA               118.32
+AAAAAAAACLJDAAAA               122.56
+AAAAAAAACNMCAAAA               122.64
+AAAAAAAAPMBDAAAA               122.82
+AAAAAAAAEGCEAAAA               124.80
+AAAAAAAAIBCAAAAA               132.06
+AAAAAAAAONHBAAAA               133.38
+AAAAAAAAKKGCAAAA               133.63
+AAAAAAAAINIAAAAA               134.19
+AAAAAAAAIKAEAAAA               140.98
+AAAAAAAAABNCAAAA               142.69
+AAAAAAAABDMDAAAA               146.94
+AAAAAAAAKOGBAAAA               148.00
+AAAAAAAAOCLBAAAA               148.68
+AAAAAAAAEIHAAAAA               151.35
+AAAAAAAAJEDDAAAA               164.00
+AAAAAAAAOKCAAAAA               169.28
+AAAAAAAAEBLBAAAA               172.02
+AAAAAAAAALBEAAAA               179.20
+AAAAAAAAKOBAAAAA               181.10
+AAAAAAAAAFOAAAAA               194.94
+AAAAAAAAIHOAAAAA               202.07
+AAAAAAAAAENCAAAA               209.25
+AAAAAAAAGCNBAAAA               224.12
+AAAAAAAAPPICAAAA               224.40
+AAAAAAAACNOCAAAA               231.84
+AAAAAAAAELKAAAAA               246.40
+AAAAAAAAHDECAAAA               252.00
+AAAAAAAAKJDDAAAA               256.96
+AAAAAAAAALJAAAAA               271.20
+AAAAAAAAJLODAAAA               276.75
+AAAAAAAAGHMBAAAA               292.98
+AAAAAAAAMLLAAAAA               319.58
+AAAAAAAACKKAAAAA               346.84
+AAAAAAAAPKCBAAAA               352.26
+AAAAAAAACMHCAAAA               352.80
+AAAAAAAAEGOBAAAA               352.80
+AAAAAAAAMHCBAAAA               356.62
+AAAAAAAAGOHCAAAA               359.52
+AAAAAAAAAPMBAAAA               361.09
+AAAAAAAACAIDAAAA               370.44
+AAAAAAAAKKFDAAAA               376.38
+AAAAAAAAPGKAAAAA               392.10
+AAAAAAAAMKICAAAA               399.75
+AAAAAAAACNEAAAAA               413.53
+AAAAAAAAGJPCAAAA               418.90
+AAAAAAAAIBLDAAAA               436.20
+AAAAAAAACAGAAAAA               439.80
+AAAAAAAAICPAAAAA               454.84
+AAAAAAAAANFEAAAA               465.88
+AAAAAAAACNAEAAAA               477.66
+AAAAAAAAGIIDAAAA               478.05
+AAAAAAAACCLCAAAA               488.69
+AAAAAAAAIBDEAAAA               488.97
+AAAAAAAAEEODAAAA               498.06
+AAAAAAAACONAAAAA               502.32
+AAAAAAAAIIIBAAAA               506.44
+AAAAAAAAAANAAAAA               509.04
+AAAAAAAAELAEAAAA               515.88
+AAAAAAAAFIPAAAAA               516.04
+AAAAAAAAIDMDAAAA               518.05
+AAAAAAAACHEDAAAA               520.26
+AAAAAAAAJDBAAAAA               523.08
+AAAAAAAAIKJBAAAA               532.65
+AAAAAAAAEFEAAAAA               535.68
+AAAAAAAADEIBAAAA               546.70
+AAAAAAAAGLIBAAAA               553.16
+AAAAAAAAOEOAAAAA               555.56
+AAAAAAAAJLGCAAAA               557.44
+AAAAAAAAIDBEAAAA               572.40
+AAAAAAAAGFGCAAAA               578.17
+<group_end>
+
+--- 100 row(s) selected.
+
+<section_end>
+<section_begin>  ds18
+
+I_ITEM_ID        CA_COUNTRY           CA_STATE CA_COUNTY                      AGG1                 AGG2                 AGG3                 AGG4                 AGG5                 AGG6                 AGG7                
+---------------- -------------------- -------- ------------------------------ -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+<group_begin>
+AAAAAAAAACJCAAAA United States        CO       Baca County                                      52                34.58                33.09                 1.72             -1158.89                 1957                    0
+AAAAAAAADDKAAAAA United States        CO       Baca County                                      43                11.80                 0.00                 4.48               -10.32                 1957                    0
+AAAAAAAAECHDAAAA United States        CO       Baca County                                      63                56.96                 0.00                22.21             -1591.38                 1957                    0
+AAAAAAAAHMPDAAAA United States        CO       Baca County                                      43                49.46                 0.00                11.37              -692.73                 1957                    0
+AAAAAAAAAOCBAAAA United States        CO       Clear Creek County                               97               141.95                 0.00               117.81              6402.00                 1978                    0
+AAAAAAAACDODAAAA United States        CO       Clear Creek County                               69                94.13              5676.38                89.42             -3643.64                 1978                    0
+AAAAAAAADJNDAAAA United States        CO       Clear Creek County                               99               107.39                 0.00                46.17             -1504.80                 1978                    0
+AAAAAAAAEGKDAAAA United States        CO       Clear Creek County                               15                94.76                 0.00                50.22               110.10                 1978                    0
+AAAAAAAAFDIAAAAA United States        CO       Clear Creek County                               91               140.72              3725.87                42.21             -7079.22                 1978                    0
+AAAAAAAAFEEDAAAA United States        CO       Clear Creek County                               99                33.35                 0.00                26.34               569.25                 1978                    0
+AAAAAAAAIAKCAAAA United States        CO       Clear Creek County                               54               117.89                 0.00                 7.07             -4631.04                 1978                    0
+AAAAAAAAIKKDAAAA United States        CO       Clear Creek County                               54                19.83                 0.00                17.64               451.98                 1978                    0
+AAAAAAAALGACAAAA United States        CO       Clear Creek County                               17                10.41                 0.00                 1.45               -34.34                 1978                    0
+AAAAAAAALKDEAAAA United States        CO       Clear Creek County                               55               198.37                 0.00                45.62             -2361.70                 1978                    0
+AAAAAAAAOJAAAAAA United States        CO       Clear Creek County                               43                84.61                63.99                13.53             -1231.44                 1978                    0
+AAAAAAAAOLBDAAAA United States        CO       Clear Creek County                               41                44.41                 0.00                19.98              -882.73                 1978                    0
+AAAAAAAAOLKCAAAA United States        CO       Clear Creek County                               50                97.20                 0.00                74.84              1481.50                 1978                    0
+AAAAAAAAAMLAAAAA United States        CO       Denver County                                    69                40.22                 0.00                18.50              -908.73                 1958                    1
+AAAAAAAABCBDAAAA United States        CO       Denver County                                    38                65.32                 0.00                18.28              -654.36                 1958                    1
+AAAAAAAACFPAAAAA United States        CO       Denver County                                    38                76.09                 0.00                 6.08              -742.52                 1958                    1
+AAAAAAAAEOKAAAAA United States        CO       Denver County                                    84               129.07                 0.00                52.91             -2688.84                 1958                    1
+AAAAAAAAGFODAAAA United States        CO       Denver County                                    98                10.48                 0.00                 1.25              -576.24                 1958                    1
+AAAAAAAAGNDAAAAA United States        CO       Denver County                                    87                53.79                 0.00                19.36              -728.19                 1958                    1
+AAAAAAAAIJBBAAAA United States        CO       Denver County                                    60               145.95                 0.00                94.86              -265.80                 1958                    1
+AAAAAAAAKIIAAAAA United States        CO       Denver County                                     1                52.95                 0.00                 2.11               -20.33                 1958                    1
+AAAAAAAAKMECAAAA United States        CO       Denver County                                    72                99.98                 0.00                72.98              2627.28                 1958                    1
+AAAAAAAALDIAAAAA United States        CO       Denver County                                    19               102.24                 0.00                56.23               396.15                 1958                    1
+AAAAAAAALMEEAAAA United States        CO       Denver County                                    67                 3.91                 0.00                 0.35              -129.98                 1958                    1
+AAAAAAAANLEDAAAA United States        CO       Denver County                                    90                22.35                 0.00                 4.02             -1467.00                 1958                    1
+AAAAAAAAAGODAAAA United States        CO       Douglas County                                   50               218.95                 0.00               172.97              4987.00                 1947                    1
+AAAAAAAADPICAAAA United States        CO       Douglas County                                    9                37.22               112.48                27.17              -114.28                 1947                    1
+AAAAAAAAELEAAAAA United States        CO       Douglas County                                   37               148.13                 0.00                 5.92             -1982.09                 1947                    1
+AAAAAAAAFLCEAAAA United States        CO       Douglas County                                   70                88.98                 0.00                51.60               868.00                 1947                    1
+AAAAAAAAGNDDAAAA United States        CO       Douglas County                                   41                34.05                 0.00                 2.38              -465.35                 1947                    1
+AAAAAAAAGOIDAAAA United States        CO       Douglas County                                   82               104.28                 0.00                90.72              4406.68                 1947                    1
+AAAAAAAAIGCEAAAA United States        CO       Douglas County                                   20               131.96               926.28               102.92               -40.88                 1947                    1
+AAAAAAAAJMFCAAAA United States        CO       Douglas County                                    2               233.52                 0.00                70.05               -35.48                 1947                    1
+AAAAAAAAMDICAAAA United States        CO       Douglas County                                   30                72.12                 0.00                59.85               912.30                 1947                    1
+AAAAAAAAMGDCAAAA United States        CO       Douglas County                                    7                50.02                 0.00                44.51               -38.57                 1947                    1
+AAAAAAAAOAJDAAAA United States        CO       Douglas County                                   70                60.34              2022.13                38.01             -1363.43                 1947                    1
+AAAAAAAAONNAAAAA United States        CO       Douglas County                                    4                55.50                 0.00                27.75               -80.40                 1947                    1
+AAAAAAAAPBJAAAAA United States        CO       Douglas County                                    6               193.01                 0.00                71.41              -156.42                 1947                    1
+AAAAAAAAPGNDAAAA United States        CO       Douglas County                                   90               173.83                 0.00                34.76             -3390.30                 1947                    1
+AAAAAAAACEEBAAAA United States        CO       Eagle County                                     83                23.80                 0.00                 2.61             -1194.37                 1956                    2
+AAAAAAAADMKDAAAA United States        CO       Eagle County                                     17               223.82                 0.00               214.86              2322.20                 1956                    2
+AAAAAAAAEPHDAAAA United States        CO       Eagle County                                     97                44.40                 0.00                33.30               153.26                 1956                    2
+AAAAAAAAFPEEAAAA United States        CO       Eagle County                                     16               107.53                 0.00                81.72               703.84                 1956                    2
+AAAAAAAAGMODAAAA United States        CO       Eagle County                                     64               169.41                 0.00                 3.38             -4245.76                 1956                    2
+AAAAAAAAIFKCAAAA United States        CO       Eagle County                                     62               230.14                 0.00                46.02             -1967.26                 1956                    2
+AAAAAAAAILADAAAA United States        CO       Eagle County                                     61                38.14                 0.00                16.40                10.37                 1956                    2
+AAAAAAAAMDBEAAAA United States        CO       Eagle County                                     53               143.86                 0.00                 5.75             -2498.42                 1956                    2
+AAAAAAAAMJDBAAAA United States        CO       Eagle County                                    100                65.60              2124.62                51.82              -272.62                 1956                    2
+AAAAAAAAOHOCAAAA United States        CO       Eagle County                                     40               164.24               492.72                41.06             -1553.92                 1956                    2
+AAAAAAAAPDEAAAAA United States        CO       Eagle County                                     48                36.25                 0.00                 6.16             -1300.80                 1956                    2
+AAAAAAAAPHNCAAAA United States        CO       Eagle County                                     76               151.32                 0.00                21.18             -3919.32                 1956                    2
+AAAAAAAAPLLDAAAA United States        CO       Eagle County                                     74                31.40                 0.00                12.24              -555.74                 1956                    2
+AAAAAAAAACMDAAAA United States        CO       Elbert County                                     5                 5.16                 0.00                 3.45                 4.65                 1927                    1
+AAAAAAAAADLAAAAA United States        CO       Elbert County                                    99                22.84                 0.00                21.69              1109.79                 1927                    1
+AAAAAAAAAKFEAAAA United States        CO       Elbert County                                    40               139.99               206.06               128.79              1612.34                 1924                    3
+AAAAAAAABCDBAAAA United States        CO       Elbert County                                    72                50.15                 0.00                46.63               884.16                 1927                    1
+AAAAAAAABGJAAAAA United States        CO       Elbert County                                    33               118.09                 0.00                89.74               380.49                 1924                    3
+AAAAAAAADGNDAAAA United States        CO       Elbert County                                    59                93.20                 0.00                71.76              2331.09                 1927                    1
+AAAAAAAAEGOBAAAA United States        CO       Elbert County                                    22               144.11                 0.00                28.82              -833.80                 1927                    1
+AAAAAAAAEMCBAAAA United States        CO       Elbert County                                    43                 8.02                 0.00                 4.09              -119.11                 1927                    1
+AAAAAAAAGOGAAAAA United States        CO       Elbert County                                    58                18.70                 0.00                 8.78              -114.26                 1927                    1
+AAAAAAAAHAIBAAAA United States        CO       Elbert County                                    76                 7.61                 0.00                 4.26                99.56                 1927                    1
+AAAAAAAAHJECAAAA United States        CO       Elbert County                                    80                61.68                 0.00                28.98             -1793.60                 1927                    1
+AAAAAAAAIPIAAAAA United States        CO       Elbert County                                    96                31.62                 0.00                12.01             -1182.72                 1924                    3
+AAAAAAAAKECAAAAA United States        CO       Elbert County                                    29                26.75                 0.00                 5.88              -343.36                 1924                    3
+AAAAAAAAKKLDAAAA United States        CO       Elbert County                                    20                65.42                 0.00                58.22               496.80                 1927                    1
+AAAAAAAALBEAAAAA United States        CO       Elbert County                                    20                 9.98               122.04                 6.78              -157.04                 1924                    3
+AAAAAAAAMLFDAAAA United States        CO       Elbert County                                    42               132.79                 0.00               111.54              2656.50                 1927                    1
+AAAAAAAAOBGEAAAA United States        CO       Elbert County                                    89               284.28                 0.00               102.34               323.07                 1927                    1
+AAAAAAAAOMFBAAAA United States        CO       Elbert County                                    79               124.53               363.99                92.15              3351.38                 1924                    3
+AAAAAAAAOPCDAAAA United States        CO       Elbert County                                    99                32.56                 0.00                 4.55             -2619.54                 1924                    3
+AAAAAAAAALKCAAAA United States        CO       Huerfano County                                  18                93.27               736.79                53.16              -494.33                 1984                    5
+AAAAAAAACCDBAAAA United States        CO       Huerfano County                                  76               153.44                 0.00               116.61              3585.68                 1984                    5
+AAAAAAAACHGBAAAA United States        CO       Huerfano County                                  66                97.59              1468.52                92.71              -120.80                 1984                    5
+AAAAAAAACOEAAAAA United States        CO       Huerfano County                                   8                68.60                 0.00                66.54                33.36                 1984                    5
+AAAAAAAADOFAAAAA United States        CO       Huerfano County                                  45                99.53               762.23                22.89             -1281.98                 1984                    5
+AAAAAAAAHCJBAAAA United States        CO       Huerfano County                                  92               110.37              2662.37                50.77             -5626.61                 1984                    5
+AAAAAAAAIABCAAAA United States        CO       Huerfano County                                  21                97.55                 0.00                94.62               656.67                 1984                    5
+AAAAAAAAANPDAAAA United States        CO       Jefferson County                                 81                10.20               112.10                 3.46              -132.35                 1939                    6
+AAAAAAAACCLBAAAA United States        CO       Jefferson County                                 44               150.24                 0.00                18.02             -1440.56                 1939                    6
+AAAAAAAADGHDAAAA United States        CO       Jefferson County                                 68               159.16              1916.37                36.60             -4324.93                 1939                    6
+AAAAAAAAKFGBAAAA United States        CO       Jefferson County                                 26                97.84                 0.00                39.13              -867.10                 1939                    6
+AAAAAAAAKGGAAAAA United States        CO       Jefferson County                                 54               114.36                 0.00                48.03             -1881.36                 1939                    6
+AAAAAAAAMLIBAAAA United States        CO       Jefferson County                                 95                99.02                 0.00                 5.94             -2856.65                 1939                    6
+AAAAAAAANFOCAAAA United States        CO       Jefferson County                                 94                40.46              1373.47                33.98               -17.05                 1939                    6
+AAAAAAAANLKAAAAA United States        CO       Jefferson County                                 45                96.34                 0.00                79.96              2033.10                 1939                    6
+AAAAAAAACEBAAAAA United States        CO       Kit Carson County                                69                12.85                 0.00                11.82               287.73                 1972                    2
+AAAAAAAADFLAAAAA United States        CO       Kit Carson County                                58               184.27                 0.00               162.15              5601.06                 1972                    2
+AAAAAAAADNJDAAAA United States        CO       Kit Carson County                                86               238.08                 0.00                30.95             -5006.92                 1972                    2
+AAAAAAAAGDLDAAAA United States        CO       Kit Carson County                                 6               161.87                 0.00               147.30               434.16                 1972                    2
+AAAAAAAAICMBAAAA United States        CO       Kit Carson County                                78                49.89                 0.00                47.89              2425.02                 1972                    2
+AAAAAAAAJJEDAAAA United States        CO       Kit Carson County                                12               269.21                 0.00                43.07              -624.72                 1972                    2
+AAAAAAAAKIJBAAAA United States        CO       Kit Carson County                                23               247.03                 0.00               242.08              3574.20                 1972                    2
+AAAAAAAAKOFDAAAA United States        CO       Kit Carson County                                 1               197.42                 0.00                96.73                14.47                 1972                    2
+AAAAAAAAMANBAAAA United States        CO       Kit Carson County                                37                55.87                 0.00                12.29             -1135.53                 1972                    2
+AAAAAAAANIEDAAAA United States        CO       Kit Carson County                                37                48.79                 0.00                16.58              -336.70                 1972                    2
+AAAAAAAAPIJCAAAA United States        CO       Kit Carson County                                98                95.75                 0.00                46.91               902.58                 1972                    2
+AAAAAAAAPNHCAAAA United States        CO       Kit Carson County                                47                 9.95                 0.00                 2.68              -170.14                 1972                    2
+AAAAAAAABKFDAAAA United States        CO       La Plata County                                  90                36.61                 0.00                33.31               899.10                 1954                    5
+AAAAAAAAGHLCAAAA United States        CO       La Plata County                                  18                42.41                 0.00                35.20               -60.48                 1954                    5
+AAAAAAAAKBOBAAAA United States        CO       La Plata County                                  21               123.99               431.17                85.55               390.14                 1954                    5
+AAAAAAAALFLBAAAA United States        CO       La Plata County                                  72               178.62              4853.27                91.09             -2988.47                 1954                    5
+AAAAAAAAMDKDAAAA United States        CO       La Plata County                                  37                69.28                 0.00                24.24             -1371.59                 1954                    5
+AAAAAAAANHACAAAA United States        CO       La Plata County                                  92               180.96                 0.00                85.05              -179.40                 1954                    5
+AAAAAAAAEFLCAAAA United States        CO       Las Animas County                                90               103.96                 0.00                49.90              -594.00                 1927                    4
+AAAAAAAAEHADAAAA United States        CO       Las Animas County                                70                80.21                 0.00                57.75              1731.80                 1927                    4
+AAAAAAAAKKBBAAAA United States        CO       Las Animas County                                37               108.40                 0.00                 4.33             -1671.29                 1927                    4
+AAAAAAAAMCACAAAA United States        CO       Las Animas County                                80                91.09              6233.13                85.62             -5949.13                 1927                    4
+AAAAAAAAOFOCAAAA United States        CO       Las Animas County                                57                64.00                 0.00                 3.84             -1009.47                 1927                    4
+AAAAAAAAAAODAAAA United States        CO       Rio Blanco County                                25               248.64                 0.00               146.69              1190.75                 1948                    4
+AAAAAAAAABAAAAAA United States        CO       Rio Blanco County                                24                27.75                 0.00                 9.71              -317.52                 1948                    4
+AAAAAAAAAEIBAAAA United States        CO       Rio Blanco County                                76                 9.73                 0.00                 3.50               -31.16                 1948                    4
+AAAAAAAAANCCAAAA United States        CO       Rio Blanco County                                84                49.99                 0.00                22.49               -82.32                 1925                    2
+AAAAAAAAAOJCAAAA United States        CO       Rio Blanco County                                35                 5.22                 0.00                 1.09              -104.65                 1948                    4
+AAAAAAAACFBDAAAA United States        CO       Rio Blanco County                                18               247.17                 0.00                54.37              -539.82                 1948                    4
+AAAAAAAAFABEAAAA United States        CO       Rio Blanco County                                67               133.05                 0.00                38.58             -2480.34                 1948                    4
+AAAAAAAAFBNAAAAA United States        CO       Rio Blanco County                                68               195.99                 0.00               156.79              5918.72                 1948                    4
+AAAAAAAAGBLCAAAA United States        CO       Rio Blanco County                                62                 1.21                 0.00                 0.22               -52.08                 1948                    4
+AAAAAAAAGHIBAAAA United States        CO       Rio Blanco County                                68                41.11                 0.00                29.18               799.68                 1948                    4
+AAAAAAAAGICAAAAA United States        CO       Rio Blanco County                                41                21.35                 0.00                10.46              -101.68                 1925                    2
+AAAAAAAAHJGAAAAA United States        CO       Rio Blanco County                                46                70.05                 0.00                28.72               118.68                 1925                    2
+AAAAAAAAHLNAAAAA United States        CO       Rio Blanco County                                68               133.59                 0.00                44.08             -1434.12                 1925                    2
+AAAAAAAAIEODAAAA United States        CO       Rio Blanco County                                65                82.15                 0.00                 2.46             -2999.75                 1925                    2
+AAAAAAAAILLBAAAA United States        CO       Rio Blanco County                                60                33.52                 0.00                19.10              -151.80                 1925                    2
+AAAAAAAAJEECAAAA United States        CO       Rio Blanco County                                10               155.36                 0.00                10.87              -779.10                 1948                    4
+AAAAAAAALHJBAAAA United States        CO       Rio Blanco County                                95               239.78                 0.00               220.59             12519.10                 1948                    4
+AAAAAAAAMEEDAAAA United States        CO       Rio Blanco County                                19                68.85                 0.00                44.75              -317.87                 1925                    2
+AAAAAAAAMEHDAAAA United States        CO       Rio Blanco County                                93               268.25                 0.00               112.66              1535.43                 1948                    4
+AAAAAAAAMLDAAAAA United States        CO       Rio Blanco County                                98                75.38                 0.00                74.62              3253.60                 1925                    2
+AAAAAAAANKJCAAAA United States        CO       Rio Blanco County                                16                98.09                 0.00                89.26              -141.28                 1948                    4
+AAAAAAAAAGFCAAAA United States        CO       Routt County                                     70               187.00                 0.00                16.83             -5366.90                 1951                    2
+AAAAAAAADABDAAAA United States        CO       Routt County                                     54               108.39                 0.00                50.94             -2168.10                 1951                    2
+AAAAAAAAFCIBAAAA United States        CO       Routt County                                     44               184.34                 0.00                62.67              -980.32                 1951                    2
+AAAAAAAAFMEEAAAA United States        CO       Routt County                                     23               187.92                 0.00                62.01               -14.49                 1951                    2
+AAAAAAAAGOFDAAAA United States        CO       Routt County                                     52               109.18               126.96                 4.36             -3539.72                 1951                    2
+AAAAAAAAHFICAAAA United States        CO       Routt County                                     98               122.14              6010.68                65.95             -4279.02                 1951                    2
+AAAAAAAAHLMBAAAA United States        CO       Routt County                                     92                32.35                 0.00                21.99              -357.88                 1951                    2
+AAAAAAAAKEBEAAAA United States        CO       Routt County                                     18               147.36                 0.00                48.62              -230.04                 1951                    2
+AAAAAAAAOLPAAAAA United States        CO       Routt County                                     19                98.19                 0.00                42.22              -848.92                 1951                    2
+AAAAAAAAPMDBAAAA United States        CO       Routt County                                     64               121.41              3566.24               109.26             -1554.72                 1951                    2
+AAAAAAAACIAEAAAA United States        IN       Bartholomew County                               29                65.53                 0.00                39.97                 7.25                 1926                    1
+AAAAAAAAGCLAAAAA United States        IN       Bartholomew County                               95                40.01                 0.00                28.00                56.05                 1926                    1
+AAAAAAAAHBBEAAAA United States        IN       Bartholomew County                                2               115.44                 0.00                61.18               -76.68                 1926                    1
+AAAAAAAAJPNAAAAA United States        IN       Bartholomew County                               19                61.22                 0.00                27.54                90.82                 1926                    1
+AAAAAAAAKEJDAAAA United States        IN       Bartholomew County                               29                76.77                 0.00                75.23              1009.78                 1926                    1
+AAAAAAAAMJEDAAAA United States        IN       Bartholomew County                               90                96.65                 0.00                14.49             -6005.70                 1926                    1
+AAAAAAAAMJEEAAAA United States        IN       Bartholomew County                               74               254.71                 0.00                99.33                16.28                 1926                    1
+AAAAAAAAPAEAAAAA United States        IN       Bartholomew County                               59               150.06                 0.00               127.55              3501.06                 1926                    1
+AAAAAAAAAHKCAAAA United States        IN       Blackford County                                 50               133.58                 0.00                13.35             -3064.00                 1932                    2
+AAAAAAAACKNDAAAA United States        IN       Blackford County                                 86                 7.73                 0.00                 2.39               -98.04                 1932                    2
+AAAAAAAAEMABAAAA United States        IN       Blackford County                                 74               255.05                 0.00               252.49             12130.82                 1932                    2
+AAAAAAAAFOIBAAAA United States        IN       Blackford County                                 48               232.32                 0.00                85.95              -282.24                 1932                    2
+AAAAAAAAGCBCAAAA United States        IN       Blackford County                                 49               125.56                 0.00               111.74              1427.37                 1932                    2
+AAAAAAAAGLJDAAAA United States        IN       Blackford County                                 19               109.56                49.94                32.86              -199.47                 1932                    2
+AAAAAAAAMACDAAAA United States        IN       Blackford County                                  5                27.17                 0.00                26.62                52.70                 1932                    2
+AAAAAAAANFNDAAAA United States        IN       Blackford County                                 57                99.53                 0.00                 0.99             -2037.18                 1932                    2
+AAAAAAAAADFCAAAA United States        IN       Clinton County                                    5                97.97                19.59                19.59              -383.79                 1947                    0
+AAAAAAAABOPBAAAA United States        IN       Clinton County                                   13                97.92                 0.00                77.35               405.08                 1947                    0
+AAAAAAAAEKDCAAAA United States        IN       Clinton County                                   89                71.55              3048.71                40.78             -3581.82                 1947                    0
+AAAAAAAAEMMAAAAA United States        IN       Clinton County                                   15               147.64                 1.77                 2.95             -1117.02                 1947                    0
+AAAAAAAAEPDAAAAA United States        IN       Clinton County                                   92               100.42              1075.34                12.05             -3185.82                 1947                    0
+AAAAAAAAFIOBAAAA United States        IN       Clinton County                                   85                29.57                 0.00                 7.39             -1616.70                 1947                    0
+AAAAAAAALDODAAAA United States        IN       Clinton County                                   64                80.08                 0.00                55.25             -1254.40                 1947                    0
+AAAAAAAAMEICAAAA United States        IN       Clinton County                                    6                49.80                 0.00                14.94               -46.20                 1947                    0
+AAAAAAAAMIPDAAAA United States        IN       Clinton County                                   54                89.07                 0.00                12.46             -1744.20                 1947                    0
+AAAAAAAAMMAEAAAA United States        IN       Clinton County                                   38                58.45                 0.00                23.96               114.38                 1947                    0
+AAAAAAAANFHDAAAA United States        IN       Clinton County                                   53               239.50              1726.31                38.32             -4485.49                 1947                    0
+AAAAAAAANNIAAAAA United States        IN       Clinton County                                   62                 7.46                 0.00                 1.64              -159.96                 1947                    0
+AAAAAAAAOAMDAAAA United States        IN       Clinton County                                   48                51.10                 0.00                19.92              -847.68                 1947                    0
+AAAAAAAABLBAAAAA United States        IN       Daviess County                                   66               207.37                 0.00               194.92              7232.28                 1948                    3
+AAAAAAAAGCDCAAAA United States        IN       Daviess County                                   29               201.75                 0.00               133.15              1891.38                 1948                    3
+AAAAAAAAKJBDAAAA United States        IN       Daviess County                                   28               219.28                 0.00                17.54             -1843.52                 1948                    3
+AAAAAAAALBCCAAAA United States        IN       Daviess County                                   45                47.55                 0.00                35.18               573.75                 1948                    3
+AAAAAAAAFHGBAAAA United States        IN       Franklin County                                  38                48.28                 0.00                 9.17              -699.96                 1943                    1
+AAAAAAAAGALAAAAA United States        IN       Franklin County                                  70                48.12              1919.98                48.12                50.52                 1943                    1
+AAAAAAAAKGPBAAAA United States        IN       Franklin County                                  57                73.37                 0.00                38.88               625.86                 1943                    1
+AAAAAAAANBGCAAAA United States        IN       Franklin County                                  29                45.82                 0.00                30.69               117.45                 1943                    1
+AAAAAAAAPJGBAAAA United States        IN       Franklin County                                  82                20.62                 0.00                 6.80              -431.32                 1943                    1
+AAAAAAAABGIBAAAA United States        IN       Hamilton County                                  60               209.08                 0.00               188.17              5400.60                 1931                    6
+AAAAAAAAEIEDAAAA United States        IN       Hamilton County                                  73                90.54                 0.00                77.86              3244.85                 1931                    6
+AAAAAAAAFLPDAAAA United States        IN       Hamilton County                                  94                63.02                 0.00                16.38             -3749.66                 1931                    6
+AAAAAAAAGOBBAAAA United States        IN       Hamilton County                                  10               149.29                 0.00                52.25              -126.60                 1931                    6
+AAAAAAAAIKCCAAAA United States        IN       Hamilton County                                  84                86.11                 0.00                76.63              3484.32                 1931                    6
+AAAAAAAAKDCBAAAA United States        IN       Hamilton County                                  77               265.18                 0.00               238.66             10978.66                 1931                    6
+AAAAAAAANCHAAAAA United States        IN       Hamilton County                                  52                82.81              1822.22                76.18              -790.54                 1931                    6
+AAAAAAAANGCBAAAA United States        IN       Hamilton County                                  62               148.12                 0.00                60.72             -1365.86                 1931                    6
+AAAAAAAAOKPCAAAA United States        IN       Hamilton County                                  45               151.67                 0.00                63.70              -479.25                 1931                    6
+AAAAAAAAOOHCAAAA United States        IN       Hamilton County                                  53                42.68                 0.00                34.14               971.49                 1931                    6
+AAAAAAAAAJIDAAAA United States        IN       Hancock County                                   80               198.99                 0.00               119.39              2890.40                 1985                    5
+AAAAAAAAAKKCAAAA United States        IN       Hancock County                                   11                38.97               289.76                26.88              -309.34                 1956                    3
+AAAAAAAACHNAAAAA United States        IN       Hancock County                                   26                44.43                 0.00                35.54               438.62                 1985                    5
+AAAAAAAACLFEAAAA United States        IN       Hancock County                                   71               156.63                 0.00                23.49             -3044.48                 1985                    5
+AAAAAAAACODAAAAA United States        IN       Hancock County                                   13                23.87                 0.00                10.98               -23.27                 1956                    3
+AAAAAAAAEIIAAAAA United States        IN       Hancock County                                   88                48.77               970.78                38.04               313.14                 1956                    3
+AAAAAAAAEMFCAAAA United States        IN       Hancock County                                   68               292.00                 0.00               277.40             12086.32                 1985                    5
+AAAAAAAAEMLCAAAA United States        IN       Hancock County                                   11                79.75                 0.00                78.95                85.14                 1985                    5
+<group_end>
+
+--- 200 row(s) selected.
+
+<section_end>
+<section_begin>  ds21
+
+W_WAREHOUSE_NAME     I_ITEM_ID        INV_BEFORE           INV_AFTER           
+-------------------- ---------------- -------------------- --------------------
+<group_begin>
+Available, final     AAAAAAAAAAGEAAAA                 1439                 1271
+Available, final     AAAAAAAAAAKDAAAA                 2555                 2155
+Available, final     AAAAAAAAABECAAAA                 2951                 2300
+Available, final     AAAAAAAAABFCAAAA                 2637                 2797
+Available, final     AAAAAAAAACEBAAAA                 2270                 1504
+Available, final     AAAAAAAAAEICAAAA                 1689                 1406
+Available, final     AAAAAAAAAELBAAAA                 1909                 1630
+Available, final     AAAAAAAAAEMBAAAA                 2009                 2217
+Available, final     AAAAAAAAAEPBAAAA                 2493                 1958
+Available, final     AAAAAAAAAFDCAAAA                 3311                 2359
+Available, final     AAAAAAAAAFGAAAAA                 1819                 1658
+Available, final     AAAAAAAAAFIAAAAA                 2199                 2242
+Available, final     AAAAAAAAAFLDAAAA                 1590                 1243
+Available, final     AAAAAAAAAHMAAAAA                 2976                 2194
+Available, final     AAAAAAAAAHNDAAAA                 1911                 2373
+Available, final     AAAAAAAAAIEBAAAA                 2705                 2212
+Available, final     AAAAAAAAAIOAAAAA                 1686                 2403
+Available, final     AAAAAAAAAIPDAAAA                 2359                 2213
+Available, final     AAAAAAAAAJICAAAA                 2319                 2395
+Available, final     AAAAAAAAAJLDAAAA                 2082                 1311
+Available, final     AAAAAAAAAJOCAAAA                 2316                 1762
+Available, final     AAAAAAAAAKBCAAAA                 2488                 2095
+Available, final     AAAAAAAAAKFCAAAA                 2493                 1927
+Available, final     AAAAAAAAAKMBAAAA                 2437                 2129
+Available, final     AAAAAAAAALGAAAAA                 2707                 2025
+Available, final     AAAAAAAAAMLAAAAA                 2132                 3092
+Available, final     AAAAAAAAAMMBAAAA                 2973                 2454
+Available, final     AAAAAAAAAOCBAAAA                 2418                 2841
+Available, final     AAAAAAAAAOECAAAA                 2019                 2361
+Available, final     AAAAAAAAAPDBAAAA                 1993                 2700
+Available, final     AAAAAAAAAPDCAAAA                 1414                 1911
+Available, final     AAAAAAAAAPJCAAAA                 2766                 2345
+Available, final     AAAAAAAABBCAAAAA                 1695                 2055
+Available, final     AAAAAAAABCAEAAAA                 2659                 2383
+Available, final     AAAAAAAABCNDAAAA                 1785                 2410
+Available, final     AAAAAAAABDADAAAA                 2529                 3189
+Available, final     AAAAAAAABDIBAAAA                 2480                 1910
+Available, final     AAAAAAAABDPDAAAA                 1620                 1915
+Available, final     AAAAAAAABEKBAAAA                 1689                 2225
+Available, final     AAAAAAAABFEAAAAA                 3035                 2096
+Available, final     AAAAAAAABFGBAAAA                 2781                 1684
+Available, final     AAAAAAAABFNDAAAA                 3482                 2250
+Available, final     AAAAAAAABIEAAAAA                 1610                 1478
+Available, final     AAAAAAAABIFCAAAA                 2057                 1396
+Available, final     AAAAAAAABIJBAAAA                 1738                 1218
+Available, final     AAAAAAAABIMBAAAA                 2530                 2732
+Available, final     AAAAAAAABJFEAAAA                 3160                 2730
+Available, final     AAAAAAAABKGCAAAA                 2270                 1770
+Available, final     AAAAAAAABLDEAAAA                 3283                 2476
+Available, final     AAAAAAAABLPBAAAA                 2006                 1912
+Available, final     AAAAAAAABMOBAAAA                 3453                 2295
+Available, final     AAAAAAAABNFDAAAA                 2569                 1920
+Available, final     AAAAAAAABNIDAAAA                 3028                 2237
+Available, final     AAAAAAAABNOAAAAA                 2094                 1723
+Available, final     AAAAAAAACAADAAAA                 2379                 2766
+Available, final     AAAAAAAACAKCAAAA                 2260                 1786
+Available, final     AAAAAAAACBAEAAAA                 2785                 2617
+Available, final     AAAAAAAACBDCAAAA                 3074                 2653
+Available, final     AAAAAAAACBHDAAAA                 2851                 2844
+Available, final     AAAAAAAACCPBAAAA                 2876                 1907
+Available, final     AAAAAAAACDJDAAAA                 3073                 3138
+Available, final     AAAAAAAACDKBAAAA                 2589                 1905
+Available, final     AAAAAAAACEOAAAAA                 1893                 2600
+Available, final     AAAAAAAACFHDAAAA                 1957                 2340
+Available, final     AAAAAAAACFJDAAAA                 2234                 2444
+Available, final     AAAAAAAACFPAAAAA                 2498                 1729
+Available, final     AAAAAAAACHEAAAAA                 2365                 1737
+Available, final     AAAAAAAACHEBAAAA                 2322                 2419
+Available, final     AAAAAAAACHPCAAAA                 2044                 2279
+Available, final     AAAAAAAACIJDAAAA                 2078                 2055
+Available, final     AAAAAAAACJFBAAAA                 3107                 1986
+Available, final     AAAAAAAACJGAAAAA                 2619                 2484
+Available, final     AAAAAAAACKFCAAAA                 2328                 2688
+Available, final     AAAAAAAACKFDAAAA                 1542                 2066
+Available, final     AAAAAAAACKLAAAAA                 1621                 1585
+Available, final     AAAAAAAACKNDAAAA                 2645                 2180
+Available, final     AAAAAAAACLAEAAAA                 3196                 2073
+Available, final     AAAAAAAACMFEAAAA                 3309                 3022
+Available, final     AAAAAAAACMGAAAAA                 2524                 1953
+Available, final     AAAAAAAACMGCAAAA                 2577                 2454
+Available, final     AAAAAAAACMODAAAA                 2818                 2089
+Available, final     AAAAAAAACNGBAAAA                 2556                 1808
+Available, final     AAAAAAAACOADAAAA                 1556                 1899
+Available, final     AAAAAAAACOCBAAAA                 1385                 1636
+Available, final     AAAAAAAADAKDAAAA                 2214                 1528
+Available, final     AAAAAAAADBADAAAA                 2964                 2459
+Available, final     AAAAAAAADBIBAAAA                 2808                 2285
+Available, final     AAAAAAAADBMAAAAA                 2199                 2262
+Available, final     AAAAAAAADDLCAAAA                 2516                 2231
+Available, final     AAAAAAAADEECAAAA                 2250                 2764
+Available, final     AAAAAAAADGNAAAAA                 3550                 2199
+Available, final     AAAAAAAADGPBAAAA                 2185                 1821
+Available, final     AAAAAAAADIBBAAAA                 2355                 1708
+Available, final     AAAAAAAADJDEAAAA                 1807                 2339
+Available, final     AAAAAAAADJMBAAAA                 2758                 2286
+Available, final     AAAAAAAADKHCAAAA                 1226                 1195
+Available, final     AAAAAAAADKMAAAAA                 1998                 2424
+Available, final     AAAAAAAADPKAAAAA                 2352                 2638
+Available, final     AAAAAAAAEACEAAAA                 2131                 2655
+Available, final     AAAAAAAAEBFDAAAA                 1085                  981
+<group_end>
+
+--- 100 row(s) selected.
+
+<section_end>
+<section_begin>  ds26
+
+I_ITEM_ID        AGG1                 AGG2                 AGG3                 AGG4                
+---------------- -------------------- -------------------- -------------------- --------------------
+<group_begin>
+AAAAAAAAAAABAAAA                   51               116.91                 0.00                61.96
+AAAAAAAAAAACAAAA                   21                25.67                 0.00                12.57
+AAAAAAAAAABAAAAA                   90               139.00                 0.00               133.44
+AAAAAAAAAABBAAAA                   10               167.40                 0.00               152.33
+AAAAAAAAAABEAAAA                   95                57.99                 0.00                33.05
+AAAAAAAAAADBAAAA                   96               158.29              1498.07                53.81
+AAAAAAAAAAEAAAAA                   28               149.66                 0.00               125.71
+AAAAAAAAAAEBAAAA                   42                39.24                 0.00                 9.02
+AAAAAAAAAAEDAAAA                   47               143.08              3953.79               116.74
+AAAAAAAAAAFCAAAA                   55                 8.29                 0.00                 2.40
+AAAAAAAAAAGEAAAA                   42               126.40                 0.00                21.48
+AAAAAAAAAAHAAAAA                   59               269.66                 0.00               264.26
+AAAAAAAAAAHBAAAA                   30                17.42               293.04                14.80
+AAAAAAAAAAIDAAAA                   76               112.54                 0.00                49.51
+AAAAAAAAAAJCAAAA                   86               186.07                 0.00               150.71
+AAAAAAAAAALCAAAA                   31               150.82                 0.00                64.85
+AAAAAAAAAALDAAAA                  100               178.48              9515.90               110.65
+AAAAAAAAAAMBAAAA                   87               176.86                 0.00               116.72
+AAAAAAAAAANAAAAA                   27               210.37              2935.39               159.88
+AAAAAAAAAAOAAAAA                   94                 5.14               270.06                 4.42
+AAAAAAAAAAODAAAA                   39                51.95              1013.94                47.27
+AAAAAAAAAAPBAAAA                   50                35.50                 0.00                20.37
+AAAAAAAAABBAAAAA                   56               180.37                 0.00                14.42
+AAAAAAAAABBCAAAA                   81               127.55                 0.00                90.81
+AAAAAAAAABCCAAAA                    6               257.43                 0.00               144.16
+AAAAAAAAABCEAAAA                   86                10.12                 0.00                 1.61
+AAAAAAAAABDAAAAA                   36               115.83                 0.00                54.44
+AAAAAAAAABDEAAAA                   29                82.50                 0.00                49.50
+AAAAAAAAABEAAAAA                   51               104.81                41.69                27.25
+AAAAAAAAABECAAAA                   10                29.98                 0.00                 7.49
+AAAAAAAAABEDAAAA                   22                26.18                 0.00                 4.71
+AAAAAAAAABFBAAAA                   46                38.61                 0.00                32.81
+AAAAAAAAABFCAAAA                   57               245.20                 0.00                71.10
+AAAAAAAAABGBAAAA                   17               130.34                17.25                71.53
+AAAAAAAAABGDAAAA                   38                66.07               560.54                37.70
+AAAAAAAAABHCAAAA                   41                86.70                 0.00                 9.53
+AAAAAAAAABHDAAAA                   14                93.50               573.05                54.50
+AAAAAAAAABKAAAAA                   44               126.76                 0.00                97.94
+AAAAAAAAABMDAAAA                   56                84.42                 0.00                 0.00
+AAAAAAAAABNCAAAA                   49               189.57                 0.00                58.76
+AAAAAAAAABOBAAAA                   64               124.34                 0.00                92.01
+AAAAAAAAABPDAAAA                   55               158.22                 0.00               139.23
+AAAAAAAAACAAAAAA                   16                95.99                 0.00                90.32
+AAAAAAAAACACAAAA                   95                 4.79                 0.00                 0.00
+AAAAAAAAACBBAAAA                    3               150.55                 0.00               101.28
+AAAAAAAAACFAAAAA                   89               183.75                 0.00                20.21
+AAAAAAAAACFBAAAA                   38                47.62                85.63                22.82
+AAAAAAAAACFDAAAA                   28                83.23                 0.00                76.57
+AAAAAAAAACGAAAAA                   61                93.74               256.02                14.99
+AAAAAAAAACHCAAAA                   63               277.78                 0.00               252.77
+AAAAAAAAACIAAAAA                    4                36.18                 0.00                 5.78
+AAAAAAAAACIDAAAA                    8                31.05                 0.00                12.42
+AAAAAAAAACJAAAAA                    2                14.22                20.84                13.36
+AAAAAAAAACJDAAAA                   85                68.38               548.62                40.34
+AAAAAAAAACMAAAAA                   39                98.03                 0.00                20.24
+AAAAAAAAACMCAAAA                   18                68.42                 0.00                17.78
+AAAAAAAAACMDAAAA                    8                78.38                 0.00                32.91
+AAAAAAAAACODAAAA                   51               227.62                52.05                87.84
+AAAAAAAAADAEAAAA                   55                67.67                 0.00                59.54
+AAAAAAAAADBBAAAA                   36                 6.05                 0.00                 2.72
+AAAAAAAAADBEAAAA                   84                81.47                 0.00                53.77
+AAAAAAAAADCAAAAA                   10               222.90                 0.00               191.69
+AAAAAAAAADDBAAAA                   67               118.11                 0.00                78.27
+AAAAAAAAADDCAAAA                    6                88.25                 0.00                 1.76
+AAAAAAAAADDEAAAA                   16                29.52                 0.00                22.73
+AAAAAAAAADEBAAAA                   39               164.42               192.01                89.39
+AAAAAAAAADEDAAAA                  100                 9.86                19.14                 0.29
+AAAAAAAAADEEAAAA                   85                98.63                 0.00                35.99
+AAAAAAAAADHDAAAA                   64                 4.98                 0.00                 2.29
+AAAAAAAAADJBAAAA                   91                31.65                 0.00                11.39
+AAAAAAAAADJCAAAA                   99               109.09                 0.00                81.81
+AAAAAAAAADKAAAAA                   56                52.83                 0.00                21.51
+AAAAAAAAADKBAAAA                   33               106.96                 0.00                20.32
+AAAAAAAAADMCAAAA                   10               100.93                 0.00                89.82
+AAAAAAAAADNDAAAA                   76                25.84               176.46                 7.49
+AAAAAAAAADOAAAAA                   25               168.73                 0.00               167.04
+AAAAAAAAADOCAAAA                   98                44.98                 0.00                 5.84
+AAAAAAAAAEADAAAA                   31                 5.80                 0.00                 1.85
+AAAAAAAAAEBAAAAA                   85               123.10                 0.00                24.62
+AAAAAAAAAEBDAAAA                   26               150.59                 0.00               115.82
+AAAAAAAAAEDAAAAA                   20               198.52                 0.00               134.99
+AAAAAAAAAEDEAAAA                   67               257.73             14090.58               219.07
+AAAAAAAAAEFBAAAA                   48               127.69                 0.00                61.62
+AAAAAAAAAEFCAAAA                   11                36.13                 0.00                28.18
+AAAAAAAAAEFEAAAA                   95                89.25               452.85                15.41
+AAAAAAAAAEGAAAAA                    3                11.04                 0.00                10.37
+AAAAAAAAAEGDAAAA                    9                21.00                 0.00                14.70
+AAAAAAAAAEHAAAAA                   56               149.21                 0.00                 2.98
+AAAAAAAAAEHCAAAA                   24                55.74                 0.00                 6.68
+AAAAAAAAAEHDAAAA                   96               215.57                 0.00                66.82
+AAAAAAAAAEICAAAA                   55                92.56                 0.00                15.44
+AAAAAAAAAEKCAAAA                   16                21.33                 0.00                10.87
+AAAAAAAAAELCAAAA                   40                76.25               229.94                44.22
+AAAAAAAAAEMAAAAA                   66               151.22                44.92                99.69
+AAAAAAAAAEMBAAAA                   67                49.88                 0.00                15.96
+AAAAAAAAAENCAAAA                   94               147.30                 0.00                50.08
+AAAAAAAAAEPDAAAA                   92                98.28                 0.00                35.74
+AAAAAAAAAFACAAAA                   11               122.19                 0.00               107.52
+AAAAAAAAAFADAAAA                    2                24.52                 0.00                23.29
+AAAAAAAAAFBBAAAA                   43                41.75                 0.00                26.30
+<group_end>
+
+--- 100 row(s) selected.
+
+<section_end>
+<section_begin>  ds33
+
+I_MANUFACT_ID TOTAL_SALES         
+------------- --------------------
+<group_begin>
+          817                61.29
+          882               196.51
+          735               263.13
+          866               266.75
+          707               276.59
+          900               288.80
+          704               303.84
+          969               624.34
+          741               652.59
+          933               956.48
+          859              1192.86
+          736              1319.60
+          840              1682.02
+          370              1899.95
+          850              2244.11
+          812              2369.53
+          959              2713.42
+          711              3217.28
+          724              3272.10
+          886              3488.32
+          689              3489.49
+          937              3559.00
+          527              3559.47
+          802              3589.84
+          806              3617.64
+          996              3649.56
+          715              4230.18
+          943              4241.10
+          778              4375.36
+          667              4510.95
+          477              4735.90
+          419              4762.01
+          713              4768.87
+          378              4798.08
+          766              4839.04
+          721              4869.02
+          656              4921.92
+          954              4981.72
+          512              5064.42
+          381              5180.94
+          841              5203.56
+          857              5349.12
+          672              5362.16
+          452              5499.52
+          962              5508.00
+          849              5568.10
+          574              5584.55
+          761              5597.77
+          823              5724.97
+          782              5741.72
+          914              6074.81
+          947              6153.76
+          680              6328.08
+          749              6384.41
+          783              6692.51
+          824              6723.83
+          941              6757.18
+          764              6997.37
+          830              6998.43
+          637              7041.87
+          717              7151.04
+          709              7265.22
+          441              7316.38
+          910              7381.95
+          742              7786.14
+          895              7843.33
+          540              7844.70
+          792              7908.46
+          544              7982.15
+          744              8187.06
+          618              8210.05
+          879              8224.22
+          868              8425.92
+          547              8474.81
+          976              8575.82
+          899              8656.33
+          875              8824.77
+          791              8895.32
+          869              8926.49
+          801              9021.12
+          497              9107.63
+          700              9255.07
+          593              9814.78
+          809              9823.70
+          957             10060.41
+          732             10085.13
+          727             10226.22
+          334             10368.21
+          888             10740.38
+          837             10792.18
+          867             10821.30
+          681             10930.28
+          493             11111.90
+          748             11144.81
+          952             11286.35
+          723             11373.22
+          657             11558.54
+          822             11744.58
+          946             11941.28
+          702             11960.16
+<group_end>
+
+--- 100 row(s) selected.
+
+<section_end>
+<section_begin>  ds76
+
+I_ITEM_ID        AGG1                 AGG2                 AGG3                 AGG4                
+---------------- -------------------- -------------------- -------------------- --------------------
+<group_begin>
+AAAAAAAAAAABAAAA                   57                86.72               494.64                11.27
+AAAAAAAAAAEEAAAA                   69               114.31                 0.00                41.30
+AAAAAAAAAAFCAAAA                   55               215.71              1985.64                38.82
+AAAAAAAAAAFDAAAA                   83                 6.94                 0.00                 6.80
+AAAAAAAAAAHBAAAA                   90                87.17                 0.00                44.45
+AAAAAAAAAANAAAAA                    8                58.25                 0.00                55.33
+AAAAAAAAAANDAAAA                   40                13.58                 0.00                 0.27
+AAAAAAAAABAAAAAA                   12               112.93               719.11                98.24
+AAAAAAAAABAEAAAA                   27                10.74                 0.00                 9.66
+AAAAAAAAABBDAAAA                   35                36.68               610.63                26.04
+AAAAAAAAABDAAAAA                    8                79.56                 0.00                12.72
+AAAAAAAAABDEAAAA                   65                98.19                 0.00                52.04
+AAAAAAAAABFCAAAA                   83               219.78                 0.00                26.37
+AAAAAAAAABGDAAAA                   61                58.14                 0.00                46.50
+AAAAAAAAABICAAAA                    2                 6.08                 0.00                 1.88
+AAAAAAAAABJBAAAA                   35               107.55              1326.67                50.54
+AAAAAAAAABJDAAAA                   25               174.46                 0.00               123.86
+AAAAAAAAABNDAAAA                   53               180.66                 0.00                32.51
+AAAAAAAAABPAAAAA                   27                15.01                 0.00                 0.00
+AAAAAAAAACADAAAA                   61                60.88                 0.00                37.74
+AAAAAAAAACCAAAAA                   86                50.49                 0.00                 3.53
+AAAAAAAAACCDAAAA                   37               106.43                 0.00                 2.12
+AAAAAAAAACDCAAAA                   54                13.86               184.68                 9.00
+AAAAAAAAACFBAAAA                   75               109.05                 0.00                27.26
+AAAAAAAAACLAAAAA                   74                35.18                 0.00                 0.35
+AAAAAAAAACLDAAAA                   46               120.17                 0.00                44.46
+AAAAAAAAACMDAAAA                   18                33.33                 0.00                18.99
+AAAAAAAAACPCAAAA                   19                60.62               295.29                16.36
+AAAAAAAAADACAAAA                   33               176.55                 0.00               117.56
+AAAAAAAAADCCAAAA                   75                73.09                 0.00                16.07
+AAAAAAAAADCDAAAA                   68                89.47               284.86                67.59
+AAAAAAAAADFAAAAA                   22               171.48                 0.00                 0.00
+AAAAAAAAADHBAAAA                   31                79.20                 0.00                53.85
+AAAAAAAAADJCAAAA                   20                73.04                 0.00                 1.46
+AAAAAAAAADKBAAAA                   42                11.18                 0.00                 1.56
+AAAAAAAAADLDAAAA                   99               102.18              6991.85                98.09
+AAAAAAAAADOAAAAA                   43               107.07                 0.00                43.89
+AAAAAAAAADODAAAA                   10               115.96               158.63                83.49
+AAAAAAAAAEAAAAAA                   49                73.22                 0.00                72.48
+AAAAAAAAAEAEAAAA                   37                 5.64                 0.00                 5.52
+AAAAAAAAAEBAAAAA                   37               101.82                 0.00                80.33
+AAAAAAAAAECBAAAA                   51                42.53                 0.00                14.03
+AAAAAAAAAEDBAAAA                    8                81.81                 0.00                21.27
+AAAAAAAAAEGBAAAA                   32               146.69              2947.23               101.21
+AAAAAAAAAEGEAAAA                   67                37.10               699.09                35.98
+AAAAAAAAAEHCAAAA                   21               239.65                 0.00                71.89
+AAAAAAAAAEIBAAAA                    5                64.74                 0.00                42.08
+AAAAAAAAAEICAAAA                   74               125.03                 0.00                32.50
+AAAAAAAAAEJAAAAA                   39               136.59              4141.98               110.63
+AAAAAAAAAEKCAAAA                   47                13.56                31.80                 0.94
+AAAAAAAAAENAAAAA                  100                97.89               616.70                44.05
+AAAAAAAAAENDAAAA                   98               158.59                 0.00                11.10
+AAAAAAAAAFDAAAAA                   25                39.49                 0.00                 8.68
+AAAAAAAAAFIDAAAA                   22                88.00                 0.00                44.00
+AAAAAAAAAFJCAAAA                   25               153.95                 0.00                47.72
+AAAAAAAAAFJDAAAA                   92               188.57                 0.00                65.99
+AAAAAAAAAFLBAAAA                   72                63.56                 0.00                39.55
+AAAAAAAAAFNBAAAA                   27                96.77                 0.00                80.31
+AAAAAAAAAFPAAAAA                   31                63.77                 0.00                49.74
+AAAAAAAAAGAEAAAA                   43                86.71                 6.49                64.89
+AAAAAAAAAGBDAAAA                   84               107.37                 0.00               100.92
+AAAAAAAAAGBEAAAA                   70               153.20                 0.00                26.04
+AAAAAAAAAGEAAAAA                  100                67.96              2331.00                66.60
+AAAAAAAAAGEEAAAA                   59                26.32                 0.00                25.00
+AAAAAAAAAGHBAAAA                   24               202.54                 0.00                20.25
+AAAAAAAAAGLCAAAA                   73                24.15                 0.00                 7.48
+AAAAAAAAAGMBAAAA                   88                82.80                 0.00                62.10
+AAAAAAAAAGODAAAA                   70                39.90                 0.00                 0.00
+AAAAAAAAAHADAAAA                   20                98.53               824.99                77.83
+AAAAAAAAAHFBAAAA                   95                 4.34                16.35                 0.82
+AAAAAAAAAHKCAAAA                   38                90.67                 0.00                79.78
+AAAAAAAAAHLCAAAA                   33               169.39                 0.00                28.79
+AAAAAAAAAHPBAAAA                    7                 4.92                 0.00                 1.03
+AAAAAAAAAHPDAAAA                   45                96.67                 0.00                10.63
+AAAAAAAAAIACAAAA                   82                 4.45                 0.00                 2.71
+AAAAAAAAAIBBAAAA                   84                69.96                 0.00                16.09
+AAAAAAAAAICAAAAA                   55               128.17                 0.00                16.66
+AAAAAAAAAIGCAAAA                   29                20.66                 0.00                 4.54
+AAAAAAAAAIHCAAAA                   30               147.68                 0.00                87.13
+AAAAAAAAAIIBAAAA                   49                35.38                 0.00                 4.59
+AAAAAAAAAIIDAAAA                   82                52.15              1723.96                29.20
+AAAAAAAAAIKCAAAA                   38                79.04                 2.51                16.16
+AAAAAAAAAILDAAAA                   52                97.63              1422.28                78.91
+AAAAAAAAAINCAAAA                   67                23.03                 0.00                14.04
+AAAAAAAAAJACAAAA                    8                58.75                 0.00                21.73
+AAAAAAAAAJEBAAAA                   17               176.01               571.17                40.48
+AAAAAAAAAJEEAAAA                    7                56.56                 0.00                43.55
+AAAAAAAAAJNAAAAA                   97                88.92                 0.00                48.90
+AAAAAAAAAJOAAAAA                   91                96.26                 0.00                25.02
+AAAAAAAAAJPCAAAA                   60                96.36               590.85                70.34
+AAAAAAAAAKABAAAA                   96               115.69                 0.00                15.03
+AAAAAAAAAKEDAAAA                   35                98.64                 0.00                94.69
+AAAAAAAAAKHCAAAA                   39               266.92                 0.00               162.82
+AAAAAAAAAKLBAAAA                   56               137.20                 0.00                94.66
+AAAAAAAAAKNAAAAA                   35                77.39                 0.00                21.66
+AAAAAAAAAKNCAAAA                   57                44.22               220.24                16.80
+AAAAAAAAAKNDAAAA                   14                89.32                 0.00                 3.57
+AAAAAAAAAKPAAAAA                   42                81.82                 0.00                68.72
+AAAAAAAAALDAAAAA                   38                 6.37                 0.00                 2.10
+AAAAAAAAALIAAAAA                   17                60.49                 0.00                59.88
+<group_end>
+
+--- 100 row(s) selected.
+
+<section_end>

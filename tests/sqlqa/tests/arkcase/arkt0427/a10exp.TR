@@ -1,0 +1,15 @@
+<section_begin>  a10s2
+
+A           B           C          
+----------- ----------- -----------
+<group_begin>
+          2           0           1
+          2           1           1
+          2           2           1
+          2           3           1
+          2           4           1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

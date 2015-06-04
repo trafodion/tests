@@ -1,0 +1,27 @@
+<section_begin>  test011b
+
+(EXPR)
+--------------------
+                 251
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test011c
+
+Var                      StDev                   
+------------------------ ------------------------
+  1.54017417695211315E18     1.2410375405087926E9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test011e
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

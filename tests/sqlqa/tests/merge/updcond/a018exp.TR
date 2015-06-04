@@ -1,0 +1,52 @@
+<section_begin>  v01
+
+A1          A2          A3          A4          B1         
+----------- ----------- ----------- ----------- -----------
+          1           1           1           1          -1
+          2           2           2           2           2
+          3           3           3           3           3
+          4           4           4           4           4
+          5        NULL        NULL        NULL        NULL
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v03
+
+A1          A2          A3          A4          B1         
+----------- ----------- ----------- ----------- -----------
+          1           1           1           1           1
+          2           2           2           2           2
+          3           3           3           3           3
+          4           4           4           4          -4
+          5        NULL        NULL        NULL           5
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v04
+
+A1          A2          A3          A4          B1         
+----------- ----------- ----------- ----------- -----------
+          1           1           1           1           1
+          2           2           2           2           2
+          3           3           3           3           3
+          4           4           4           4          -4
+          5        NULL        NULL        NULL           5
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v05
+
+A1          A2          A3          A4          B1         
+----------- ----------- ----------- ----------- -----------
+          1           1           1           1           1
+          2           2           2           2           2
+          3           3           3           3           3
+          4           4           4           4          -4
+          5        NULL        NULL        NULL           5
+
+--- 5 row(s) selected.
+
+<section_end>

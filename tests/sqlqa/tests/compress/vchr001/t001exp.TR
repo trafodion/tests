@@ -1,0 +1,270 @@
+<section_begin>  t001s4
+
+I1          V1   V2   V3       V4              
+----------- ---- ---- -------- ----------------
+<group_begin>
+          1 A    aa   0001     ABCDEFGH        
+          2 B    bb   0002     BCDEFGHI        
+          3 C    cc   0003     CDEFGHIJ        
+          4 D    dd   0004     DEFGHIJK        
+          5 E    ee   0005     EFGHIJKL        
+          6 F    ff   0006     FGHIJKLM        
+          7 G    gg   0007     GHIJKLMN        
+          8 H    hh   0008     HIJKLMNO        
+          9 I    ii   0009     IJKLMNOP        
+         10 J    jj   0010     JKLMNOPQ        
+         11 K    kk   0011     KLMNOPQR        
+         12 L    ll   0012     LMNOPQRS        
+         13 M    mm   0013     MNOPQRST        
+         14 N    nn   0014     NOPQRSTU        
+         15 O    oo   0015     OPQRSTUV        
+         16 P    pp   0016     PQRSTUVW        
+         17 Q    qq   0017     QRSTUVWX        
+         18 R    rr   0018     RSTUVWXY        
+         19 S    ss   0019     STUVWXYZ        
+         20 T    tt   0020     TUWVXYZA        
+<group_end>
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  t001s6
+
+I1          V1   V2   V3       V4              
+----------- ---- ---- -------- ----------------
+        101 a    AA   0101     AAAAAAAA        
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t001s9
+
+I1          V1   V2   V3       V4              
+----------- ---- ---- -------- ----------------
+        102 B    bb   0102     BBBBBBBB        
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t001s17
+
+--- 1 row(s) inserted.
+
+<section_end>
+<section_begin>  t001s10
+
+I1          V1   V2   V3       V4              
+----------- ---- ---- -------- ----------------
+        103 3    CC   0103     NULL            
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t001s14
+
+I1          V1   V2   V3       V4              
+----------- ---- ---- -------- ----------------
+        106 z    zz   0106     zzzzABCD        
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t001s21
+
+I1          V1   V2   V3       V4              
+----------- ---- ---- -------- ----------------
+<group_begin>
+        106 z    zz   0106     zzzzABCD        
+       NULL z    zz   0110     NULL            
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  t001s22
+
+I1          V1   V2   V3       V4              
+----------- ---- ---- -------- ----------------
+<group_begin>
+          1 A    aa   0001     ABCDEFGH        
+          2 B    bb   0002     BCDEFGHI        
+          3 C    cc   0003     CDEFGHIJ        
+          4 D    dd   0004     DEFGHIJK        
+          5 E    ee   0005     EFGHIJKL        
+          6 F    ff   0006     FGHIJKLM        
+          7 G    gg   0007     GHIJKLMN        
+          8 H    hh   0008     HIJKLMNO        
+          9 I    ii   0009     IJKLMNOP        
+         10 J    jj   0010     JKLMNOPQ        
+         11 K    kk   0011     KLMNOPQR        
+         12 L    ll   0012     LMNOPQRS        
+         13 M    mm   0013     MNOPQRST        
+         14 N    nn   0014     NOPQRSTU        
+         15 O    oo   0015     OPQRSTUV        
+         16 P    pp   0016     PQRSTUVW        
+         17 Q    qq   0017     QRSTUVWX        
+         18 R    rr   0018     RSTUVWXY        
+         19 S    ss   0019     STUVWXYZ        
+         20 T    tt   0020     TUWVXYZA        
+         21 A    aa   0021     ABCDEFGH        
+         22 B    bb   0022     BCDEFGHI        
+         23 C    cc   0023     CDEFGHIJ        
+         24 D    dd   0024     DEFGHIJK        
+         25 E    ee   0025     EFGHIJKL        
+         26 F    ff   0026     FGHIJKLM        
+         27 G    gg   0027     GHIJKLMN        
+         28 H    hh   0028     HIJKLMNO        
+         29 I    ii   0029     IJKLMNOP        
+         30 J    jj   0030     JKLMNOPQ        
+         31 K    kk   0031     KLMNOPQR        
+         32 L    ll   0032     LMNOPQRS        
+         33 M    mm   0033     MNOPQRST        
+         34 N    nn   0034     NOPQRSTU        
+         35 O    oo   0035     OPQRSTUV        
+         36 P    pp   0036     PQRSTUVW        
+         37 Q    qq   0037     QRSTUVWX        
+         38 R    rr   0038     RSTUVWXY        
+         39 S    ss   0039     STUVWXYZ        
+         40 T    tt   0040     TUWVXYZA        
+        101 a    AA   0101     AAAAAAAA        
+        102 B    bb   0102     BBBBBBBB        
+        103 3    CC   0103     NULL            
+        104 a    dd   0104     zzzzABCD        
+        106 z    zz   0106     zzzzABCD        
+        108 a    zz   0108     NULL            
+       NULL a    dd   0105     NULL            
+       NULL a    zz   0107     zzzzABCD        
+       NULL a    dd   0109     NULL            
+       NULL z    zz   0110     NULL            
+<group_end>
+
+--- 50 row(s) selected.
+
+<section_end>
+<section_begin>  t001s30
+
+I1          V1   V2   V3       V4              
+----------- ---- ---- -------- ----------------
+<group_begin>
+          1 A    aa   0001     ABCDEFGH        
+        102 B    bb   0002     Everest         
+          3 C    cc   0003     CDEFGHIJ        
+        104 D    dd   0004     Everest         
+          5 E    ee   0005     EFGHIJKL        
+        106 F    ff   0006     Everest         
+          7 G    gg   0007     GHIJKLMN        
+          8 H    hh   0008     HIJKLMNO        
+          9 I    ii   0009     IJKLMNOP        
+         10 J    jj   0010     JKLMNOPQ        
+         11 K    kk   0011     KLMNOPQR        
+         12 L    ll   0012     LMNOPQRS        
+         13 M    mm   0013     MNOPQRST        
+         14 N    nn   0014     NOPQRSTU        
+         15 O    oo   0015     OPQRSTUV        
+         16 P    pp   0016     PQRSTUVW        
+         17 Q    qq   0017     QRSTUVWX        
+         18 R    rr   0018     RSTUVWXY        
+         19 S    ss   0019     STUVWXYZ        
+         20 T    tt   0020     TUWVXYZA        
+         21 A    aa   0021     ABCDEFGH        
+         22 B    bb   0022     BCDEFGHI        
+         23 C    cc   0023     CDEFGHIJ        
+         74 M    dd   0024     Mckinley        
+         75 M    ee   0025     Mckinley        
+         76 M    ff   0026     Mckinley        
+         77 M    gg   0027     Mckinley        
+         78 M    hh   0028     Mckinley        
+         79 M    ii   0029     Mckinley        
+         80 M    jj   0030     Mckinley        
+         81 M    kk   0031     Mckinley        
+         82 M    ll   0032     Mckinley        
+         83 M    mm   0033     Mckinley        
+         34 N    nn   0034     NOPQRSTU        
+         35 O    oo   0035     OPQRSTUV        
+         36 P    pp   0036     PQRSTUVW        
+         37 Q    qq   0037     QRSTUVWX        
+         38 R    rr   0038     RSTUVWXY        
+         39 S    ss   0039     STUVWXYZ        
+         40 T    tt   0040     TUWVXYZA        
+        201 Z    AA   0101     Foraker         
+        102 B    bb   0102     BBBBBBBB        
+        103 3    CC   0103     NULL            
+        104 a    dd   0104     zzzzABCD        
+       NULL a    dd   0105     NULL            
+        106 z    zz   0106     zzzzABCD        
+       NULL x    zz   0107     Denali          
+        108 a    zz   0108     NULL            
+       NULL a    dd   0109     NULL            
+       NULL x    zz   0110     Denali          
+<group_end>
+
+--- 50 row(s) selected.
+
+<section_end>
+<section_begin>  t001s37
+
+I1          V1   V2   V3       V4              
+----------- ---- ---- -------- ----------------
+<group_begin>
+          1 A    aa   0001     ABCDEFGH        
+        102 B    bb   0002     Everest         
+        104 D    dd   0004     Everest         
+        106 F    ff   0006     Everest         
+          8 H    hh   0008     HIJKLMNO        
+         10 J    jj   0010     JKLMNOPQ        
+         11 K    kk   0011     KLMNOPQR        
+         12 L    ll   0012     LMNOPQRS        
+         13 M    mm   0013     MNOPQRST        
+         15 O    oo   0015     OPQRSTUV        
+         16 P    pp   0016     PQRSTUVW        
+         17 Q    qq   0017     QRSTUVWX        
+         18 R    rr   0018     RSTUVWXY        
+         19 S    ss   0019     STUVWXYZ        
+         20 T    tt   0020     TUWVXYZA        
+         21 A    aa   0021     ABCDEFGH        
+         22 B    bb   0022     BCDEFGHI        
+         23 C    cc   0023     CDEFGHIJ        
+         74 M    dd   0024     Mckinley        
+         75 M    ee   0025     Mckinley        
+         76 M    ff   0026     Mckinley        
+         77 M    gg   0027     Mckinley        
+         78 M    hh   0028     Mckinley        
+         79 M    ii   0029     Mckinley        
+        102 B    bb   0102     BBBBBBBB        
+        104 a    dd   0104     zzzzABCD        
+       NULL a    dd   0105     NULL            
+       NULL x    zz   0107     Denali          
+        108 a    zz   0108     NULL            
+       NULL a    dd   0109     NULL            
+       NULL x    zz   0110     Denali          
+<group_end>
+
+--- 31 row(s) selected.
+
+<section_end>
+<section_begin>  t001s39
+
+I1          V1   V2   V3       V4              
+----------- ---- ---- -------- ----------------
+<group_begin>
+          1 A    aa   0001     ABCDEFGH        
+          8 H    hh   0008     HIJKLMNO        
+         10 J    jj   0010     JKLMNOPQ        
+         11 K    kk   0011     KLMNOPQR        
+         12 L    ll   0012     LMNOPQRS        
+         13 M    mm   0013     MNOPQRST        
+         15 O    oo   0015     OPQRSTUV        
+         17 Q    qq   0017     QRSTUVWX        
+         20 T    tt   0020     TUWVXYZA        
+        102 B    bb   0002     Everest         
+        104 D    dd   0004     Everest         
+        106 F    ff   0006     Everest         
+        108 a    zz   0108     NULL            
+       NULL x    zz   0107     Denali          
+       NULL a    dd   0109     NULL            
+       NULL x    zz   0110     Denali          
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>

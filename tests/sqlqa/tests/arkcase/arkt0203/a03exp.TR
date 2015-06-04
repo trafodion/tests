@@ -1,0 +1,353 @@
+<section_begin>  a03s0
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+SUPPNUM SUPPNAME          
+------- ------------------
+<group_begin>
+      1 TANDEM COMPUTERS  
+      2 DATA TERMINAL CO  
+      3 DISPLAY INC       
+      6 INFOMATION STORAGE
+      8 MAGNETICS CORP    
+     10 STEELWORK INC     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+ADDRESS                CITY           STATE       
+---------------------- -------------- ------------
+<group_begin>
+6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a03s11
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a03s12
+
+SUPPNUM SUPPNAME          
+------- ------------------
+<group_begin>
+      1 TANDEM COMPUTERS  
+      2 DATA TERMINAL CO  
+      3 DISPLAY INC       
+      6 INFOMATION STORAGE
+      8 MAGNETICS CORP    
+     10 STEELWORK INC     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s13
+
+ADDRESS                CITY           STATE       
+---------------------- -------------- ------------
+<group_begin>
+6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s14
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s15
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s16
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s17
+
+CHAR_1 CHAR_10    BINARY_SIGNED PIC_COMP_1   SMALL_INT
+------ ---------- ------------- ------------ ---------
+<group_begin>
+D      michelle           -5000          500        90
+A      steven                50           50        10
+A      bobby                 60           60      1000
+D      melissa             1000          500        80
+E      monica              2000         3000      2000
+C      maureen             3000          500      9000
+C      marcia              4000           50      8000
+D      steven              8000          500        90
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a03s18
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR) (EXPR)  (EXPR)     (EXPR)     (EXPR)    
+------ ------- ---------- ---------- ----------
+<group_begin>
+D      steven  8000       500        90        
+D      michell -5000      500        90        
+A      steven  50         50         10        
+D      melissa 1000       500        80        
+E      monica  2000       3000       2000      
+C      maureen 3000       500        9000      
+C      marcia  4000       50         8000      
+A      bobby   60         60         1000      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a03s19
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR) (EXPR)  (EXPR)     (EXPR)     (EXPR)    
+------ ------- ---------- ---------- ----------
+<group_begin>
+NULL   NULL    NULL       NULL       NULL
+a      Abcdefg NULL       NULL       NULL      
+NULL   NULL    NULL       NULL       NULL      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s20
+
+
+CHAR_1 CHAR_10    CHAR_1 PIC_X_8 
+------ ---------- ------ --------
+<group_begin>
+D      michelle   NULL   NULL    
+A      steven     NULL   NULL    
+A      bobby      NULL   NULL    
+D      melissa    NULL   NULL    
+E      monica     NULL   NULL    
+C      maureen    NULL   NULL    
+C      marcia     NULL   NULL    
+D      steven     NULL   NULL    
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a03s21a
+
+CHAR_1 CHAR_10    CHAR_1 PIC_X_8  ORDERING
+------ ---------- ------ -------- --------
+D      steven     a      Abcdefgh        1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s22
+
+CHAR_1 CHAR_10    CHAR_1 PIC_X_8  ORDERING
+------ ---------- ------ -------- --------
+<group_begin>
+E      monica     a      Abcdefgh        1
+E      monica     NULL   NULL            2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s23
+
+CHAR_1 CHAR_10    CHAR_1 PIC_X_8  ORDERING
+------ ---------- ------ -------- --------
+<group_begin>
+D      michelle   NULL   NULL         NULL
+A      steven     NULL   NULL         NULL
+A      bobby      NULL   NULL         NULL
+D      melissa    NULL   NULL         NULL
+E      monica     a      Abcdefgh        1
+E      monica     NULL   NULL            2
+C      maureen    NULL   NULL         NULL
+C      marcia     NULL   NULL         NULL
+D      steven     a      Abcdefgh        1
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>

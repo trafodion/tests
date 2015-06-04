@@ -1,0 +1,75 @@
+<section_begin>  a15s0
+
+(EXPR)
+--------------------
+                  84
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s1
+
+COLDATE
+----------
+<group_begin>
+1991-04-28
+1992-04-21
+1993-11-22
+1994-11-16
+1995-06-25
+1996-06-18
+1999-08-30
+1999-12-31
+2000-01-01
+2000-02-29
+2000-08-23
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a15s2
+
+COLDATE
+----------
+<group_begin>
+2008-12-25
+2008-01-01
+2004-10-20
+2003-10-27
+2003-03-20
+2002-03-26
+2000-08-23
+2000-02-29
+2000-01-01
+1999-12-31
+1999-08-30
+1996-06-18
+1995-06-25
+1994-11-16
+1993-11-22
+1992-04-21
+1991-04-28
+<group_end>
+
+--- 17 row(s) selected.
+
+<section_end>
+<section_begin>  a15s3
+
+(EXPR)
+--------------------
+                  42
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s4
+
+(EXPR)
+--------------------
+                  42
+
+--- 1 row(s) selected.
+
+<section_end>

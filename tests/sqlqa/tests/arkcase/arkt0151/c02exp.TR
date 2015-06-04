@@ -1,0 +1,56 @@
+<section_begin>  c02s0
+
+Y     Y    
+----- -----
+<group_begin>
+  10    10 
+9999  9999 
+   9     9 
+   7     7 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c02s1
+
+Y_TO_MO  Y_TO_MO 
+-------- --------
+<group_begin>
+  10-01    10-01 
+9999-11  9999-11 
+   9-01     9-01 
+   7-01     7-01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c02s2
+
+Y_TO_MO  Y_TO_MO 
+-------- --------
+<group_begin>
+  10-01    10-01 
+9999-11  9999-11 
+   9-01     9-01 
+   7-01     7-01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  c02s3
+
+Y_TO_MO  Y_TO_MO 
+-------- --------
+<group_begin>
+  10-01    10-01 
+9999-11  9999-11 
+   9-01     9-01 
+   7-01     7-01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

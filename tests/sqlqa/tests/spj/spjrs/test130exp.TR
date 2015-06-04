@@ -1,0 +1,24 @@
+<section_begin>  verify
+<group_begin>
+
+NUMERICCOL
+-----------------
+     234567.90100
+
+--- 1 row(s) selected.
+
+NUMERICCOL
+-----------------
+      -2345.78900
+     234567.90100
+    3456789.12000
+       -567.90123
+      56789.12340
+      -2345.78900
+
+--- 6 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

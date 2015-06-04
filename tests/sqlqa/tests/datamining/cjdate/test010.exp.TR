@@ -1,0 +1,46 @@
+<section_begin>  s1
+
+SNAME
+--------------------
+<group_begin>
+Adams               
+Blake               
+Clark               
+Smith               
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+SNAME
+--------------------
+<group_begin>
+Adams               
+Blake               
+Clark               
+Smith               
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+SNAME
+--------------------
+Jones               
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+SNAME
+--------------------
+Jones               
+
+--- 1 row(s) selected.
+
+<section_end>

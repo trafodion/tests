@@ -1,0 +1,20 @@
+<section_begin>  test0080
+
+EMPNUM EMPNAME              GRADE  CITY            PNAME                CITY           
+------ -------------------- ------ --------------- -------------------- ---------------
+<group_begin>
+E1     Alice                    12 Deale           MXSS                 Deale          
+E1     Alice                    12 Deale           PAYR                 Deale          
+E1     Alice                    12 Deale           SDP                  Deale          
+E2     Betty                    10 Vienna          CALM                 Vienna         
+E2     Betty                    10 Vienna          IRM                  Vienna         
+E3     Carmen                   13 Vienna          CALM                 Vienna         
+E3     Carmen                   13 Vienna          IRM                  Vienna         
+E4     Don                      12 Deale           MXSS                 Deale          
+E4     Don                      12 Deale           PAYR                 Deale          
+E4     Don                      12 Deale           SDP                  Deale          
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>

@@ -1,0 +1,135 @@
+<section_begin>  a02s0
+
+TS
+--------------------------
+<group_begin>
+1997-03-25 13:25:35.000000
+1997-03-25 01:25:35.000000
+NULL                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+TS
+-------------------
+<group_begin>
+2000-01-01 11:12:13
+NULL               
+1999-12-31 14:22:32
+1999-12-31 02:22:32
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+TS
+---------------------
+<group_begin>
+1995-12-29 14:15:16.7
+NULL                 
+1997-12-25 17:15:45.9
+1997-12-25 05:15:45.9
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+TS
+--------------------------
+<group_begin>
+0003-01-02 16:05:06.123456
+0003-01-02 04:05:06.123456
+NULL                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+TS
+--------------------------
+<group_begin>
+1997-03-25 01:25:35.000000
+1997-03-25 13:25:35.000000
+NULL                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+TS
+-------------------
+<group_begin>
+1999-12-31 02:22:32
+1999-12-31 11:12:13
+1999-12-31 14:22:32
+NULL               
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+TS
+---------------------
+<group_begin>
+NULL                 
+1997-12-25 05:15:45.9
+1997-12-25 05:15:45.9
+1995-12-29 14:15:16.7
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+TS
+--------------------------
+<group_begin>
+0003-01-02 16:05:06.123456
+0003-01-02 16:05:06.123456
+NULL                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+TS
+---------------------
+NULL                 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+TS
+--------------------------
+NULL                      
+
+--- 1 row(s) selected.
+
+<section_end>

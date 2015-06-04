@@ -1,0 +1,9 @@
+<section_begin>  verify
+
+y                  OUT1              
+------------------ ------------------
+ 987654321.0000000  123456789.6543200
+
+--- SQL operation complete.
+
+<section_end>

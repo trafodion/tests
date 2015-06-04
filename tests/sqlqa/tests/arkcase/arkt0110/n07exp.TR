@@ -1,0 +1,36 @@
+<section_begin>  n07s0
+
+CHAR_1 CHAR_10    CHAR_1 CHAR_10    PIC_X_1
+------ ---------- ------ ---------- -------
+<group_begin>
+D      michelle   D      michelle   D      
+A      steven     A      steven     C      
+A      bobby      A      bobby      A      
+D      melissa    D      melissa    C      
+E      monica     E      monica     Q      
+C      maureen    C      maureen    E      
+C      marcia     C      marcia     Z      
+D      steven     D      steven     B      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  n07s1
+
+CHAR_1 CHAR_10    CHAR_1 CHAR_10    PIC_X_1 CHAR_1 CHAR_10    CHAR_1 CHAR_10    PIC_X_1
+------ ---------- ------ ---------- ------- ------ ---------- ------ ---------- -------
+<group_begin>
+D      michelle   D      michelle   D       D      michelle   D      michelle   D      
+A      steven     A      steven     C       A      steven     A      steven     C      
+A      bobby      A      bobby      A       A      bobby      A      bobby      A      
+D      melissa    D      melissa    C       D      melissa    D      melissa    C      
+E      monica     E      monica     Q       E      monica     E      monica     Q      
+C      maureen    C      maureen    E       C      maureen    C      maureen    E      
+C      marcia     C      marcia     Z       C      marcia     C      marcia     Z      
+D      steven     D      steven     B       D      steven     D      steven     B      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

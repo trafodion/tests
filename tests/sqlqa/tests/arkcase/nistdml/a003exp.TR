@@ -1,0 +1,14 @@
+<section_begin>  a003s0
+
+EMPNUM HOURS      
+------ -----------
+<group_begin>
+E2              80
+E4              20
+E3              20
+E1              20
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

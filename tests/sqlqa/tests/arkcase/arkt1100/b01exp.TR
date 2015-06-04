@@ -1,0 +1,15 @@
+<section_begin>  b01s5
+
+C2   C3  
+---- ----
+<group_begin>
+AA   BA  
+BA   AA  
+DA   EA  
+NULL DA  
+NULL BA  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

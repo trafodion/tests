@@ -1,0 +1,74 @@
+<section_begin>  a02s1
+
+A           B           C          
+----------- ----------- -----------
+<group_begin>
+          1           1           1
+          2           1           1
+          3           1           2
+          4           1           2
+          5           2           1
+          6           2           1
+          7           2           2
+          8           2           2
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+(EXPR)      B           C          
+----------- ----------- -----------
+<group_begin>
+          8           2           2
+          4           1           2
+          2           1           1
+          6           2           1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+(EXPR)      B           C          
+----------- ----------- -----------
+<group_begin>
+          7           2           2
+          3           1           2
+          1           1           1
+          5           2           1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)      B           C          
+----------- ----------- -----------
+<group_begin>
+          7           2           2
+          3           1           2
+          1           1           1
+          5           2           1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)               B           C          
+-------------------- ----------- -----------
+<group_begin>
+                  15           2           2
+                   7           1           2
+                   3           1           1
+                  11           2           1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

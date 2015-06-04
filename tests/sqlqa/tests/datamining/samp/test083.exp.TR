@@ -1,0 +1,30 @@
+<section_begin>  s1
+
+RCOUNT               ROWSSINCE  
+-------------------- -----------
+<group_begin>
+                   1        NULL
+                   2           1
+                   3           1
+                   4           1
+                   5           1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+RCOUNT               NAME                
+-------------------- --------------------
+<group_begin>
+                   1 Abbie               
+                   2 Chris               
+                   3 David               
+                   4 Debbie              
+                   5 Donna               
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

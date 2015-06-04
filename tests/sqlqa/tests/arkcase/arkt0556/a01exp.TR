@@ -1,0 +1,79 @@
+<section_begin>  a01s1
+
+FIRST_NAME LAST_NAME  (EXPR)               MARITAL_STATUS
+---------- ---------- -------------------- --------------
+<group_begin>
+DINAH      CLARK      NULL                              3
+JESSICA    CRINAR     SICACRIN                          2
+ROGER      GREEN      ERGREEN                           2
+JERRY      HOWARD     HOWARD    JERRY                   1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+UBIN1_N2 CHAR0_N10 DATE1_N4   (EXPR)  
+-------- --------- ---------- --------
+<group_begin>
+    NULL NULL      NULL        is Null
+       0 AB        NULL       its A   
+       0 AA        NULL       its A   
+    NULL BB        2100-01-01 its B   
+    NULL BA        2100-01-03 its B   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+UBIN1_N2 CHAR0_N10 DATE1_N4   (EXPR)  
+-------- --------- ---------- --------
+<group_begin>
+    NULL NULL      NULL        is Null
+       0 AB        NULL       its B   
+       0 AA        NULL       its A   
+    NULL BB        2100-01-01  is Null
+    NULL BA        2100-01-03 its B   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+UBIN1_N2 CHAR0_N10 DATE1_N4   (EXPR)         
+-------- --------- ---------- ---------------
+<group_begin>
+    NULL NULL      NULL       its Null       
+       0 AB        NULL       its B          
+       0 AA        NULL       its zero String
+    NULL BB        2100-01-01 its Null       
+    NULL BA        2100-01-03 its B          
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+(EXPR)   (EXPR)       (EXPR)
+-------- ------------ ------
+<group_begin>
+ecaafaaa Other Values Money 
+ebaaoaaa Other Values Money 
+fbaanaaa Other Values Money 
+ebaajaaa Other Values Money 
+afaadaaa Other Values Money 
+cgaahaaa Other Values Money 
+cjaaoaaa Other Values Money 
+adaaiaaa Other Values Money 
+dkaafaaa Other Values Money 
+agaaaaaa Other Values Money 
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>

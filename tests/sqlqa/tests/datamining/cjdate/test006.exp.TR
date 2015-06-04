@@ -1,0 +1,32 @@
+<section_begin>  s1
+
+SNUM  SNAME                STATUS CITY            PNUM   PNAME                COLOR  WEIGHT CITY           
+----- -------------------- ------ --------------- ------ -------------------- ------ ------ ---------------
+<group_begin>
+s2    Jones                    10 Paris           p1     nut                  red        12 London         
+s2    Jones                    10 Paris           p4     screw                red        14 London         
+s2    Jones                    10 Paris           p6     cog                  red        19 London         
+s3    Blake                    30 Paris           p1     nut                  red        12 London         
+s3    Blake                    30 Paris           p4     screw                red        14 London         
+s3    Blake                    30 Paris           p6     cog                  red        19 London         
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+SNUM  SNAME                STATUS CITY            PNUM   PNAME                COLOR  WEIGHT CITY           
+----- -------------------- ------ --------------- ------ -------------------- ------ ------ ---------------
+<group_begin>
+s2    Jones                    10 Paris           p1     nut                  red        12 London         
+s2    Jones                    10 Paris           p4     screw                red        14 London         
+s2    Jones                    10 Paris           p6     cog                  red        19 London         
+s3    Blake                    30 Paris           p1     nut                  red        12 London         
+s3    Blake                    30 Paris           p4     screw                red        14 London         
+s3    Blake                    30 Paris           p6     cog                  red        19 London         
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

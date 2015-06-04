@@ -1,0 +1,110 @@
+<section_begin>  a01s1
+
+SMALL_INT DATA_93
+--------- -------
+<group_begin>
+     1000     167
+     2000     168
+     8500     169
+     8501     170
+     8502     171
+     8503     172
+     8504     173
+     8505     174
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+SMALL_INT DATA_93
+--------- -------
+<group_begin>
+     1000     167
+     2000     168
+     8500     169
+     8501     170
+     8502     171
+     8503     172
+     8504     173
+     8505     174
+       10     100
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+VAR_CHAR                                                                                                                         MEDIUM_INT  PIC_X_7 PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- ----------- ------- ------------
+<group_begin>
+tom                                                                                                                                     1000 7                200
+bob                                                                                                                                      999 A                300
+bill                                                                                                                                    2000 B                500
+christopher                                                                                                                             1000 white           1000
+william                                                                                                                                 1000 black           2000
+marilyn                                                                                                                                 2000 green           3000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+VAR_CHAR                                                                                                                         MEDIUM_INT  PIC_X_7 PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- ----------- ------- ------------
+<group_begin>
+tom                                                                                                                                     1000 7                200
+bob                                                                                                                                      999 A                300
+bill                                                                                                                                    2000 B                500
+christopher                                                                                                                             1000 white           1000
+william                                                                                                                                 1000 black           2000
+marilyn                                                                                                                                 2000 green           3000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+PIC_X_A PIC_X_B PIC_X_C
+------- ------- -------
+<group_begin>
+ al     F       al     
+ al     F       di     
+B       A       ed     
+JO      D       em     
+P       P       P      
+al      F       al     
+al      Q       al     
+al      E       bo     
+jo      C       ek     
+jo      Z       jo     
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+PIC_X_A PIC_X_B PIC_X_C
+------- ------- -------
+<group_begin>
+ al     F       al     
+ al     F       di     
+B       A       ed     
+JO      D       em     
+P       P       P      
+al      F       al     
+al      Q       al     
+al      E       bo     
+jo      C       ek     
+jo      Z       jo     
+qrs     a       x      
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>

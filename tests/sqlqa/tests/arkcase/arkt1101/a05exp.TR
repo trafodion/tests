@@ -1,0 +1,119 @@
+<section_begin>  a05s0
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+clark      dinah          9000      37000              3
+crinar     jessica        3500      39500              2
+green      roger          9000     175500              2
+howard     jerry          1000      65000              1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+clark      dinah          9000      37000              3
+crinar     jessica        8000      39500              2
+green      roger          9000     175500              2
+howard     jerry          4000      65000              1
+velcro     judy           2000      40000              3
+zann       kathy          3000      80000              1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+LAST_NAME  MARITAL_STATUS
+---------- --------------
+zann                    1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+LAST_NAME  MARITAL_STATUS WORD_CODE_FOR_MARITAL
+---------- -------------- ---------------------
+<group_begin>
+clark                   3 zann                 
+crinar                  2 yacht                
+green                   2 yacht                
+howard                  1 xerxes               
+velcro                  3 zann                 
+zann                    1 xerxes               
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+Xerxes     kathy          3000      80000              1
+clark      dinah          9000      37000              3
+crinar     jessica        8000      39500              2
+green      roger          9000     175500              2
+howard     jerry          4000      65000              1
+velcro     judy           2000      40000              3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+clark      dinah          9000      37000              3
+crinar     jessica        8000      39500              2
+green      roger          9000     175500              2
+howard     jerry          5999      65000              1
+velcro     judy           2000      40000              3
+zann       kathy          3000      80000              1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+ZANN       kathy          3000      80000              1
+clark      dinah          9000      37000              3
+crinar     jessica        8000      39500              2
+green      roger          9000     175500              2
+howard     jerry          4000      65000              1
+velcro     judy           2000      40000              3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+clark      dinah          9000      37000              3
+crinar     jessica        8000      39500              2
+green      roger          9000     175500              2
+howard     jerry          4000      65000              1
+velcro     judy           2000      40000              3
+zann       kathy          3000      80000              1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

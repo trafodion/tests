@@ -1,0 +1,29 @@
+<section_begin>  a12s0
+
+(EXPR) (EXPR) SAL       
+------ ------ ----------
+<group_begin>
+ARKDI  DINA     37000.00
+INARJ  JESS     39500.00
+EENRO  ROGE    175500.00
+WARDJ  JERR     65000.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a12s1
+
+(EXPR)     CHAR0_09_UNIQ
+---------- -------------
+<group_begin>
+       985 00000150     
+       985 00001106     
+       985 00001265     
+       985 00001382     
+       985 00001421     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

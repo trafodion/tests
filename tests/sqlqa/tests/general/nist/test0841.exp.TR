@@ -1,0 +1,39 @@
+<section_begin>  test0841e
+
+EMPNUM
+------
+<group_begin>
+E5    
+E4    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  test0841f
+
+EMPNUM
+------
+<group_begin>
+E4    
+E5    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  test0841g
+
+EMPNUM
+------
+<group_begin>
+E1    
+E2    
+E3    
+E4    
+E5    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

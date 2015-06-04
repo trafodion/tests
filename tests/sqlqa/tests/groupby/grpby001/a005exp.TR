@@ -1,0 +1,25 @@
+<section_begin>  a05s1
+
+(EXPR)
+--------------
+<group_begin>
+      123.5600
+ 99999999.0000
+  1408285.1734
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+(EXPR)
+-----------------------------
+<group_begin>
+value is neither zero nor one
+Value is zero                
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

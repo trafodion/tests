@@ -1,0 +1,165 @@
+<section_begin>  a01s0
+
+SUPPNUM
+-------
+<group_begin>
+     15
+      6
+      8
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+SUPPNUM
+-------
+<group_begin>
+      2
+      3
+     10
+      1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+EMPNUM
+------
+<group_begin>
+     1
+    29
+    43
+    72
+    87
+   104
+   343
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+SALESMAN ORDERNUM
+-------- --------
+<group_begin>
+     204       32
+     205       21
+     205       66
+     207       41
+     210       51
+     212       25
+     212       45
+     218       38
+     221      122
+     222       30
+     225       48
+     231       35
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+SALESMAN
+--------
+<group_begin>
+     204
+     205
+     207
+     210
+     212
+     218
+     221
+     222
+     225
+     231
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+PARTNUM
+-------
+<group_begin>
+   4102
+   3103
+   4103
+   5505
+   1403
+    212
+    244
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+     10
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

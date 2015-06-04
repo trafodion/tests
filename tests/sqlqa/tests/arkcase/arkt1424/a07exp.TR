@@ -1,0 +1,117 @@
+<section_begin>  a07s0
+
+COL_FIX1             COL_FIX2             COL_FIX3    COL_FIX4 COL_FIX5 COL_FIX6 COL_FIX7             COL_FIX8                            COL_FIX9     COL_FIX10   COL_FIX11 COL_FIX12 
+-------------------- -------------------- ----------- -------- -------- -------- -------------------- ----------------------------------- ------------ ----------- --------- ----------
+<group_begin>
+The first row        The table7a-1                100    101.0  -1456.0    12345               100000 All fixed columns - row1                     100          11         1 1999-02-15
+The second row       The table7a-2                200    202.0   -246.0    23456               200000 All fixed columns - row2                     200          22         2 1999-02-16
+The third row        The table7a-3                300    303.0   -357.0    34567               300000 All fixed columns - row3                     200          22         2 1999-02-17
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+COL_FIX1             COL_FIX2             COL_FIX3    COL_FIX4 COL_FIX5 COL_FIX6 COL_FIX7             COL_FIX8                            COL_FIX9     COL_FIX10   COL_FIX11 COL_FIX12 
+-------------------- -------------------- ----------- -------- -------- -------- -------------------- ----------------------------------- ------------ ----------- --------- ----------
+<group_begin>
+The first row        The table7a-1                100    101.0  -1456.0    12345               100000 All fixed columns - row1                     100          11         1 1999-02-15
+The second row       The table7a-2                200    202.0   -246.0    23456               200000 All fixed columns - row2                     200          22         2 1999-02-16
+The third row        The table7a-3                300    303.0   -357.0    34567               300000 All fixed columns - row3                     200          22         2 1999-02-17
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+COL_FIX1             COL_FIX2             COL_FIX3    COL_FIX4 COL_FIX5 COL_FIX6 COL_FIX7             COL_FIX8                            COL_FIX9     COL_FIX10   COL_FIX11 COL_FIX12 
+-------------------- -------------------- ----------- -------- -------- -------- -------------------- ----------------------------------- ------------ ----------- --------- ----------
+<group_begin>
+The first row        The table7a-1                100    101.0  -1456.0    12345               100000 All fixed columns - row1                     100          11         1 1999-02-15
+The second row       The table7a-2                200    202.0   -246.0    23456               200000 All fixed columns - row2                     200          22         2 1999-02-16
+The third row        The table7a-3                300    303.0   -357.0    34567               300000 All fixed columns - row3                     200          22         2 1999-02-17
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+COL_FIX1             COL_FIX2             COL_FIX3    COL_FIX4 COL_FIX5 COL_FIX6 COL_FIX7             COL_FIX8                            COL_FIX9     COL_FIX10   COL_FIX11 COL_FIX12 
+-------------------- -------------------- ----------- -------- -------- -------- -------------------- ----------------------------------- ------------ ----------- --------- ----------
+<group_begin>
+fffffffffffffffff    ggggggggggggggggg            100    101.0  -1456.0    12345               100000 All fixed columns - row1                     100          11         1 1999-02-15
+fffffffffffffffff    ggggggggggggggggg            200    202.0   -246.0    23456               200000 All fixed columns - row2                     200          22         2 1999-02-16
+fffffffffffffffff    ggggggggggggggggg            300    303.0   -357.0    34567               300000 All fixed columns - row3                     200          22         2 1999-02-17
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+COL_FIX1             COL_FIX2             COL_FIX3    COL_FIX4 COL_FIX5 COL_FIX6 COL_FIX7             COL_FIX8                            COL_FIX9     COL_FIX10   COL_FIX11 COL_FIX12 
+-------------------- -------------------- ----------- -------- -------- -------- -------------------- ----------------------------------- ------------ ----------- --------- ----------
+<group_begin>
+The first row        The table7a-1                100    101.0  -1456.0    12345               100000 All fixed columns - row1                     100          11         1 1999-02-15
+The second row       The table7a-2                200    202.0   -246.0    23456               200000 All fixed columns - row2                     200          22         2 1999-02-16
+The third row        The table7a-3                300    303.0   -357.0    34567               300000 All fixed columns - row3                     200          22         2 1999-02-17
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+COL_VAR1             COL_VAR2             COL_VAR3                       COL_VAR4                       COL_VAR5                       COL_VAR6                       COL_VAR7                            COL_VAR8                            COL_VAR9                       COL_VAR10                      COL_VAR11                      COL_VAR12                          
+-------------------- -------------------- ------------------------------ ------------------------------ ------------------------------ ------------------------------ ----------------------------------- ----------------------------------- ------------------------------ ------------------------------ ------------------------------ -----------------------------------
+<group_begin>
+Sun Micro.           Menlo Park           California                     95017                          Jim Mcliney                    Stanford                       USA                                 Chief Executive Officer             Solaris7                       Friday                         January                        Weekday                            
+Oracle               Belmont              California                     95035                          Larry Esson                    UC Berkeley                    USA                                 Chief Executive Officer             Oracle8                        Sunday                         February                       Weekend                            
+Compaq Computers     Houston              Texas                          77043                          Eckard Phiffer                 Oxford                         England                             Chief Executive Officer             Presario5                      Tuesday                        May                            Weekday                            
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s7
+
+COL_VAR1             COL_VAR2             COL_VAR3                       COL_VAR4                       COL_VAR5                       COL_VAR6                       COL_VAR7                            COL_VAR8                            COL_VAR9                       COL_VAR10                      COL_VAR11                      COL_VAR12                          
+-------------------- -------------------- ------------------------------ ------------------------------ ------------------------------ ------------------------------ ----------------------------------- ----------------------------------- ------------------------------ ------------------------------ ------------------------------ -----------------------------------
+<group_begin>
+NULL                 NULL                 NULL                           NULL                           NULL                           NULL                           CHANGED VALUE                       NULL                                NULL                           NULL                           NULL                           NULL                               
+NULL                 NULL                 NULL                           NULL                           NULL                           NULL                           CHANGED VALUE                       NULL                                NULL                           NULL                           NULL                           NULL                               
+NULL                 NULL                 NULL                           NULL                           NULL                           NULL                           CHANGED VALUE                       NULL                                NULL                           NULL                           NULL                           NULL                               
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s8
+
+COL_VAR1             COL_VAR2             COL_VAR3                       COL_VAR4                       COL_VAR5                       COL_VAR6                       COL_VAR7                            COL_VAR8                            COL_VAR9                       COL_VAR10                      COL_VAR11                      COL_VAR12                          
+-------------------- -------------------- ------------------------------ ------------------------------ ------------------------------ ------------------------------ ----------------------------------- ----------------------------------- ------------------------------ ------------------------------ ------------------------------ -----------------------------------
+<group_begin>
+NULL                 NULL                 NULL                           NULL                           NULL                           NULL                           CHANGED VALUE                       NULL                                NULL                           NULL                           NULL                           NULL                               
+NULL                 NULL                 NULL                           NULL                           NULL                           NULL                           CHANGED VALUE                       NULL                                NULL                           NULL                           NULL                           NULL                               
+NULL                 NULL                 NULL                           NULL                           NULL                           NULL                           CHANGED VALUE                       NULL                                NULL                           NULL                           NULL                           NULL                               
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s9
+
+COL_VAR1             COL_VAR2             COL_VAR3                       COL_VAR4                       COL_VAR5                       COL_VAR6                       COL_VAR7                            COL_VAR8                            COL_VAR9                       COL_VAR10                      COL_VAR11                      COL_VAR12                          
+-------------------- -------------------- ------------------------------ ------------------------------ ------------------------------ ------------------------------ ----------------------------------- ----------------------------------- ------------------------------ ------------------------------ ------------------------------ -----------------------------------
+<group_begin>
+Sun Micro.           Menlo Park           California                     95017                          Jim Mcliney                    Stanford                       USA                                 Chief Executive Officer             Solaris7                       Friday                         January                        Weekday                            
+Oracle               Belmont              California                     95035                          Larry Esson                    UC Berkeley                    USA                                 Chief Executive Officer             Oracle8                        Sunday                         February                       Weekend                            
+Compaq Computers     Houston              Texas                          77043                          Eckard Phiffer                 Oxford                         England                             Chief Executive Officer             Presario5                      Tuesday                        May                            Weekday                            
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

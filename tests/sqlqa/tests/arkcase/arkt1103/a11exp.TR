@@ -1,0 +1,1355 @@
+<section_begin>  a11s0
+
+SBIN4_2 CHAR13_100 VARCHAR15_UNIQ SBIN16_20   UBIN16_1000 SDEC19_1000
+------- ---------- -------------- ----------- ----------- -----------
+<group_begin>
+    0.0 ABAA       ABAA                  0.06        6.26         1.1
+    0.0 AFAA       AX                    0.10        8.30         0.8
+    0.0 APAA       GIAAEAAA              0.10        8.90         1.0
+    0.0 AVAA       AHAAAAAB              0.06        5.46         0.3
+    0.0 AWAA       AX                    0.02        6.22         0.6
+    0.0 AX         AAAA                  0.18        1.98         1.2
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s1
+
+UBIN4_4 SDEC4_10 UDEC4_2 SDEC11_20
+------- -------- ------- ---------
+<group_begin>
+    0.0      0.2     0.0   0.00019
+    0.1      0.1     0.1   0.00000
+    0.2      0.2     0.0   0.00018
+    0.2      0.2     0.0   0.00019
+    0.2      0.6     0.0   0.00000
+    0.3      0.3     0.1   0.00001
+    0.3      0.7     0.1   0.00018
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s2
+
+CHAR15_100 CHAR17_2
+---------- --------
+<group_begin>
+ACAAAAAA   AAAAAA  
+ATAAAAA    AAAA    
+BGAAAAAA   BAAA    
+BOAAAAA    AAAAAAA 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+(EXPR) (EXPR) (EXPR) (EXPR) (EXPR)    (EXPR)    (EXPR)      (EXPR)      (EXPR)      (EXPR)      (EXPR) (EXPR)
+------ ------ ------ ------ --------- --------- ----------- ----------- ----------- ----------- ------ ------
+   0.0    0.0 ABAA   AX     AAAA      GIAAEAAA         0.02        0.18        1.98        8.90    0.3    1.2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s4
+
+(EXPR) (EXPR) (EXPR) (EXPR) (EXPR) (EXPR) (EXPR)  (EXPR) 
+------ ------ ------ ------ ------ ------ ------- -------
+   0.0    0.3    0.1    0.7    0.0    0.1 0.00000 0.00019
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+(EXPR) (EXPR) (EXPR) (EXPR) (EXPR)    (EXPR)    (EXPR)      (EXPR)      (EXPR)      (EXPR)      (EXPR) (EXPR)
+------ ------ ------ ------ --------- --------- ----------- ----------- ----------- ----------- ------ ------
+<group_begin>
+   0.0    0.0 ABAA   ABAA   ABAA      ABAA             0.06        0.06        6.26        6.26    1.1    1.1
+   0.0    0.0 AFAA   AFAA   AX        AX               0.10        0.10        8.30        8.30    0.8    0.8
+   0.0    0.0 APAA   APAA   GIAAEAAA  GIAAEAAA         0.10        0.10        8.90        8.90    1.0    1.0
+   0.0    0.0 AVAA   AVAA   AHAAAAAB  AHAAAAAB         0.06        0.06        5.46        5.46    0.3    0.3
+   0.0    0.0 AWAA   AWAA   AX        AX               0.02        0.02        6.22        6.22    0.6    0.6
+   0.0    0.0 AX     AX     AAAA      AAAA             0.18        0.18        1.98        1.98    1.2    1.2
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s6
+
+(EXPR) (EXPR) (EXPR) (EXPR) (EXPR) (EXPR) (EXPR)  (EXPR) 
+------ ------ ------ ------ ------ ------ ------- -------
+<group_begin>
+   0.0    0.0    0.2    0.2    0.0    0.0 0.00019 0.00019
+   0.1    0.1    0.1    0.1    0.1    0.1 0.00000 0.00000
+   0.2    0.2    0.2    0.2    0.0    0.0 0.00018 0.00018
+   0.2    0.2    0.2    0.2    0.0    0.0 0.00019 0.00019
+   0.2    0.2    0.6    0.6    0.0    0.0 0.00000 0.00000
+   0.3    0.3    0.3    0.3    0.1    0.1 0.00001 0.00001
+   0.3    0.3    0.7    0.7    0.1    0.1 0.00018 0.00018
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s7
+
+CHAR6_20
+--------
+<group_begin>
+ABAAAAAA
+ACAAAAAA
+AE      
+AEAAAAAA
+AF      
+AG      
+AH      
+AI      
+AJ      
+AK      
+AL      
+AM      
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a11s8
+
+CHAR17_100           UDEC17_100
+-------------------- ----------
+<group_begin>
+AWAAAAAAAAAAAAAA             27
+BLAAAAAAAAAAAAAA             78
+CBAAAAAAAAAAAAAA             46
+CCAAAAAAAAAAAAAA             16
+CCAAAAAAAAAAAAAA             57
+DDAAAAAAAAAAAAAA             24
+DMAAAAAAAAAAAAAA             85
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s9
+
+A                    B    C               
+-------------------- ---- ----------------
+<group_begin>
+NULL                 NULL ABAAAAAAAAAAAAAA
+NULL                 NULL ACAAAAAAAAAAAAAA
+NULL                 NULL AE      AAAAAAAA
+NULL                 NULL AEAAAAAAAAAAAAAA
+NULL                 NULL AF      AAAAAAAA
+NULL                 NULL AG      AAAAAAAA
+NULL                 NULL AH      AAAAAAAA
+NULL                 NULL AI      AAAAAAAA
+NULL                 NULL AJ      AAAAAAAA
+NULL                 NULL AK      AAAAAAAA
+NULL                 NULL AL      AAAAAAAA
+NULL                 NULL AM      AAAAAAAA
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a11s10
+
+C                A                    B   
+---------------- -------------------- ----
+<group_begin>
+NULL             AWAAAAAAAAAAAAAA       27
+NULL             BLAAAAAAAAAAAAAA       78
+NULL             CBAAAAAAAAAAAAAA       46
+NULL             CCAAAAAAAAAAAAAA       16
+NULL             CCAAAAAAAAAAAAAA       57
+NULL             DDAAAAAAAAAAAAAA       24
+NULL             DMAAAAAAAAAAAAAA       85
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s11
+
+A                    B    C               
+-------------------- ---- ----------------
+<group_begin>
+CCAAAAAAAAAAAAAA       16 CCAAAAAAAAAAAAAA
+CCAAAAAAAAAAAAAA       57 CCAAAAAAAAAAAAAA
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s12
+
+C                A                    B   
+---------------- -------------------- ----
+<group_begin>
+CCAAAAAAAAAAAAAA CCAAAAAAAAAAAAAA       16
+CCAAAAAAAAAAAAAA CCAAAAAAAAAAAAAA       57
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s13
+
+A    N1     C2   C3   C4      
+---- ------ ---- ---- --------
+<group_begin>
+  24  -4344 AA   BA   BA      
+  24  -3552 BA   AA   AA      
+  24  -2789 DA   EA   NULL    
+  24  -2389 BA   AA   AA      
+  24   NULL NULL BA   BA      
+  24   NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s14
+
+(EXPR)
+----------
+<group_begin>
+        12
+        12
+        12
+      NULL
+      NULL
+      NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s15
+
+A    B      C    D    E       
+---- ------ ---- ---- --------
+<group_begin>
+  24  -4344 AA   BA   BA      
+  24  -3552 BA   AA   AA      
+  24  -2389 BA   AA   AA      
+NULL  -2789 DA   EA   NULL    
+NULL   NULL NULL BA   BA      
+NULL   NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s16
+
+B      C    D    E        A   
+------ ---- ---- -------- ----
+<group_begin>
+ -4344 AA   BA   BA         24
+ -3552 BA   AA   AA         24
+ -2789 DA   EA   NULL       24
+ -2389 BA   AA   AA         24
+  NULL NULL BA   BA         24
+  NULL NULL DA   DA         24
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s17
+
+(EXPR)        A   
+------------- ----
+<group_begin>
+           24   16
+           24   16
+           24   16
+           24   24
+           24   24
+           24   24
+           24   27
+           24   27
+           24   27
+           24   46
+           24   46
+           24   46
+           24   57
+           24   57
+           24   57
+           24   78
+           24   78
+           24   78
+           24   85
+           24   85
+           24   85
+         NULL   16
+         NULL   16
+         NULL   16
+         NULL   24
+         NULL   24
+         NULL   24
+         NULL   27
+         NULL   27
+         NULL   27
+         NULL   46
+         NULL   46
+         NULL   46
+         NULL   57
+         NULL   57
+         NULL   57
+         NULL   78
+         NULL   78
+         NULL   78
+         NULL   85
+         NULL   85
+         NULL   85
+<group_end>
+
+--- 42 row(s) selected.
+
+<section_end>
+<section_begin>  a11s18
+
+B      C    D    E        A   
+------ ---- ---- -------- ----
+<group_begin>
+ -4344 AA   BA   BA         24
+ -3552 BA   AA   AA         24
+ -2389 BA   AA   AA         24
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s19
+
+A    B      C    D    E       
+---- ------ ---- ---- --------
+<group_begin>
+  24  -4344 AA   BA   BA      
+  24  -3552 BA   AA   AA      
+  24  -2389 BA   AA   AA      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s20
+
+B      C    D    E        A   
+------ ---- ---- -------- ----
+<group_begin>
+ -4344 AA   BA   BA         24
+ -3552 BA   AA   AA         24
+ -2389 BA   AA   AA         24
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s21
+
+VARCHAR15_UNIQ CHAR13_100
+-------------- ----------
+<group_begin>
+AAAA           AX        
+ABAA           ABAA      
+AHAAAAAB       AVAA      
+AX             AFAA      
+AX             AWAA      
+GIAAEAAA       APAA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s22
+
+(EXPR)    (EXPR)
+--------- ------
+<group_begin>
+AAAA      AX    
+ABAA      ABAA  
+AHAAAAAB  AVAA  
+AX        AFAA  
+AX        AWAA  
+GIAAEAAA  APAA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s23
+
+VARCHAR15_UNIQ (EXPR)
+-------------- ------
+<group_begin>
+AAAA           AX    
+ABAA           ABAA  
+AHAAAAAB       AVAA  
+AX             AWAA  
+GIAAEAAA       APAA  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s24
+
+(EXPR)    CHAR13_100
+--------- ----------
+<group_begin>
+AAAA      AX        
+ABAA      ABAA      
+AHAAAAAB  AVAA      
+AX        AFAA      
+AX        AWAA      
+GIAAEAAA  APAA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s25
+
+A         B     C         D    
+--------- ----- --------- -----
+<group_begin>
+AAAA      AX    AAAA      AX   
+AAAA      AX    ABAA      ABAA 
+AAAA      AX    AHAAAAAB  AVAA 
+AAAA      AX    AX        AFAA 
+AAAA      AX    AX        AWAA 
+AAAA      AX    GIAAEAAA  APAA 
+ABAA      ABAA  AAAA      AX   
+ABAA      ABAA  ABAA      ABAA 
+ABAA      ABAA  AHAAAAAB  AVAA 
+ABAA      ABAA  AX        AFAA 
+ABAA      ABAA  AX        AWAA 
+ABAA      ABAA  GIAAEAAA  APAA 
+AHAAAAAB  AVAA  AAAA      AX   
+AHAAAAAB  AVAA  ABAA      ABAA 
+AHAAAAAB  AVAA  AHAAAAAB  AVAA 
+AHAAAAAB  AVAA  AX        AFAA 
+AHAAAAAB  AVAA  AX        AWAA 
+AHAAAAAB  AVAA  GIAAEAAA  APAA 
+AX        AWAA  AAAA      AX   
+AX        AWAA  ABAA      ABAA 
+AX        AWAA  AHAAAAAB  AVAA 
+AX        AWAA  AX        AFAA 
+AX        AWAA  AX        AWAA 
+AX        AWAA  GIAAEAAA  APAA 
+GIAAEAAA  APAA  AAAA      AX   
+GIAAEAAA  APAA  ABAA      ABAA 
+GIAAEAAA  APAA  AHAAAAAB  AVAA 
+GIAAEAAA  APAA  AX        AFAA 
+GIAAEAAA  APAA  AX        AWAA 
+GIAAEAAA  APAA  GIAAEAAA  APAA 
+<group_end>
+
+--- 30 row(s) selected.
+
+<section_end>
+<section_begin>  a11s26
+
+A         B     C         D    
+--------- ----- --------- -----
+<group_begin>
+AAAA      AX    AAAA      AX   
+AAAA      AX    ABAA      ABAA 
+AAAA      AX    AHAAAAAB  AVAA 
+AAAA      AX    AX        AFAA 
+AAAA      AX    AX        AWAA 
+AAAA      AX    GIAAEAAA  APAA 
+ABAA      ABAA  AAAA      AX   
+ABAA      ABAA  ABAA      ABAA 
+ABAA      ABAA  AHAAAAAB  AVAA 
+ABAA      ABAA  AX        AFAA 
+ABAA      ABAA  AX        AWAA 
+ABAA      ABAA  GIAAEAAA  APAA 
+AHAAAAAB  AVAA  AAAA      AX   
+AHAAAAAB  AVAA  ABAA      ABAA 
+AHAAAAAB  AVAA  AHAAAAAB  AVAA 
+AHAAAAAB  AVAA  AX        AFAA 
+AHAAAAAB  AVAA  AX        AWAA 
+AHAAAAAB  AVAA  GIAAEAAA  APAA 
+AX        AWAA  AAAA      AX   
+AX        AWAA  ABAA      ABAA 
+AX        AWAA  AHAAAAAB  AVAA 
+AX        AWAA  AX        AFAA 
+AX        AWAA  AX        AWAA 
+AX        AWAA  GIAAEAAA  APAA 
+GIAAEAAA  APAA  AAAA      AX   
+GIAAEAAA  APAA  ABAA      ABAA 
+GIAAEAAA  APAA  AHAAAAAB  AVAA 
+GIAAEAAA  APAA  AX        AFAA 
+GIAAEAAA  APAA  AX        AWAA 
+GIAAEAAA  APAA  GIAAEAAA  APAA 
+<group_end>
+
+--- 30 row(s) selected.
+
+<section_end>
+<section_begin>  a11s27
+
+CHAR6_20
+--------
+<group_begin>
+ABAAAAAA
+ACAAAAAA
+AE      
+AEAAAAAA
+AF      
+AG      
+AH      
+AI      
+AJ      
+AK      
+AL      
+AM      
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a11s28
+
+CHAR17_100           UDEC17_100
+-------------------- ----------
+<group_begin>
+AWAAAAAAAAAAAAAA             27
+BLAAAAAAAAAAAAAA             78
+CBAAAAAAAAAAAAAA             46
+CCAAAAAAAAAAAAAA             16
+CCAAAAAAAAAAAAAA             57
+DDAAAAAAAAAAAAAA             24
+DMAAAAAAAAAAAAAA             85
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s29
+
+A         B           C   
+--------- ----------- ----
+<group_begin>
+ABAA             6.26 ABAA
+AX               8.30 ABAA
+AX               8.30 ACAA
+AX               8.30 AE  
+AX               8.30 AEAA
+AX               8.30 AF  
+AX               8.30 AG  
+AX               8.30 AH  
+AX               8.30 AI  
+AX               8.30 AJ  
+AX               8.30 AK  
+AX               8.30 AL  
+AX               8.30 AM  
+AX               8.30 CCAA
+GIAAEAAA         8.90 ABAA
+GIAAEAAA         8.90 ACAA
+GIAAEAAA         8.90 AE  
+GIAAEAAA         8.90 AEAA
+GIAAEAAA         8.90 AF  
+GIAAEAAA         8.90 AG  
+GIAAEAAA         8.90 AH  
+GIAAEAAA         8.90 AI  
+GIAAEAAA         8.90 AJ  
+GIAAEAAA         8.90 AK  
+GIAAEAAA         8.90 AL  
+GIAAEAAA         8.90 AM  
+GIAAEAAA         8.90 CCAA
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a11s30
+
+A         B           C   
+--------- ----------- ----
+<group_begin>
+ABAA             6.26 ABAA
+AX               8.30 ABAA
+AX               8.30 ACAA
+AX               8.30 AE  
+AX               8.30 AEAA
+AX               8.30 AF  
+AX               8.30 AG  
+AX               8.30 AH  
+AX               8.30 AI  
+AX               8.30 AJ  
+AX               8.30 AK  
+AX               8.30 AL  
+AX               8.30 AM  
+GIAAEAAA         8.90 ABAA
+GIAAEAAA         8.90 ACAA
+GIAAEAAA         8.90 AE  
+GIAAEAAA         8.90 AEAA
+GIAAEAAA         8.90 AF  
+GIAAEAAA         8.90 AG  
+GIAAEAAA         8.90 AH  
+GIAAEAAA         8.90 AI  
+GIAAEAAA         8.90 AJ  
+GIAAEAAA         8.90 AK  
+GIAAEAAA         8.90 AL  
+GIAAEAAA         8.90 AM  
+<group_end>
+
+--- 25 row(s) selected.
+
+<section_end>
+<section_begin>  a11s31
+
+A         B           C   
+--------- ----------- ----
+<group_begin>
+AAAA             1.98 NULL
+ABAA             6.26 ABAA
+AHAAAAAB         5.46 NULL
+AX               8.30 ABAA
+AX               8.30 ACAA
+AX               8.30 AE  
+AX               8.30 AEAA
+AX               8.30 AF  
+AX               8.30 AG  
+AX               8.30 AH  
+AX               8.30 AI  
+AX               8.30 AJ  
+AX               8.30 AK  
+AX               8.30 AL  
+AX               8.30 AM  
+AX               8.30 CCAA
+AX               6.22 NULL
+GIAAEAAA         8.90 ABAA
+GIAAEAAA         8.90 ACAA
+GIAAEAAA         8.90 AE  
+GIAAEAAA         8.90 AEAA
+GIAAEAAA         8.90 AF  
+GIAAEAAA         8.90 AG  
+GIAAEAAA         8.90 AH  
+GIAAEAAA         8.90 AI  
+GIAAEAAA         8.90 AJ  
+GIAAEAAA         8.90 AK  
+GIAAEAAA         8.90 AL  
+GIAAEAAA         8.90 AM  
+GIAAEAAA         8.90 CCAA
+<group_end>
+
+--- 30 row(s) selected.
+
+<section_end>
+<section_begin>  a11s32
+
+A         B           C   
+--------- ----------- ----
+<group_begin>
+AAAA             1.98 NULL
+ABAA             6.26 ABAA
+AHAAAAAB         5.46 NULL
+AX               8.30 ABAA
+AX               8.30 ACAA
+AX               8.30 AE  
+AX               8.30 AEAA
+AX               8.30 AF  
+AX               8.30 AG  
+AX               8.30 AH  
+AX               8.30 AI  
+AX               8.30 AJ  
+AX               8.30 AK  
+AX               8.30 AL  
+AX               8.30 AM  
+AX               6.22 NULL
+GIAAEAAA         8.90 ABAA
+GIAAEAAA         8.90 ACAA
+GIAAEAAA         8.90 AE  
+GIAAEAAA         8.90 AEAA
+GIAAEAAA         8.90 AF  
+GIAAEAAA         8.90 AG  
+GIAAEAAA         8.90 AH  
+GIAAEAAA         8.90 AI  
+GIAAEAAA         8.90 AJ  
+GIAAEAAA         8.90 AK  
+GIAAEAAA         8.90 AL  
+GIAAEAAA         8.90 AM  
+<group_end>
+
+--- 28 row(s) selected.
+
+<section_end>
+<section_begin>  a11s33
+
+A         B           C   
+--------- ----------- ----
+<group_begin>
+ABAA             6.26 ABAA
+AX               8.30 ABAA
+AX               8.30 ACAA
+AX               8.30 AE  
+AX               8.30 AEAA
+AX               8.30 AF  
+AX               8.30 AG  
+AX               8.30 AH  
+AX               8.30 AI  
+AX               8.30 AJ  
+AX               8.30 AK  
+AX               8.30 AL  
+AX               8.30 AM  
+AX               8.30 CCAA
+GIAAEAAA         8.90 ABAA
+GIAAEAAA         8.90 ACAA
+GIAAEAAA         8.90 AE  
+GIAAEAAA         8.90 AEAA
+GIAAEAAA         8.90 AF  
+GIAAEAAA         8.90 AG  
+GIAAEAAA         8.90 AH  
+GIAAEAAA         8.90 AI  
+GIAAEAAA         8.90 AJ  
+GIAAEAAA         8.90 AK  
+GIAAEAAA         8.90 AL  
+GIAAEAAA         8.90 AM  
+GIAAEAAA         8.90 CCAA
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a11s34
+
+A         B           C   
+--------- ----------- ----
+<group_begin>
+ABAA             6.26 ABAA
+AX               8.30 ABAA
+AX               8.30 ACAA
+AX               8.30 AE  
+AX               8.30 AEAA
+AX               8.30 AF  
+AX               8.30 AG  
+AX               8.30 AH  
+AX               8.30 AI  
+AX               8.30 AJ  
+AX               8.30 AK  
+AX               8.30 AL  
+AX               8.30 AM  
+GIAAEAAA         8.90 ABAA
+GIAAEAAA         8.90 ACAA
+GIAAEAAA         8.90 AE  
+GIAAEAAA         8.90 AEAA
+GIAAEAAA         8.90 AF  
+GIAAEAAA         8.90 AG  
+GIAAEAAA         8.90 AH  
+GIAAEAAA         8.90 AI  
+GIAAEAAA         8.90 AJ  
+GIAAEAAA         8.90 AK  
+GIAAEAAA         8.90 AL  
+GIAAEAAA         8.90 AM  
+<group_end>
+
+--- 25 row(s) selected.
+
+<section_end>
+<section_begin>  a11s35
+
+A         B           C   
+--------- ----------- ----
+<group_begin>
+ABAA             6.26 ABAA
+AX               8.30 ABAA
+AX               8.30 ACAA
+AX               8.30 AE  
+AX               8.30 AEAA
+AX               8.30 AF  
+AX               8.30 AG  
+AX               8.30 AH  
+AX               8.30 AI  
+AX               8.30 AJ  
+AX               8.30 AK  
+AX               8.30 AL  
+AX               8.30 AM  
+AX               8.30 CCAA
+GIAAEAAA         8.90 ABAA
+GIAAEAAA         8.90 ACAA
+GIAAEAAA         8.90 AE  
+GIAAEAAA         8.90 AEAA
+GIAAEAAA         8.90 AF  
+GIAAEAAA         8.90 AG  
+GIAAEAAA         8.90 AH  
+GIAAEAAA         8.90 AI  
+GIAAEAAA         8.90 AJ  
+GIAAEAAA         8.90 AK  
+GIAAEAAA         8.90 AL  
+GIAAEAAA         8.90 AM  
+GIAAEAAA         8.90 CCAA
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a11s36
+
+A         B           C   
+--------- ----------- ----
+<group_begin>
+ABAA             6.26 ABAA
+AX               8.30 ABAA
+AX               8.30 ACAA
+AX               8.30 AE  
+AX               8.30 AEAA
+AX               8.30 AF  
+AX               8.30 AG  
+AX               8.30 AH  
+AX               8.30 AI  
+AX               8.30 AJ  
+AX               8.30 AK  
+AX               8.30 AL  
+AX               8.30 AM  
+GIAAEAAA         8.90 ABAA
+GIAAEAAA         8.90 ACAA
+GIAAEAAA         8.90 AE  
+GIAAEAAA         8.90 AEAA
+GIAAEAAA         8.90 AF  
+GIAAEAAA         8.90 AG  
+GIAAEAAA         8.90 AH  
+GIAAEAAA         8.90 AI  
+GIAAEAAA         8.90 AJ  
+GIAAEAAA         8.90 AK  
+GIAAEAAA         8.90 AL  
+GIAAEAAA         8.90 AM  
+<group_end>
+
+--- 25 row(s) selected.
+
+<section_end>
+<section_begin>  a11s37
+
+(EXPR)    CHAR13_100
+--------- ----------
+<group_begin>
+AAAA      AX        
+ABAA      ABAA      
+AHAAAAAB  AVAA      
+AX        AFAA      
+AX        AWAA      
+GIAAEAAA  APAA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s38
+
+A         B           N1     C2   C4      
+--------- ----------- ------ ---- --------
+<group_begin>
+AAAA             1.98  -4344 AA   BA      
+NULL             NULL  -3552 BA   AA      
+NULL             NULL  -2789 DA   NULL    
+NULL             NULL  -2389 BA   AA      
+NULL             NULL   NULL NULL BA      
+NULL             NULL   NULL NULL DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s39
+
+N1     C2   C4       A         B          
+------ ---- -------- --------- -----------
+<group_begin>
+ -4344 AA   BA       AAAA             1.98
+  NULL NULL NULL     ABAA             6.26
+  NULL NULL NULL     AHAAAAAB         5.46
+  NULL NULL NULL     AX               6.22
+  NULL NULL NULL     AX               8.30
+  NULL NULL NULL     GIAAEAAA         8.90
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s40
+
+A         B           N1     C2   C4      
+--------- ----------- ------ ---- --------
+AAAA             1.98  -4344 AA   BA      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s41
+
+N1     C2   C4       A         B          
+------ ---- -------- --------- -----------
+ -4344 AA   BA       AAAA             1.98
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s42
+
+(EXPR)
+----------------
+<group_begin>
+ABAAAAAAAAAAAAAA
+ACAAAAAAAAAAAAAA
+AE      AAAAAAAA
+AEAAAAAAAAAAAAAA
+AF      AAAAAAAA
+AG      AAAAAAAA
+AH      AAAAAAAA
+AI      AAAAAAAA
+AJ      AAAAAAAA
+AK      AAAAAAAA
+AL      AAAAAAAA
+AM      AAAAAAAA
+CCAAAAAAAAAAAAAA
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a11s43
+
+CA               CB              
+---------------- ----------------
+<group_begin>
+ABAAAAAAAAAAAAAA ABAAAAAAAAAAAAAA
+ACAAAAAAAAAAAAAA ACAAAAAAAAAAAAAA
+AE      AAAAAAAA AE      AAAAAAAA
+AEAAAAAAAAAAAAAA AEAAAAAAAAAAAAAA
+AF      AAAAAAAA AF      AAAAAAAA
+AG      AAAAAAAA AG      AAAAAAAA
+AH      AAAAAAAA AH      AAAAAAAA
+AI      AAAAAAAA AI      AAAAAAAA
+AJ      AAAAAAAA AJ      AAAAAAAA
+AK      AAAAAAAA AK      AAAAAAAA
+AL      AAAAAAAA AL      AAAAAAAA
+AM      AAAAAAAA AM      AAAAAAAA
+CCAAAAAAAAAAAAAA CCAAAAAAAAAAAAAA
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a11s44
+
+CA               CB              
+---------------- ----------------
+<group_begin>
+ABAAAAAAAAAAAAAA AJ      AAAAAAAA
+ABAAAAAAAAAAAAAA AK      AAAAAAAA
+ABAAAAAAAAAAAAAA AL      AAAAAAAA
+ABAAAAAAAAAAAAAA AM      AAAAAAAA
+ABAAAAAAAAAAAAAA CCAAAAAAAAAAAAAA
+ACAAAAAAAAAAAAAA AJ      AAAAAAAA
+ACAAAAAAAAAAAAAA AK      AAAAAAAA
+ACAAAAAAAAAAAAAA AL      AAAAAAAA
+ACAAAAAAAAAAAAAA AM      AAAAAAAA
+ACAAAAAAAAAAAAAA CCAAAAAAAAAAAAAA
+AE      AAAAAAAA AJ      AAAAAAAA
+AE      AAAAAAAA AK      AAAAAAAA
+AE      AAAAAAAA AL      AAAAAAAA
+AE      AAAAAAAA AM      AAAAAAAA
+AE      AAAAAAAA CCAAAAAAAAAAAAAA
+AEAAAAAAAAAAAAAA AJ      AAAAAAAA
+AEAAAAAAAAAAAAAA AK      AAAAAAAA
+AEAAAAAAAAAAAAAA AL      AAAAAAAA
+AEAAAAAAAAAAAAAA AM      AAAAAAAA
+AEAAAAAAAAAAAAAA CCAAAAAAAAAAAAAA
+AF      AAAAAAAA AJ      AAAAAAAA
+AF      AAAAAAAA AK      AAAAAAAA
+AF      AAAAAAAA AL      AAAAAAAA
+AF      AAAAAAAA AM      AAAAAAAA
+AF      AAAAAAAA CCAAAAAAAAAAAAAA
+AG      AAAAAAAA AJ      AAAAAAAA
+AG      AAAAAAAA AK      AAAAAAAA
+AG      AAAAAAAA AL      AAAAAAAA
+AG      AAAAAAAA AM      AAAAAAAA
+AG      AAAAAAAA CCAAAAAAAAAAAAAA
+AH      AAAAAAAA AJ      AAAAAAAA
+AH      AAAAAAAA AK      AAAAAAAA
+AH      AAAAAAAA AL      AAAAAAAA
+AH      AAAAAAAA AM      AAAAAAAA
+AH      AAAAAAAA CCAAAAAAAAAAAAAA
+AI      AAAAAAAA AJ      AAAAAAAA
+AI      AAAAAAAA AK      AAAAAAAA
+AI      AAAAAAAA AL      AAAAAAAA
+AI      AAAAAAAA AM      AAAAAAAA
+AI      AAAAAAAA CCAAAAAAAAAAAAAA
+AJ      AAAAAAAA AJ      AAAAAAAA
+AJ      AAAAAAAA AK      AAAAAAAA
+AJ      AAAAAAAA AL      AAAAAAAA
+AJ      AAAAAAAA AM      AAAAAAAA
+AJ      AAAAAAAA CCAAAAAAAAAAAAAA
+<group_end>
+
+--- 45 row(s) selected.
+
+<section_end>
+<section_begin>  a11s45
+
+(EXPR)
+----------------
+<group_begin>
+ABAAAAAAAAAAAAAA
+ACAAAAAAAAAAAAAA
+AE      AAAAAAAA
+AEAAAAAAAAAAAAAA
+AF      AAAAAAAA
+AG      AAAAAAAA
+AH      AAAAAAAA
+AI      AAAAAAAA
+AJ      AAAAAAAA
+AK      AAAAAAAA
+AL      AAAAAAAA
+AM      AAAAAAAA
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a11s46
+
+CA               CB              
+---------------- ----------------
+<group_begin>
+ABAAAAAAAAAAAAAA ABAAAAAAAAAAAAAA
+ACAAAAAAAAAAAAAA ACAAAAAAAAAAAAAA
+AE      AAAAAAAA AE      AAAAAAAA
+AEAAAAAAAAAAAAAA AEAAAAAAAAAAAAAA
+AF      AAAAAAAA AF      AAAAAAAA
+AG      AAAAAAAA AG      AAAAAAAA
+AH      AAAAAAAA AH      AAAAAAAA
+AI      AAAAAAAA AI      AAAAAAAA
+AJ      AAAAAAAA AJ      AAAAAAAA
+AK      AAAAAAAA AK      AAAAAAAA
+AL      AAAAAAAA AL      AAAAAAAA
+AM      AAAAAAAA AM      AAAAAAAA
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a11s47
+
+CA               CB              
+---------------- ----------------
+<group_begin>
+NULL             AJ      AAAAAAAA
+NULL             AK      AAAAAAAA
+NULL             AL      AAAAAAAA
+NULL             AM      AAAAAAAA
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s48
+
+CA               CB              
+---------------- ----------------
+<group_begin>
+ABAAAAAAAAAAAAAA ABAAAAAAAAAAAAAA
+ACAAAAAAAAAAAAAA ACAAAAAAAAAAAAAA
+AE      AAAAAAAA AE      AAAAAAAA
+AEAAAAAAAAAAAAAA AEAAAAAAAAAAAAAA
+AF      AAAAAAAA AF      AAAAAAAA
+AG      AAAAAAAA AG      AAAAAAAA
+AH      AAAAAAAA AH      AAAAAAAA
+AI      AAAAAAAA AI      AAAAAAAA
+AJ      AAAAAAAA AJ      AAAAAAAA
+AK      AAAAAAAA AK      AAAAAAAA
+AL      AAAAAAAA AL      AAAAAAAA
+AM      AAAAAAAA AM      AAAAAAAA
+CCAAAAAAAAAAAAAA CCAAAAAAAAAAAAAA
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a11s49
+
+CA               CB              
+---------------- ----------------
+<group_begin>
+ABAAAAAAAAAAAAAA AJ      AAAAAAAA
+ABAAAAAAAAAAAAAA AK      AAAAAAAA
+ABAAAAAAAAAAAAAA AL      AAAAAAAA
+ABAAAAAAAAAAAAAA AM      AAAAAAAA
+ABAAAAAAAAAAAAAA CCAAAAAAAAAAAAAA
+ACAAAAAAAAAAAAAA AJ      AAAAAAAA
+ACAAAAAAAAAAAAAA AK      AAAAAAAA
+ACAAAAAAAAAAAAAA AL      AAAAAAAA
+ACAAAAAAAAAAAAAA AM      AAAAAAAA
+ACAAAAAAAAAAAAAA CCAAAAAAAAAAAAAA
+AE      AAAAAAAA AJ      AAAAAAAA
+AE      AAAAAAAA AK      AAAAAAAA
+AE      AAAAAAAA AL      AAAAAAAA
+AE      AAAAAAAA AM      AAAAAAAA
+AE      AAAAAAAA CCAAAAAAAAAAAAAA
+AEAAAAAAAAAAAAAA AJ      AAAAAAAA
+AEAAAAAAAAAAAAAA AK      AAAAAAAA
+AEAAAAAAAAAAAAAA AL      AAAAAAAA
+AEAAAAAAAAAAAAAA AM      AAAAAAAA
+AEAAAAAAAAAAAAAA CCAAAAAAAAAAAAAA
+AF      AAAAAAAA AJ      AAAAAAAA
+AF      AAAAAAAA AK      AAAAAAAA
+AF      AAAAAAAA AL      AAAAAAAA
+AF      AAAAAAAA AM      AAAAAAAA
+AF      AAAAAAAA CCAAAAAAAAAAAAAA
+AG      AAAAAAAA AJ      AAAAAAAA
+AG      AAAAAAAA AK      AAAAAAAA
+AG      AAAAAAAA AL      AAAAAAAA
+AG      AAAAAAAA AM      AAAAAAAA
+AG      AAAAAAAA CCAAAAAAAAAAAAAA
+AH      AAAAAAAA AJ      AAAAAAAA
+AH      AAAAAAAA AK      AAAAAAAA
+AH      AAAAAAAA AL      AAAAAAAA
+AH      AAAAAAAA AM      AAAAAAAA
+AH      AAAAAAAA CCAAAAAAAAAAAAAA
+AI      AAAAAAAA AJ      AAAAAAAA
+AI      AAAAAAAA AK      AAAAAAAA
+AI      AAAAAAAA AL      AAAAAAAA
+AI      AAAAAAAA AM      AAAAAAAA
+AI      AAAAAAAA CCAAAAAAAAAAAAAA
+AJ      AAAAAAAA AJ      AAAAAAAA
+AJ      AAAAAAAA AK      AAAAAAAA
+AJ      AAAAAAAA AL      AAAAAAAA
+AJ      AAAAAAAA AM      AAAAAAAA
+AJ      AAAAAAAA CCAAAAAAAAAAAAAA
+<group_end>
+
+--- 45 row(s) selected.
+
+<section_end>
+<section_begin>  a11s50
+
+CA               CB              
+---------------- ----------------
+<group_begin>
+ABAAAAAAAAAAAAAA ABAAAAAAAAAAAAAA
+ACAAAAAAAAAAAAAA ACAAAAAAAAAAAAAA
+AE      AAAAAAAA AE      AAAAAAAA
+AEAAAAAAAAAAAAAA AEAAAAAAAAAAAAAA
+AF      AAAAAAAA AF      AAAAAAAA
+AG      AAAAAAAA AG      AAAAAAAA
+AH      AAAAAAAA AH      AAAAAAAA
+AI      AAAAAAAA AI      AAAAAAAA
+AJ      AAAAAAAA AJ      AAAAAAAA
+AK      AAAAAAAA AK      AAAAAAAA
+AL      AAAAAAAA AL      AAAAAAAA
+AM      AAAAAAAA AM      AAAAAAAA
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a11s51
+
+VARCHAR5_10 CHAR6_20
+----------- --------
+<group_begin>
+ABAAAAAA    ABAAAAAA
+ACAAA       ACAAAAAA
+ACAAA       CCAAAAAA
+AE          AE      
+AEAAAAA     AEAAAAAA
+AF          AF      
+AG          AG      
+AH          AH      
+AI          AI      
+AJ          AJ      
+AK          AK      
+AL          AL      
+AM          AM      
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a11s52
+
+A    B        C2   C4      
+---- -------- ---- --------
+<group_begin>
+BA   ABAAAAAA AA   BA      
+BA   ABAAAAAA NULL BA      
+NULL NULL     BA   AA      
+NULL NULL     BA   AA      
+NULL NULL     DA   NULL    
+NULL NULL     NULL DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s53
+
+A    B        C2   C4      
+---- -------- ---- --------
+<group_begin>
+BA   ABAAAAAA AA   BA      
+BA   ABAAAAAA NULL BA      
+NULL NULL     BA   AA      
+NULL NULL     BA   AA      
+NULL NULL     DA   NULL    
+NULL NULL     NULL DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s54
+
+C2   C4       A    B       
+---- -------- ---- --------
+<group_begin>
+AA   BA       BA   ABAAAAAA
+NULL BA       BA   ABAAAAAA
+NULL NULL     CA   ACAAAAAA
+NULL NULL     CA   CCAAAAAA
+NULL NULL     E    AE      
+NULL NULL     EA   AEAAAAAA
+NULL NULL     F    AF      
+NULL NULL     G    AG      
+NULL NULL     H    AH      
+NULL NULL     I    AI      
+NULL NULL     J    AJ      
+NULL NULL     K    AK      
+NULL NULL     L    AL      
+NULL NULL     M    AM      
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a11s55
+
+C2   C4       A    B       
+---- -------- ---- --------
+<group_begin>
+AA   BA       BA   ABAAAAAA
+NULL BA       BA   ABAAAAAA
+NULL NULL     CA   ACAAAAAA
+NULL NULL     E    AE      
+NULL NULL     EA   AEAAAAAA
+NULL NULL     F    AF      
+NULL NULL     G    AG      
+NULL NULL     H    AH      
+NULL NULL     I    AI      
+NULL NULL     J    AJ      
+NULL NULL     K    AK      
+NULL NULL     L    AL      
+NULL NULL     M    AM      
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a11s56
+
+A    B        C2   C4      
+---- -------- ---- --------
+<group_begin>
+BA   ABAAAAAA AA   BA      
+BA   ABAAAAAA NULL BA      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s57
+
+A    B        C2   C4      
+---- -------- ---- --------
+<group_begin>
+BA   ABAAAAAA AA   BA      
+BA   ABAAAAAA NULL BA      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s58
+
+C2   C4       A    B       
+---- -------- ---- --------
+<group_begin>
+AA   BA       BA   ABAAAAAA
+NULL BA       BA   ABAAAAAA
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s59
+
+C2   C4       A    B       
+---- -------- ---- --------
+<group_begin>
+AA   BA       BA   ABAAAAAA
+NULL BA       BA   ABAAAAAA
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s60
+
+C2   C4      
+---- --------
+<group_begin>
+AA   BA      
+BA   AA      
+BA   AA      
+DA   NULL    
+NULL BA      
+NULL DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s61
+
+C2   C4       C2   C4      
+---- -------- ---- --------
+<group_begin>
+BA   AA       AA   BA      
+BA   AA       AA   BA      
+DA   NULL     AA   BA      
+DA   NULL     BA   AA      
+DA   NULL     BA   AA      
+NULL NULL     DA   NULL    
+NULL NULL     NULL BA      
+NULL NULL     NULL DA      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a11s62
+
+C2   C4       C2   C4      
+---- -------- ---- --------
+<group_begin>
+BA   AA       AA   BA      
+BA   AA       AA   BA      
+DA   NULL     AA   BA      
+DA   NULL     BA   AA      
+DA   NULL     BA   AA      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

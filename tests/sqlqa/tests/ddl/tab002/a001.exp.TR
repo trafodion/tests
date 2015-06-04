@@ -1,0 +1,33 @@
+<section_begin>  a1s1
+
+MV_NAME                                  M_NAME                         F_NAME                         D_NAME                         MV_STAR_RATING
+---------------------------------------- ------------------------------ ------------------------------ ------------------------------ --------------
+<group_begin>
+To Catch a Thief                         Cary Grant                     Grace Kelly                    Alfred Hitchcock               ****          
+Notorious                                Cary Grant                     Ingrid Bergman                 Alfred Hitchcock               ****          
+Unforgiven                               Clint Eastwood                 No female actor                Clint Eastwood                 ***           
+High Noon                                Gary Cooper                    Grace Kelly                    Fred Zinneman                  ****          
+The Women                                No male actor                  Joan Crawford                  George Cukor                   ****          
+The Philadelphia Story                   Cary Grant                     Katherine Hepburn              George Cukor                   ****          
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a3s3
+
+MV_NAME                                  MV_FEMALESTAR F_NAME                        
+---------------------------------------- ------------- ------------------------------
+<group_begin>
+To Catch a Thief                                  6111 Grace Kelly                   
+High Noon                                         6111 Grace Kelly                   
+Unforgiven                                           0 No female actor               
+The Women                                         6124 Joan Crawford                 
+The Philadelphia Story                            6123 Katherine Hepburn             
+Notorious                                         6125 Ingrid Bergman                
+Austin Powers                                       27 NULL                          
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

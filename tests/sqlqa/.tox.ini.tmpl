@@ -1,0 +1,80 @@
+; @@@ START COPYRIGHT @@@
+;
+; (C) Copyright 2014 Hewlett-Packard Development Company, L.P.
+;
+;  Licensed under the Apache License, Version 2.0 (the "License");
+;  you may not use this file except in compliance with the License.
+;  You may obtain a copy of the License at
+;
+;      http://www.apache.org/licenses/LICENSE-2.0
+;
+;  Unless required by applicable law or agreed to in writing, software
+;  distributed under the License is distributed on an "AS IS" BASIS,
+;  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+;  See the License for the specific language governing permissions and
+;  limitations under the License.
+;
+; @@@ END COPYRIGHT @@@
+
+[tox]
+minversion = 1.6
+envlist = py27,pep8
+skipsdist = True
+
+[testenv]
+setenv = VIRTUAL_ENV={envdir}
+         PY_FWK_PRINT_CFG_INI=yes
+         LANG=en_US.UTF-8
+         LANGUAGE=en_US:en
+         LC_ALL=C
+         JAVA_HOME=TEMPLATE_JAVA_HOME
+         PATH={envbindir}:{env:PATH}:TEMPLATE_JAVA_HOME/bin
+         ODBCHOME=TEMPLATE_ODBC_HOME
+         CPATH=TEMPLATE_ODBC_HOME/include
+         ODBCSYSINI={toxinidir}
+         ODBCINI={toxinidir}/odbc.ini
+         ODBCINST={toxinidir}/odbcinst.ini
+         TEMPLATE_UNICODE_TYPE
+         TEMPLATE_DB_CERT
+         LD_LIBRARY_PATH={toxinidir}/odbc_driver:TEMPLATE_ODBC_LIB
+         LIBRARY_PATH={toxinidir}/odbc_driver:TEMPLATE_ODBC_LIB
+         TEMPLATE_HTTP_PROXY
+         TEMPLATE_HTTPS_PROXY
+         TEMPLATE_FTP_PROXY
+
+whitelist_externals=
+    *
+install_command = pip install -U {opts} {packages}
+deps = -r{toxinidir}/test-requirements.txt
+commands =
+    rm -rf {toxinidir}/.testrepository
+    testr init
+    testr run {posargs}
+    #testr run --parallel --concurrency=6
+
+[testenv:pep8]
+commands = flake8 {posargs}
+
+[testenv:venv]
+commands = {posargs}
+
+[testenv:docs]
+changedir = doc
+deps = sphinx>=1.1.2,!=1.2.0,<1.3
+       TEMPLATE_PYODBC
+       TEMPLATE_PYPYODBC
+commands =
+    cp {toxinidir}/README.rst {toxinidir}/doc/README.rst
+    sphinx-apidoc -f -o ./ ../tests/
+    make html
+
+[tox:jenkins]
+downloadcache = ~/cache/pip
+
+[flake8]
+# H302 import only modules.'bla..' does not import a module
+ignore = H302
+show-source = True
+max-line-length = 100
+exclude = .venv,.git,.tox,dist,doc,*lib/python*,*egg,build,tools
+

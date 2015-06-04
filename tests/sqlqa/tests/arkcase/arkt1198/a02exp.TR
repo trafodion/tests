@@ -1,0 +1,125 @@
+<section_begin>  a02s0
+
+UBIN3_UNIQ
+----------
+<group_begin>
+      3000
+      2999
+      2998
+      1500
+      1499
+      1498
+         1
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+CHAR17_100           UDEC17_100
+-------------------- ----------
+<group_begin>
+AWAAAAAAAAAAAAAA             27
+BLAAAAAAAAAAAAAA             78
+CBAAAAAAAAAAAAAA             46
+CCAAAAAAAAAAAAAA             16
+CCAAAAAAAAAAAAAA             57
+DDAAAAAAAAAAAAAA             24
+DMAAAAAAAAAAAAAA             85
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+UBIN3_UNIQ
+----------
+<group_begin>
+      3000
+      2999
+      2998
+      1500
+      1499
+      1498
+         1
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+VARCHAR0_4 CHAR0_20 SDEC13_UNIQ
+---------- -------- -----------
+<group_begin>
+AAAAAAAA   ACAAAAAA        3527
+BAAAAAAA   BBAAAAAA        4178
+CAAAAAAA   CBAAAAAA         746
+CAAAAAAA   CCAAAAAA        4357
+CAAAAAAA   CCAAAAAA          16
+DAAAAAAA   DCAAAAAA          85
+DAAAAAAA   DDAAAAAA        2724
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+CHAR17_100           UDEC17_100
+-------------------- ----------
+<group_begin>
+AWAAAAAAAAAAAAAA             27
+BLAAAAAAAAAAAAAA             78
+CBAAAAAAAAAAAAAA             46
+CCAAAAAAAAAAAAAA             16
+CCAAAAAAAAAAAAAA             57
+DDAAAAAAAAAAAAAA             24
+DMAAAAAAAAAAAAAA             85
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)
+--------------------
+                   7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+(EXPR)
+--------------------
+                   7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+CHAR17_100           UDEC17_100 CHAR20_10                               
+-------------------- ---------- ----------------------------------------
+AWAAAAAAAAAAAAAA             27 ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+BLAAAAAAAAAAAAAA             78 ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+CBAAAAAAAAAAAAAA             46 ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+CCAAAAAAAAAAAAAA             16 ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+CCAAAAAAAAAAAAAA             57 ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+DDAAAAAAAAAAAAAA             24 ADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+DMAAAAAAAAAAAAAA             85 ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+--- 7 row(s) selected.
+
+<section_end>

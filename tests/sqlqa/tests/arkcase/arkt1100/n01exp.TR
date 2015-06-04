@@ -1,0 +1,517 @@
+<section_begin>  n01s0
+
+PARTNAME
+------------------
+<group_begin>
+ASYNC CONTROLLER  
+ASYNC EXTENSION   
+COBOL MICRO       
+DECIMAL ARITH     
+DISC CONT DUAL    
+DISC CONT SINGLE  
+ENSCRIBE MICRO    
+LINE PRINTER CONT 
+MAG TAPE CONT 8/16
+MAG TAPE DR 8/16  
+MAG TAPE DR 800BPI
+MEM MOD 64K MOS   
+MEM MOD 96K MOS   
+POWER MODULE      
+PROC     96KB SEMI
+SYNC CONTROLLER   
+SYSTEM 192KB CORE 
+SYSTEM 192KB SEMI 
+TERM CRT CHAR     
+TERM CRT PAGE     
+TERM HARD COPY    
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  n01s1
+
+BRANCHNAME
+--------------
+<group_begin>
+CHICAGO       
+CUPERTINO     
+DALLAS        
+FRANKFURT     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  n01s2
+
+EMPNAME
+------------------
+<group_begin>
+GEORGE FORSTER    
+HEIDI WEIGL       
+HERB ALBERT       
+JACK RAYMOND      
+LINDA JONES       
+PETE WELLINGTON   
+RICHARD BARTON    
+SHERRIE WONG      
+STEVE COOK        
+SUE CRAMER        
+SUSAN HENDERSON   
+WALTER LANCASTER  
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  n01s3
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+7                        94 OVC                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s4
+
+(EXPR)
+------------------
+WALTER LANCASTER  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n01s7
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+7                        94 OVC                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s9
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+7                        94 OVC                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s11
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+7                        94 OVC                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s12
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s14
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s15
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s17
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s18
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s20
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s21
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s23
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s24
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s26
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s27
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s29
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s30
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s32
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s33
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s35
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  n01s36
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+vch15                    94 ch3                     7
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>

@@ -1,0 +1,9 @@
+<section_begin>  test0097
+
+EMPNUM EMPNAME              GRADE  CITY           
+------ -------------------- ------ ---------------
+E2     Betty                    10 Vienna         
+
+--- 1 row(s) selected.
+
+<section_end>

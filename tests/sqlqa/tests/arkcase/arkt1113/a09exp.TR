@@ -1,0 +1,123 @@
+<section_begin>  a09s0
+
+VARCHAR0_NUNIQ CHAR2_2 CHAR3_4   SDEC9_UNIQ          
+-------------- ------- --------- --------------------
+<group_begin>
+ LEADING B.    BA      AAAAAAAA                     3
+AA             BA      CAAAAAAA                     1
+ABC            BE      AAAAAAAA                     0
+BA             AB      BAAAAAAA                     4
+EBAAEAAC       BA      AAAAAAA                      2
+TRAILING B     AA      DAAAAAAA                     5
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+VARCHAR0_NUNIQ CHAR9_100
+-------------- ---------
+<group_begin>
+ LEADING B.    DD       
+AA             BB       
+ABC            AA       
+BA             AE       
+EBAAEAAC       CC       
+TRAILING B     BF       
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+(EXPR)
+-----------
+TRAILING B 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s4
+
+(EXPR)
+--------------------
+                  15
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s5
+
+(EXPR) (EXPR) (EXPR) (EXPR) (EXPR)
+------ ------ ------ ------ ------
+     1     26      3      4     18
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s6
+
+(EXPR) (EXPR) (EXPR) (EXPR) (EXPR)
+------ ------ ------ ------ ------
+<group_begin>
+  1.00     26      3      4     18
+  2.00     52     53     74     85
+ 11.00     12      0     14     15
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a09s7
+
+(EXPR)        (EXPR) (EXPR)     
+------------- ------ -----------
+<group_begin>
+ConCatEnate   z                6
+con-cat-enate A              314
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s8
+
+(EXPR) (EXPR) (EXPR) (EXPR) (EXPR) (EXPR) (EXPR) (EXPR)
+------ ------ ------ ------ ------ ------ ------ ------
+     1     26      3      4     18     26      3    7.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s9
+
+A1   B1   C1   D1   E1   F1   G1   H1   I1   J1   A2   B2   C2   D2   E2   F2   G2   H2   I2   J2   A    B    C    D    E    F    G    H    I    J   
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ----
+   1    2    3    4    5    1    2    3    4    5    1    2    3    4    5    1    2    3    4    5 a    b    c    d    e    f    g    h    i    j   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s10
+
+VARCHAR13     VARCHAR7 SOMENUMBER 
+------------- -------- -----------
+<group_begin>
+ConCatEnate   z                  6
+con-cat-enate A                314
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

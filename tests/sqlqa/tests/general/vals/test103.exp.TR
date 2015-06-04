@@ -1,0 +1,81 @@
+<section_begin>  test103f
+
+(EXPR)
+-----------
+74040.0000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test103g
+
+(EXPR)
+------------
+74040.00000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test103h
+
+(EXPR)
+-----------
+74040.0000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test103i
+
+(EXPR)
+------
+9996  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test103k
+
+(EXPR)
+------
+9984  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test103m
+
+(EXPR)
+------
+9960  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test103q
+
+(EXPR)
+---------------
+1234567.123456 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test103s
+
+(EXPR)
+--------------
+999960.000000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test103x
+
+(EXPR)
+---------------
+9959:00.000000 
+
+--- 1 row(s) selected.
+
+<section_end>

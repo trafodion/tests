@@ -1,0 +1,26 @@
+<section_begin>  a10s0
+
+C1         C2            C3         C4           
+---------- ------------- ---------- -------------
+<group_begin>
+        61            61         61           1.0
+        41            41         41          51.0
+        21            21         21          61.0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a10s1
+
+C1         C2            C3         C4           
+---------- ------------- ---------- -------------
+<group_begin>
+        61            61         61           1.0
+        41            41         41          51.0
+        21            21         21          61.0
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

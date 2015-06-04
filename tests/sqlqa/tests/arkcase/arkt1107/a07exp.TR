@@ -1,0 +1,71 @@
+<section_begin>  a07s0
+
+N1                   C2   C3   C4      
+-------------------- ---- ---- --------
+<group_begin>
+               -4344 AA   BA   BA      
+               -3552 BA   AA   AA      
+               -2789 DA   EA   NULL    
+               -2389 BA   AA   AA      
+                NULL NULL BA   BA      
+                NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+(EXPR) (EXPR)               (EXPR)              
+------ -------------------- --------------------
+EA                    -2389                -4344
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+(EXPR)
+--------------
+EA test orthog
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+VC9
+----------
+<group_begin>
+EA test o 
+EA test or
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+(EXPR)
+--------------
+<group_begin>
+EA test orthog
+EA test orthog
+EA test orthog
+EA test orthog
+EA test orthog
+EA test orthog
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+(EXPR)
+--------
+AA      
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,295 @@
+<section_begin>  a07s0
+
+PROF            CNUM  CNAME                 NAMELEN     CLEN       
+--------------- ----- --------------------- ----------- -----------
+<group_begin>
+David Crane     CS500 Computer Graphics              15          16
+George Memory   CS555 Computer ARCHITECTURE          15          21
+Simon Chu       CS666 Data Base                      11           9
+Simon Chu       CS777 Computer Networks              11          17
+Srinivas Morton CS600 ALGORITHMS                     16          10
+Srinivas Morton CS700 Software Engineering           16          20
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+PROF            CNUM  PREREQ SEMESTER   CREDITS    
+--------------- ----- ------ ---------- -----------
+<group_begin>
+David Crane     CS500 CS150  summer               3
+George Memory   CS555 CS200  spring               3
+Simon Chu       CS666 CS100  summer               3
+Simon Chu       CS777        fall                 3
+Srinivas Morton CS600 CS300  fall                 3
+Srinivas Morton CS700 CS300  fall                 3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+(EXPR)          (EXPR)                      (EXPR)    
+--------------- --------------------------- ----------
+<group_begin>
+simon chu       COMPUTER NETWORKS CS777              5
+srinivas morton ALGORITHMS CS600                     5
+srinivas morton SOFTWARE ENGINEERING CS700           5
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+PROF            NAMELEN CNAME                 CLEN   CNUM    CREDITS
+--------------- ------- --------------------- ------ ------- -------
+<group_begin>
+david crane          15 computer graphics         16 cs500         3
+george memory        15 computer architecture     21 cs555         3
+simon chu            11 computer networks         17 cs777         3
+simon chu            11 data base                  9 cs666         3
+srinivas morton      16 algorithms                10 cs600         3
+srinivas morton      16 software engineering      20 cs700         3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+PROF            NAMELEN CNAME                 CLEN   CNUM    CREDITS
+--------------- ------- --------------------- ------ ------- -------
+simon chu            11 data base                  9 cs666         3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+PROF            NAMELEN CNAME                 CLEN   CNUM  CREDITS
+--------------- ------- --------------------- ------ ----- -------
+<group_begin>
+angela davis         12 languages                  9 cs111       3
+angela davis         12 languages                  9 cs111       3
+david crane          15 computer graphics         16 cs500       3
+george memory        15 computer architecture     21 cs555       3
+srinivas morton      16 algorithms                10 cs600       3
+srinivas morton      16 software engineering      20 cs700       3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+PROF            NAMELEN CNAME                 CLEN   CNUM  CREDITS
+--------------- ------- --------------------- ------ ----- -------
+david crane          15 computer graphics         16 cs500       3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s7
+
+PROF            NAMELEN CNAME                 CLEN   CNUM    CREDITS
+--------------- ------- --------------------- ------ ------- -------
+<group_begin>
+david crane          15 computer graphics         16 cs500         3
+george memory        15 computer architecture     21 cs555         3
+simon chu            11 computer networks         17 cs777         3
+simon chu            11 data base                  9 cs666         3
+srinivas morton      16 algorithms                10 cs600         3
+srinivas morton      16 software engineering      20 cs700         3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s8
+
+FIRST_NAME
+-------------
+sulu         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s9
+
+(EXPR)
+--------
+male    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s10
+
+(EXPR)
+---------------
+sysadmin       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s11
+
+(EXPR)
+---------------
+programmer     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s12
+
+LAST_NAME       GENDER  
+--------------- --------
+kapoor          female  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s13
+
+LAST_NAME
+---------------
+AGGARWAL       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s14
+
+PROF            NAMELEN CNAME                 CLEN   CNUM  CREDITS
+--------------- ------- --------------------- ------ ----- -------
+<group_begin>
+george memory        15 computer architecture     21 cs555       3
+simon chu            11 computer networks         17 cs777       3
+simon chu            11 data base                  9 cs666       3
+srinivas morton      16 algorithms                10 cs600       3
+srinivas morton      16 software engineering      20 cs700       3
+sulu kapoor          15 computer graphics         16 cs500       3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s15
+
+(EXPR)
+-------------
+SULU         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s16
+
+(EXPR)
+-------------
+SULU         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s17
+
+PROF            NAMELEN     CNAME                 CLEN   CNUM  CREDITS
+--------------- ----------- --------------------- ------ ----- -------
+<group_begin>
+george memory            15 computer architecture     21 cs555       3
+simon chu                11 computer networks         17 cs777       3
+simon chu                11 data base                  9 cs666       3
+srinivas morton          16 algorithms                10 cs600       3
+srinivas morton          16 software engineering      20 cs700       3
+sulu kapoor              15 computer graphics         16 cs500       3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s18
+
+PROF
+---------------
+<group_begin>
+David Crane    
+George Memory  
+Simon Chu      
+Simon Chu      
+Srinivas Morton
+Srinivas Morton
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s19
+
+PROF            NAMELEN CNAME                 CLEN   CNUM  CREDITS
+--------------- ------- --------------------- ------ ----- -------
+<group_begin>
+david crane           4 program                    0 csa         3
+george memory        15 computer architecture     21 cs555       3
+simon chu            11 computer networks         17 cs777       3
+simon chu            11 data base                  9 cs666       3
+srinivas morton      16 algorithms                10 cs600       3
+srinivas morton      16 software engineering      20 cs700       3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s20
+
+PROF            NAMELEN CNAME                 CLEN   CNUM  CREDITS
+--------------- ------- --------------------- ------ ----- -------
+<group_begin>
+david crane          15 computer graphics         16 cs500       6
+george memory        15 computer architecture     21 cs555       3
+simon chu            11 computer networks         17 cs777       3
+simon chu            11 data base                  9 cs666       3
+srinivas morton      16 algorithms                10 cs600       3
+srinivas morton      16 software engineering      20 cs700       3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s21
+
+CLEN
+------
+<group_begin>
+     9
+    10
+    16
+    17
+    20
+    21
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s22
+
+CREDITS
+-------
+<group_begin>
+      3
+      3
+      3
+      3
+      3
+      3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

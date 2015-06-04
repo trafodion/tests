@@ -1,0 +1,50 @@
+<section_begin>  s1
+
+EMPNAME              PNAME               
+-------------------- --------------------
+<group_begin>
+Alice                CALM                
+Alice                IRM                 
+Alice                MXSS                
+Alice                PAYR                
+Alice                SDP                 
+Alice                SDP                 
+Betty                SDP                 
+Carmen               SDP                 
+Don                  CALM                
+Don                  IRM                 
+Don                  MXSS                
+Don                  PAYR                
+Don                  SDP                 
+Don                  SDP                 
+Ed                   SDP                 
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+EMPNAME              PNAME               
+-------------------- --------------------
+<group_begin>
+Alice                CALM                
+Alice                IRM                 
+Alice                MXSS                
+Alice                PAYR                
+Alice                SDP                 
+Alice                SDP                 
+Betty                SDP                 
+Carmen               SDP                 
+Don                  CALM                
+Don                  IRM                 
+Don                  MXSS                
+Don                  PAYR                
+Don                  SDP                 
+Don                  SDP                 
+Ed                   SDP                 
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>

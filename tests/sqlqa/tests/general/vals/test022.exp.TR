@@ -1,0 +1,18 @@
+<section_begin>  test022b
+
+(EXPR) (EXPR)
+------ ------
+E22    P22   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test022c
+
+(EXPR)
+--------------------
+                  12
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,23 @@
+<section_begin>  test0518b
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0518c
+
+HOURS
+-------
+<group_begin>
+     80
+     40
+     20
+     12
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

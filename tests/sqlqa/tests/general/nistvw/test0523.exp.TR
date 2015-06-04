@@ -1,0 +1,27 @@
+<section_begin>  s1
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+PNAME
+--------------------
+IRM                 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+CITY            (EXPR)              
+--------------- --------------------
+Deale                              3
+
+--- 1 row(s) selected.
+
+<section_end>

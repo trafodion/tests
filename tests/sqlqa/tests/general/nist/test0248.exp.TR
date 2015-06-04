@@ -1,0 +1,36 @@
+<section_begin>  test0248c
+
+FLOATTEST
+------------------------
+               0.1048575
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0248d
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0248g
+
+FLOATTEST
+------------------------
+              -0.1048575
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0248h
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>

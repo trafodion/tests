@@ -1,0 +1,36 @@
+<section_begin>  a03s1
+
+IVDEFLT IV1  IV10        IVMAX              
+------- ---- ----------- -------------------
+<group_begin>
+97      7    1234567890  123456789123456789 
+-99     -9   -9876543210 -987654321987654321
+ 0      0             0                   0 
+NULL    NULL NULL        NULL               
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+IVDEFLT IV1  IV10        IVMAX              
+------- ---- ----------- -------------------
+<group_begin>
+97      7    1234567890  123456789123456789 
+ 0      0    9876543210                   0 
+NULL    0    9876543210  NULL               
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,45 @@
+<section_begin>  insminmaxs1
+
+COUNTSTAR
+--------------------
+                 100
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insminmaxs2
+
+SUMMAXINT            SUMMININT            AVGMAXINT            AVGMININT           
+-------------------- -------------------- -------------------- --------------------
+        191126045134        -191126045223           1911260451          -1911260452
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insminmaxs3
+
+MAXMAXINT   MAXMININT   MINMAXINT   MINMININT  
+----------- ----------- ----------- -----------
+ 2147483647          -1           1 -2147483648
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insminmaxs4
+
+SUMMAXSMALL          SUMMINSMALL          AVGMAXSMALL          AVGMINSMALL         
+-------------------- -------------------- -------------------- --------------------
+             2916814             -2916903                29168               -29169
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insminmaxs5
+
+MAXMAXSMALL MAXMINSMALL MINMAXSMALL MINMINSMALL
+----------- ----------- ----------- -----------
+      32767          -1           1      -32768
+
+--- 1 row(s) selected.
+
+<section_end>

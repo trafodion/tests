@@ -1,0 +1,66 @@
+<section_begin>  a13s0
+
+VARCHAR23               VARCHAR9  SOMENUMBER 
+----------------------- --------- -----------
+NULL                    NULL             NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s1
+
+VARCHAR23               VARCHAR9  SOMENUMBER 
+----------------------- --------- -----------
+<group_begin>
+some                    data             NULL
+NULL                    datums             13
+NULL                    NULL               42
+NULL                    NULL             NULL
+NULL                    NULL             NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a13s2
+
+VARCHAR23               VARCHAR9  SOMENUMBER 
+----------------------- --------- -----------
+23 characters           9 chars          9999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s3
+
+VARCHAR23               VARCHAR9  SOMENUMBER 
+----------------------- --------- -----------
+<group_begin>
+23 characters           9 chars            42
+23 characters           9 chars          9999
+23 characters           9 chars          9999
+23 characters           some data          13
+some                    data             9999
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a13s4
+
+VARCHAR23               VARCHAR9  SOMENUMBER 
+----------------------- --------- -----------
+<group_begin>
+eight                   NULL                8
+eleven                  11               NULL
+just                    a                   6
+nine                    NULL                9
+reality                 check               7
+ten                     NULL               10
+thirteen                13               NULL
+twelve                  12               NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

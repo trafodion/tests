@@ -1,0 +1,605 @@
+<section_begin>  t003s15
+
+I1          V1   V2   V3       (EXPR)   (EXPR)   V6  
+----------- ---- ---- -------- -------- -------- ----
+<group_begin>
+          1 1    aa   0001     ABCDEFGH aaaa0001 A   
+          2 1    bb   0002     BCDEFGHI aaaa0002 B   
+          3 1    cc   0003     CDEFGHIJ cccc0003 C   
+          4 1    dd   0004     DEFGHIJK cccc0004 D   
+          5 1    ee   0005     EFGHIJKL eeee0005 E   
+          6 2    ff   0006     FGHIJKLM eeee0006 F   
+          7 2    gg   0007     GHIJKLMN gggg0007 G   
+          8 2    hh   0008     HIJKLMNO gggg0008 H   
+          9 2    ii   0009     IJKLMNOP iiii0009 I   
+         10 2    jj   0010     JKLMNOPQ iiii0010 J   
+         11 3    kk   0011     KLMNOPQR kkkk0011 K   
+         12 3    ll   0012     LMNOPQRS kkkk0012 L   
+         13 3    mm   0013     MNOPQRST mmmm0013 M   
+         14 3    nn   0014     NOPQRSTU mmmm0014 N   
+         15 3    oo   0015     OPQRSTUV oooo0015 O   
+         16 4    pp   0016     PQRSTUVW oooo0016 P   
+         17 4    qq   0017     QRSTUVWX qqqq0017 Q   
+         18 4    rr   0018     RSTUVWXY qqqq0018 R   
+         19 4    ss   0019     STUVWXYZ ssss0019 S   
+         20 4    tt   0020     TUWVXYZA ssss0020 T   
+         42 5    ww   0042     BBCDEFGH wwww0042 U   
+        505 1    ee   0505     EFGHIJKL eeee0505 E   
+       NULL NULL ww   0041     NULL     wwww0041 NULL
+       NULL 5    ww   0043     NULL     wwww0043 NULL
+       NULL NULL ww   0044     BBCDEFGH wwww0044 NULL
+       NULL 5    ww   0045     NULL     wwww0045 NULL
+       NULL NULL aa   0501     NULL     aaaa0501 NULL
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  t003s17
+
+(EXPR)
+--------------------
+                 227
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t003s18
+
+I1          V1   V2   V3       (EXPR)   (EXPR)   V6  
+----------- ---- ---- -------- -------- -------- ----
+<group_begin>
+         42 5    ww   0042     BBCDEFGH wwww0042 U   
+        101 1    aa   0101     ABCDEFGH aaaa0101 A   
+        301 1    aa   0301     ABCDEFGH aaaa0301 A   
+        400 4    tt   0400     TUWVXYZA ssss0400 T   
+        505 1    ee   0505     EFGHIJKL eeee0505 E   
+       NULL NULL ww   0041     NULL     wwww0041 NULL
+       NULL 5    ww   0043     NULL     wwww0043 NULL
+       NULL NULL ww   0044     BBCDEFGH wwww0044 NULL
+       NULL 5    ww   0045     NULL     wwww0045 NULL
+       NULL NULL aa   0501     NULL     aaaa0501 NULL
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  t003s25
+
+I1          V1   V2   V3       (EXPR)   (EXPR)   V6  
+----------- ---- ---- -------- -------- -------- ----
+<group_begin>
+         50 7    jj   0150     BBCDEFGH iiii0150 U   
+         51 7    kk   0151     KLMNOPQR kkkk0151 K   
+        153 3    mm   0153     MNOPQRST mmmm0153 M   
+        501 7    ll   0152     EFGHIJKL kkkk0152 G   
+        505 1    ee   0505     EFGHIJKL eeee0505 E   
+       NULL NULL aa   0501     NULL     aaaa0501 NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  t003s28
+
+I1          V1   V2   V3       (EXPR)   (EXPR)   V6  
+----------- ---- ---- -------- -------- -------- ----
+<group_begin>
+        109 6    ii   0009     IJKLMNOP iiii0009 I   
+        209 6    ii   0109     IJKLMNOP iiii0109 I   
+        229 6    ii   0129     IJKLMNOP iiii0129 I   
+        249 6    ii   0149     IJKLMNOP iiii0149 I   
+        269 6    ii   0169     IJKLMNOP iiii0169 I   
+        289 6    ii   0189     IJKLMNOP iiii0189 I   
+        409 6    ii   0309     IJKLMNOP iiii0309 I   
+        429 6    ii   0329     IJKLMNOP iiii0329 I   
+        449 6    ii   0349     IJKLMNOP iiii0349 I   
+        469 6    ii   0369     IJKLMNOP iiii0369 I   
+        489 6    ii   0389     IJKLMNOP iiii0389 I   
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  t003s30
+
+I1          V1   V2   V3       (EXPR)   (EXPR)   V6  
+----------- ---- ---- -------- -------- -------- ----
+<group_begin>
+        110 2    jj   0110     JKLMNOPQ iiii0110 J   
+        411 7    kk   0111     ZZZZ0111 kkkk0111 K   
+        412 7    ll   0112     ZZZZ0112 kkkk0112 L   
+        413 7    mm   0113     ZZZZ0113 mmmm0113 M   
+        414 7    nn   0114     ZZZZ0114 mmmm0114 N   
+        415 7    oo   0115     ZZZZ0115 oooo0115 O   
+        416 7    pp   0116     ZZZZ0116 oooo0116 P   
+        417 7    qq   0117     ZZZZ0117 qqqq0117 Q   
+        418 7    rr   0118     ZZZZ0118 qqqq0118 R   
+        419 7    ss   0119     ZZZZ0119 ssss0119 S   
+        420 7    tt   0120     ZZZZ0120 ssss0120 T   
+        421 7    aa   0121     ZZZZ0121 aaaa0121 A   
+        422 7    bb   0122     ZZZZ0122 aaaa0122 B   
+        423 7    cc   0123     ZZZZ0123 cccc0123 C   
+        424 7    dd   0124     ZZZZ0124 cccc0124 D   
+        425 7    ee   0125     ZZZZ0125 eeee0125 E   
+        426 7    ff   0126     ZZZZ0126 eeee0126 F   
+        427 7    gg   0127     ZZZZ0127 gggg0127 G   
+        428 7    hh   0128     ZZZZ0128 gggg0128 H   
+        529 7    ii   0129     ZZZZ0129 iiii0129 I   
+        430 7    jj   0130     ZZZZ0130 iiii0130 J   
+        431 7    kk   0131     ZZZZ0131 kkkk0131 K   
+        432 7    ll   0132     ZZZZ0132 kkkk0132 L   
+        433 7    mm   0133     ZZZZ0133 mmmm0133 M   
+        434 7    nn   0134     ZZZZ0134 mmmm0134 N   
+        435 7    oo   0135     ZZZZ0135 oooo0135 O   
+        436 7    pp   0136     ZZZZ0136 oooo0136 P   
+        437 7    qq   0137     ZZZZ0137 qqqq0137 Q   
+        438 7    rr   0138     ZZZZ0138 qqqq0138 R   
+        439 7    ss   0139     ZZZZ0139 ssss0139 S   
+        440 7    tt   0140     ZZZZ0140 ssss0140 T   
+        441 7    aa   0141     ZZZZ0141 aaaa0141 A   
+        442 7    bb   0142     ZZZZ0142 aaaa0142 B   
+        443 7    cc   0143     ZZZZ0143 cccc0143 C   
+        444 7    dd   0144     ZZZZ0144 cccc0144 D   
+        445 7    ee   0145     ZZZZ0145 eeee0145 E   
+        446 7    ff   0146     ZZZZ0146 eeee0146 F   
+        447 7    gg   0147     ZZZZ0147 gggg0147 G   
+        448 7    hh   0148     ZZZZ0148 gggg0148 H   
+        549 7    ii   0149     ZZZZ0149 iiii0149 I   
+        350 7    jj   0150     ZZZZ0150 iiii0150 U   
+         51 7    kk   0151     KLMNOPQR kkkk0151 K   
+        170 2    jj   0170     JKLMNOPQ iiii0170 J   
+        471 7    kk   0171     ZZZZ0171 kkkk0171 K   
+        472 7    ll   0172     ZZZZ0172 kkkk0172 L   
+        473 7    mm   0173     ZZZZ0173 mmmm0173 M   
+        474 7    nn   0174     ZZZZ0174 mmmm0174 N   
+        475 7    oo   0175     ZZZZ0175 oooo0175 O   
+        476 7    pp   0176     ZZZZ0176 oooo0176 P   
+        477 7    qq   0177     ZZZZ0177 qqqq0177 Q   
+        478 7    rr   0178     ZZZZ0178 qqqq0178 R   
+        479 7    ss   0179     ZZZZ0179 ssss0179 S   
+        480 7    tt   0180     ZZZZ0180 ssss0180 T   
+        481 7    aa   0181     ZZZZ0181 aaaa0181 A   
+        482 7    bb   0182     ZZZZ0182 aaaa0182 B   
+        483 7    cc   0183     ZZZZ0183 cccc0183 C   
+        484 7    dd   0184     ZZZZ0184 cccc0184 D   
+        485 7    ee   0185     ZZZZ0185 eeee0185 E   
+        486 7    ff   0186     ZZZZ0186 eeee0186 F   
+        487 7    gg   0187     ZZZZ0187 gggg0187 G   
+        488 7    hh   0188     ZZZZ0188 gggg0188 H   
+        589 7    ii   0189     ZZZZ0189 iiii0189 I   
+        490 7    jj   0190     ZZZZ0190 iiii0190 J   
+        191 3    kk   0191     KLMNOPQR kkkk0191 K   
+<group_end>
+
+--- 64 row(s) selected.
+
+<section_end>
+<section_begin>  t003s32
+
+(EXPR)
+--------------------
+                 227
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t003s35
+
+I1          V1   V2   V3       (EXPR)   (EXPR)   V6  
+----------- ---- ---- -------- -------- -------- ----
+<group_begin>
+          1 1    aa   0001     ABCDEFGH aaaa0001 A   
+          2 1    bb   0002     BCDEFGHI aaaa0002 B   
+          3 1    cc   0003     CDEFGHIJ cccc0003 C   
+          4 1    dd   0004     DEFGHIJK cccc0004 D   
+          5 1    ee   0005     EFGHIJKL eeee0005 E   
+          6 2    ff   0006     FGHIJKLM eeee0006 F   
+          7 2    gg   0007     GHIJKLMN gggg0007 G   
+          8 2    hh   0008     HIJKLMNO gggg0008 H   
+        109 6    ii   0009     IJKLMNOP iiii0009 I   
+         10 2    jj   0010     JKLMNOPQ iiii0010 J   
+         11 3    kk   0011     KLMNOPQR kkkk0011 K   
+         12 3    ll   0012     LMNOPQRS kkkk0012 L   
+         13 3    mm   0013     MNOPQRST mmmm0013 M   
+         14 3    nn   0014     NOPQRSTU mmmm0014 N   
+         15 3    oo   0015     OPQRSTUV oooo0015 O   
+         16 4    pp   0016     PQRSTUVW oooo0016 P   
+         17 4    qq   0017     QRSTUVWX qqqq0017 Q   
+         18 4    rr   0018     RSTUVWXY qqqq0018 R   
+         19 4    ss   0019     STUVWXYZ ssss0019 S   
+         20 4    tt   0020     TUWVXYZA ssss0020 T   
+       NULL NULL ww   0041     NULL     wwww0041 NULL
+         42 5    ww   0042     BBCDEFGH wwww0042 U   
+       NULL 5    ww   0043     NULL     wwww0043 NULL
+       NULL NULL ww   0044     BBCDEFGH wwww0044 NULL
+       NULL 5    ww   0045     NULL     wwww0045 NULL
+        101 1    aa   0101     ABCDEFGH aaaa0101 A   
+        102 1    bb   0102     BCDEFGHI aaaa0102 B   
+        103 1    cc   0103     CDEFGHIJ cccc0103 C   
+        104 1    dd   0104     DEFGHIJK cccc0104 D   
+        105 1    ee   0105     EFGHIJKL eeee0105 E   
+        106 2    ff   0106     FGHIJKLM eeee0106 F   
+        107 2    gg   0107     GHIJKLMN gggg0107 G   
+        108 2    hh   0108     HIJKLMNO gggg0108 H   
+        209 6    ii   0109     IJKLMNOP iiii0109 I   
+        110 2    jj   0110     JKLMNOPQ iiii0110 J   
+        411 7    kk   0111     ZZZZ0111 kkkk0111 K   
+        412 7    ll   0112     ZZZZ0112 kkkk0112 L   
+        413 7    mm   0113     ZZZZ0113 mmmm0113 M   
+        414 7    nn   0114     ZZZZ0114 mmmm0114 N   
+        415 7    oo   0115     ZZZZ0115 oooo0115 O   
+        416 7    pp   0116     ZZZZ0116 oooo0116 P   
+        417 7    qq   0117     ZZZZ0117 qqqq0117 Q   
+        418 7    rr   0118     ZZZZ0118 qqqq0118 R   
+        419 7    ss   0119     ZZZZ0119 ssss0119 S   
+        420 7    tt   0120     ZZZZ0120 ssss0120 T   
+        421 7    aa   0121     ZZZZ0121 aaaa0121 A   
+        422 7    bb   0122     ZZZZ0122 aaaa0122 B   
+        423 7    cc   0123     ZZZZ0123 cccc0123 C   
+        424 7    dd   0124     ZZZZ0124 cccc0124 D   
+        425 7    ee   0125     ZZZZ0125 eeee0125 E   
+        426 7    ff   0126     ZZZZ0126 eeee0126 F   
+        427 7    gg   0127     ZZZZ0127 gggg0127 G   
+        428 7    hh   0128     ZZZZ0128 gggg0128 H   
+        529 7    ii   0129     ZZZZ0129 iiii0129 I   
+        430 7    jj   0130     ZZZZ0130 iiii0130 J   
+        431 7    kk   0131     ZZZZ0131 kkkk0131 K   
+        432 7    ll   0132     ZZZZ0132 kkkk0132 L   
+        433 7    mm   0133     ZZZZ0133 mmmm0133 M   
+        434 7    nn   0134     ZZZZ0134 mmmm0134 N   
+        435 7    oo   0135     ZZZZ0135 oooo0135 O   
+        436 7    pp   0136     ZZZZ0136 oooo0136 P   
+        437 7    qq   0137     ZZZZ0137 qqqq0137 Q   
+        438 7    rr   0138     ZZZZ0138 qqqq0138 R   
+        439 7    ss   0139     ZZZZ0139 ssss0139 S   
+        440 7    tt   0140     ZZZZ0140 ssss0140 T   
+        441 7    aa   0141     ZZZZ0141 aaaa0141 A   
+        442 7    bb   0142     ZZZZ0142 aaaa0142 B   
+        443 7    cc   0143     ZZZZ0143 cccc0143 C   
+        444 7    dd   0144     ZZZZ0144 cccc0144 D   
+        445 7    ee   0145     ZZZZ0145 eeee0145 E   
+        446 7    ff   0146     ZZZZ0146 eeee0146 F   
+        447 7    gg   0147     ZZZZ0147 gggg0147 G   
+        448 7    hh   0148     ZZZZ0148 gggg0148 H   
+        549 7    ii   0149     ZZZZ0149 iiii0149 I   
+        350 7    jj   0150     ZZZZ0150 iiii0150 U   
+         51 7    kk   0151     KLMNOPQR kkkk0151 K   
+        501 7    ll   0152     EFGHIJKL kkkk0152 G   
+        153 3    mm   0153     MNOPQRST mmmm0153 M   
+        154 3    nn   0154     NOPQRSTU mmmm0154 N   
+        155 3    oo   0155     OPQRSTUV oooo0155 O   
+        156 4    pp   0156     PQRSTUVW oooo0156 P   
+        157 4    qq   0157     QRSTUVWX qqqq0157 Q   
+        158 4    rr   0158     RSTUVWXY qqqq0158 R   
+        159 4    ss   0159     STUVWXYZ ssss0159 S   
+        160 4    tt   0160     TUWVXYZA ssss0160 T   
+        161 1    aa   0161     ABCDEFGH aaaa0161 A   
+        162 1    bb   0162     BCDEFGHI aaaa0162 B   
+        163 1    cc   0163     CDEFGHIJ cccc0163 C   
+        164 1    dd   0164     DEFGHIJK cccc0164 D   
+        165 1    ee   0165     EFGHIJKL eeee0165 E   
+        166 2    ff   0166     FGHIJKLM eeee0166 F   
+        167 2    gg   0167     GHIJKLMN gggg0167 G   
+        168 2    hh   0168     HIJKLMNO gggg0168 H   
+        269 6    ii   0169     IJKLMNOP iiii0169 I   
+        170 2    jj   0170     JKLMNOPQ iiii0170 J   
+        471 7    kk   0171     ZZZZ0171 kkkk0171 K   
+        472 7    ll   0172     ZZZZ0172 kkkk0172 L   
+        473 7    mm   0173     ZZZZ0173 mmmm0173 M   
+        474 7    nn   0174     ZZZZ0174 mmmm0174 N   
+        475 7    oo   0175     ZZZZ0175 oooo0175 O   
+        476 7    pp   0176     ZZZZ0176 oooo0176 P   
+        477 7    qq   0177     ZZZZ0177 qqqq0177 Q   
+        478 7    rr   0178     ZZZZ0178 qqqq0178 R   
+        479 7    ss   0179     ZZZZ0179 ssss0179 S   
+        480 7    tt   0180     ZZZZ0180 ssss0180 T   
+        481 7    aa   0181     ZZZZ0181 aaaa0181 A   
+        482 7    bb   0182     ZZZZ0182 aaaa0182 B   
+        483 7    cc   0183     ZZZZ0183 cccc0183 C   
+        484 7    dd   0184     ZZZZ0184 cccc0184 D   
+        485 7    ee   0185     ZZZZ0185 eeee0185 E   
+        486 7    ff   0186     ZZZZ0186 eeee0186 F   
+        487 7    gg   0187     ZZZZ0187 gggg0187 G   
+        488 7    hh   0188     ZZZZ0188 gggg0188 H   
+        589 7    ii   0189     ZZZZ0189 iiii0189 I   
+        490 7    jj   0190     ZZZZ0190 iiii0190 J   
+        191 3    kk   0191     KLMNOPQR kkkk0191 K   
+        192 3    ll   0192     LMNOPQRS kkkk0192 L   
+        193 3    mm   0193     MNOPQRST mmmm0193 M   
+        194 3    nn   0194     NOPQRSTU mmmm0194 N   
+        195 3    oo   0195     OPQRSTUV oooo0195 O   
+        196 4    pp   0196     PQRSTUVW oooo0196 P   
+        197 4    qq   0197     QRSTUVWX qqqq0197 Q   
+        198 4    rr   0198     RSTUVWXY qqqq0198 R   
+        199 4    ss   0199     STUVWXYZ ssss0199 S   
+        200 4    tt   0200     TUWVXYZA ssss0200 T   
+        301 1    aa   0301     ABCDEFGH aaaa0301 A   
+        303 1    bb   0303     BCDEFGHI aaaa0303 B   
+        303 1    cc   0303     CDEFGHIJ cccc0303 C   
+        304 1    dd   0304     DEFGHIJK cccc0304 D   
+        305 1    ee   0305     EFGHIJKL eeee0305 E   
+        306 2    ff   0306     FGHIJKLM eeee0306 F   
+        307 2    gg   0307     GHIJKLMN gggg0307 G   
+        308 2    hh   0308     HIJKLMNO gggg0308 H   
+        409 6    ii   0309     IJKLMNOP iiii0309 I   
+        310 2    jj   0310     JKLMNOPQ iiii0310 J   
+        311 3    kk   0311     KLMNOPQR kkkk0311 K   
+        312 3    ll   0312     LMNOPQRS kkkk0312 L   
+        313 3    mm   0313     MNOPQRST mmmm0313 M   
+        314 3    nn   0314     NOPQRSTU mmmm0314 N   
+        315 3    oo   0315     OPQRSTUV oooo0315 O   
+        316 4    pp   0316     PQRSTUVW oooo0316 P   
+        317 4    qq   0317     QRSTUVWX qqqq0317 Q   
+        318 4    rr   0318     RSTUVWXY qqqq0318 R   
+        319 4    ss   0319     STUVWXYZ ssss0319 S   
+        320 4    tt   0320     TUWVXYZA ssss0320 T   
+        321 1    aa   0321     ABCDEFGH aaaa0321 A   
+        322 1    bb   0322     BCDEFGHI aaaa0322 B   
+        323 1    cc   0323     CDEFGHIJ cccc0323 C   
+        324 1    dd   0324     DEFGHIJK cccc0324 D   
+        325 1    ee   0325     EFGHIJKL eeee0325 E   
+        326 2    ff   0326     FGHIJKLM eeee0326 F   
+        327 2    gg   0327     GHIJKLMN gggg0327 G   
+        328 2    hh   0328     HIJKLMNO gggg0328 H   
+        429 6    ii   0329     IJKLMNOP iiii0329 I   
+        330 2    jj   0330     JKLMNOPQ iiii0330 J   
+        331 3    kk   0331     KLMNOPQR kkkk0331 K   
+        332 3    ll   0332     LMNOPQRS kkkk0332 L   
+        333 3    mm   0333     MNOPQRST mmmm0333 M   
+        334 3    nn   0334     NOPQRSTU mmmm0334 N   
+        335 3    oo   0335     OPQRSTUV oooo0335 O   
+        336 4    pp   0336     PQRSTUVW oooo0336 P   
+        337 4    qq   0337     QRSTUVWX qqqq0337 Q   
+        338 4    rr   0338     RSTUVWXY qqqq0338 R   
+        339 4    ss   0339     STUVWXYZ ssss0339 S   
+        340 4    tt   0340     TUWVXYZA ssss0340 T   
+        341 1    aa   0341     ABCDEFGH aaaa0341 A   
+        342 1    bb   0342     BCDEFGHI aaaa0342 B   
+        343 1    cc   0343     CDEFGHIJ cccc0343 C   
+        344 1    dd   0344     DEFGHIJK cccc0344 D   
+        345 1    ee   0345     EFGHIJKL eeee0345 E   
+        346 2    ff   0346     FGHIJKLM eeee0346 F   
+        347 2    gg   0347     GHIJKLMN gggg0347 G   
+        348 2    hh   0348     HIJKLMNO gggg0348 H   
+        449 6    ii   0349     IJKLMNOP iiii0349 I   
+        350 2    jj   0350     JKLMNOPQ iiii0350 J   
+        351 3    kk   0351     KLMNOPQR kkkk0351 K   
+        352 3    ll   0352     LMNOPQRS kkkk0352 L   
+        353 3    mm   0353     MNOPQRST mmmm0353 M   
+        354 3    nn   0354     NOPQRSTU mmmm0354 N   
+        355 3    oo   0355     OPQRSTUV oooo0355 O   
+        356 4    pp   0356     PQRSTUVW oooo0356 P   
+        357 4    qq   0357     QRSTUVWX qqqq0357 Q   
+        358 4    rr   0358     RSTUVWXY qqqq0358 R   
+        359 4    ss   0359     STUVWXYZ ssss0359 S   
+        360 4    tt   0360     TUWVXYZA ssss0360 T   
+        361 1    aa   0361     ABCDEFGH aaaa0361 A   
+        362 1    bb   0362     BCDEFGHI aaaa0362 B   
+        363 1    cc   0363     CDEFGHIJ cccc0363 C   
+        364 1    dd   0364     DEFGHIJK cccc0364 D   
+        365 1    ee   0365     EFGHIJKL eeee0365 E   
+        366 2    ff   0366     FGHIJKLM eeee0366 F   
+        367 2    gg   0367     GHIJKLMN gggg0367 G   
+        368 2    hh   0368     HIJKLMNO gggg0368 H   
+        469 6    ii   0369     IJKLMNOP iiii0369 I   
+        270 7    jj   0370     iiii0370 iiii0370 U   
+        371 3    kk   0371     KLMNOPQR kkkk0371 K   
+        372 3    ll   0372     LMNOPQRS kkkk0372 L   
+        273 7    mm   0373     mmmm0373 mmmm0373 U   
+        374 3    nn   0374     NOPQRSTU mmmm0374 N   
+        375 3    oo   0375     OPQRSTUV oooo0375 O   
+        276 7    pp   0376     oooo0376 oooo0376 U   
+        377 4    qq   0377     QRSTUVWX qqqq0377 Q   
+        378 4    rr   0378     RSTUVWXY qqqq0378 R   
+        379 4    ss   0379     STUVWXYZ ssss0379 S   
+        380 4    tt   0380     TUWVXYZA ssss0380 T   
+        281 7    aa   0381     aaaa0381 aaaa0381 U   
+        382 1    bb   0382     BCDEFGHI aaaa0382 B   
+        383 1    cc   0383     CDEFGHIJ cccc0383 C   
+        284 7    dd   0384     cccc0384 cccc0384 U   
+        385 1    ee   0385     EFGHIJKL eeee0385 E   
+        386 2    ff   0386     FGHIJKLM eeee0386 F   
+        287 7    gg   0387     gggg0387 gggg0387 U   
+        388 2    hh   0388     HIJKLMNO gggg0388 H   
+        489 6    ii   0389     IJKLMNOP iiii0389 I   
+        290 7    jj   0390     iiii0390 iiii0390 U   
+        391 3    kk   0391     KLMNOPQR kkkk0391 K   
+        392 3    ll   0392     LMNOPQRS kkkk0392 L   
+        293 7    mm   0393     mmmm0393 mmmm0393 U   
+        394 3    nn   0394     NOPQRSTU mmmm0394 N   
+        395 3    oo   0395     OPQRSTUV oooo0395 O   
+        296 7    pp   0396     oooo0396 oooo0396 U   
+        397 4    qq   0397     QRSTUVWX qqqq0397 Q   
+        398 4    rr   0398     RSTUVWXY qqqq0398 R   
+        399 4    ss   0399     STUVWXYZ ssss0399 S   
+        400 4    tt   0400     TUWVXYZA ssss0400 T   
+       NULL NULL aa   0501     NULL     aaaa0501 NULL
+        505 1    ee   0505     EFGHIJKL eeee0505 E   
+<group_end>
+
+--- 227 row(s) selected.
+
+<section_end>
+<section_begin>  t003s59
+
+(EXPR)
+--------------------
+                 163
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t003s60
+
+I1          V1   V2   V3       (EXPR)   (EXPR)   V6  
+----------- ---- ---- -------- -------- -------- ----
+<group_begin>
+          1 1    aa   0001     ABCDEFGH aaaa0001 A   
+          2 1    bb   0002     BCDEFGHI aaaa0002 B   
+          3 1    cc   0003     CDEFGHIJ cccc0003 C   
+          4 1    dd   0004     DEFGHIJK cccc0004 D   
+          5 1    ee   0005     EFGHIJKL eeee0005 E   
+          6 2    ff   0006     FGHIJKLM eeee0006 F   
+          7 2    gg   0007     GHIJKLMN gggg0007 G   
+          8 2    hh   0008     HIJKLMNO gggg0008 H   
+        109 6    ii   0009     IJKLMNOP iiii0009 I   
+         10 2    jj   0010     JKLMNOPQ iiii0010 J   
+         11 3    kk   0011     KLMNOPQR kkkk0011 K   
+         12 3    ll   0012     LMNOPQRS kkkk0012 L   
+         13 3    mm   0013     MNOPQRST mmmm0013 M   
+         14 3    nn   0014     NOPQRSTU mmmm0014 N   
+         15 3    oo   0015     OPQRSTUV oooo0015 O   
+         42 5    ww   0042     BBCDEFGH wwww0042 U   
+       NULL NULL ww   0044     BBCDEFGH wwww0044 NULL
+        101 1    aa   0101     ABCDEFGH aaaa0101 A   
+        102 1    bb   0102     BCDEFGHI aaaa0102 B   
+        103 1    cc   0103     CDEFGHIJ cccc0103 C   
+        104 1    dd   0104     DEFGHIJK cccc0104 D   
+        105 1    ee   0105     EFGHIJKL eeee0105 E   
+        106 2    ff   0106     FGHIJKLM eeee0106 F   
+        107 2    gg   0107     GHIJKLMN gggg0107 G   
+        108 2    hh   0108     HIJKLMNO gggg0108 H   
+        209 6    ii   0109     IJKLMNOP iiii0109 I   
+        110 2    jj   0110     JKLMNOPQ iiii0110 J   
+        411 7    kk   0111     ZZZZ0111 kkkk0111 K   
+        412 7    ll   0112     ZZZZ0112 kkkk0112 L   
+        413 7    mm   0113     ZZZZ0113 mmmm0113 M   
+        414 7    nn   0114     ZZZZ0114 mmmm0114 N   
+        415 7    oo   0115     ZZZZ0115 oooo0115 O   
+        416 7    pp   0116     ZZZZ0116 oooo0116 P   
+        417 7    qq   0117     ZZZZ0117 qqqq0117 Q   
+        418 7    rr   0118     ZZZZ0118 qqqq0118 R   
+        419 7    ss   0119     ZZZZ0119 ssss0119 S   
+        421 7    aa   0121     ZZZZ0121 aaaa0121 A   
+        422 7    bb   0122     ZZZZ0122 aaaa0122 B   
+        423 7    cc   0123     ZZZZ0123 cccc0123 C   
+        424 7    dd   0124     ZZZZ0124 cccc0124 D   
+        425 7    ee   0125     ZZZZ0125 eeee0125 E   
+        426 7    ff   0126     ZZZZ0126 eeee0126 F   
+        427 7    gg   0127     ZZZZ0127 gggg0127 G   
+        428 7    hh   0128     ZZZZ0128 gggg0128 H   
+        430 7    jj   0130     ZZZZ0130 iiii0130 J   
+        431 7    kk   0131     ZZZZ0131 kkkk0131 K   
+        432 7    ll   0132     ZZZZ0132 kkkk0132 L   
+        433 7    mm   0133     ZZZZ0133 mmmm0133 M   
+        434 7    nn   0134     ZZZZ0134 mmmm0134 N   
+        435 7    oo   0135     ZZZZ0135 oooo0135 O   
+        436 7    pp   0136     ZZZZ0136 oooo0136 P   
+        437 7    qq   0137     ZZZZ0137 qqqq0137 Q   
+        438 7    rr   0138     ZZZZ0138 qqqq0138 R   
+        439 7    ss   0139     ZZZZ0139 ssss0139 S   
+        440 7    tt   0140     ZZZZ0140 ssss0140 T   
+        441 7    aa   0141     ZZZZ0141 aaaa0141 A   
+        442 7    bb   0142     ZZZZ0142 aaaa0142 B   
+        443 7    cc   0143     ZZZZ0143 cccc0143 C   
+        444 7    dd   0144     ZZZZ0144 cccc0144 D   
+        445 7    ee   0145     ZZZZ0145 eeee0145 E   
+        166 2    ff   0166     FGHIJKLM eeee0166 F   
+        167 2    gg   0167     GHIJKLMN gggg0167 G   
+        168 2    hh   0168     HIJKLMNO gggg0168 H   
+        269 6    ii   0169     IJKLMNOP iiii0169 I   
+        170 2    jj   0170     JKLMNOPQ iiii0170 J   
+        471 7    kk   0171     ZZZZ0171 kkkk0171 K   
+        472 7    ll   0172     ZZZZ0172 kkkk0172 L   
+        473 7    mm   0173     ZZZZ0173 mmmm0173 M   
+        474 7    nn   0174     ZZZZ0174 mmmm0174 N   
+        475 7    oo   0175     ZZZZ0175 oooo0175 O   
+        476 7    pp   0176     ZZZZ0176 oooo0176 P   
+        477 7    qq   0177     ZZZZ0177 qqqq0177 Q   
+        478 7    rr   0178     ZZZZ0178 qqqq0178 R   
+        479 7    ss   0179     ZZZZ0179 ssss0179 S   
+        480 7    tt   0180     ZZZZ0180 ssss0180 T   
+        481 7    aa   0181     ZZZZ0181 aaaa0181 A   
+        482 7    bb   0182     ZZZZ0182 aaaa0182 B   
+        483 7    cc   0183     ZZZZ0183 cccc0183 C   
+        484 7    dd   0184     ZZZZ0184 cccc0184 D   
+        485 7    ee   0185     ZZZZ0185 eeee0185 E   
+        486 7    ff   0186     ZZZZ0186 eeee0186 F   
+        487 7    gg   0187     ZZZZ0187 gggg0187 G   
+        488 7    hh   0188     ZZZZ0188 gggg0188 H   
+        490 7    jj   0190     ZZZZ0190 iiii0190 J   
+        191 3    kk   0191     KLMNOPQR kkkk0191 K   
+        192 3    ll   0192     LMNOPQRS kkkk0192 L   
+        193 3    mm   0193     MNOPQRST mmmm0193 M   
+        194 3    nn   0194     NOPQRSTU mmmm0194 N   
+        195 3    oo   0195     OPQRSTUV oooo0195 O   
+        301 1    aa   0301     ABCDEFGH aaaa0301 A   
+        303 1    cc   0303     CDEFGHIJ cccc0303 C   
+        303 1    bb   0303     BCDEFGHI aaaa0303 B   
+        304 1    dd   0304     DEFGHIJK cccc0304 D   
+        305 1    ee   0305     EFGHIJKL eeee0305 E   
+        306 2    ff   0306     FGHIJKLM eeee0306 F   
+        307 2    gg   0307     GHIJKLMN gggg0307 G   
+        308 2    hh   0308     HIJKLMNO gggg0308 H   
+        409 6    ii   0309     IJKLMNOP iiii0309 I   
+        310 2    jj   0310     JKLMNOPQ iiii0310 J   
+        311 3    kk   0311     KLMNOPQR kkkk0311 K   
+        312 3    ll   0312     LMNOPQRS kkkk0312 L   
+        313 3    mm   0313     MNOPQRST mmmm0313 M   
+        314 3    nn   0314     NOPQRSTU mmmm0314 N   
+        315 3    oo   0315     OPQRSTUV oooo0315 O   
+        321 1    aa   0321     ABCDEFGH aaaa0321 A   
+        322 1    bb   0322     BCDEFGHI aaaa0322 B   
+        323 1    cc   0323     CDEFGHIJ cccc0323 C   
+        324 1    dd   0324     DEFGHIJK cccc0324 D   
+        325 1    ee   0325     EFGHIJKL eeee0325 E   
+        326 2    ff   0326     FGHIJKLM eeee0326 F   
+        327 2    gg   0327     GHIJKLMN gggg0327 G   
+        328 2    hh   0328     HIJKLMNO gggg0328 H   
+        429 6    ii   0329     IJKLMNOP iiii0329 I   
+        330 2    jj   0330     JKLMNOPQ iiii0330 J   
+        331 3    kk   0331     KLMNOPQR kkkk0331 K   
+        332 3    ll   0332     LMNOPQRS kkkk0332 L   
+        333 3    mm   0333     MNOPQRST mmmm0333 M   
+        334 3    nn   0334     NOPQRSTU mmmm0334 N   
+        335 3    oo   0335     OPQRSTUV oooo0335 O   
+        341 1    aa   0341     ABCDEFGH aaaa0341 A   
+        342 1    bb   0342     BCDEFGHI aaaa0342 B   
+        343 1    cc   0343     CDEFGHIJ cccc0343 C   
+        344 1    dd   0344     DEFGHIJK cccc0344 D   
+        345 1    ee   0345     EFGHIJKL eeee0345 E   
+        346 2    ff   0346     FGHIJKLM eeee0346 F   
+        347 2    gg   0347     GHIJKLMN gggg0347 G   
+        348 2    hh   0348     HIJKLMNO gggg0348 H   
+        449 6    ii   0349     IJKLMNOP iiii0349 I   
+        350 2    jj   0350     JKLMNOPQ iiii0350 J   
+        351 3    kk   0351     KLMNOPQR kkkk0351 K   
+        352 3    ll   0352     LMNOPQRS kkkk0352 L   
+        353 3    mm   0353     MNOPQRST mmmm0353 M   
+        354 3    nn   0354     NOPQRSTU mmmm0354 N   
+        355 3    oo   0355     OPQRSTUV oooo0355 O   
+        361 1    aa   0361     ABCDEFGH aaaa0361 A   
+        362 1    bb   0362     BCDEFGHI aaaa0362 B   
+        363 1    cc   0363     CDEFGHIJ cccc0363 C   
+        364 1    dd   0364     DEFGHIJK cccc0364 D   
+        365 1    ee   0365     EFGHIJKL eeee0365 E   
+        366 2    ff   0366     FGHIJKLM eeee0366 F   
+        367 2    gg   0367     GHIJKLMN gggg0367 G   
+        368 2    hh   0368     HIJKLMNO gggg0368 H   
+        469 6    ii   0369     IJKLMNOP iiii0369 I   
+        270 7    jj   0370     iiii0370 iiii0370 U   
+        371 3    kk   0371     KLMNOPQR kkkk0371 K   
+        372 3    ll   0372     LMNOPQRS kkkk0372 L   
+        374 3    nn   0374     NOPQRSTU mmmm0374 N   
+        375 3    oo   0375     OPQRSTUV oooo0375 O   
+        276 7    pp   0376     oooo0376 oooo0376 U   
+        382 1    bb   0382     BCDEFGHI aaaa0382 B   
+        383 1    cc   0383     CDEFGHIJ cccc0383 C   
+        284 7    dd   0384     cccc0384 cccc0384 U   
+        385 1    ee   0385     EFGHIJKL eeee0385 E   
+        386 2    ff   0386     FGHIJKLM eeee0386 F   
+        287 7    gg   0387     gggg0387 gggg0387 U   
+        388 2    hh   0388     HIJKLMNO gggg0388 H   
+        489 6    ii   0389     IJKLMNOP iiii0389 I   
+        290 7    jj   0390     iiii0390 iiii0390 U   
+        392 3    ll   0392     LMNOPQRS kkkk0392 L   
+        394 3    nn   0394     NOPQRSTU mmmm0394 N   
+        395 3    oo   0395     OPQRSTUV oooo0395 O   
+        296 7    pp   0396     oooo0396 oooo0396 U   
+        505 1    ee   0505     EFGHIJKL eeee0505 E   
+<group_end>
+
+--- 163 row(s) selected.
+
+<section_end>

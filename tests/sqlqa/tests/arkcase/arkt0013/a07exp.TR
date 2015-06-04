@@ -1,0 +1,274 @@
+<section_begin>  a07s0
+
+(EXPR)               (EXPR)                                                                                                                          
+-------------------- --------------------------------------------------------------------------------------------------------------------------------
+              21.600 william                                                                                                                         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+BINARY_64_S          (EXPR)              
+-------------------- --------------------
+<group_begin>
+             200.000                    8
+            1500.000                    8
+            2000.000                   32
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+(EXPR)
+--------------------
+<group_begin>
+                 999
+                2000
+           500000500
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+(EXPR)
+--------------------
+<group_begin>
+           124875399
+           124875399
+           124875399
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+BINARY_64_S          PIC_COMP_1   (EXPR)
+-------------------- ------------ ------
+<group_begin>
+             200.000          200   0.50
+             200.000          300   0.50
+             200.000          500   0.50
+             200.000         1000   0.50
+             200.000         2000   0.50
+             200.000         3000   0.50
+            1200.000          200   0.60
+            1200.000          300   0.60
+            1200.000          500   0.60
+            1200.000         1000   0.60
+            1200.000         2000   0.60
+            1200.000         3000   0.60
+            1500.000          200   0.80
+            1500.000          300   0.80
+            1500.000          500   0.80
+            1500.000         1000   0.80
+            1500.000         2000   0.80
+            1500.000         3000   0.80
+            2000.000          200   0.70
+            2000.000          300   0.70
+            2000.000          500   0.70
+            2000.000         1000   0.70
+            2000.000         2000   0.70
+            2000.000         3000   0.70
+<group_end>
+
+--- 24 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+NEW_NAME_2  (EXPR)              
+----------- --------------------
+       6.00                72.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+NEW_NAME_2  (EXPR)              
+----------- --------------------
+<group_begin>
+       5.00                23.00
+       6.00                69.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s7
+
+PIC_COMP_1   (EXPR)              
+------------ --------------------
+         300                    1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s8
+
+PIC_COMP_1   (EXPR)              
+------------ --------------------
+         300                    5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s9
+
+BINARY_64_S          (EXPR)              
+-------------------- --------------------
+<group_begin>
+            1200.000               975.00
+            2000.000               970.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s10
+
+MEDIUM_INT (EXPR)              
+---------- --------------------
+<group_begin>
+      8000          -8000000000
+      9000          -9000000000
+     10000         -10000000000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s11
+
+MEDIUM_INT (EXPR)              
+---------- --------------------
+<group_begin>
+      1000          -1000000000
+      5000          -5000000000
+      8000          -8000000000
+      9000          -9000000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s12
+
+LARGE_INT            (EXPR)              
+-------------------- --------------------
+<group_begin>
+                1000                    3
+                2000                    2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s13
+
+PIC_COMP_1   (EXPR)              
+------------ --------------------
+         300                    4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s14
+
+MEDIUM_INT (EXPR)              
+---------- --------------------
+<group_begin>
+      1000                  999
+      8000                 1333
+      9000                 1333
+     10000                 1333
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s15
+
+PIC_9_7   (EXPR)              
+--------- --------------------
+<group_begin>
+       50              2120.00
+       80              9036.00
+      100              2000.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s16
+
+PIC_COMP_1   (EXPR)              
+------------ --------------------
+         300                 3000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s17
+
+LARGE_INT            (EXPR)              
+-------------------- --------------------
+<group_begin>
+                1000                    3
+                2000                    2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a07s18
+
+PIC_COMP_1   (EXPR)              
+------------ --------------------
+         300                    4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s19
+
+MEDIUM_INT (EXPR)              
+---------- --------------------
+<group_begin>
+      1000                  999
+      8000                 1333
+      9000                 1333
+     10000                 1333
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s20
+
+PIC_9_7   (EXPR)              
+--------- --------------------
+<group_begin>
+       50              2120.00
+       80              9036.00
+      100              2000.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a07s21
+
+PIC_COMP_1   (EXPR)              
+------------ --------------------
+         300                 3000
+
+--- 1 row(s) selected.
+
+<section_end>

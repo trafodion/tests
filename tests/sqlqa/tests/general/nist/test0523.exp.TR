@@ -1,0 +1,27 @@
+<section_begin>  test0523a
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0523b
+
+PNAME
+--------------------
+IRM                 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0523c
+
+CITY            (EXPR)              
+--------------- --------------------
+Deale                              3
+
+--- 1 row(s) selected.
+
+<section_end>

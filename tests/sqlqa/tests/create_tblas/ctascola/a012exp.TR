@@ -1,0 +1,25 @@
+<section_begin>  a12s4
+
+MEMNUM      FIRST_NAME      LAST_NAME           
+----------- --------------- --------------------
+          1 Alpha           male                
+          2 Alpha           female              
+          3 Beta            male                
+          4 Beta            female              
+          5 chi             female              
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a12s3
+
+MEMNUM      FIRST_NAME           LAST_NAME                     
+----------- -------------------- ------------------------------
+          1 ALPHA                male                          
+          2 ALPHA                female                        
+          3 BETA                 male                          
+          4 BETA                 female                        
+
+--- 4 row(s) selected.
+
+<section_end>

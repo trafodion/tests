@@ -1,0 +1,161 @@
+<section_begin>  a17s0
+
+C1      C2   C3      C4   C5      C6   C7      C8  
+------- ---- ------- ---- ------- ---- ------- ----
+<group_begin>
+ab      1xv  ab      2xu  NULL    NULL NULL    NULL
+ab      1xv  ab      2xv  NULL    NULL NULL    NULL
+abcd    1xz  abcd    1xz  abcd    1xz  abcd    1xz 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a17s1
+
+C1      C2   C3      C4   C5      C6   C7      C8  
+------- ---- ------- ---- ------- ---- ------- ----
+<group_begin>
+abcd    1xz  abcd    1xz  abcd    1xz  abcd    1xz 
+ac      1xw  NULL    NULL ac      3xv  NULL    NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s2
+
+C1      C2   C3      C4   C5      C6   C7      C8  
+------- ---- ------- ---- ------- ---- ------- ----
+<group_begin>
+abcd    1xz  abcd    1xz  abcd    1xz  abcd    1xz 
+abcd    1xz  abcd    1xz  abcd    1xz  ad      4xv 
+abcd    1xz  abcd    1xz  abcd    1xz  bd      4xw 
+abcd    1xz  abcd    1xz  abcd    1xz  cd      4xu 
+abcd    1xz  abcd    1xz  abcd    1xz  cd      4xy 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a17s3
+
+C1      C2   C3      C4   C5      C6   C7      C8  
+------- ---- ------- ---- ------- ---- ------- ----
+<group_begin>
+ab      1xv  ab      2xu  NULL    NULL NULL    NULL
+ab      1xv  ab      2xv  NULL    NULL NULL    NULL
+abcd    1xz  abcd    1xz  abcd    1xz  abcd    1xz 
+ac      1xw  NULL    NULL NULL    NULL NULL    NULL
+ad      1xy  NULL    NULL NULL    NULL NULL    NULL
+NULL    1xu  NULL    NULL NULL    NULL NULL    NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s4
+
+C1      C2   C3      C4   C5      C6   C7              C8      C9   C10    
+------- ---- ------- ---- ------- ---- --------------- ------- ---- -------
+abcd    1xv  abcd    1xz  abcd    1xz  Partway through abcd    1xz  The end
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s5
+
+C1      C2   C3      C4   C5      C6      C7  
+------- ---- ------- ---- ------- ------- ----
+abcd    1xv  abcd    1xz  abcd    abcd    1xz 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s6
+
+C1      C2   C3      C4   C5      C6   C7      C8  
+------- ---- ------- ---- ------- ---- ------- ----
+<group_begin>
+abcd    1xz  abcd    1xz  abcd    1xz  abcd    1xz 
+ac      1xw  NULL    NULL ac      3xv  NULL    NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s7
+
+C1      C2   C3      C4   C5      C6   C7      C8  
+------- ---- ------- ---- ------- ---- ------- ----
+<group_begin>
+abcd    1xz  abcd    1xz  abcd    1xz  abcd    1xz 
+abcd    1xz  abcd    1xz  abcd    1xz  ad      4xv 
+abcd    1xz  abcd    1xz  abcd    1xz  bd      4xw 
+abcd    1xz  abcd    1xz  abcd    1xz  cd      4xu 
+abcd    1xz  abcd    1xz  abcd    1xz  cd      4xy 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a17s8
+
+C1      C2   C3      C4   C5      C6   C7      C8  
+------- ---- ------- ---- ------- ---- ------- ----
+<group_begin>
+ab      1xv  ab      2xu  NULL    NULL NULL    NULL
+ab      1xv  ab      2xv  NULL    NULL NULL    NULL
+abcd    1xz  abcd    1xz  abcd    1xz  abcd    1xz 
+ac      1xw  NULL    NULL NULL    NULL NULL    NULL
+ad      1xy  NULL    NULL NULL    NULL NULL    NULL
+NULL    1xu  NULL    NULL NULL    NULL NULL    NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s9
+
+C1      C2   C3      C4   C5      C6   C7              C8      C9   C10    
+------- ---- ------- ---- ------- ---- --------------- ------- ---- -------
+abcd    1xv  abcd    1xz  abcd    1xz  Partway through abcd    1xz  The end
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s10
+
+C1      C2   C3      C4   C5      C6   C7      C8   C9   C10    
+------- ---- ------- ---- ------- ---- ------- ---- ---- -------
+<group_begin>
+ab      1xv  ab      2xu  NULL    NULL NULL    NULL NULL NULL   
+ab      1xv  ab      2xv  NULL    NULL NULL    NULL NULL NULL   
+abcd    1xz  abcd    1xz  abcd    1xz  abcd    1xz  NULL NULL   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a17s11
+
+C1      C2   C3      C4   C5      C6      C7   C8  
+------- ---- ------- ---- ------- ------- ---- ----
+abcd    1xv  abcd    1xz  abcd    abcd    1xz  NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s12
+
+C1      C2   C3      C4   C5      C6   C7      C8  
+------- ---- ------- ---- ------- ---- ------- ----
+<group_begin>
+ab      1xv  ab      2xu  NULL    NULL NULL    NULL
+ab      1xv  ab      2xv  NULL    NULL NULL    NULL
+abcd    1xz  abcd    1xz  abcd    1xz  abcd    1xz 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

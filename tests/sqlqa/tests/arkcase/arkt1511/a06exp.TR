@@ -1,0 +1,152 @@
+<section_begin>  a06s0
+
+FIRST_NAME (EXPR) (EXPR) LAST_NAME  (EXPR)     (EXPR)     (EXPR)                 
+---------- ------ ------ ---------- ---------- ---------- -----------------------
+<group_begin>
+CLARK             .      DINAH              32          5   ###########          
+HOWARD            .      JERRY              32          5   ###########          
+CRINAR            .      JESSICA            32          5   ###########          
+GREEN             .      ROGER              32          5   ###########          
+hans              .      christian          32          5   ###########          
+jerry             .      white              32          5   ###########          
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+FIRST_NAME LAST_NAME  DEPT_NUM SALARY     MARITAL_STATUS HIRE_DATE  START_TIME                
+---------- ---------- -------- ---------- -------------- ---------- --------------------------
+<group_begin>
+CLARK      DINAH          9000   37000.50              3 1977-05-02 1977-05-02 08:12:00.110000
+CRINAR     JESSICA        3500   39500.00              2 1984-08-12 1984-08-12 05:00:00.000233
+GREEN      ROGER          9000  175500.99              2 1908-09-23 1908-09-23 12:34:00.320222
+HOWARD     JERRY          1000   65000.64              1 1923-11-05 1923-11-05 10:30:00.999900
+david                      230   78000.00              2 2050-09-03 1998-12-25 10:30:00.999900
+hans       christian       500   99000.04              1 1908-09-23 1908-09-23 12:34:00.067222
+jerry      white          1200   70000.00              1 1923-11-05 1923-11-05 08:30:00.009999
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+FIRST_NAME LAST_NAME  DEPT_NUM SALARY     MARITAL_STATUS HIRE_DATE  START_TIME                
+---------- ---------- -------- ---------- -------------- ---------- --------------------------
+<group_begin>
+CLARK      DINAH          9000   37000.50              3 1977-05-02 1977-05-02 08:12:00.110000
+CRINAR     JESSICA        3500   39500.00              2 1984-08-12 1984-08-12 05:00:00.000233
+GREEN      ROGER          9000  175500.99              2 1908-09-23 1908-09-23 12:34:00.320222
+HOWARD     JERRY          1000   65000.64              1 1923-11-05 1923-11-05 10:30:00.999900
+david                      230   78000.00              2 2050-09-03 1998-12-25 10:30:00.999900
+hans       christian       500   99000.04              1 1908-09-23 1908-09-23 12:34:00.067222
+jerry      white          1200   70000.00              1 1923-11-05 1923-11-05 08:30:00.009999
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+FIRST_NAME LAST_NAME  DEPT_NUM SALARY     MARITAL_STATUS HIRE_DATE  START_TIME                
+---------- ---------- -------- ---------- -------------- ---------- --------------------------
+<group_begin>
+CLARK      DINAH          9000   37000.50              3 1977-05-02 1977-05-02 08:12:00.110000
+CRINAR     JESSICA        3500   39500.00              2 1984-08-12 1984-08-12 05:00:00.000233
+GREEN      ROGER          9000  175500.99              2 1908-09-23 1908-09-23 12:34:00.320222
+HOWARD     JERRY          1000   65000.64              1 1923-11-05 1923-11-05 10:30:00.999900
+hans       christian       500   99000.04              1 1908-09-23 1908-09-23 12:34:00.067222
+jerry      white          1200   70000.00              1 1923-11-05 1923-11-05 08:30:00.009999
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+LAST_NAME  (EXPR)     (EXPR)                                                                                               (EXPR)             FIRST_NAME (EXPR)     (EXPR)        (EXPR)                                                               
+---------- ---------- ---------------------------------------------------------------------------------------------------- ------------------ ---------- ---------- ------------- ---------------------------------------------------------------------
+<group_begin>
+DINAH              32 CLARK                                                                                                                   CLARK      CLARK      DINAH         what is                         first name                           
+JERRY              32 HOWARD                                                                                               last name is JERRY HOWARD     HOWARD     JERRY         what is                         first name                           
+JESSICA            32 CRINAR                                                                                               JESSICA            CRINAR     CRINAR     JESSICA       what is                         first name                           
+ROGER              32 GR                    N                                                                              ROGER              GREEN      GREEN      ROGER         what is                         first name                           
+christian          32 hans                                                                                                 christian          hans       hans       christian     what is                         first name                           
+white              32 jerry                                                                                                white              jerry      jerry      white         what is                         first name                           
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+(EXPR)     (EXPR)     (EXPR)     (EXPR)     (EXPR)       (EXPR)                (EXPR)             
+---------- ---------- ---------- ---------- ------------ --------------------- -------------------
+<group_begin>
+       105        453       1005       4090              DINAH                 1977-05-02         
+       105        453       1005       4090              JESSICA               1984-08-12         
+       105        453       1005       4090              ROGER                 1908-09-23         
+       105        453       1005       4090              JERRY                 1923-11-05         
+       105        453       1005       4090              christian             1908-09-23         
+       105        453       1005       4090              white                 1923-11-05         
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+LAST_NAME  FIRST_NAME HIRE_DATE 
+---------- ---------- ----------
+<group_begin>
+DINAH      CLARK      1977-05-02
+JESSICA    CRINAR     1984-08-12
+ROGER      GREEN      1908-09-23
+JERRY      HOWARD     1923-11-05
+christian  hans       1908-09-23
+white      jerry      1923-11-05
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+(EXPR)     LAST_NAME  HIRE_DATE 
+---------- ---------- ----------
+<group_begin>
+        87 DINAH      1977-05-02
+         2 DINAH      1977-05-02
+        87 JERRY      1923-11-05
+         2 JERRY      1923-11-05
+        87 JESSICA    1984-08-12
+         2 JESSICA    1984-08-12
+        87 ROGER      1908-09-23
+         2 ROGER      1908-09-23
+        87 christian  1908-09-23
+         2 christian  1908-09-23
+        87 white      1923-11-05
+         2 white      1923-11-05
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+FIRST_NAME (EXPR) HIRE_DATE  LAST_NAME 
+---------- ------ ---------- ----------
+<group_begin>
+CLARK             1977-05-02 NULL      
+CRINAR            1984-08-12 NULL      
+GREEN             1908-09-23 NULL      
+HOWARD            1923-11-05 NULL      
+hans              1908-09-23 NULL      
+jerry             1923-11-05 NULL      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

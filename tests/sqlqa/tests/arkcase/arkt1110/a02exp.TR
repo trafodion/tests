@@ -1,0 +1,803 @@
+<section_begin>  a02s0
+
+VARCHAR5_10 UBIN15_UNIQ CHAR0_10
+----------- ----------- --------
+<group_begin>
+AA                   11 ABAA    
+AAB                  10 AAAA    
+ABAAAAAA              3 ABAA    
+ABB                   8 AAAA    
+ABC                  12 ADAA    
+ACAAAAAAI             6 ACAA    
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+VARCHAR5_10 UBIN15_UNIQ VARCHAR0_4 VARCHAR15_UNIQ
+----------- ----------- ---------- --------------
+<group_begin>
+AA                   11 CAAAAAAA   ABAA          
+AAB                  10 CAAAAAAA   GIAAEAAA      
+ABAAAAAA              3 CAAAAAAA   AHAAAAAB      
+ABB                   8 CAAAAAAA   AX            
+ABC                  12 CAAAAAAA   AAAA          
+ACAAAAAAI             6 CAAAAAAA   AX            
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+SBIN16_20   SBIN17_UNIQ  SBIN12_1000 CHAR6_20 UDEC5_20
+----------- ------------ ----------- -------- --------
+<group_begin>
+       0.06         1968         626 CBAAAAAA        8
+       0.10          418         890 CAAAAAAA       18
+       0.06           92         546 CBAAAAAA       12
+       0.10         3123         830 CAAAAAAA        3
+       0.18         2963         198 CDAAAAAA        3
+       0.02         3509         622 CCAAAAAA        9
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+SBIN16_20   SBIN17_UNIQ 
+----------- ------------
+<group_begin>
+       0.06         1968
+       0.10          418
+       0.06           92
+       0.10         3123
+       0.18         2963
+       0.02         3509
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4            
+-------- ----------- --------------------
+<group_begin>
+AAAAAAAA          20                    3
+AAAAAAAA          20                    2
+AAAAAAAA          20                    3
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    2
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+SDEC9_UNIQ           SDEC0_100   SDEC1_20
+-------------------- ----------- --------
+<group_begin>
+                -201         -81       -2
+                -200         -44       -6
+                -101         -52      -12
+                -100         -89       -5
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+VARCHAR0_UNIQ
+-------------
+<group_begin>
+CJAAAAAC     
+AEAAJAAB     
+CCAAFAAC     
+AIAALAAA     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+CHAR3_4
+--------
+<group_begin>
+BAAAAAAA
+AAAAAAAA
+AAAAAAAA
+BAAAAAAA
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+CHAR5_N20
+---------
+<group_begin>
+BDAAAAAA 
+AAAAAAAA 
+CBAAAAAA 
+ACAAAAAA 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+SBIN0_4     SDEC6_4
+----------- -------
+<group_begin>
+          0      -2
+         -1      -2
+         -2       0
+         -2      -1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+CHAR15_100
+----------
+<group_begin>
+ACAAAAAA  
+ATAAAAA   
+BGAAAAAA  
+BOAAAAA   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+UBIN16_N10
+----------
+<group_begin>
+      NULL
+      NULL
+      NULL
+      NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s12
+
+SBIN17_UNIQ          SDEC17_NUNIQ         CHAR17_2
+-------------------- -------------------- --------
+<group_begin>
+              -76757                -1973 BAAA    
+              -49700                -2086 AAAAAA  
+              -37055                  -60 AAAA    
+              -15935                 -812 AAAAAAA 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+CHAR15_100 CHAR17_2
+---------- --------
+<group_begin>
+ATAAAAA    AAAA    
+BOAAAAA    AAAAAAA 
+ACAAAAAA   AAAAAA  
+BGAAAAAA   BAAA    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s14
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s15
+
+(EXPR)
+--------------------
+                  12
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s16
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4            
+-------- ----------- --------------------
+<group_begin>
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    2
+AAAAAAAA          20                    2
+AAAAAAAA          20                    2
+AAAAAAAA          20                    2
+AAAAAAAA          20                    2
+AAAAAAAA          20                    2
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+NULL            NULL                    2
+<group_end>
+
+--- 31 row(s) selected.
+
+<section_end>
+<section_begin>  a02s17
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4            
+-------- ----------- --------------------
+<group_begin>
+NULL            NULL                    2
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    2
+AAAAAAAA          20                    2
+AAAAAAAA          20                    2
+AAAAAAAA          20                    2
+AAAAAAAA          20                    2
+AAAAAAAA          20                    2
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+<group_end>
+
+--- 31 row(s) selected.
+
+<section_end>
+<section_begin>  a02s18
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4            
+-------- ----------- --------------------
+<group_begin>
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    2
+AAAAAAAA          20                    2
+AAAAAAAA          20                    2
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a02s19
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4             SBIN16_20  
+-------- ----------- -------------------- -----------
+<group_begin>
+AAAAAAAA          20                    3        0.06
+AAAAAAAA          20                    0        0.06
+AAAAAAAA          20                    2        0.06
+AAAAAAAA          20                    0        0.10
+AAAAAAAA          20                    2        0.10
+AAAAAAAA          20                    3        0.10
+AAAAAAAA          20                    2        0.18
+AAAAAAAA          20                    3        0.18
+AAAAAAAA          20                    0        0.18
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a02s20
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4            
+-------- ----------- --------------------
+<group_begin>
+AAAAAAAA          20                    3
+AAAAAAAA          20                    2
+AAAAAAAA          20                    3
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+AAAAAAAA          20                    2
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s21
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4            
+-------- ----------- --------------------
+<group_begin>
+AAAAAAAA          20                    3
+AAAAAAAA          20                    0
+AAAAAAAA          20                    3
+AAAAAAAA          20                    2
+AAAAAAAA          20                    0
+AAAAAAAA          20                    2
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s22
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s23
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4            
+-------- ----------- --------------------
+<group_begin>
+AAAAAAAA          20                    3
+AAAAAAAA          20                    2
+AAAAAAAA          20                    3
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s24
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4            
+-------- ----------- --------------------
+<group_begin>
+AAAAAAAA          20                    3
+AAAAAAAA          20                    3
+AAAAAAAA          20                    0
+AAAAAAAA          20                    2
+AAAAAAAA          20                    0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s25
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4            
+-------- ----------- --------------------
+<group_begin>
+AAAAAAAA          20                    3
+AAAAAAAA          20                    2
+AAAAAAAA          20                    0
+AAAAAAAA          20                    0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s26
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4             SBIN16_20  
+-------- ----------- -------------------- -----------
+<group_begin>
+AAAAAAAA          20                    3        0.06
+AAAAAAAA          20                    2        0.10
+AAAAAAAA          20                    0        0.10
+AAAAAAAA          20                    0        0.18
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s27
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4            
+-------- ----------- --------------------
+AAAAAAAA          20                    0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s28
+
+CHAR19_2 UDEC20_UNIQ SBIN19_4            
+-------- ----------- --------------------
+AAAAAAAA          20                    0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s29
+
+CHAR15_100 CHAR17_2 CHAR5_N20 CHAR3_4  SBIN0_4     SDEC6_4
+---------- -------- --------- -------- ----------- -------
+<group_begin>
+ACAAAAAA   AAAAAA   CBAAAAAA  AAAAAAAA          -2       0
+ATAAAAA    AAAA     AAAAAAAA  AAAAAAAA          -1      -2
+BGAAAAAA   BAAA     BDAAAAAA  BAAAAAAA           0      -2
+BOAAAAA    AAAAAAA  ACAAAAAA  BAAAAAAA          -2      -1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s30
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s31
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s32
+
+(EXPR)      VARCHAR15_UNIQ CHAR19_2 UDEC20_UNIQ SBIN19_4            
+----------- -------------- -------- ----------- --------------------
+<group_begin>
+NULL        AAAA           NULL            NULL                    0
+ABAA        ABAA           AAAAAAAA          20                    3
+NULL        AHAAAAAB       NULL            NULL                    3
+NULL        AX             NULL            NULL                    0
+NULL        AX             NULL            NULL                    2
+NULL        GIAAEAAA       NULL            NULL                    2
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s33
+
+(EXPR)      VARCHAR15_UNIQ SBIN16_20   CHAR19_2 UDEC20_UNIQ SBIN19_4            
+----------- -------------- ----------- -------- ----------- --------------------
+<group_begin>
+NULL        AX                    0.02 NULL            NULL                    2
+NULL        AHAAAAAB              0.06 NULL            NULL                    3
+ABAA        ABAA                  0.06 AAAAAAAA          20                    3
+NULL        AX                    0.10 NULL            NULL                    0
+NULL        GIAAEAAA              0.10 NULL            NULL                    2
+NULL        AAAA                  0.18 NULL            NULL                    0
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s34
+
+(EXPR)
+--------------------
+                  10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s35
+
+(EXPR)
+--------------------
+                  10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s36
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s37
+
+VARCHAR15_UNIQ VARCHAR5_10
+-------------- -----------
+<group_begin>
+ABAA           AA         
+GIAAEAAA       AAB        
+AHAAAAAB       ABAAAAAA   
+AX             ABB        
+AAAA           ABC        
+AX             ACAAAAAAI  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s38
+
+VARCHAR5_10 VARCHAR15_UNIQ
+----------- --------------
+AA          ABAA          
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s39
+
+(EXPR)      VARCHAR15_UNIQ CHAR19_2 UDEC20_UNIQ SBIN19_4            
+----------- -------------- -------- ----------- --------------------
+ABAA        ABAA           AAAAAAAA          20                    3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s40
+
+(EXPR)      VARCHAR15_UNIQ CHAR19_2 UDEC20_UNIQ SBIN19_4            
+----------- -------------- -------- ----------- --------------------
+ABAA        ABAA           AAAAAAAA          20                    3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s41
+
+(EXPR)      VARCHAR15_UNIQ SBIN16_20   CHAR19_2 UDEC20_UNIQ SBIN19_4            
+----------- -------------- ----------- -------- ----------- --------------------
+ABAA        ABAA                  0.06 AAAAAAAA          20                    3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s42
+
+VARCHAR15_UNIQ VARCHAR15_UNIQ
+-------------- --------------
+<group_begin>
+ABAA           ABAA          
+GIAAEAAA       GIAAEAAA      
+AHAAAAAB       AHAAAAAB      
+AX             AX            
+AAAA           AAAA          
+AX             AX            
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s43
+
+VARCHAR15_UNIQ VARCHAR15_UNIQ
+-------------- --------------
+<group_begin>
+AAAA           AAAA          
+ABAA           ABAA          
+AHAAAAAB       AHAAAAAB      
+AX             AX            
+AX             AX            
+GIAAEAAA       GIAAEAAA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s44
+
+VARCHAR15_UNIQ VARCHAR15_UNIQ
+-------------- --------------
+ABAA           ABAA          
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s45
+
+(EXPR)      VARCHAR15_UNIQ SBIN16_20   CHAR19_2 UDEC20_UNIQ SBIN19_4            
+----------- -------------- ----------- -------- ----------- --------------------
+ABAA        ABAA                  0.06 AAAAAAAA          20                    3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s46
+
+(EXPR)      VARCHAR15_UNIQ SBIN16_20   CHAR19_2 UDEC20_UNIQ SBIN19_4            
+----------- -------------- ----------- -------- ----------- --------------------
+ABAA        ABAA                  0.06 AAAAAAAA          20                    3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s47
+
+SBIN16_20   SBIN19_4            
+----------- --------------------
+<group_begin>
+       0.06                    3
+       0.10                    2
+       0.06                    3
+       0.10                    0
+       0.18                    0
+       0.02                    2
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s48
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s49
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s50
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s51
+
+SBIN16_20
+-----------
+<group_begin>
+       0.06
+       0.10
+       0.06
+       0.10
+       0.18
+       0.02
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s52
+
+SBIN16_20   SBIN16_20  
+----------- -----------
+<group_begin>
+       0.02        0.02
+       0.02        0.06
+       0.02        0.06
+       0.02        0.10
+       0.02        0.10
+       0.02        0.18
+       0.06        0.02
+       0.06        0.02
+       0.06        0.06
+       0.06        0.06
+       0.06        0.06
+       0.06        0.06
+       0.06        0.10
+       0.06        0.10
+       0.06        0.10
+       0.06        0.10
+       0.06        0.18
+       0.06        0.18
+       0.10        0.02
+       0.10        0.02
+       0.10        0.06
+       0.10        0.06
+       0.10        0.06
+       0.10        0.06
+       0.10        0.10
+       0.10        0.10
+       0.10        0.10
+       0.10        0.10
+       0.10        0.18
+       0.10        0.18
+       0.18        0.02
+       0.18        0.06
+       0.18        0.06
+       0.18        0.10
+       0.18        0.10
+       0.18        0.18
+<group_end>
+
+--- 36 row(s) selected.
+
+<section_end>
+<section_begin>  a02s53
+
+SBIN16_20   SBIN16_20  
+----------- -----------
+<group_begin>
+       0.02        0.10
+       0.02        0.10
+       0.06        0.10
+       0.06        0.10
+       0.06        0.10
+       0.06        0.10
+       0.10        0.10
+       0.10        0.10
+       0.10        0.10
+       0.10        0.10
+       0.18        0.10
+       0.18        0.10
+       NULL        0.02
+       NULL        0.06
+       NULL        0.06
+       NULL        0.18
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a02s54
+
+(EXPR)
+--------------------
+                  16
+
+--- 1 row(s) selected.
+
+<section_end>

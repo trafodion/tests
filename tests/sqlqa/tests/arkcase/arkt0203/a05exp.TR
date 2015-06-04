@@ -1,0 +1,51 @@
+<section_begin>  a05s0
+
+CHAR_1 ORDERING
+------ --------
+<group_begin>
+a             1
+NULL          2
+NULL          3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+CHAR_1 ORDERING
+------ --------
+<group_begin>
+NULL          2
+NULL          3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+CHAR_1 ORDERING
+------ --------
+<group_begin>
+a             1
+NULL          2
+NULL          3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+CHAR_1 ORDERING
+------ --------
+<group_begin>
+a             1
+NULL          2
+NULL          3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

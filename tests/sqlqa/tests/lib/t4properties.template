@@ -1,0 +1,11 @@
+url=jdbc:t4jdbc://REPLACE_JDBC_HOST/
+catalog=REPLACE_JDBC_CATALOG
+schema=REPLACE_JDBC_SCHEMA
+user=REPLACE_JDBC_USER
+password=REPLACE_JDBC_PW
+sessionName=test_session
+applicationName=test_app
+certDir=.
+serverDataSource=TDM_Default_DataSource
+roleName=REPLACE_JDBC_ROLE
+

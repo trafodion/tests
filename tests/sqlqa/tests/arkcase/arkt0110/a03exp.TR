@@ -1,0 +1,18 @@
+<section_begin>  a03s0
+
+PARTNUM PARTNAME           INVENTORY LOCATION PRICE     
+------- ------------------ --------- -------- ----------
+   2001 DECIMAL ARITH           -100 X10         1500.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+PARTNUM PARTNAME           INVENTORY LOCATION PRICE     
+------- ------------------ --------- -------- ----------
+   2001 DECIMAL ARITH           -100 X10         1500.00
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,38 @@
+<section_begin>  s1
+
+PTYPE  CITY           
+------ ---------------
+<group_begin>
+Code   Vienna         
+Design Deale          
+Test   Tampa          
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+PTYPE  CITY           
+------ ---------------
+<group_begin>
+Code   Vienna         
+Design Deale          
+Test   Tampa          
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+(EXPR)
+--------------------
+<group_begin>
+               30000
+               80000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

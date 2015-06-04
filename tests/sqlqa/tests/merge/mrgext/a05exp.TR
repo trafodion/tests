@@ -1,0 +1,97 @@
+<section_begin>  a05s0
+
+COL1                 COL2       COL3  COL4                
+-------------------- ---------- ----- --------------------
+<group_begin>
+                   1 AAAAAAAAAA BBBBB my longish string   
+                   2 bbbbbbbbbb ccccc my second string    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+SKY                  VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+-------------------- ------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+                   1 a            1 a           0.90 NULL    NULL NULL       0
+                   2 cc           2 cc          2.00 cc       2.0 cc         2
+                   3 abcdefg      3 cc          0.09 alph     2.0 cc         1
+                   4 b            4 c     1234567.89 e     1234.5 c      12345
+                   5 abcdefg      5 cc          0.09 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+SKY                  VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+-------------------- ------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+                   1 a            1 a           0.90 NULL    NULL NULL       0
+                   2 cc           2 cc          2.00 cc       2.0 cc         2
+                   3 abcdefg      3 cc          0.09 alph     2.0 cc         1
+                   4 b            4 c     1234567.89 e     1234.5 c      12345
+                   5 abcdefg      5 cc          0.09 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a05s4
+
+SK                   V1      N2     C3   N4          C5   N6      V7    N8    
+-------------------- ------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+                   1 a            1 a           0.90 NULL    NULL NULL       0
+                   2 cc           2 cc          2.00 cc       2.0 cc         2
+                   3 abcdefg      3 cc          0.09 alph     2.0 cc         1
+                   4 b            4 c     1234567.89 e     1234.5 c      12345
+                   5 abcdefg      5 cc          0.09 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+--- 0 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+SK                   V1      N2     C3   N4          C5   N6      V7    N8    
+-------------------- ------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+                   1 a            1 a           0.90 NULL    NULL NULL       0
+                   2 cc           2 cc          2.00 cc       2.0 cc         2
+                   3 abcdefg      3 cc          0.09 alph     2.0 cc         1
+                   4 b            4 c     1234567.89 e     1234.5 c      12345
+                   5 abcdefg      5 cc          0.09 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+SK                   V1      N2     C3   N4          C5   N6      V7    N8    
+-------------------- ------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+                   1 a            1 a           0.90 NULL    NULL NULL       0
+                   2 cc           2 cc          2.00 cc       2.0 cc         2
+                   3 abcdefg      3 cc          0.09 alph     2.0 cc         1
+                   4 b            4 c     1234567.89 e     1234.5 c      12345
+                   5 abcdefg      5 cc          0.09 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

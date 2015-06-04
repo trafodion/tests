@@ -1,0 +1,255 @@
+<section_begin>  a05s0
+
+VARCHAR11_2
+--------------------------------
+<group_begin>
+Key1 Val 1                      
+AAAA                            
+AAAAxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+AAAA                            
+BAAA                            
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+VARCHAR2_10
+---------------
+<group_begin>
+Key2 Val 1     
+AB             
+AE             
+AA             
+BB             
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+VARCHAR15_UNIQ
+--------------
+<group_begin>
+6             
+FGAADAAE      
+DEAACAAE      
+DDAABAAD      
+CCAAKAAB      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+VARCHAR2_100              VARCHAR5_4 UBIN7_100 SBIN16_20  
+------------------------- ---------- --------- -----------
+<group_begin>
+ATAAAAAAAAAAAAAA          AAAAAAAA          95        0.04
+AYAAAAAAAAAAAAAA          AAAAAAAA          97        0.04
+CIAAAAAAAAAAAAAA          CAAAAAAA          96        0.18
+DQAAAAAAAAAAAAAA          DAAAAAAA           7        0.11
+Index varchar2_100        Index VC          61       62.00
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+VARCHAR11_2                      VARCHAR15_UNIQ
+-------------------------------- --------------
+<group_begin>
+AAAA                             DDAABAAD      
+AAAA                             FGAADAAE      
+AAAAxxxxxxxxxxxxxxxxxxxxxxxxxxxx DEAACAAE      
+BAAA                             CCAAKAAB      
+Key1 Val 1                       6             
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+VARCHAR11_2                      VARCHAR2_10     VARCHAR15_UNIQ VARCHAR2_100              VARCHAR5_4 UBIN7_100 SBIN16_20  
+-------------------------------- --------------- -------------- ------------------------- ---------- --------- -----------
+<group_begin>
+AAAA                             AB              FGAADAAE       AYAAAAAAAAAAAAAA          AAAAAAAA          97        0.04
+AAAA                             AA              DDAABAAD       CIAAAAAAAAAAAAAA          CAAAAAAA          96        0.18
+AAAAxxxxxxxxxxxxxxxxxxxxxxxxxxxx AE              DEAACAAE       ATAAAAAAAAAAAAAA          AAAAAAAA          95        0.04
+BAAA                             BB              CCAAKAAB       DQAAAAAAAAAAAAAA          DAAAAAAA           7        0.11
+Key1 Val 1                       Key2 Val 1      6              Index varchar2_100        Index VC          61       62.00
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+VARCHAR2_10     VARCHAR2_100              UBIN7_100 SBIN16_20  
+--------------- ------------------------- --------- -----------
+<group_begin>
+AA              CIAAAAAAAAAAAAAA                 96        0.18
+AB              AYAAAAAAAAAAAAAA                 97        0.04
+AE              ATAAAAAAAAAAAAAA                 95        0.04
+BB              DQAAAAAAAAAAAAAA                  7        0.11
+Key2 Val 1      Index varchar2_100               61       62.00
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+VARCHAR2_10     VARCHAR2_100              UBIN7_100 SBIN16_20  
+--------------- ------------------------- --------- -----------
+<group_begin>
+AA              CIAAAAAAAAAAAAAA                 96        0.18
+AB              Update 1 row to new value        97        0.04
+AE              ATAAAAAAAAAAAAAA                 95        0.04
+BB              DQAAAAAAAAAAAAAA                  7        0.11
+Key2 Val 1      Index varchar2_100               61       62.00
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+VARCHAR2_10     VARCHAR2_100              UBIN7_100 SBIN16_20  
+--------------- ------------------------- --------- -----------
+<group_begin>
+AA              CIAAAAAAAAAAAAAA                 96        0.18
+AB              Update 1 row to new value        97        0.04
+AE              ATAAAAAAAAAAAAAA                 95        0.04
+BB              DQAAAAAAAAAAAAAA                  7        0.11
+Key2 Val 1      Index varchar2_100               61       62.00
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+VARCHAR2_10     VARCHAR2_100              UBIN7_100 SBIN16_20   UBIN16_1000
+--------------- ------------------------- --------- ----------- -----------
+<group_begin>
+AA              Update all rows to new va        96        0.18        1.58
+AB              Update all rows to new va        97        0.04        5.24
+AE              Update all rows to new va        95        0.04        4.44
+BB              Update all rows to new va         7        0.11        3.91
+Key2 Val 1      Update all rows to new va        61       62.00        NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+VARCHAR11_2                      VARCHAR15_UNIQ VARCHAR2_100              VARCHAR5_4
+-------------------------------- -------------- ------------------------- ----------
+<group_begin>
+AAAA                             FGAADAAE       Update all rows to new va AAAAAAAA  
+AAAA                             DDAABAAD       Update all rows to new va CAAAAAAA  
+AAAAxxxxxxxxxxxxxxxxxxxxxxxxxxxx DEAACAAE       Update all rows to new va AAAAAAAA  
+BAAA                             CCAAKAAB       Update all rows to new va DAAAAAAA  
+Key1 Val 1                       6              Update all rows to new va Index VC  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+VARCHAR2_10     VARCHAR2_100              UBIN7_100 SBIN16_20   UBIN16_1000
+--------------- ------------------------- --------- ----------- -----------
+<group_begin>
+AA              CIAAAAAAAAAAAAAA                 96        0.18        1.58
+AB              AYAAAAAAAAAAAAAA                 97        0.04        5.24
+AE              ATAAAAAAAAAAAAAA                 95        0.04        4.44
+BB              DQAAAAAAAAAAAAAA                  7        0.11        3.91
+Key2 Val 1      Index varchar2_100               61       62.00        NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s12
+
+VARCHAR11_2                      VARCHAR15_UNIQ VARCHAR2_100              VARCHAR5_4
+-------------------------------- -------------- ------------------------- ----------
+<group_begin>
+AAAA                             FGAADAAE       AYAAAAAAAAAAAAAA          AAAAAAAA  
+AAAA                             DDAABAAD       CIAAAAAAAAAAAAAA          CAAAAAAA  
+AAAAxxxxxxxxxxxxxxxxxxxxxxxxxxxx DEAACAAE       ATAAAAAAAAAAAAAA          AAAAAAAA  
+BAAA                             CCAAKAAB       DQAAAAAAAAAAAAAA          DAAAAAAA  
+Key1 Val 1                       6              Index varchar2_100        Index VC  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s13
+
+VARCHAR2_10     VARCHAR2_100              VARCHAR5_4
+--------------- ------------------------- ----------
+<group_begin>
+AA              CIAAAAAAAAAAAAAA          CAAAAAAA  
+AB              AYAAAAAAAAAAAAAA          AAAAAAAA  
+AE              ATAAAAAAAAAAAAAA          AAAAAAAA  
+BB              DQAAAAAAAAAAAAAA          DAAAAAAA  
+Key2 Val 1      Index varchar2_100        Index VC  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s14
+
+VARCHAR2_10     VARCHAR2_100              VARCHAR5_4
+--------------- ------------------------- ----------
+<group_begin>
+AA              CIAAAAAAAAAAAAAA          CAAAAAAA  
+AB              AYAAAAAAAAAAAAAA          AAAAAAAA  
+BB              DQAAAAAAAAAAAAAA          DAAAAAAA  
+Key2 Val 1      Index varchar2_100        Index VC  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s15
+
+VARCHAR2_10     VARCHAR2_100              VARCHAR5_4
+--------------- ------------------------- ----------
+<group_begin>
+AA              CIAAAAAAAAAAAAAA          CAAAAAAA  
+AB              AYAAAAAAAAAAAAAA          AAAAAAAA  
+Key2 Val 1      Index varchar2_100        Index VC  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s16
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s17
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>

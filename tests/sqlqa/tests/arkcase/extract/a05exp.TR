@@ -1,0 +1,65 @@
+<section_begin>  a05s0
+
+IM   IMS           ISEC      
+---- ------------- ----------
+<group_begin>
+99    0:00.000000  NULL      
+99   59:59.000000  NULL      
+30   18:27.000000  NULL      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+(EXPR)
+------
+<group_begin>
+    99
+    99
+    30
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+(EXPR)
+------
+<group_begin>
+     0
+    59
+    18
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+(EXPR)
+----------
+<group_begin>
+  0.000000
+ 59.000000
+ 27.000000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+(EXPR)
+----------
+<group_begin>
+      NULL
+      NULL
+      NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

@@ -1,0 +1,495 @@
+<section_begin>  verify
+<group_begin>
+
+CHAR_UP
+------------
+C11111111111
+N22222A2222N
+CHAR UPSHIFT
+C33333333333
+C33333333333
+C22222222222
+2ND CHARUP  
+3RD ROW     
+C11111111111
+N11111A1111N
+N33333A3333N
+
+--- 11 row(s) selected.
+
+VARCHARS
+--------
+DEFAULT 
+DEFAULT 
+Varchar 
+DEFAULT 
+DEFAULT 
+DEFAULT 
+varcha7 
+7vArcH  
+DEFAULT 
+DEFAULT 
+DEFAULT 
+
+--- 11 row(s) selected.
+
+VARCHAR_UP
+----------
+DEFAULT   
+DEFAULT   
+XXXXXXXXX 
+DEFAULT   
+DEFAULT   
+DEFAULT   
+VARCHA9   
+9ARCH     
+DEFAULT   
+DEFAULT   
+DEFAULT   
+
+--- 11 row(s) selected.
+
+PICX
+----
+DEF 
+DEF 
+piC 
+DEF 
+DEF 
+DEF 
+33p 
+3pP 
+DEF 
+DEF 
+DEF 
+
+--- 11 row(s) selected.
+
+PICX_UP
+------------
+DEFAULT     
+DEFAULT     
+PIC DISPLAY 
+DEFAULT     
+DEFAULT     
+DEFAULT     
+COL PIX ONLY
+STILL X(12) 
+DEFAULT     
+DEFAULT     
+DEFAULT     
+
+--- 11 row(s) selected.
+
+PICX_DIS
+------------
+DEFAULT     
+DEFAULT     
+picUpDisP   
+DEFAULT     
+DEFAULT     
+DEFAULT     
+col33333    
+3rd DISPLAY 
+DEFAULT     
+DEFAULT     
+DEFAULT     
+
+--- 11 row(s) selected.
+
+PICX_UPDIS
+------------
+DEFAULT     
+DEFAULT     
+PICX12      
+DEFAULT     
+DEFAULT     
+DEFAULT     
+2ND COLD    
+OH, CHAR    
+DEFAULT     
+DEFAULT     
+DEFAULT     
+
+--- 11 row(s) selected.
+
+CHAR_VARY
+---------
+DEFAU    
+DEFAU    
+varyc    
+DEFAU    
+DEFAU    
+DEFAU    
+NULL     
+5var     
+DEFAU    
+DEFAU    
+DEFAU    
+
+--- 11 row(s) selected.
+
+CHAR_VARY_UP
+------------
+DEFAULT     
+DEFAULT     
+VARYCHUP    
+DEFAULT     
+DEFAULT     
+DEFAULT     
+CHANGEV     
+10 VARY     
+DEFAULT     
+DEFAULT     
+DEFAULT     
+
+--- 11 row(s) selected.
+
+NUM_S
+---------
+ 1234.980
+ 2233.212
+ 4444.333
+-3480.730
+-3482.730
+ 5678.280
+  923.100
+ 9210.945
+ 9999.990
+ 1111.111
+ 3233.393
+
+--- 11 row(s) selected.
+
+NUM_S2
+---------
+-1234.980
+    0.000
+    0.000
+    0.000
+ 3482.730
+-5678.280
+    0.000
+    0.000
+    0.000
+    0.000
+    0.000
+
+--- 11 row(s) selected.
+
+NUM_US
+-----------
+  987651234
+          0
+          0
+      65124
+       4376
+       NULL
+          0
+          0
+       NULL
+          0
+          0
+
+--- 11 row(s) selected.
+
+SMALLINT_S
+----------
+    -32768
+         0
+         0
+     -4376
+     -7431
+     32767
+         0
+         0
+      NULL
+         0
+         0
+
+--- 11 row(s) selected.
+
+SMALLINT_US
+-----------
+       NULL
+          0
+          0
+       7431
+      65124
+      65535
+          0
+          0
+       NULL
+          0
+          0
+
+--- 11 row(s) selected.
+
+INTEGER_S
+-----------
+-2147483648
+          0
+          0
+       4836
+       4836
+-2147483647
+          0
+          0
+       NULL
+          0
+          0
+
+--- 11 row(s) selected.
+
+INTEGER_US
+----------
+4294967295
+         0
+         0
+      9672
+      9672
+      7295
+         0
+         0
+      NULL
+         0
+         0
+
+--- 11 row(s) selected.
+
+LARGE_INT
+--------------------
+         92231234567
+                   0
+                   0
+                -457
+                -457
+                3457
+                   0
+                   0
+                NULL
+                   0
+                   0
+
+--- 11 row(s) selected.
+
+DECIMAL_S
+----------
+ 1.1111117
+ 0.0000000
+ 0.0000000
+ 3.3333337
+ 3.3333337
+-2.2222227
+ 0.0000000
+ 0.0000000
+      NULL
+ 0.0000000
+ 0.0000000
+
+--- 11 row(s) selected.
+
+DECIMAL_US
+----------
+    133.11
+      0.00
+      0.00
+    333.13
+    333.13
+     23.21
+      0.00
+      0.00
+      NULL
+      0.00
+      0.00
+
+--- 11 row(s) selected.
+
+PIC_SCOMP
+------------
+           0
+  2134567892
+           0
+           0
+           0
+           0
+           0
+           0
+           0
+  1234567891
+  3134567333
+
+--- 11 row(s) selected.
+
+PIC_USCOMP
+----------
+         0
+        28
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+        11
+        31
+
+--- 11 row(s) selected.
+
+PIC_S
+--------
+       0
+  254322
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+  654321
+   35622
+
+--- 11 row(s) selected.
+
+PIC_US
+-------
+      0
+  54321
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+  12345
+     11
+
+--- 11 row(s) selected.
+
+PIC_VSCOMP
+-----------
+       0.00
+ 2654322.12
+       0.00
+       0.00
+       0.00
+       0.00
+       0.00
+       0.00
+       0.00
+ 7654321.11
+ 3928333.32
+
+--- 11 row(s) selected.
+
+PIC_VUSCOMP
+-----------
+      0.000
+     29.282
+      0.000
+      0.000
+      0.000
+      0.000
+      0.000
+      0.000
+      0.000
+     12.111
+     39.375
+
+--- 11 row(s) selected.
+
+PIC_VS
+-------------
+      0.00000
+ 254322.29832
+      0.00000
+      0.00000
+      0.00000
+      0.00000
+      0.00000
+      0.00000
+      0.00000
+ 654321.11111
+ 382930.33923
+
+--- 11 row(s) selected.
+
+PIC_VUS
+---------
+     0.00
+ 25732.22
+     0.00
+     0.00
+     0.00
+     0.00
+     0.00
+     0.00
+     0.00
+ 15432.11
+ 34632.33
+
+--- 11 row(s) selected.
+
+REAL_COL
+--------------
+           0.0
+ -1.1579108E38
+           0.0
+           0.0
+           0.0
+           0.0
+           0.0
+           0.0
+           0.0
+   1.157911E38
+  1.1579108E38
+
+--- 11 row(s) selected.
+
+FLOAT_COL
+------------------------
+                     0.0
+ -1.7272336999999997E-76
+                     0.0
+                     0.0
+                     0.0
+                     0.0
+                     0.0
+                     0.0
+                     0.0
+  1.7272336999999997E-76
+ -1.7272336999999997E-76
+
+--- 11 row(s) selected.
+
+DOUBLE_PRECI
+------------------------
+                     0.0
+ -1.7272336999999997E-76
+                     0.0
+                     0.0
+                     0.0
+                     0.0
+                     0.0
+                     0.0
+                     0.0
+ -1.7272336999999997E-76
+ -1.7272336999999997E-76
+
+--- 11 row(s) selected.
+
+A
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wowtowwolwwwtwjl weitpwtipwtipwti ptwp[twtgiwep tipetititi [ietp[ietiedpgpe eppp ptwetipwtipwtiptipa ieptipeipegpeittitieie ietietti9i-[it[kg[wst93w-[t[wfgk[wt[wgsgkp;jfa r[wqr[wgow[]tow]tgw]ot]wotw [kwriwti[]wro[wmvl;sflajpwtykeg;skrpw[tk[wtkkw[t[wgl[wot[wltg[]eo]eoy]ehol]eyoe]yhd[goe[tye[][k;sf;arwti[hekgkw[rtw[g[lf[]qtowgh[wkg[wt[wt[wtg[wto[]o[sg[e[]ge[]oly]weogghk[t 9solfs jo2q84205r0o qaodhak qp  rqprpjak qpreqp4-149-q ep	iep	djaajopqjpqurpq pqpqp ipqi qpeqiqpfpwiri-w42149pqp49qipfpkpopiprfj ri-pri rq-pi4f iiri-2048 ppeiqei-193-149t-wrpqjdoh 0318 pq-9 i-qirqpek  r-2q49-14pqj -pei- []qpJUEPQ48 PJAPRWPRI-W MQ[R9-239 [[i -39 pi-00  RQ-49 =OQ[5R I- wir pffw9rqprk-20ipwfj pi- bilajda[kwwq5 pakw5r- wipf riq 42-rpjfpadpa85-wpgps ir-9 g;sjgaf npti=2- i;m;a k q 489[gjp it4-3w9t[ k[i 59 q5= i[a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ?As we begin the last month of Q4 and our fiscal year, I want to give you a brief update on some key areas of our ESG business, recognizing that everyone is working hard to deliver a successful quarter.  Last week, HP hosted its annual industry analyst conference, where over 120 of the top influencers in the industry came to hear an update on the companys business and strategy.  In addition to building stronger relationships with analysts, the event allowed us to communicate the key elements of HPs value proposition for customers and our ability to lead the market in all key segments.  Presentations and one-on-one interviews provided updates on our strategic initiatives including Adaptive Enterprise, Mobility, Digital Imaging and Printing, Linux, Storage, Management and many other topics. The feedback from analysts has been very positive.  The overall response from the attendees was that two years ago they had questions about the value of the planned merger.  A year ago they had questions about the implementation.  And now this year, they acknowledge that ?we did it? and they understand how HP is different and will win in the marketplace. Our theme this year was to emphasize the market segment view ? for example how ESG and HPS together enable our success in the Enterprise and Corporate market, and the launch of our SMB initiative. At the event, we announced that Nora Denzel will oversee the Adaptive Enterprise strategy for HP. This means Nora will play the lead role in ensuring all of our AE efforts across the company are integrated and aligned                                                                                                                                                                                                                                                                                                                                                                                                                                            
+ 08014082000-9-9-4- -480-2425076033-79-59-140140750285-2956724791470140148-1414-1858580248118018421048104814804810481480-184-184--85-285-18-18-180-18180-1845250-56-936-94-769479=497=9480-1840850-2580-258-396-397=708087396*&*%$^#@%@%#^%&^*(&)*)*_((&)&&^*^%%&3760#^#^$&*(&))_(_))+((*_*_*&(&_+++*)&)%&$^#@#@%%$&%*^(&)&(%^0%@@%$&%*^(&)()*_(_OYITREihooo qruquqry yqiqqidyqqryuedy yyqeyqi qiyi yqyq yqueuu uqoruo ur0980uoq 78u uqu ouqeu980 uqop u888u qu08q080 uuq080q 0r89 fodjaajpipw8 0ufoafuaufj 88-88)&&)*(&_(I089                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+--- 3 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

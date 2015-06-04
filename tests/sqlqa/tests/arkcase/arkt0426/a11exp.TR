@@ -1,0 +1,613 @@
+<section_begin>  a11s1
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+<group_begin>
+          0           0           0           0
+          0           0           0           1
+          0           0           1           1
+          0           1           1           1
+          1           1           1           1
+          1        NULL           1        NULL
+       NULL        NULL        NULL        NULL
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+<group_begin>
+          0           0           0           0
+          0           0           0           1
+          0           0           1           1
+          0           1           1           1
+          1           1           1           1
+          1        NULL           1        NULL
+       NULL        NULL        NULL        NULL
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+<group_begin>
+       NULL        NULL        NULL        NULL
+          1        NULL           1        NULL
+          0           0           1           1
+          0           0           0           1
+          0           1           1           1
+          1           1           1           1
+          0           0           0           0
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s7
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+<group_begin>
+       NULL        NULL        NULL        NULL
+          1        NULL           1        NULL
+          0           0           1           1
+          0           0           0           1
+          0           1           1           1
+          1           1           1           1
+          0           0           0           0
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s9
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+<group_begin>
+          0           0           1           1
+          0           0           0           1
+          0           0           0           0
+          1           1           1           1
+          0           1           1           1
+       NULL        NULL        NULL        NULL
+          1        NULL           1        NULL
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s11
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+<group_begin>
+          0           0           1           1
+          0           0           0           1
+          0           0           0           0
+          1           1           1           1
+          0           1           1           1
+       NULL        NULL        NULL        NULL
+          1        NULL           1        NULL
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s13
+
+A           B           C           (EXPR)              
+----------- ----------- ----------- --------------------
+<group_begin>
+       NULL        NULL        NULL                    2
+          1        NULL           1                    2
+          0           1           1                    2
+          1           1           1                    2
+          0           0           1                    2
+          0           0           0                    4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s15
+
+A           B           C           (EXPR)              
+----------- ----------- ----------- --------------------
+<group_begin>
+       NULL        NULL        NULL                    2
+          1        NULL           1                    2
+          0           1           1                    2
+          1           1           1                    2
+          0           0           1                    2
+          0           0           0                    4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s17
+
+A           B           C           (EXPR)               (EXPR)              
+----------- ----------- ----------- -------------------- --------------------
+<group_begin>
+          0           0           0                    4                    0
+          0           0           1                    2                    0
+          0           1           1                    2                    0
+          1           1           1                    2                    2
+          1        NULL           1                    2                    2
+       NULL        NULL        NULL                    2                 NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s19
+
+A           B           C           (EXPR)               (EXPR)              
+----------- ----------- ----------- -------------------- --------------------
+<group_begin>
+          0           0           1                    2                    0
+          0           1           1                    2                    0
+          0           0           0                    4                    0
+          1           1           1                    2                    2
+          1        NULL           1                    2                    2
+       NULL        NULL        NULL                    2                 NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s21
+
+A           B           C           (EXPR)               (EXPR)              
+----------- ----------- ----------- -------------------- --------------------
+<group_begin>
+          0           0           0                    4                    0
+          0           0           1                    2                    0
+          0           1           1                    2                    0
+          1           1           1                    2                    2
+          1        NULL           1                    2                    2
+       NULL        NULL        NULL                    2                 NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s23
+
+A           B           C           (EXPR)               (EXPR)              
+----------- ----------- ----------- -------------------- --------------------
+<group_begin>
+          0           1           1                    2                    0
+          0           0           0                    4                    0
+          0           0           1                    2                    0
+          1        NULL           1                    2                    2
+          1           1           1                    2                    2
+       NULL        NULL        NULL                    2                 NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s25
+
+A           B           (EXPR)               (EXPR)       
+----------- ----------- -------------------- -------------
+<group_begin>
+          0           1                    2             1
+          0           0                    6             0
+          1        NULL                    2          NULL
+          1           1                    2             2
+       NULL        NULL                    2          NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s27
+
+A           B           C           (EXPR)               (EXPR)              
+----------- ----------- ----------- -------------------- --------------------
+<group_begin>
+       NULL        NULL        NULL                    2                 NULL
+          0           0           1                    2                    0
+          0           1           1                    2                    0
+          1           1           1                    2                    2
+          1        NULL           1                    2                    2
+          0           0           0                    4                    0
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s29
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+<group_begin>
+          0           0           0           0
+          0           0           0           1
+          0           0           1           1
+          0           1           1           1
+          1           1           1           1
+          1        NULL           1        NULL
+       NULL        NULL        NULL        NULL
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s31
+
+A           B           (EXPR)               (EXPR)       
+----------- ----------- -------------------- -------------
+<group_begin>
+          1        NULL                    2          NULL
+          0           1                    0             1
+       NULL        NULL                 NULL          NULL
+          0           0                    0             0
+          1           1                    2             2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s33
+
+A           B           (EXPR)               (EXPR)       
+----------- ----------- -------------------- -------------
+<group_begin>
+          1        NULL                    2          NULL
+          0           1                    0             1
+       NULL        NULL                 NULL          NULL
+          0           0                    0             0
+          1           1                    2             2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s35
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+<group_begin>
+          0           0           0           0
+          0           0           0           1
+          0           0           1           1
+          0           1           1           1
+          1           1           1           1
+          1        NULL           1        NULL
+       NULL        NULL        NULL        NULL
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s37
+
+A           B           (EXPR)              
+----------- ----------- --------------------
+<group_begin>
+          0           0                    0
+          0           1                    0
+          1        NULL                    2
+       NULL        NULL                 NULL
+          1           1                    2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s39
+
+A           B           (EXPR)              
+----------- ----------- --------------------
+<group_begin>
+          1        NULL                    2
+          1           1                    2
+          0           1                    0
+          0           0                    0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s41
+
+A           B           (EXPR)              
+----------- ----------- --------------------
+<group_begin>
+          1        NULL                    2
+          1           1                    2
+          0           1                    0
+          0           0                    0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s43
+
+A           B           (EXPR)              
+----------- ----------- --------------------
+<group_begin>
+       NULL        NULL                 NULL
+          1        NULL                    2
+          1           1                    2
+          0           1                    0
+          0           0                    0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s45
+
+A           B           (EXPR)              
+----------- ----------- --------------------
+<group_begin>
+       NULL        NULL                 NULL
+          1        NULL                    2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s47
+
+A           B           A           B           (EXPR)              
+----------- ----------- ----------- ----------- --------------------
+<group_begin>
+          1        NULL           1        NULL                    4
+          1        NULL           1           1                    4
+          1           1           1        NULL                    4
+          1           1           1           1                    4
+          0           1           0           1                    4
+          0           1           0           0                   12
+          0           0           0           1                   12
+          0           0           0           0                   36
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a11s49
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+<group_begin>
+          0           0           0           0
+          0           0           0           1
+          0           0           1           1
+          0           1           1           1
+          1           1           1           1
+          1        NULL           1        NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s51
+
+A           B           C          
+----------- ----------- -----------
+<group_begin>
+          0           1           1
+          1           1           1
+          1        NULL           1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s53
+
+A           B           A           B          
+----------- ----------- ----------- -----------
+<group_begin>
+          0           1           0           1
+          0           1           0           0
+          0           0           0           0
+          0           0           0           1
+          1        NULL           1           1
+          1        NULL           1        NULL
+          1           1           1           1
+          1           1           1        NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a11s55
+
+A           B           A           B          
+----------- ----------- ----------- -----------
+<group_begin>
+          0           1           0           0
+          0           0           0           0
+          1        NULL           0           1
+          1        NULL           1           1
+          1           1           1           1
+          1           1           0           1
+       NULL        NULL        NULL        NULL
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a11s57
+
+A           A           (EXPR)              
+----------- ----------- --------------------
+<group_begin>
+          0           0                   48
+          1           1                    8
+          1           0                    8
+       NULL        NULL                    2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s59
+
+A           B           C           A          
+----------- ----------- ----------- -----------
+<group_begin>
+          1           1           1           1
+          3        NULL        NULL        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s61
+
+A           B           C           A          
+----------- ----------- ----------- -----------
+<group_begin>
+          3        NULL        NULL        NULL
+          1           1           1           1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s63
+
+A           B           C           A          
+----------- ----------- ----------- -----------
+<group_begin>
+          1           1           1           1
+          3        NULL        NULL        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s65
+
+A           B           C           A          
+----------- ----------- ----------- -----------
+          1           1           1           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s67
+
+A           B           C          
+----------- ----------- -----------
+          1           1           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s69
+
+A           B           C          
+----------- ----------- -----------
+<group_begin>
+          3        NULL           0
+          1           1           0
+          3        NULL           1
+          1           1           1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s71
+
+A           B           A           B          
+----------- ----------- ----------- -----------
+<group_begin>
+          1           1           1           1
+          1           1           3        NULL
+          3        NULL           1           1
+          3        NULL           3        NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s73
+
+A           B           A           B          
+----------- ----------- ----------- -----------
+<group_begin>
+          3        NULL           1           1
+          1           1           1           1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s77
+
+A           B           C           (EXPR)              
+----------- ----------- ----------- --------------------
+<group_begin>
+          0           0           0                    4
+          0           0           1                    2
+          0           1           1                    2
+          1           1           1                    2
+          1        NULL           1                    2
+       NULL        NULL        NULL                    2
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s79
+
+A           B           C           (EXPR)              
+----------- ----------- ----------- --------------------
+<group_begin>
+          0           0           0                    4
+          0           0           1                    2
+          0           1           1                    2
+          1           1           1                    2
+          1        NULL           1                    2
+       NULL        NULL        NULL                    2
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s81
+
+A           B           C           (EXPR)              
+----------- ----------- ----------- --------------------
+<group_begin>
+       NULL        NULL        NULL                    2
+          1        NULL           1                    2
+          1           1           1                    2
+          0           1           1                    2
+          0           0           1                    2
+          0           0           0                    4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a11s83
+
+A
+-----------
+<group_begin>
+          1
+          3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

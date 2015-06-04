@@ -1,0 +1,54 @@
+<section_begin>  n07s0
+
+C
+----
+7   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n07s1
+
+C
+----
+7   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n07s2
+
+(EXPR)
+-----------
+          7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n07s3
+
+(EXPR)
+-----------
+          7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n07s4
+
+(EXPR)
+------
+7     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n07s5
+
+(EXPR) (EXPR)
+------ ------
+7      7     
+
+--- 1 row(s) selected.
+
+<section_end>

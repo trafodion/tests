@@ -1,0 +1,38 @@
+<section_begin>  s3
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s6
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s7
+
+SALARY
+----------
+<group_begin>
+  40000.00
+  45000.00
+  55000.00
+  25000.00
+  30000.00
+  40000.00
+  36000.00
+  60000.00
+  20050.00
+  20000.00
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>

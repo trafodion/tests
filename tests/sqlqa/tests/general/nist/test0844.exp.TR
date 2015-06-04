@@ -1,0 +1,108 @@
+<section_begin>  test0844i
+
+EMPNAME              CITY            T_DECIMAL   
+-------------------- --------------- ------------
+<group_begin>
+Alice                Deale                   NULL
+Betty                Vienna                  0.00
+Betty                Vienna                  0.00
+Carmen               Vienna                  NULL
+Don                  Deale                   NULL
+Ed                   Akron                   NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  test0844j
+
+T_INT       T_CHAR     EMPNAME              EMPNUM GRADE 
+----------- ---------- -------------------- ------ ------
+<group_begin>
+       NULL NULL       Alice                E1         12
+          2 E2         Betty                E2         10
+       NULL NULL       Carmen               E3         13
+       NULL NULL       Don                  E4         12
+       NULL NULL       Ed                   E5         13
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  test0844k
+
+PNUM BUDGET      HOURS   EMPNUM
+---- ----------- ------- ------
+<group_begin>
+P1         10000    NULL NULL  
+P2         30000      80 E2    
+P3         30000      80 E1    
+P4         20000    NULL NULL  
+P5         10000    NULL NULL  
+P6         50000    NULL NULL  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  test0844l
+
+CITY            EMPNAME              PNAME                BUDGET     
+--------------- -------------------- -------------------- -----------
+<group_begin>
+Akron           Ed                   NULL                        NULL
+Deale           Alice                SDP                        20000
+Deale           Alice                PAYR                       50000
+Deale           Don                  NULL                        NULL
+Vienna          Betty                NULL                        NULL
+Vienna          Carmen               NULL                        NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  test0844m
+
+CITY            EMPNAME              PNAME                BUDGET     
+--------------- -------------------- -------------------- -----------
+<group_begin>
+Akron           Ed                   NULL                        NULL
+Deale           Alice                SDP                        20000
+Deale           Alice                PAYR                       50000
+Vienna          Betty                NULL                        NULL
+Vienna          Carmen               NULL                        NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  test0844n
+
+T_INT       T_INT      
+----------- -----------
+<group_begin>
+          2           1
+          3           2
+       NULL           3
+       NULL          12
+       NULL          12
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  test0844o
+
+GRADE  T_FLOAT                  T_DOUBLE                
+------ ------------------------ ------------------------
+<group_begin>
+    10                   -444.0                    -55.0
+    12                     NULL                     NULL
+    12                     NULL                     NULL
+    13                     44.0                    555.0
+    13                     44.0                    555.0
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

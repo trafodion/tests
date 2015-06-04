@@ -1,0 +1,170 @@
+<section_begin>  a02s0
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+     10
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+     10
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+REGNAME
+------------
+<group_begin>
+EAST        
+CENTRAL     
+WEST        
+CANADA      
+GERMANY     
+ENGLAND     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+PARTNAME
+------------------
+DISC 10MB         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+CUSTNAME
+------------------
+<group_begin>
+CENTRAL UNIVERSITY
+BROWN MEDICAL CO  
+STEVENS SUPPLY    
+PREMIER INSURANCE 
+FRESNO STATE BANK 
+METALL-AG.        
+DATASPEED         
+DEUTSCHE STAHL    
+VEREINIGTE CHEMIE 
+MOTOR DISTRIBUTING
+SLEEPWELL HOTELS  
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+CUSTNAME
+------------------
+<group_begin>
+CENTRAL UNIVERSITY
+BROWN MEDICAL CO  
+STEVENS SUPPLY    
+PREMIER INSURANCE 
+FRESNO STATE BANK 
+METALL-AG.        
+DATASPEED         
+DEUTSCHE STAHL    
+VEREINIGTE CHEMIE 
+MOTOR DISTRIBUTING
+SLEEPWELL HOTELS  
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+STATE
+------------
+<group_begin>
+CALIFORNIA  
+COLORADO    
+GERMANY     
+ILLINOIS    
+NEW YORK    
+PENN        
+TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+STATE
+------------
+<group_begin>
+CALIFORNIA  
+COLORADO    
+GERMANY     
+ILLINOIS    
+NEW YORK    
+PENN        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+STATE
+------------
+<group_begin>
+CALIFORNIA  
+COLORADO    
+GERMANY     
+ILLINOIS    
+NEW YORK    
+PENN        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+SUPPNUM
+-------
+<group_begin>
+      6
+      8
+     15
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+SUPPNUM
+-------
+<group_begin>
+      6
+      8
+     15
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

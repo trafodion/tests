@@ -1,0 +1,239 @@
+<section_begin>  a08s0
+
+CHAR_1 PIC_COMP_1 IY_TO_MO
+------ ---------- --------
+C        43.40500    0-04 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+CHAR_1 (EXPR)                         (EXPR)      
+------ ------------------------------ ------------
+<group_begin>
+A      45                             13:40:05    
+B      55                             13:00:05    
+C      65                             12:40:05    
+D      45                             13:40:05    
+E      55                             13:00:05    
+F      65                             02:59:59    
+G      65                             12:40:05    
+Z      NULL                           NULL        
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+CHAR_1 MEDIUM_1    TIME_1  
+------ ----------- --------
+<group_begin>
+A               45 13:40:05
+B               55 13:00:05
+C               65 12:40:05
+D               45 13:40:05
+E               55 13:00:05
+F               65 02:59:59
+G               65 12:40:05
+Z             NULL NULL    
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a08s3
+
+(EXPR)
+-------------------------------------------
+<group_begin>
+A4513:40:05                                
+B5513:00:05                                
+C6512:40:05                                
+D4513:40:05                                
+E5513:00:05                                
+F6502:59:59                                
+G6512:40:05                                
+NULL                                       
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a08s4
+
+CHAR_1 VARCHAR_1 MEDIUM_1    TIME_1  
+------ --------- ----------- --------
+<group_begin>
+A      DD                 45 13:40:05
+B      EE                 55 13:00:05
+C      FF                 65 12:40:05
+D      AD                 45 13:40:05
+E      AE                 55 13:00:05
+F      AF                 65 02:59:59
+G      BF                 65 12:40:05
+Z      ZE               NULL NULL    
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a08s5
+
+CHAR_1 (EXPR)      TIME_1  
+------ ----------- --------
+<group_begin>
+A        123.40509 13:40:05
+B        133.40509 13:00:05
+C        143.40509 12:40:05
+D        123.40509 13:40:05
+E        133.40509 13:00:05
+F        143.40509 02:59:59
+G        143.40509 12:40:05
+Z             NULL NULL    
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a08s6
+
+CHAR_1 MEDIUM_1    TIME_1  
+------ ----------- --------
+<group_begin>
+C               65 12:40:05
+G               65 12:40:05
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s7
+
+CHAR_1 (EXPR)      TIME_1  
+------ ----------- --------
+<group_begin>
+C               65 12:40:05
+G               65 12:40:05
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s8
+
+CHAR_1 (EXPR)      TIME_1  
+------ ----------- --------
+<group_begin>
+C               65 12:40:05
+G               65 12:40:05
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s9
+
+CHAR_1 (EXPR)               TIME_1  
+------ -------------------- --------
+<group_begin>
+F                        65 02:59:59
+G                        65 12:40:05
+C                        65 12:40:05
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s10
+
+CHAR_1 (EXPR)               TIME_1  
+------ -------------------- --------
+<group_begin>
+C                        65 12:40:05
+G                        65 12:40:05
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s11
+
+CHAR_1 (EXPR)               TIME_1  
+------ -------------------- --------
+<group_begin>
+B                        55 13:00:05
+F                        65 02:59:59
+A                        45 13:40:05
+D                        45 13:40:05
+E                        55 13:00:05
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s12
+
+TIME_1
+--------
+12:40:05
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s13
+
+CHAR_1 VARCHAR_1 IY_TO_MO *2  
+------ --------- -------- ----------
+<group_begin>
+A      DD           2-07  1997-06-03
+B      EE           1-08  1997-06-03
+C      FF           0-04  1997-06-13
+D      AD           2-07  1997-06-03
+E      AE           1-08  1997-06-03
+F      AF           4-04  1897-06-13
+G      BF           0-04  1997-06-13
+Z      ZE        NULL     NULL      
+Z      YE        NULL     NULL      
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a08s14
+
+CHAR_1 VARCHAR_1 NUMERIC_1 PIC_COMP_1 MEDIUM_1    DECIMAL_1 REAL_1          *1   *2   TIME_1   IY_TO_MO
+------ --------- --------- ---------- ----------- --------- --------------- ---------- ---------- -------- --------
+<group_begin>
+B      EE             2000   33.40500          55         3            20.2 1997-06-06 1997-06-03 13:00:05    1-08 
+D      AD             1000   23.40500          45         2           10.31 1997-06-01 1997-06-03 13:40:05    2-07 
+Z      YE             NULL       NULL        NULL      NULL            NULL NULL       NULL       NULL     NULL    
+C      FF             3000   43.40500          65         4         40.4567 1997-06-12 1997-06-13 12:40:05    0-04 
+F      AF             3000   43.40500          65         4         40.4567 1900-06-12 1897-06-13 02:59:59    4-04 
+E      AE             2000   33.40500          55         3            20.2 1997-06-06 1997-06-03 13:00:05    1-08 
+A      DD             1000   23.40500          45         2           10.31 1997-06-01 1997-06-03 13:40:05    2-07 
+G      BF             3000   43.40500          65         4         40.4567 1997-06-12 1997-06-13 12:40:05    0-04 
+Z      ZE             NULL       NULL        NULL      NULL            NULL NULL       NULL       NULL     NULL    
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a08s16
+
+--- SQL command prepared.
+
+<section_end>
+<section_begin>  a08s18
+
+CHAR_1 NUMERIC_1
+------ ---------
+<group_begin>
+A           1000
+D           1000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

@@ -1,0 +1,136 @@
+<section_begin>  a08s0
+
+LAST_NAME  FIRST_NAME (EXPR)     
+---------- ---------- -----------
+<group_begin>
+clark      dinah                1
+crinar     jessica              1
+green      roger                1
+howard     jerry                1
+velcro     judy                 1
+zann       kathy                1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+LAST_NAME  FIRST_NAME (EXPR)     
+---------- ---------- -----------
+zann       kathy                1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+(EXPR)      (EXPR)     
+----------- -----------
+     185500       87000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s3
+
+(EXPR)      (EXPR)      (EXPR)     
+----------- ----------- -----------
+<group_begin>
+      47000       57000       87000
+      49500       59500       89500
+      50000       60000       90000
+      75000       85000      115000
+      90000      100000      130000
+     185500      195500      225500
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a08s4
+
+LAST_NAME  (EXPR)      (EXPR)      (EXPR)     
+---------- ----------- ----------- -----------
+<group_begin>
+howard           75000       85000      115000
+zann             90000      100000      130000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s5
+
+LAST_NAME  (EXPR)     
+---------- -----------
+<group_begin>
+howard           75000
+zann             90000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s6
+
+LAST_NAME  (EXPR)     
+---------- -----------
+<group_begin>
+howard           75000
+zann             90000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s7
+
+FULL_NAME             (EXPR)     
+--------------------- -----------
+<group_begin>
+dinah      clark            47000
+jerry      howard           75000
+jessica    crinar           49500
+judy       velcro           50000
+kathy      zann             90000
+roger      green           185500
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a08s8
+
+FULL_NAME             DEPT_NUM (EXPR)     
+--------------------- -------- -----------
+<group_begin>
+dinah      clark          9000       10000
+jerry      howard         4000       10000
+jessica    crinar         8000       10000
+judy       velcro         2000       10000
+kathy      zann           3000       90000
+roger      green          9000       10000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a08s9
+
+FULL_NAME
+---------------------
+kathy      zann      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s10
+
+FULL_NAME
+---------------------
+kathy      zann      
+
+--- 1 row(s) selected.
+
+<section_end>

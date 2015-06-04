@@ -1,0 +1,369 @@
+<section_begin>  a01s0
+
+CHAR_1 CHAR_10    PIC_X_1 PIC_X_7 PIC_X_LONG                                                                                                                       VAR_CHAR                                                                                                                         BINARY_SIGNED BINARY_32_U BINARY_64_S          PIC_COMP_1   PIC_COMP_2 PIC_COMP_3 SMALL_INT MEDIUM_INT LARGE_INT            DECIMAL_1 DECIMAL_2_SIGNED DECIMAL_3_UNSIGNED PIC_DECIMAL_1 PIC_DECIMAL_2 PIC_DECIMAL_3
+------ ---------- ------- ------- -------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------- ------------- ----------- -------------------- ------------ ---------- ---------- --------- ---------- -------------------- --------- ---------------- ------------------ ------------- ------------- -------------
+<group_begin>
+A      steven     C       walter  bob                                                                                                                                                                                                      B                                                                                                                                           50       50.00              200.000           50       0.12  100.90000        10      10000           1000000000         4             0.50                 90           1.1         0.100             1
+A      bobby      A       bobby   bop                                                                                                                                                                                                      B                                                                                                                                           60       60.00             1200.000           60       0.79  100.99000      1000       8000                -1000         5             0.60                100           2.1         0.200             2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+CHAR_1 CHAR_10    PIC_X_1 PIC_X_7 PIC_X_LONG                                                                                                                       VAR_CHAR                                                                                                                         BINARY_SIGNED BINARY_32_U BINARY_64_S          PIC_COMP_1   PIC_COMP_2 PIC_COMP_3 SMALL_INT MEDIUM_INT LARGE_INT            DECIMAL_1 DECIMAL_2_SIGNED DECIMAL_3_UNSIGNED PIC_DECIMAL_1 PIC_DECIMAL_2 PIC_DECIMAL_3
+------ ---------- ------- ------- -------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------- ------------- ----------- -------------------- ------------ ---------- ---------- --------- ---------- -------------------- --------- ---------------- ------------------ ------------- ------------- -------------
+<group_begin>
+D      michelle   D       michael rat                                                                                                                                                                                                      thomas                                                                                                                                   -5000       90.00             2000.000          500       0.40  100.80000        90       8000                  200         7             0.93                140           6.1         0.600             6
+A      steven     C       walter  bob                                                                                                                                                                                                      B                                                                                                                                           50       50.00              200.000           50       0.12  100.90000        10      10000           1000000000         4             0.50                 90           1.1         0.100             1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+CHAR_1 CHAR_10    PIC_X_1 PIC_X_7 PIC_X_LONG                                                                                                                       VAR_CHAR                                                                                                                         BINARY_SIGNED BINARY_32_U BINARY_64_S          PIC_COMP_1   PIC_COMP_2 PIC_COMP_3 SMALL_INT MEDIUM_INT LARGE_INT            DECIMAL_1 DECIMAL_2_SIGNED DECIMAL_3_UNSIGNED PIC_DECIMAL_1 PIC_DECIMAL_2 PIC_DECIMAL_3
+------ ---------- ------- ------- -------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------- ------------- ----------- -------------------- ------------ ---------- ---------- --------- ---------- -------------------- --------- ---------------- ------------------ ------------- ------------- -------------
+<group_begin>
+D      michelle   D       michael rat                                                                                                                                                                                                      thomas                                                                                                                                   -5000       90.00             2000.000          500       0.40  100.80000        90       8000                  200         7             0.93                140           6.1         0.600             6
+A      steven     C       walter  bob                                                                                                                                                                                                      B                                                                                                                                           50       50.00              200.000           50       0.12  100.90000        10      10000           1000000000         4             0.50                 90           1.1         0.100             1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+CHAR_1 CHAR_10    PIC_X_1 PIC_X_7 PIC_X_LONG                                                                                                                       VAR_CHAR                                                                                                                         BINARY_SIGNED BINARY_32_U BINARY_64_S          PIC_COMP_1   PIC_COMP_2 PIC_COMP_3 SMALL_INT MEDIUM_INT LARGE_INT            DECIMAL_1 DECIMAL_2_SIGNED DECIMAL_3_UNSIGNED PIC_DECIMAL_1 PIC_DECIMAL_2 PIC_DECIMAL_3
+------ ---------- ------- ------- -------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------- ------------- ----------- -------------------- ------------ ---------- ---------- --------- ---------- -------------------- --------- ---------------- ------------------ ------------- ------------- -------------
+<group_begin>
+D      michelle   D       michael rat                                                                                                                                                                                                      thomas                                                                                                                                   -5000       90.00             2000.000          500       0.40  100.80000        90       8000                  200         7             0.93                140           6.1         0.600             6
+A      steven     C       walter  bob                                                                                                                                                                                                      B                                                                                                                                           50       50.00              200.000           50       0.12  100.90000        10      10000           1000000000         4             0.50                 90           1.1         0.100             1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+CHAR_1 CHAR_10    PIC_X_1 PIC_X_7 PIC_X_LONG                                                                                                                       VAR_CHAR                                                                                                                         BINARY_SIGNED BINARY_32_U BINARY_64_S          PIC_COMP_1   PIC_COMP_2 PIC_COMP_3 SMALL_INT MEDIUM_INT LARGE_INT            DECIMAL_1 DECIMAL_2_SIGNED DECIMAL_3_UNSIGNED PIC_DECIMAL_1 PIC_DECIMAL_2 PIC_DECIMAL_3
+------ ---------- ------- ------- -------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------- ------------- ----------- -------------------- ------------ ---------- ---------- --------- ---------- -------------------- --------- ---------------- ------------------ ------------- ------------- -------------
+<group_begin>
+A      steven     C       walter  bob                                                                                                                                                                                                      B                                                                                                                                           50       50.00              200.000           50       0.12  100.90000        10      10000           1000000000         4             0.50                 90           1.1         0.100             1
+A      bobby      A       bobby   bop                                                                                                                                                                                                      B                                                                                                                                           60       60.00             1200.000           60       0.79  100.99000      1000       8000                -1000         5             0.60                100           2.1         0.200             2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+PIC_X_1
+-------
+<group_begin>
+B      
+C      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+PIC_X_7 BINARY_32_U PIC_X4_A PIC_9_7   BINARY_64_S         
+------- ----------- -------- --------- --------------------
+<group_begin>
+A              5.00 make            90               200.00
+7              6.00 joe             80              1200.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+PIC_X_7 BINARY_32_U PIC_X4_A PIC_9_7   BINARY_64_S         
+------- ----------- -------- --------- --------------------
+<group_begin>
+7              6.00 joe             80              1200.00
+8              6.00 joe             80              1200.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+PIC_X_7 BINARY_32_U PIC_X4_A PIC_9_7   BINARY_64_S         
+------- ----------- -------- --------- --------------------
+<group_begin>
+A              5.00 make            90               200.00
+7              6.00 joe             80              1200.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+VAR_CHAR                                                                                                                         MEDIUM_INT  PIC_X_7 PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- ----------- ------- ------------
+<group_begin>
+bob                                                                                                                                      999 A                300
+bobby                                                                                                                                    200 sue              100
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+VAR_CHAR                                                                                                                         MEDIUM_INT  PIC_X_7 PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- ----------- ------- ------------
+<group_begin>
+tom                                                                                                                                     1000 7                200
+bob                                                                                                                                      999 A                300
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+VAR_CHAR                                                                                                                         MEDIUM_INT  PIC_X_7 PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- ----------- ------- ------------
+tom                                                                                                                                     1000 7                200
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+PIC_X_A PIC_X_B PIC_X_C COL_1 COL_2 COL_3 COL_4 COL_5 COL_6 COL_7 COL_8 COL_9 COL_10
+------- ------- ------- ----- ----- ----- ----- ----- ----- ----- ----- ----- ------
+<group_begin>
+joe     A       al      pablo david amy   amy   steve steve walt  mojo  joe   percy 
+sue     A       in      peggy diane zora  cathy mary  mary  rhoda debra sue   madge 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+PIC_X_A PIC_X_B PIC_X_C COL_1 COL_2 COL_3 COL_4 COL_5 COL_6 COL_7 COL_8 COL_9 COL_10
+------- ------- ------- ----- ----- ----- ----- ----- ----- ----- ----- ----- ------
+<group_begin>
+joe     A       al      pablo david amy   amy   steve steve walt  mojo  joe   percy 
+sue     A       in      peggy diane zora  cathy mary  mary  rhoda debra sue   madge 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+PIC_X_A PIC_X_B PIC_X_C COL_1  COL_2  COL_3  COL_4  COL_5 COL_6 COL_7  COL_8  COL_9  COL_10 COL_21      COL_22      COL_23      COL_24      COL_25      COL_26      COL_27      COL_28      COL_29      COL_30      COL_41      COL_42      COL_43      COL_44      COL_45      COL_46      COL_47      COL_48      COL_61               COL_62               COL_63               COL_64               COL_65               COL_66               COL_67               COL_68               COL_69               COL_70              
+------- ------- ------- ------ ------ ------ ------ ----- ----- ------ ------ ------ ------ ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+<group_begin>
+joe     A       jo         100   1000    200   1000  1000    50   1000   1000   1000   1000        1000        1000        1000        1000        1000        1000        1000        1000        1000        1000     1000.00     1000.00     1000.00     1000.00     1000.00     1000.00     1000.00     1000.00                 1000                 1000                 1000                 1000                 1000                 1000                 1000                 1000                 1000                 1000
+joe     B       to         300   1000    400   1000  1000    50   1000   1000   1000   1000        1000        1000        1000        1000        1000        1000        1000        1000        1000        1000     1000.00     1000.00     1000.00     1000.00     1000.00     1000.00     1000.00     1000.00                 1000                 1000                 1000                 1000                 1000                 1000                 1000                 1000                 1000                 1000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+PIC_X_A PIC_X_B PIC_X_C COL_1  COL_2  COL_3  COL_4  COL_5 COL_6 COL_7  COL_8  COL_9  COL_10 COL_21      COL_22      COL_23      COL_24      COL_25      COL_26      COL_27      COL_28      COL_29      COL_30      COL_41      COL_42      COL_43      COL_44      COL_45      COL_46      COL_47      COL_48      COL_61               COL_62               COL_63               COL_64               COL_65               COL_66               COL_67               COL_68               COL_69               COL_70              
+------- ------- ------- ------ ------ ------ ------ ----- ----- ------ ------ ------ ------ ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+<group_begin>
+joe     Z       in         100    200    100    200   200   100    100    100     50    100         100         200         100         200         200         100         100         100          50         100      100.00      200.00      100.00      200.00      200.00      100.00      100.00      100.00                  100                  200                  100                  200                  200                  100                  100                  100                   50                  100
+sue     Q       on         200    400    100    100   400   100    100     50    100    200         200         400         100         100         400         100         100          50         100         200      200.00      400.00      100.00      100.00      400.00      100.00      100.00       50.00                  200                  400                  100                  100                  400                  100                  100                   50                  100                  200
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+PIC_X_A PIC_X_B PIC_X_C COL_1  COL_2  COL_3  COL_4  COL_5 COL_6 COL_7  COL_8  COL_9  COL_10 COL_21      COL_22      COL_23      COL_24      COL_25      COL_26      COL_27      COL_28      COL_29      COL_30      COL_41      COL_42      COL_43      COL_44      COL_45      COL_46      COL_47      COL_48      COL_61               COL_62               COL_63               COL_64               COL_65               COL_66               COL_67               COL_68               COL_69               COL_70              
+------- ------- ------- ------ ------ ------ ------ ----- ----- ------ ------ ------ ------ ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+<group_begin>
+pam     D       al         900   1000    900   1000  1000    50   1000   1000   1000   1000        1000        1000        1000        1000        1000        1000        1000        1000        1000        1000     1000.00     1000.00     1000.00     1000.00     1000.00     1000.00     1000.00     1000.00                 1000                 1000                 1000                 1000                 1000                 1000                 1000                 1000                 1000                 1000
+sue     C       by         300   1000    500   1000  1000    50   1000   1000   1000   1000        1000        1000        1000        1000        1000        1000        1000        1000        1000        1000     1000.00     1000.00     1000.00     1000.00     1000.00     1000.00     1000.00     1000.00                 1000                 1000                 1000                 1000                 1000                 1000                 1000                 1000                 1000                 1000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+PIC_X_A PIC_X_B PIC_X_C
+------- ------- -------
+<group_begin>
+P       P       P      
+ al     F       al     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s18
+
+LARGE_INT            PIC_252                                                                                                                          PIC_1
+-------------------- -------------------------------------------------------------------------------------------------------------------------------- -----
+<group_begin>
+                 100 carltons                                                                                                                                                                                                                                               E    
+                 200 squaw                                                                                                                                                                                                                                                  X    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s19
+
+LARGE_INT            PIC_252                                                                                                                          PIC_1
+-------------------- -------------------------------------------------------------------------------------------------------------------------------- -----
+<group_begin>
+                 100 carltons                                                                                                                                                                                                                                               E    
+                 200 squaw                                                                                                                                                                                                                                                  X    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s20
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+<group_begin>
+why     gone    R       billy         7      15      30
+sue     mary    Z       MARY          3      10      20
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s21
+
+PIC_X_A PIC_X_2 PIC_X_3 PIC_X_4 PIC_X_5 PIC_X_6 PIC_X_7
+------- ------- ------- ------- ------- ------- -------
+<group_begin>
+sue     mary    Z       MARY          3      10      20
+deb     bill    Y       BILL          4      10      30
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s22
+
+PIC_X_A PIC_X_7 PIC_9_7   CHAR_10    DECIMAL_10   BINARY_UNSIGNED BINARY_32_SIGNED
+------- ------- --------- ---------- ------------ --------------- ----------------
+<group_begin>
+sue     sue             1 ebedafiih           110              80              100
+bob     bobby           2 ebediih              90             100            -1000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s23
+
+PIC_X_A PIC_X_7 PIC_9_7   CHAR_10    DECIMAL_10   BINARY_UNSIGNED BINARY_32_SIGNED
+------- ------- --------- ---------- ------------ --------------- ----------------
+<group_begin>
+bob     bobby           2 ebediih              90             100            -1000
+rob     bobby           2 ebediih              90             100            -1000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s24
+
+PIC_X_A PIC_X_7 PIC_9_7   CHAR_10    DECIMAL_10   BINARY_UNSIGNED BINARY_32_SIGNED
+------- ------- --------- ---------- ------------ --------------- ----------------
+<group_begin>
+bob     bobby           2 ebediih              90             100            -1000
+rob     bobby           2 ebediih              90             100            -1000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s25
+
+PIC_X_A PIC_X_7 PIC_9_7   CHAR_10    DECIMAL_10   BINARY_UNSIGNED BINARY_32_SIGNED
+------- ------- --------- ---------- ------------ --------------- ----------------
+<group_begin>
+boe     tommy         200 ebedafiih           200              50               50
+car     who           400 done                160             500              500
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s26
+
+PIC_X_A PIC_X_7 PIC_9_7   CHAR_10    DECIMAL_10   BINARY_UNSIGNED BINARY_32_SIGNED
+------- ------- --------- ---------- ------------ --------------- ----------------
+<group_begin>
+bar     where         300 gone                200            9999             -100
+bob     bob           100 abadefih            160             200              200
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s27
+
+PIC_X_A PIC_X_7 PIC_9_7   CHAR_10    DECIMAL_10   BINARY_UNSIGNED BINARY_32_SIGNED
+------- ------- --------- ---------- ------------ --------------- ----------------
+<group_begin>
+bob     bob           100 abadefih            160             200              200
+dan     sue           100 ebediih             100             100               60
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s28
+
+BINARY_SIGNED LARGE_INT            MEDIUM_INT PIC_DECIMAL_3 PIC_X_1 PIC_X_7 SMALL_INT
+------------- -------------------- ---------- ------------- ------- ------- ---------
+<group_begin>
+           60                -1000       8000             2 A       bobby        1000
+         8000                 1000      10000             3 B       9              90
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s29
+
+COL_1  COL_2                COL_3      COL_4 COL_5 COL_6   COL_7  COL_8  
+------ -------------------- ---------- ----- ----- ------- ------ -------
+<group_begin>
+    60                -1000       8000     2 A     bobby     1000 7      
+    60                -1000       8000     2 A     bobby     1000 8      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s30
+
+PIC_X_1
+-------
+<group_begin>
+B      
+C      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

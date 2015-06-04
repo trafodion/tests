@@ -1,0 +1,261 @@
+<section_begin>  a01s0
+
+CHAR_1 DECIMAL_1
+------ ---------
+<group_begin>
+A              4
+A              5
+C              8
+C              9
+D              5
+D              7
+E              1
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+PIC_X_1
+-------
+<group_begin>
+B      
+C      
+Q      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+PIC_X_7 PIC_9_7  
+------- ---------
+<group_begin>
+michael        50
+7              80
+8              80
+B              80
+A              90
+5             100
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+MEDIUM_INT
+-----------
+<group_begin>
+        200
+        999
+       1000
+       2000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+PIC_X_B
+-------
+<group_begin>
+A      
+B      
+C      
+D      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+PIC_X_A COL_1  COL_3 
+------- ------ ------
+<group_begin>
+joe        100    100
+joe        100    200
+joe        300    400
+pam        900    900
+sue        200    100
+sue        200    300
+sue        300    500
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+PIC_X_A COL_1  COL_3 
+------- ------ ------
+<group_begin>
+joe        100    100
+joe        100    200
+joe        300    400
+pam        900    900
+sue        200    100
+sue        200    300
+sue        300    500
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+PIC_X_A COL_1  COL_3 
+------- ------ ------
+<group_begin>
+joe        100    100
+joe        100    200
+joe        300    400
+pam        900    900
+sue        200    100
+sue        200    300
+sue        300    500
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+PIC_X_A
+-------
+<group_begin>
+ al    
+B      
+JO     
+P      
+al     
+jo     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+PIC_1 LARGE_INT           
+----- --------------------
+<group_begin>
+B                     1000
+B                     2000
+D                     3000
+D                     4000
+E                      100
+X                      200
+X                      300
+X                      400
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+LARGE_INT
+--------------------
+<group_begin>
+                 100
+                 200
+                 300
+                 400
+                1000
+                2000
+                3000
+                4000
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+PIC_X_5
+-------
+<group_begin>
+      0
+      3
+      4
+      5
+      7
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+BINARY_32_SIGNED
+----------------
+<group_begin>
+           -1000
+            -100
+               0
+             100
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+DECIMAL_10
+------------
+<group_begin>
+          50
+         100
+         160
+         200
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+NEW_NAME_1
+----------
+<group_begin>
+        80
+        90
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+NEW_NAME_1
+----------
+<group_begin>
+        80
+        90
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+MEDIUM_INT BINARY_64_S          (EXPR)              
+---------- -------------------- --------------------
+<group_begin>
+      1000             2000.000              2000000
+      5000             2000.000             10000000
+      8000             1200.000              9600000
+      8000             2000.000             16000000
+      9000             1500.000             13500000
+     10000              200.000              2000000
+     10000             2000.000             20000000
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

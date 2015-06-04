@@ -1,0 +1,924 @@
+<section_begin>  ds16
+
+(EXPR)               (EXPR)               (EXPR)              
+-------------------- -------------------- --------------------
+               41041         409599144.95         -80910460.91
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  ds34
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATION C_PREFERRED_CUST_FLAG SS_TICKET_NUMBER CNT                 
+------------------------------ -------------------- ------------ --------------------- ---------------- --------------------
+<group_begin>
+Adams                          Larry                Dr.          N                                 2801                   15
+Adams                          Rosanne              Dr.          N                                14457                   15
+Adkins                         Dennis               Sir          N                               130205                   15
+Albright                       Travis               Mr.          N                               177955                   15
+Alexander                      Patrick              Sir          Y                                31113                   15
+Anderson                       Brian                Sir          N                                81902                   16
+Anderson                       Kina                 Miss         Y                                89573                   15
+Anderson                       Raymond              Dr.          Y                               204590                   15
+Anderson                       Roy                  Mr.          N                               166795                   16
+Anderson                       Sheryl               Ms.          Y                                54463                   15
+Anderson                       Velma                Miss         Y                                81244                   16
+Angulo                         Mark                 Mr.          N                               190598                   15
+Austin                         Robert               Dr.          N                               237552                   15
+Bagwell                        Bertha               Dr.          Y                                10239                   15
+Baker                          Gladys               Dr.          Y                               129190                   15
+Baker                          Kenneth              Sir          Y                                48437                   15
+Baker                          Leo                  Mr.          N                                94373                   15
+Baker                          Leslie               Mr.          N                               230540                   15
+Banks                          Joann                Miss         N                                78172                   15
+Barbour                        Betty                Ms.          N                                 2168                   16
+Barnes                         Gregory              Sir          Y                                27115                   16
+Baron                          Travis               Sir          Y                               170259                   15
+Barr                           Pattie               Ms.          Y                               158495                   16
+Barrera                        Barbara              Miss         Y                                73589                   16
+Batchelor                      Frank                Mr.          Y                               153618                   15
+Beall                          Benjamin             Sir          N                               158345                   15
+Beattie                        Kerri                Miss         N                                28244                   16
+Becker                         Russel               Dr.          N                               178339                   15
+Bennett                        Ray                  Dr.          N                                69428                   15
+Berg                           Benjamin             Sir          Y                               177298                   15
+Bermudez                       Stephen              Sir          N                               196526                   15
+Bernard                        Edward               Dr.          Y                                38499                   16
+Berry                          Fatima               Dr.          N                               117888                   16
+Bishop                         Vincent              Sir          N                               233686                   16
+Blake                          Lorraine             Mrs.         N                               173770                   15
+Bonner                         Gracie               Ms.          N                                37889                   16
+Boone                          Leon                 Dr.          Y                               178436                   15
+Boone                          Sammie               Sir          Y                               171549                   15
+Boston                         May                  Miss         N                               145978                   15
+Bowers                         Randal               Mr.          N                               156457                   16
+Bowman                         Charles              Mr.          N                               221484                   16
+Bowman                         George               Mr.          Y                               205033                   16
+Boykin                         Hollis               Sir          N                               165768                   15
+Bradford                       Roselyn              Ms.          Y                               224187                   16
+Braswell                       Gerald               Mr.          N                                35400                   15
+Breland                        Kimberly             Miss         Y                                55317                   15
+Briggs                         Susan                Ms.          N                               150175                   16
+Briseno                        Julia                Miss         N                                83045                   16
+Brooks                         Elaine               Dr.          Y                               148629                   15
+Brown                          Chaya                Ms.          N                               106704                   16
+Brown                          David                Sir          N                                36645                   15
+Brown                          John                 Dr.          Y                                99764                   16
+Brown                          Randolph             Sir          Y                               128795                   16
+Brown                          Russell              Dr.          Y                                14318                   15
+Bryant                         Ma                   Dr.          N                                54127                   16
+Bryson                         Joshua               NULL         NULL                             43548                   15
+Buchanan                       Joseph               Sir          Y                               118927                   16
+Buckley                        Rosa                 Ms.          Y                                92142                   15
+Burnett                        Kara                 Miss         N                                98636                   15
+Burris                         Pamela               Miss         N                                87772                   15
+Burroughs                      David                Sir          N                                88146                   15
+Butts                          Helen                Ms.          Y                                67560                   16
+Byrd                           Billy                Mr.          Y                                56363                   15
+Cain                           Araceli              Miss         N                               154347                   15
+Cantu                          Alan                 Dr.          Y                               101081                   15
+Caron                          Kandice              Miss         Y                                52205                   16
+Carrington                     Lawrence             Sir          Y                               212943                   15
+Carroll                        Charles              Dr.          Y                                30536                   15
+Carroll                        Martha               Miss         Y                               202484                   16
+Carroll                        Michael              Dr.          Y                               225174                   15
+Carter                         Bernadette           Dr.          Y                               130261                   15
+Carter                         John                 Mr.          Y                               164959                   15
+Castro                         Pedro                Sir          N                                34794                   15
+Chan                           Anderson             Mr.          N                               113439                   16
+Chappell                       Tiffany              Ms.          N                               128996                   15
+Charles                        Christopher          Dr.          N                                11663                   15
+Clements                       William              Sir          N                               129343                   15
+Clifford                       Keely                Miss         N                               147283                   16
+Cochran                        Gregory              Sir          N                                39622                   16
+Cody                           Rosanne              Ms.          N                                64622                   16
+Collins                        Samantha             Mrs.         N                                98371                   16
+Conley                         Chanel               Ms.          Y                               234174                   16
+Conway                         Sharon               Mrs.         N                                19653                   15
+Corey                          Theodore             Sir          N                               211670                   16
+Cotton                         Kimberly             Miss         Y                               161228                   15
+Covert                         Renee                Ms.          N                                44179                   15
+Cox                            Raeann               Dr.          Y                                62001                   15
+Creel                          Ian                  Sir          Y                               114495                   15
+Culbertson                     Donald               Dr.          N                               179296                   15
+Cummings                       Melissa              Dr.          N                                28161                   16
+Curtis                         James                Dr.          N                                93102                   15
+Dalton                         Tiffany              Mrs.         Y                               236796                   15
+Davis                          Eileen               Mrs.         N                               219104                   15
+Davis                          Patti                Ms.          N                                25864                   15
+Dawson                         Terry                Sir          Y                                44599                   15
+Dean                           Michael              Mr.          N                               235509                   15
+Dees                           Edward               Mr.          N                                21901                   15
+Delgado                        Kimberly             Dr.          N                               142596                   16
+Denson                         Harlan               Sir          Y                                40442                   15
+Diaz                           Darryl               Sir          Y                               222420                   15
+<group_end>
+
+--- 100 row(s) selected.
+
+<section_end>
+<section_begin>  ds40
+
+W_STATE I_ITEM_ID        SALES_BEFORE         SALES_AFTER         
+------- ---------------- -------------------- --------------------
+<group_begin>
+TN      AAAAAAAAAAACAAAA                 0.00             -1476.86
+TN      AAAAAAAAAAGEAAAA                 0.00             -3156.17
+TN      AAAAAAAAAAKDAAAA                 0.00             -1224.37
+TN      AAAAAAAAABECAAAA                 0.00             -1947.30
+TN      AAAAAAAAABFCAAAA                 0.00             -7237.29
+TN      AAAAAAAAABGDAAAA                 0.00                80.75
+TN      AAAAAAAAACAAAAAA                 0.00              2530.09
+TN      AAAAAAAAACDCAAAA                 0.00               221.29
+TN      AAAAAAAAACEBAAAA                 0.00              2737.99
+TN      AAAAAAAAACFDAAAA                 0.00               -21.84
+TN      AAAAAAAAACGCAAAA                 0.00                85.86
+TN      AAAAAAAAAEEAAAAA                 0.00              2564.46
+TN      AAAAAAAAAEGAAAAA                 0.00                42.04
+TN      AAAAAAAAAEICAAAA                 0.00              1664.73
+TN      AAAAAAAAAELBAAAA                 0.00               560.65
+TN      AAAAAAAAAEMBAAAA                 0.00              1203.50
+TN      AAAAAAAAAEPBAAAA                 0.00               381.88
+TN      AAAAAAAAAFDCAAAA                 0.00               955.22
+TN      AAAAAAAAAFGAAAAA                 0.00              1051.81
+TN      AAAAAAAAAFIAAAAA                 0.00               656.29
+TN      AAAAAAAAAFLDAAAA                 0.00              1366.07
+TN      AAAAAAAAAFMAAAAA                 0.00               417.17
+TN      AAAAAAAAAGAEAAAA                 0.00              1509.58
+TN      AAAAAAAAAGCCAAAA                 0.00                92.19
+TN      AAAAAAAAAGOAAAAA                 0.00              2164.08
+TN      AAAAAAAAAHLBAAAA                 0.00               572.16
+TN      AAAAAAAAAHMAAAAA                 0.00              1961.78
+TN      AAAAAAAAAHNDAAAA                 0.00              1087.52
+TN      AAAAAAAAAIEBAAAA                 0.00              1990.64
+TN      AAAAAAAAAINBAAAA                 0.00                45.78
+TN      AAAAAAAAAIOAAAAA                 0.00              -583.54
+TN      AAAAAAAAAIPDAAAA                 0.00             -2430.32
+TN      AAAAAAAAAJBAAAAA                 0.00               106.92
+TN      AAAAAAAAAJICAAAA                 0.00              2362.39
+TN      AAAAAAAAAJLCAAAA                 0.00               -93.76
+TN      AAAAAAAAAJLDAAAA                 0.00             -4845.31
+TN      AAAAAAAAAJOCAAAA                 0.00              -595.97
+TN      AAAAAAAAAKBCAAAA                 0.00             -8733.92
+TN      AAAAAAAAAKEDAAAA                 0.00             -3197.93
+TN      AAAAAAAAAKFBAAAA                 0.00               248.98
+TN      AAAAAAAAAKFCAAAA                 0.00              2596.34
+TN      AAAAAAAAAKIBAAAA                 0.00              1688.80
+TN      AAAAAAAAAKJDAAAA                 0.00                67.07
+TN      AAAAAAAAAKMBAAAA                 0.00               491.48
+TN      AAAAAAAAAKPAAAAA                 0.00               284.04
+TN      AAAAAAAAALAAAAAA                 0.00              2716.42
+TN      AAAAAAAAALEBAAAA                 0.00                 8.54
+TN      AAAAAAAAALGAAAAA                 0.00               811.84
+TN      AAAAAAAAALGDAAAA                 0.00               568.64
+TN      AAAAAAAAALHBAAAA                 0.00               134.93
+TN      AAAAAAAAAMLAAAAA                 0.00             -2510.12
+TN      AAAAAAAAAMMBAAAA                 0.00              -207.77
+TN      AAAAAAAAANJDAAAA                 0.00              2500.23
+TN      AAAAAAAAAOBEAAAA                 0.00              -386.65
+TN      AAAAAAAAAOCBAAAA                 0.00             -1908.98
+TN      AAAAAAAAAOEBAAAA                 0.00              2704.15
+TN      AAAAAAAAAOECAAAA                 0.00              2631.04
+TN      AAAAAAAAAOGCAAAA                 0.00               100.73
+TN      AAAAAAAAAOLDAAAA                 0.00                40.34
+TN      AAAAAAAAAOPDAAAA                 0.00              1492.02
+TN      AAAAAAAAAPDBAAAA                 0.00              -291.17
+TN      AAAAAAAAAPDCAAAA                 0.00              -320.35
+TN      AAAAAAAAAPGBAAAA                 0.00             -3487.02
+TN      AAAAAAAAAPICAAAA                 0.00                 8.79
+TN      AAAAAAAAAPJCAAAA                 0.00               561.76
+TN      AAAAAAAAAPMBAAAA                 0.00               158.18
+TN      AAAAAAAAAPMCAAAA                 0.00             -5021.62
+TN      AAAAAAAABBCAAAAA                 0.00               -74.17
+TN      AAAAAAAABCAEAAAA                 0.00             -2170.43
+TN      AAAAAAAABCNDAAAA                 0.00             -2872.75
+TN      AAAAAAAABDADAAAA                 0.00              2186.78
+TN      AAAAAAAABDFEAAAA                 0.00              2247.85
+TN      AAAAAAAABDIBAAAA                 0.00             -3410.46
+TN      AAAAAAAABDPDAAAA                 0.00              2732.82
+TN      AAAAAAAABEEBAAAA                 0.00              -902.08
+TN      AAAAAAAABEKBAAAA                 0.00                56.86
+TN      AAAAAAAABFEAAAAA                 0.00              -115.31
+TN      AAAAAAAABFGBAAAA                 0.00             -2621.63
+TN      AAAAAAAABFNDAAAA                 0.00              2698.91
+TN      AAAAAAAABGIBAAAA                 0.00               789.85
+TN      AAAAAAAABHFDAAAA                 0.00             -1171.04
+TN      AAAAAAAABHLAAAAA                 0.00              1901.33
+TN      AAAAAAAABIEAAAAA                 0.00              2543.96
+TN      AAAAAAAABIFCAAAA                 0.00             -1606.43
+TN      AAAAAAAABIHAAAAA                 0.00              2521.83
+TN      AAAAAAAABIJBAAAA                 0.00             -2301.63
+TN      AAAAAAAABIMBAAAA                 0.00              2153.84
+TN      AAAAAAAABJDDAAAA                 0.00              2044.26
+TN      AAAAAAAABJFEAAAA                 0.00             -5982.14
+TN      AAAAAAAABKGCAAAA                 0.00             -5669.65
+TN      AAAAAAAABLDEAAAA                 0.00             -1098.93
+TN      AAAAAAAABLPBAAAA                 0.00             -6670.26
+TN      AAAAAAAABMOBAAAA                 0.00              1897.83
+TN      AAAAAAAABNFDAAAA                 0.00             -3772.71
+TN      AAAAAAAABNIDAAAA                 0.00              -923.62
+TN      AAAAAAAABNOAAAAA                 0.00            -11020.03
+TN      AAAAAAAABOICAAAA                 0.00              2189.32
+TN      AAAAAAAABPAAAAAA                 0.00              -957.69
+TN      AAAAAAAACAADAAAA                 0.00              1705.89
+TN      AAAAAAAACAJCAAAA                 0.00             -1607.35
+TN      AAAAAAAACAKCAAAA                 0.00               506.16
+TN      AAAAAAAACBAEAAAA                 0.00              1709.48
+TN      AAAAAAAACBDCAAAA                 0.00             -2097.90
+TN      AAAAAAAACBGEAAAA                 0.00              2468.71
+TN      AAAAAAAACBHDAAAA                 0.00              -968.67
+TN      AAAAAAAACCIBAAAA                 0.00               148.67
+TN      AAAAAAAACCLBAAAA                 0.00              1872.37
+TN      AAAAAAAACCNCAAAA                 0.00             -6430.09
+TN      AAAAAAAACCPBAAAA                 0.00               813.74
+TN      AAAAAAAACDEEAAAA                 0.00               104.99
+TN      AAAAAAAACDIDAAAA                 0.00               180.82
+TN      AAAAAAAACDJDAAAA                 0.00                65.95
+TN      AAAAAAAACDKBAAAA                 0.00             -1036.24
+TN      AAAAAAAACDLDAAAA                 0.00              -942.34
+TN      AAAAAAAACDMDAAAA                 0.00              2027.66
+TN      AAAAAAAACEOAAAAA                 0.00              1965.89
+TN      AAAAAAAACFFEAAAA                 0.00                26.29
+TN      AAAAAAAACFHDAAAA                 0.00               825.54
+TN      AAAAAAAACFJDAAAA                 0.00             -1746.27
+TN      AAAAAAAACFLBAAAA                 0.00                18.19
+TN      AAAAAAAACFOBAAAA                 0.00               569.57
+TN      AAAAAAAACFPAAAAA                 0.00             -4938.64
+TN      AAAAAAAACGCAAAAA                 0.00               104.54
+TN      AAAAAAAACGGCAAAA                 0.00                 4.82
+TN      AAAAAAAACGIAAAAA                 0.00               148.01
+TN      AAAAAAAACGLAAAAA                 0.00               -43.79
+TN      AAAAAAAACHEAAAAA                 0.00             -1989.10
+TN      AAAAAAAACHEBAAAA                 0.00             -7379.77
+TN      AAAAAAAACHODAAAA                 0.00              -401.43
+TN      AAAAAAAACHPBAAAA                 0.00              -688.21
+TN      AAAAAAAACHPCAAAA                 0.00              1698.00
+TN      AAAAAAAACIGAAAAA                 0.00                67.53
+TN      AAAAAAAACIJDAAAA                 0.00               149.80
+TN      AAAAAAAACJFBAAAA                 0.00              2627.57
+TN      AAAAAAAACJGAAAAA                 0.00              2682.28
+TN      AAAAAAAACJMCAAAA                 0.00                 8.71
+TN      AAAAAAAACJNCAAAA                 0.00               -30.70
+TN      AAAAAAAACKFCAAAA                 0.00              -693.32
+TN      AAAAAAAACKFDAAAA                 0.00              2479.57
+TN      AAAAAAAACKHAAAAA                 0.00               258.43
+TN      AAAAAAAACKLAAAAA                 0.00              1048.34
+TN      AAAAAAAACKNDAAAA                 0.00              1235.96
+TN      AAAAAAAACLAEAAAA                 0.00              1857.87
+TN      AAAAAAAACLGDAAAA                 0.00              3124.51
+TN      AAAAAAAACLMBAAAA                 0.00              2157.04
+TN      AAAAAAAACMBEAAAA                 0.00              -182.01
+TN      AAAAAAAACMCEAAAA                 0.00              2121.60
+TN      AAAAAAAACMEEAAAA                 0.00             -4180.58
+TN      AAAAAAAACMFEAAAA                 0.00             -4340.30
+TN      AAAAAAAACMGAAAAA                 0.00              1372.99
+TN      AAAAAAAACMGCAAAA                 0.00             -1953.36
+TN      AAAAAAAACMMAAAAA                 0.00             -3471.45
+TN      AAAAAAAACMODAAAA                 0.00             -5567.42
+TN      AAAAAAAACNACAAAA                 0.00              2872.18
+TN      AAAAAAAACNGBAAAA                 0.00             -2199.08
+TN      AAAAAAAACNHAAAAA                 0.00                32.40
+TN      AAAAAAAACOAAAAAA                 0.00                47.27
+TN      AAAAAAAACOADAAAA                 0.00              -469.79
+TN      AAAAAAAACOCBAAAA                 0.00              2537.48
+TN      AAAAAAAACOIBAAAA                 0.00              -437.09
+TN      AAAAAAAACPEBAAAA                 0.00                36.99
+TN      AAAAAAAADABDAAAA                 0.00              2241.73
+TN      AAAAAAAADAKDAAAA                 0.00             -3490.45
+TN      AAAAAAAADBADAAAA                 0.00              2114.04
+TN      AAAAAAAADBIBAAAA                 0.00              1737.14
+TN      AAAAAAAADBMAAAAA                 0.00             -9492.79
+TN      AAAAAAAADDFCAAAA                 0.00              1894.61
+TN      AAAAAAAADDLCAAAA                 0.00               919.35
+TN      AAAAAAAADEECAAAA                 0.00             -4743.25
+TN      AAAAAAAADEIBAAAA                 0.00              1395.60
+TN      AAAAAAAADFKBAAAA                 0.00              -753.01
+TN      AAAAAAAADGNAAAAA                 0.00             -1183.24
+TN      AAAAAAAADGPBAAAA                 0.00             -1331.23
+TN      AAAAAAAADHGAAAAA                 0.00              -456.40
+TN      AAAAAAAADIACAAAA                 0.00             -1563.88
+TN      AAAAAAAADIBBAAAA                 0.00               509.72
+TN      AAAAAAAADINBAAAA                 0.00             -2742.86
+TN      AAAAAAAADJCCAAAA                 0.00                -0.67
+TN      AAAAAAAADJDEAAAA                 0.00               796.30
+TN      AAAAAAAADJMBAAAA                 0.00              1300.55
+TN      AAAAAAAADKHCAAAA                 0.00              1690.57
+TN      AAAAAAAADKMAAAAA                 0.00              -456.48
+TN      AAAAAAAADNMDAAAA                 0.00               430.49
+TN      AAAAAAAADPKAAAAA                 0.00             -1506.87
+TN      AAAAAAAAEACEAAAA                 0.00              -415.28
+TN      AAAAAAAAEAGDAAAA                 0.00                20.27
+TN      AAAAAAAAEAHDAAAA                 0.00              -812.06
+TN      AAAAAAAAEBFDAAAA                 0.00               984.42
+TN      AAAAAAAAEBGDAAAA                 0.00              1612.51
+TN      AAAAAAAAEBHCAAAA                 0.00             -2488.57
+TN      AAAAAAAAEBIAAAAA                 0.00             -1834.27
+TN      AAAAAAAAECDEAAAA                 0.00               733.52
+TN      AAAAAAAAEDMBAAAA                 0.00              1472.58
+TN      AAAAAAAAEDMDAAAA                 0.00              1325.23
+TN      AAAAAAAAEEKBAAAA                 0.00                26.94
+TN      AAAAAAAAEENBAAAA                 0.00               959.91
+TN      AAAAAAAAEFACAAAA                 0.00             -6499.31
+TN      AAAAAAAAEFEDAAAA                 0.00             -5701.74
+TN      AAAAAAAAEFGBAAAA                 0.00               439.14
+TN      AAAAAAAAEFMBAAAA                 0.00                97.80
+TN      AAAAAAAAEGGBAAAA                 0.00              2104.21
+TN      AAAAAAAAEGKAAAAA                 0.00              1581.89
+TN      AAAAAAAAEGNCAAAA                 0.00              1550.63
+TN      AAAAAAAAEGOBAAAA                 0.00             -8737.31
+TN      AAAAAAAAEGPDAAAA                 0.00               788.52
+TN      AAAAAAAAEHHBAAAA                 0.00             -6549.99
+TN      AAAAAAAAEHKBAAAA                 0.00               475.19
+TN      AAAAAAAAEHLAAAAA                 0.00                14.58
+TN      AAAAAAAAEIAEAAAA                 0.00               862.59
+TN      AAAAAAAAEIHDAAAA                 0.00              2879.17
+TN      AAAAAAAAEIKDAAAA                 0.00                12.30
+TN      AAAAAAAAEJAEAAAA                 0.00              -905.39
+TN      AAAAAAAAEJFEAAAA                 0.00                 3.74
+TN      AAAAAAAAEJPBAAAA                 0.00            -10827.10
+TN      AAAAAAAAEKAAAAAA                 0.00             -2216.33
+TN      AAAAAAAAEKBBAAAA                 0.00               774.57
+TN      AAAAAAAAEKCAAAAA                 0.00                20.22
+TN      AAAAAAAAEKMCAAAA                 0.00               124.47
+TN      AAAAAAAAEKPDAAAA                 0.00             -1054.94
+TN      AAAAAAAAELEDAAAA                 0.00              -107.21
+TN      AAAAAAAAELEEAAAA                 0.00               540.66
+TN      AAAAAAAAELFCAAAA                 0.00             -1125.76
+TN      AAAAAAAAELMCAAAA                 0.00              1808.74
+TN      AAAAAAAAELOCAAAA                 0.00             -1613.74
+TN      AAAAAAAAEMJDAAAA                 0.00                92.38
+TN      AAAAAAAAEMPBAAAA                 0.00               438.11
+TN      AAAAAAAAENGAAAAA                 0.00             -2732.92
+TN      AAAAAAAAENHBAAAA                 0.00              1416.33
+TN      AAAAAAAAEOAEAAAA                 0.00             -1436.27
+TN      AAAAAAAAEOBAAAAA                 0.00               268.32
+TN      AAAAAAAAEOHBAAAA                 0.00            -11335.47
+TN      AAAAAAAAEOHDAAAA                 0.00               965.61
+TN      AAAAAAAAEOOCAAAA                 0.00             -5253.96
+TN      AAAAAAAAEPAEAAAA                 0.00             -1089.03
+TN      AAAAAAAAEPDDAAAA                 0.00                75.37
+TN      AAAAAAAAEPEDAAAA                 0.00             -4194.33
+TN      AAAAAAAAEPHAAAAA                 0.00              2487.09
+TN      AAAAAAAAEPJDAAAA                 0.00              -333.00
+TN      AAAAAAAAEPOCAAAA                 0.00              1488.38
+TN      AAAAAAAAFAFAAAAA                 0.00             -1557.73
+TN      AAAAAAAAFBAEAAAA                 0.00               354.22
+TN      AAAAAAAAFBGEAAAA                 0.00             -2697.44
+TN      AAAAAAAAFCJDAAAA                 0.00               538.69
+TN      AAAAAAAAFEHDAAAA                 0.00               186.08
+TN      AAAAAAAAFEJBAAAA                 0.00              2850.57
+TN      AAAAAAAAFEOCAAAA                 0.00              1940.81
+TN      AAAAAAAAFFLBAAAA                 0.00               237.75
+TN      AAAAAAAAFHGBAAAA                 0.00             -6280.24
+TN      AAAAAAAAFHMBAAAA                 0.00              2816.90
+TN      AAAAAAAAFHOCAAAA                 0.00              -386.11
+TN      AAAAAAAAFIAAAAAA                 0.00            -10093.63
+TN      AAAAAAAAFJACAAAA                 0.00              1586.79
+TN      AAAAAAAAFKNDAAAA                 0.00             -5959.69
+TN      AAAAAAAAFKOCAAAA                 0.00              1780.38
+TN      AAAAAAAAFLPDAAAA                 0.00             -1582.76
+TN      AAAAAAAAFNOCAAAA                 0.00              2399.20
+TN      AAAAAAAAFOMAAAAA                 0.00              1921.63
+TN      AAAAAAAAFPCAAAAA                 0.00             -5517.12
+TN      AAAAAAAAGAAEAAAA                 0.00              1005.50
+TN      AAAAAAAAGAFCAAAA                 0.00                15.35
+TN      AAAAAAAAGAODAAAA                 0.00                52.63
+TN      AAAAAAAAGBGBAAAA                 0.00               322.17
+TN      AAAAAAAAGBNAAAAA                 0.00              -195.34
+TN      AAAAAAAAGCADAAAA                 0.00              2754.72
+TN      AAAAAAAAGCGAAAAA                 0.00               389.96
+TN      AAAAAAAAGCLDAAAA                 0.00             -5017.06
+TN      AAAAAAAAGCNBAAAA                 0.00               678.02
+TN      AAAAAAAAGCPCAAAA                 0.00             -1129.07
+TN      AAAAAAAAGDGBAAAA                 0.00              -786.22
+TN      AAAAAAAAGDICAAAA                 0.00             -1712.43
+TN      AAAAAAAAGDKAAAAA                 0.00              2239.31
+TN      AAAAAAAAGEECAAAA                 0.00             -3744.19
+TN      AAAAAAAAGEKAAAAA                 0.00               207.88
+TN      AAAAAAAAGFBBAAAA                 0.00              1065.33
+TN      AAAAAAAAGFCDAAAA                 0.00               153.09
+TN      AAAAAAAAGFFAAAAA                 0.00               127.69
+TN      AAAAAAAAGFHCAAAA                 0.00             -2557.01
+TN      AAAAAAAAGGBBAAAA                 0.00               205.97
+TN      AAAAAAAAGGCAAAAA                 0.00               921.81
+TN      AAAAAAAAGGFCAAAA                 0.00              1704.57
+TN      AAAAAAAAGGPBAAAA                 0.00               194.78
+TN      AAAAAAAAGHADAAAA                 0.00               131.83
+TN      AAAAAAAAGHAEAAAA                 0.00             -7203.23
+TN      AAAAAAAAGHHAAAAA                 0.00             -1809.68
+TN      AAAAAAAAGHNCAAAA                 0.00                 2.47
+TN      AAAAAAAAGILBAAAA                 0.00             -6176.99
+TN      AAAAAAAAGIOAAAAA                 0.00                 5.30
+TN      AAAAAAAAGJBBAAAA                 0.00              3075.93
+TN      AAAAAAAAGJPCAAAA                 0.00              2039.66
+TN      AAAAAAAAGKCBAAAA                 0.00               317.99
+TN      AAAAAAAAGKDDAAAA                 0.00                55.36
+TN      AAAAAAAAGKFCAAAA                 0.00              -150.49
+TN      AAAAAAAAGKFEAAAA                 0.00             -1082.97
+TN      AAAAAAAAGLHBAAAA                 0.00               338.95
+TN      AAAAAAAAGMEAAAAA                 0.00             -1680.95
+TN      AAAAAAAAGMEBAAAA                 0.00              2097.60
+TN      AAAAAAAAGMNAAAAA                 0.00              1259.73
+TN      AAAAAAAAGMPBAAAA                 0.00                91.30
+TN      AAAAAAAAGNDAAAAA                 0.00             -2627.78
+TN      AAAAAAAAGNGBAAAA                 0.00              -399.80
+TN      AAAAAAAAGOACAAAA                 0.00               117.17
+TN      AAAAAAAAGOEBAAAA                 0.00              1459.58
+TN      AAAAAAAAGOODAAAA                 0.00               209.56
+TN      AAAAAAAAGOPCAAAA                 0.00              1629.34
+TN      AAAAAAAAGPACAAAA                 0.00               753.19
+TN      AAAAAAAAGPCDAAAA                 0.00              -761.09
+TN      AAAAAAAAGPMCAAAA                 0.00              2271.53
+TN      AAAAAAAAGPPBAAAA                 0.00             -1718.92
+TN      AAAAAAAAHBODAAAA                 0.00              -354.51
+TN      AAAAAAAAHCICAAAA                 0.00              2279.95
+TN      AAAAAAAAHDECAAAA                 0.00             -2650.66
+TN      AAAAAAAAHDPDAAAA                 0.00              3711.73
+TN      AAAAAAAAHEEBAAAA                 0.00              2511.34
+TN      AAAAAAAAHELDAAAA                 0.00            -13038.74
+TN      AAAAAAAAHFAEAAAA                 0.00              1642.19
+TN      AAAAAAAAHFBDAAAA                 0.00              -234.80
+TN      AAAAAAAAHFKDAAAA                 0.00              1396.02
+TN      AAAAAAAAHFNDAAAA                 0.00              -109.76
+TN      AAAAAAAAHGJAAAAA                 0.00                13.53
+TN      AAAAAAAAHGLBAAAA                 0.00              1339.18
+TN      AAAAAAAAHIGBAAAA                 0.00              3945.26
+TN      AAAAAAAAHJADAAAA                 0.00             -1124.78
+TN      AAAAAAAAHJFBAAAA                 0.00             -1021.74
+TN      AAAAAAAAHMFEAAAA                 0.00               119.87
+TN      AAAAAAAAHMGDAAAA                 0.00             -4297.77
+TN      AAAAAAAAHNEBAAAA                 0.00              1947.88
+TN      AAAAAAAAHOBDAAAA                 0.00             -5083.03
+TN      AAAAAAAAIAACAAAA                 0.00                35.26
+TN      AAAAAAAAIAJCAAAA                 0.00                 8.42
+TN      AAAAAAAAIALAAAAA                 0.00                23.51
+TN      AAAAAAAAIALDAAAA                 0.00                80.80
+TN      AAAAAAAAIAMAAAAA                 0.00               691.26
+TN      AAAAAAAAIBCCAAAA                 0.00                 3.82
+TN      AAAAAAAAIBDEAAAA                 0.00              -379.76
+TN      AAAAAAAAIBGBAAAA                 0.00               313.74
+TN      AAAAAAAAICDDAAAA                 0.00                58.44
+TN      AAAAAAAAICNCAAAA                 0.00              1617.66
+TN      AAAAAAAAIDCDAAAA                 0.00             -7659.12
+TN      AAAAAAAAIDLAAAAA                 0.00              1779.47
+TN      AAAAAAAAIECCAAAA                 0.00                10.36
+TN      AAAAAAAAIEFDAAAA                 0.00              2636.93
+TN      AAAAAAAAIEKAAAAA                 0.00              1965.58
+TN      AAAAAAAAIEKDAAAA                 0.00                10.51
+TN      AAAAAAAAIENBAAAA                 0.00              2585.88
+TN      AAAAAAAAIFCBAAAA                 0.00                41.65
+TN      AAAAAAAAIFJDAAAA                 0.00              2250.20
+TN      AAAAAAAAIFPBAAAA                 0.00              -503.15
+TN      AAAAAAAAIGFBAAAA                 0.00             -1276.32
+TN      AAAAAAAAIGJCAAAA                 0.00              -219.74
+TN      AAAAAAAAIHJBAAAA                 0.00              1328.83
+TN      AAAAAAAAIIADAAAA                 0.00               585.50
+TN      AAAAAAAAIICCAAAA                 0.00             -1085.18
+TN      AAAAAAAAIINDAAAA                 0.00               408.18
+TN      AAAAAAAAIIPBAAAA                 0.00             -1543.88
+TN      AAAAAAAAIIPDAAAA                 0.00             -6722.64
+TN      AAAAAAAAIJCDAAAA                 0.00              2832.14
+TN      AAAAAAAAIJHBAAAA                 0.00              1909.36
+TN      AAAAAAAAIKAEAAAA                 0.00             -2414.04
+TN      AAAAAAAAIKBAAAAA                 0.00              1093.64
+TN      AAAAAAAAIKEAAAAA                 0.00             -3491.50
+TN      AAAAAAAAIKICAAAA                 0.00             -3741.06
+TN      AAAAAAAAIKKDAAAA                 0.00                22.89
+TN      AAAAAAAAIKNBAAAA                 0.00              1808.81
+TN      AAAAAAAAIKOAAAAA                 0.00              -123.08
+TN      AAAAAAAAILCEAAAA                 0.00              2342.73
+TN      AAAAAAAAILDDAAAA                 0.00              -158.71
+TN      AAAAAAAAILKDAAAA                 0.00              2711.69
+TN      AAAAAAAAIMCDAAAA                 0.00              1944.00
+TN      AAAAAAAAIMDCAAAA                 0.00              1542.03
+TN      AAAAAAAAIMFEAAAA                 0.00               -17.64
+TN      AAAAAAAAIMLAAAAA                 0.00                 8.17
+TN      AAAAAAAAIMPAAAAA                 0.00               -82.83
+TN      AAAAAAAAINJBAAAA                 0.00                56.02
+TN      AAAAAAAAIOCEAAAA                 0.00                80.28
+TN      AAAAAAAAIOECAAAA                 0.00             -2925.19
+TN      AAAAAAAAIOEDAAAA                 0.00             -1108.15
+TN      AAAAAAAAIOHAAAAA                 0.00             -4479.97
+TN      AAAAAAAAIOJBAAAA                 0.00             -2151.88
+TN      AAAAAAAAIOKCAAAA                 0.00               203.32
+TN      AAAAAAAAIPBCAAAA                 0.00             -1947.24
+TN      AAAAAAAAIPDAAAAA                 0.00               462.72
+TN      AAAAAAAAIPHCAAAA                 0.00              -105.41
+TN      AAAAAAAAJAABAAAA                 0.00             -4145.22
+TN      AAAAAAAAJAHAAAAA                 0.00              2153.94
+TN      AAAAAAAAJBGAAAAA                 0.00               283.33
+TN      AAAAAAAAJBLBAAAA                 0.00              -884.30
+TN      AAAAAAAAJBPAAAAA                 0.00              -866.96
+TN      AAAAAAAAJDLCAAAA                 0.00             -1243.50
+TN      AAAAAAAAJEDAAAAA                 0.00              1068.25
+TN      AAAAAAAAJFEEAAAA                 0.00              -409.48
+TN      AAAAAAAAJFHBAAAA                 0.00              2506.09
+TN      AAAAAAAAJHGDAAAA                 0.00             -1113.19
+TN      AAAAAAAAJJICAAAA                 0.00              2599.94
+TN      AAAAAAAAJJMBAAAA                 0.00             -2259.40
+TN      AAAAAAAAJKDDAAAA                 0.00             -8550.81
+TN      AAAAAAAAJKHCAAAA                 0.00            -10170.96
+TN      AAAAAAAAJKJAAAAA                 0.00             -2175.57
+TN      AAAAAAAAJMDEAAAA                 0.00             -4498.21
+TN      AAAAAAAAJMHDAAAA                 0.00              1357.37
+TN      AAAAAAAAJMICAAAA                 0.00              1484.34
+TN      AAAAAAAAJMOCAAAA                 0.00              -180.26
+TN      AAAAAAAAJNADAAAA                 0.00              1756.23
+TN      AAAAAAAAJNDDAAAA                 0.00             -3489.67
+TN      AAAAAAAAJNGDAAAA                 0.00              1070.21
+TN      AAAAAAAAJNPDAAAA                 0.00              2852.40
+TN      AAAAAAAAJOBBAAAA                 0.00             -3945.92
+TN      AAAAAAAAJOODAAAA                 0.00              1142.95
+TN      AAAAAAAAJPKDAAAA                 0.00              2413.27
+TN      AAAAAAAAKAGBAAAA                 0.00             -1759.75
+TN      AAAAAAAAKAGDAAAA                 0.00               130.13
+TN      AAAAAAAAKAHAAAAA                 0.00               881.44
+TN      AAAAAAAAKAOBAAAA                 0.00              1395.02
+TN      AAAAAAAAKBACAAAA                 0.00              -113.68
+TN      AAAAAAAAKBKCAAAA                 0.00               180.68
+TN      AAAAAAAAKBODAAAA                 0.00                54.04
+TN      AAAAAAAAKBPDAAAA                 0.00             -4743.37
+TN      AAAAAAAAKCKAAAAA                 0.00             -1013.10
+TN      AAAAAAAAKCMBAAAA                 0.00                87.79
+TN      AAAAAAAAKCNBAAAA                 0.00             -3856.20
+TN      AAAAAAAAKCPCAAAA                 0.00             -7990.36
+TN      AAAAAAAAKDBAAAAA                 0.00              -897.48
+TN      AAAAAAAAKDFEAAAA                 0.00              -372.14
+TN      AAAAAAAAKDJDAAAA                 0.00              -166.25
+TN      AAAAAAAAKDOBAAAA                 0.00             -2027.97
+TN      AAAAAAAAKEACAAAA                 0.00                73.79
+TN      AAAAAAAAKECDAAAA                 0.00             -1691.96
+TN      AAAAAAAAKEJDAAAA                 0.00                37.97
+TN      AAAAAAAAKELAAAAA                 0.00                36.51
+TN      AAAAAAAAKFEBAAAA                 0.00             -3843.41
+TN      AAAAAAAAKFLCAAAA                 0.00              -386.17
+TN      AAAAAAAAKFLDAAAA                 0.00             -1836.11
+TN      AAAAAAAAKGFEAAAA                 0.00             -1802.13
+TN      AAAAAAAAKGICAAAA                 0.00             -1020.98
+TN      AAAAAAAAKGJAAAAA                 0.00             -2651.43
+TN      AAAAAAAAKGOBAAAA                 0.00                33.10
+TN      AAAAAAAAKGOCAAAA                 0.00              2419.72
+TN      AAAAAAAAKHNBAAAA                 0.00             -8657.07
+TN      AAAAAAAAKIAEAAAA                 0.00                -3.44
+TN      AAAAAAAAKIHDAAAA                 0.00               104.63
+TN      AAAAAAAAKIPBAAAA                 0.00              2138.09
+TN      AAAAAAAAKJAAAAAA                 0.00             -1084.19
+TN      AAAAAAAAKJADAAAA                 0.00             -1478.13
+TN      AAAAAAAAKJGAAAAA                 0.00             -3764.81
+TN      AAAAAAAAKJGDAAAA                 0.00               194.79
+TN      AAAAAAAAKJIBAAAA                 0.00             -1388.16
+TN      AAAAAAAAKJJDAAAA                 0.00             -6455.28
+TN      AAAAAAAAKJMAAAAA                 0.00              1685.67
+TN      AAAAAAAAKJNAAAAA                 0.00              2628.09
+TN      AAAAAAAAKKBCAAAA                 0.00             -7589.94
+TN      AAAAAAAAKKCDAAAA                 0.00               126.33
+TN      AAAAAAAAKKJCAAAA                 0.00              -532.66
+TN      AAAAAAAAKKJDAAAA                 0.00              2166.47
+TN      AAAAAAAAKKLDAAAA                 0.00              2326.57
+TN      AAAAAAAAKKMAAAAA                 0.00              2715.80
+TN      AAAAAAAAKLDEAAAA                 0.00                49.80
+TN      AAAAAAAAKLHDAAAA                 0.00               177.67
+TN      AAAAAAAAKLMCAAAA                 0.00             -1002.16
+TN      AAAAAAAAKLNBAAAA                 0.00             -1925.70
+TN      AAAAAAAAKMBCAAAA                 0.00                26.24
+TN      AAAAAAAAKMFCAAAA                 0.00             -2362.11
+TN      AAAAAAAAKMGAAAAA                 0.00             -2640.07
+TN      AAAAAAAAKMHCAAAA                 0.00               454.43
+TN      AAAAAAAAKMIBAAAA                 0.00                49.46
+TN      AAAAAAAAKMMDAAAA                 0.00                92.64
+TN      AAAAAAAAKMNAAAAA                 0.00               345.31
+TN      AAAAAAAAKNFDAAAA                 0.00              1850.66
+TN      AAAAAAAAKNGDAAAA                 0.00              2824.57
+TN      AAAAAAAAKNIAAAAA                 0.00               213.83
+TN      AAAAAAAAKNLDAAAA                 0.00               383.32
+TN      AAAAAAAAKNNBAAAA                 0.00               882.19
+TN      AAAAAAAAKNODAAAA                 0.00                64.67
+TN      AAAAAAAAKOEEAAAA                 0.00               856.69
+TN      AAAAAAAAKONAAAAA                 0.00              1083.96
+TN      AAAAAAAAKPCEAAAA                 0.00                 7.36
+TN      AAAAAAAAKPDDAAAA                 0.00               -51.58
+TN      AAAAAAAAKPFBAAAA                 0.00               127.57
+TN      AAAAAAAAKPJDAAAA                 0.00             -6444.91
+TN      AAAAAAAAKPKCAAAA                 0.00               250.97
+TN      AAAAAAAALAEEAAAA                 0.00             -5983.98
+TN      AAAAAAAALAFAAAAA                 0.00              2234.72
+TN      AAAAAAAALDACAAAA                 0.00               375.06
+TN      AAAAAAAALEGBAAAA                 0.00             -3318.64
+TN      AAAAAAAALEHDAAAA                 0.00             -3443.04
+TN      AAAAAAAALEICAAAA                 0.00               573.00
+TN      AAAAAAAALENAAAAA                 0.00            -11668.68
+TN      AAAAAAAALGIDAAAA                 0.00              2691.36
+TN      AAAAAAAALGODAAAA                 0.00              2228.30
+TN      AAAAAAAALHCCAAAA                 0.00               339.84
+TN      AAAAAAAALIKCAAAA                 0.00                86.49
+TN      AAAAAAAALJBEAAAA                 0.00              -929.08
+TN      AAAAAAAALJLAAAAA                 0.00              2200.50
+TN      AAAAAAAALJMCAAAA                 0.00             -1192.30
+TN      AAAAAAAALKHDAAAA                 0.00            -14883.29
+TN      AAAAAAAALLPAAAAA                 0.00              3677.95
+TN      AAAAAAAALLPDAAAA                 0.00               809.02
+TN      AAAAAAAALMDCAAAA                 0.00              -940.47
+TN      AAAAAAAALMMCAAAA                 0.00             -1722.00
+TN      AAAAAAAALNEAAAAA                 0.00             -1344.13
+TN      AAAAAAAALNHAAAAA                 0.00              2145.95
+TN      AAAAAAAALOAAAAAA                 0.00             -1233.95
+TN      AAAAAAAALOADAAAA                 0.00              1725.29
+TN      AAAAAAAALOJAAAAA                 0.00             -3210.48
+TN      AAAAAAAALPFDAAAA                 0.00               867.56
+TN      AAAAAAAALPGCAAAA                 0.00              1093.86
+TN      AAAAAAAAMAEDAAAA                 0.00                34.61
+TN      AAAAAAAAMAFDAAAA                 0.00             -3056.03
+TN      AAAAAAAAMBCEAAAA                 0.00             -3079.62
+TN      AAAAAAAAMBKCAAAA                 0.00              2235.92
+TN      AAAAAAAAMCCDAAAA                 0.00                32.22
+TN      AAAAAAAAMCIBAAAA                 0.00              1704.90
+TN      AAAAAAAAMCNBAAAA                 0.00              1126.04
+TN      AAAAAAAAMDABAAAA                 0.00                83.14
+TN      AAAAAAAAMDDBAAAA                 0.00              2006.25
+TN      AAAAAAAAMDEAAAAA                 0.00              -166.99
+TN      AAAAAAAAMDGBAAAA                 0.00                15.64
+TN      AAAAAAAAMDHAAAAA                 0.00              1981.56
+TN      AAAAAAAAMDHDAAAA                 0.00             -9951.06
+TN      AAAAAAAAMDMBAAAA                 0.00              2777.15
+TN      AAAAAAAAMDNAAAAA                 0.00                19.12
+TN      AAAAAAAAMDOAAAAA                 0.00              -861.30
+TN      AAAAAAAAMDPBAAAA                 0.00             -1678.57
+TN      AAAAAAAAMEABAAAA                 0.00              2669.01
+TN      AAAAAAAAMECBAAAA                 0.00               171.51
+TN      AAAAAAAAMECCAAAA                 0.00               800.02
+TN      AAAAAAAAMEGDAAAA                 0.00              3047.38
+TN      AAAAAAAAMEKAAAAA                 0.00             -1933.11
+TN      AAAAAAAAMEKCAAAA                 0.00                14.06
+TN      AAAAAAAAMEKDAAAA                 0.00              1340.48
+TN      AAAAAAAAMFAAAAAA                 0.00             -3235.74
+TN      AAAAAAAAMFCEAAAA                 0.00             -1830.18
+TN      AAAAAAAAMGIDAAAA                 0.00              -141.89
+TN      AAAAAAAAMGNBAAAA                 0.00              2401.20
+TN      AAAAAAAAMGPCAAAA                 0.00              1683.19
+TN      AAAAAAAAMHJAAAAA                 0.00               163.78
+TN      AAAAAAAAMICDAAAA                 0.00               340.19
+TN      AAAAAAAAMIDDAAAA                 0.00                94.04
+TN      AAAAAAAAMIECAAAA                 0.00              -188.89
+TN      AAAAAAAAMIGDAAAA                 0.00             -3974.93
+TN      AAAAAAAAMIIDAAAA                 0.00              -588.88
+TN      AAAAAAAAMIJCAAAA                 0.00             -3660.05
+TN      AAAAAAAAMIPAAAAA                 0.00             -1588.33
+TN      AAAAAAAAMJBDAAAA                 0.00               465.75
+TN      AAAAAAAAMJHBAAAA                 0.00               910.93
+TN      AAAAAAAAMKDDAAAA                 0.00                 3.89
+TN      AAAAAAAAMKHAAAAA                 0.00              1048.12
+TN      AAAAAAAAMKJDAAAA                 0.00              1657.84
+TN      AAAAAAAAMLJDAAAA                 0.00             -6022.19
+TN      AAAAAAAAMLMDAAAA                 0.00              1438.21
+TN      AAAAAAAAMLNBAAAA                 0.00              -470.02
+TN      AAAAAAAAMMBDAAAA                 0.00               617.48
+TN      AAAAAAAAMMDEAAAA                 0.00               127.21
+TN      AAAAAAAAMMEBAAAA                 0.00             -1235.23
+TN      AAAAAAAAMMKAAAAA                 0.00                52.38
+TN      AAAAAAAAMNDDAAAA                 0.00                10.01
+TN      AAAAAAAAMNFBAAAA                 0.00               493.55
+TN      AAAAAAAAMNGDAAAA                 0.00              -541.12
+TN      AAAAAAAAMNOCAAAA                 0.00               648.56
+TN      AAAAAAAAMOIAAAAA                 0.00               200.19
+TN      AAAAAAAAMOJDAAAA                 0.00               221.39
+TN      AAAAAAAAMOMCAAAA                 0.00             -4643.98
+TN      AAAAAAAAMOODAAAA                 0.00              -724.57
+TN      AAAAAAAAMPAEAAAA                 0.00             -2989.74
+TN      AAAAAAAAMPBDAAAA                 0.00                 0.01
+TN      AAAAAAAAMPCCAAAA                 0.00             -5158.78
+TN      AAAAAAAAMPCDAAAA                 0.00              1117.46
+TN      AAAAAAAAMPKDAAAA                 0.00              1319.73
+TN      AAAAAAAANAFBAAAA                 0.00               657.43
+TN      AAAAAAAANBCDAAAA                 0.00             -1989.47
+TN      AAAAAAAANBDCAAAA                 0.00              2241.73
+TN      AAAAAAAANBEEAAAA                 0.00              2208.41
+TN      AAAAAAAANBFDAAAA                 0.00               849.24
+TN      AAAAAAAANBODAAAA                 0.00             -2111.61
+TN      AAAAAAAANCDEAAAA                 0.00             -1749.85
+TN      AAAAAAAANDCBAAAA                 0.00             -4086.87
+TN      AAAAAAAANDMAAAAA                 0.00              2612.78
+TN      AAAAAAAANEDCAAAA                 0.00              1686.63
+TN      AAAAAAAANFNDAAAA                 0.00             -1297.42
+TN      AAAAAAAANGMDAAAA                 0.00             -2137.56
+TN      AAAAAAAANHLAAAAA                 0.00             -3510.44
+TN      AAAAAAAANHLDAAAA                 0.00               799.88
+TN      AAAAAAAANJMAAAAA                 0.00              2065.30
+TN      AAAAAAAANKJCAAAA                 0.00              2062.25
+TN      AAAAAAAANLEDAAAA                 0.00             -4537.27
+TN      AAAAAAAANLMBAAAA                 0.00             -9062.53
+TN      AAAAAAAANLOCAAAA                 0.00             -5864.89
+TN      AAAAAAAANMECAAAA                 0.00             -4406.43
+TN      AAAAAAAANNLDAAAA                 0.00             -4431.80
+TN      AAAAAAAAOAHBAAAA                 0.00               108.15
+TN      AAAAAAAAOAKCAAAA                 0.00              -738.25
+TN      AAAAAAAAOANBAAAA                 0.00                17.07
+TN      AAAAAAAAOAODAAAA                 0.00              -730.75
+TN      AAAAAAAAOBACAAAA                 0.00             -3458.62
+TN      AAAAAAAAOBCCAAAA                 0.00             -3736.23
+TN      AAAAAAAAOBDBAAAA                 0.00              2255.12
+TN      AAAAAAAAOBEBAAAA                 0.00              -109.27
+TN      AAAAAAAAOBFAAAAA                 0.00              2367.39
+TN      AAAAAAAAOBHDAAAA                 0.00             -1022.38
+TN      AAAAAAAAOBNDAAAA                 0.00                23.38
+TN      AAAAAAAAOCDDAAAA                 0.00              -804.24
+TN      AAAAAAAAOCGBAAAA                 0.00             -1772.14
+TN      AAAAAAAAOCJAAAAA                 0.00             -1443.34
+TN      AAAAAAAAODADAAAA                 0.00             -4821.74
+TN      AAAAAAAAODCAAAAA                 0.00                83.54
+TN      AAAAAAAAODIDAAAA                 0.00               108.28
+TN      AAAAAAAAODKBAAAA                 0.00             -2714.25
+TN      AAAAAAAAOEICAAAA                 0.00             -4629.18
+TN      AAAAAAAAOEOCAAAA                 0.00                67.40
+TN      AAAAAAAAOFADAAAA                 0.00                61.64
+TN      AAAAAAAAOFBDAAAA                 0.00               974.51
+TN      AAAAAAAAOFEAAAAA                 0.00              -325.55
+TN      AAAAAAAAOFJAAAAA                 0.00                51.23
+TN      AAAAAAAAOFLBAAAA                 0.00               154.29
+TN      AAAAAAAAOFNDAAAA                 0.00             -3137.57
+TN      AAAAAAAAOFPAAAAA                 0.00             -1398.25
+TN      AAAAAAAAOGBBAAAA                 0.00             -4949.84
+TN      AAAAAAAAOGEEAAAA                 0.00               450.43
+TN      AAAAAAAAOGJDAAAA                 0.00             -5932.01
+TN      AAAAAAAAOHDEAAAA                 0.00                27.01
+TN      AAAAAAAAOHHDAAAA                 0.00                83.15
+TN      AAAAAAAAOHKDAAAA                 0.00                 8.88
+TN      AAAAAAAAOHODAAAA                 0.00             -6668.20
+TN      AAAAAAAAOIEAAAAA                 0.00              3187.91
+TN      AAAAAAAAOIGDAAAA                 0.00                93.25
+TN      AAAAAAAAOJACAAAA                 0.00                35.81
+TN      AAAAAAAAOJFDAAAA                 0.00              2262.34
+TN      AAAAAAAAOJODAAAA                 0.00              2191.88
+TN      AAAAAAAAOKICAAAA                 0.00             -4761.09
+TN      AAAAAAAAOKMCAAAA                 0.00              2725.54
+TN      AAAAAAAAOLFBAAAA                 0.00             -1827.31
+TN      AAAAAAAAOLLBAAAA                 0.00                48.79
+TN      AAAAAAAAOLNCAAAA                 0.00               148.17
+TN      AAAAAAAAOMAAAAAA                 0.00              2380.58
+TN      AAAAAAAAOMOAAAAA                 0.00             -1600.07
+TN      AAAAAAAAONCCAAAA                 0.00               266.44
+TN      AAAAAAAAOOADAAAA                 0.00                55.79
+TN      AAAAAAAAOOGBAAAA                 0.00             -4095.16
+TN      AAAAAAAAOOJAAAAA                 0.00             -6216.18
+TN      AAAAAAAAOOLBAAAA                 0.00                 6.45
+TN      AAAAAAAAOOPDAAAA                 0.00               105.21
+TN      AAAAAAAAOPFDAAAA                 0.00              -620.20
+TN      AAAAAAAAOPMDAAAA                 0.00               476.31
+TN      AAAAAAAAPBFEAAAA                 0.00              1342.44
+TN      AAAAAAAAPDLCAAAA                 0.00             -6263.41
+TN      AAAAAAAAPEECAAAA                 0.00               929.64
+TN      AAAAAAAAPEGDAAAA                 0.00               545.43
+TN      AAAAAAAAPEKCAAAA                 0.00             -5513.10
+TN      AAAAAAAAPEPAAAAA                 0.00              2665.99
+TN      AAAAAAAAPFFDAAAA                 0.00               713.72
+TN      AAAAAAAAPFLAAAAA                 0.00             -1350.99
+TN      AAAAAAAAPGDEAAAA                 0.00              1409.79
+TN      AAAAAAAAPHADAAAA                 0.00              2437.19
+TN      AAAAAAAAPHFEAAAA                 0.00              -613.72
+TN      AAAAAAAAPHGDAAAA                 0.00             -4122.04
+TN      AAAAAAAAPHIBAAAA                 0.00             -7750.23
+TN      AAAAAAAAPIDCAAAA                 0.00              -109.60
+TN      AAAAAAAAPIMCAAAA                 0.00              -243.04
+TN      AAAAAAAAPIODAAAA                 0.00              1330.65
+TN      AAAAAAAAPIPCAAAA                 0.00              1885.76
+TN      AAAAAAAAPKDAAAAA                 0.00             -2421.41
+TN      AAAAAAAAPKECAAAA                 0.00              -839.76
+TN      AAAAAAAAPKPDAAAA                 0.00              -481.38
+TN      AAAAAAAAPLBBAAAA                 0.00            -16359.55
+TN      AAAAAAAAPLIDAAAA                 0.00             -1340.83
+TN      AAAAAAAAPLPCAAAA                 0.00               812.55
+TN      AAAAAAAAPNIBAAAA                 0.00             -3073.43
+TN      AAAAAAAAPNKCAAAA                 0.00             -1049.92
+TN      AAAAAAAAPNOBAAAA                 0.00              -126.30
+TN      AAAAAAAAPNPDAAAA                 0.00               889.81
+TN      AAAAAAAAPOLDAAAA                 0.00              2192.99
+<group_end>
+
+--- 669 row(s) selected.
+
+<section_end>
+<section_begin>  ds46
+
+C_LAST_NAME                    C_FIRST_NAME         CA_CITY                                                      BOUGHT_CITY                                                  SS_TICKET_NUMBER AMT                  PROFIT              
+------------------------------ -------------------- ------------------------------------------------------------ ------------------------------------------------------------ ---------------- -------------------- --------------------
+<group_begin>
+Aaron                          Samuel               Forest Hills                                                 Washington Heights                                                     201061               771.34            -10636.32
+Abbott                         Anna                 Belleville                                                   Oakwood                                                                 96895              8769.08            -19898.13
+Abbott                         Brandon              Northwood                                                    Franklin                                                               113753              2558.28            -16846.70
+Abbott                         Brandon              Lakeview                                                     Oak Grove                                                                7161              3645.32             -5969.24
+Abbott                         Diane                Buena Vista                                                  Arlington                                                              219903               794.62             -4062.13
+Abbott                         Gilberte             Mount Vernon                                                 Sulphur Springs                                                         25937               184.74            -19254.20
+Abbott                         Gretta               Arlington                                                    Springfield                                                            139501                94.14            -21831.12
+Abbott                         Kelli                Springfield                                                  Summit                                                                 214721               105.72             -3812.65
+Abbott                         Nidia                Riverside                                                    Oakdale                                                                 47623              1844.93            -16162.77
+Abbott                         Pearl                Ashland                                                      Riverdale                                                              193422              1442.58            -12982.10
+Abbott                         Thomas               Kent                                                         White Hall                                                             190382                29.28             -6888.62
+Abel                           Annie                Providence                                                   Spring Valley                                                           77683               269.53            -11597.15
+Abel                           Candace              Springtown                                                   Riverside                                                              114875              2336.24            -16731.21
+Abel                           Debbie               Macedonia                                                    Edgewood                                                               166664               224.44            -17186.25
+Abel                           Elena                Springhill                                                   Riverview                                                              138895              3696.59             -7493.08
+Abel                           Francisco            Crossroads                                                   Macedonia                                                                8767               474.98            -11041.09
+Abel                           Francisco            Crossroads                                                   Mount Olive                                                            172375              2019.99             -5580.24
+Abel                           Francisco            Crossroads                                                   Pleasant Grove                                                          72313              3474.20            -13217.31
+Abel                           Michael              Centerville                                                  Bethel                                                                 153635              2941.90            -14612.72
+Abel                           Michael              Centerville                                                  Springfield                                                             95732              1752.00            -17752.22
+Abel                           Terrence             Oak Grove                                                    Newport                                                                123513              3021.29             -2527.36
+Abernathy                      Evan                 Walnut Grove                                                 Glenwood                                                                68732              4633.53             -9813.49
+Abernathy                      Ronnie               Hartland                                                     Bayview                                                                157497              3934.81             -5709.08
+Abner                          Annie                Oak Ridge                                                    Riverview                                                               39432              1012.38            -14793.98
+Abner                          Eric                 Five Points                                                  Greenfield                                                              58763               622.24             -1888.72
+Abner                          Melinda              Unionville                                                   Oakland                                                                 58905               192.35             -2460.40
+Abney                          Angela               Oak Ridge                                                    Collinsville                                                            56030                 7.96             -5508.15
+Abney                          Angela               Oak Ridge                                                    Hamilton                                                                60263              1119.89             -8807.98
+Abney                          Angela               Oak Ridge                                                    Marion                                                                  14538              7612.05            -25269.68
+Abney                          Ernest               Hopewell                                                     Florence                                                               227320              2288.46            -12535.43
+Abney                          Ernest               Hopewell                                                     Greenville                                                             143840                 0.00               260.63
+Abney                          Rachel               Brownsville                                                  Hillcrest                                                              110035              6044.63            -14327.98
+Abraham                        Frank                Oakland                                                      Union                                                                  203605              1041.74            -14357.04
+Abraham                        Sherry               Dewey                                                        Walnut Grove                                                           138780              4195.06            -18836.26
+Abraham                        Tammy                New Hope                                                     Walnut Grove                                                           122376                 0.00              2136.46
+Abrams                         Arnold               Liberty                                                      Unionville                                                             208036              3335.47            -12326.65
+Abrams                         John                 Edgewood                                                     Ashland                                                                106331              4834.35            -11664.46
+Abrams                         John                 Edgewood                                                     Shady Grove                                                             98408              5289.87             -6062.66
+Abrams                         Royal                Calhoun                                                      Brentwood                                                              169458              3357.58            -26678.45
+Abrams                         Royal                Calhoun                                                      Oakland                                                                 86782                 0.00             -2987.37
+Abrams                         Steve                Bunker Hill                                                  Stringtown                                                             177574             14512.82            -24813.18
+Abreu                          Malissa              Milan                                                        Clifton                                                                218304              7858.33            -14956.18
+Abreu                          Sunshine             Lakeview                                                     Crossroads                                                              92895              1091.33              1606.30
+Acevedo                        Dennis               Oakwood                                                      Friendship                                                             157646              1192.74            -13640.98
+Acevedo                        George               Summerfield                                                  Clinton                                                                 34032              2539.08            -15814.55
+Acevedo                        George               Summerfield                                                  Woodlawn                                                               194449              1225.64            -18061.57
+Acevedo                        Larry                Bunker Hill                                                  Maple Grove                                                             61246               854.88             -4618.34
+Acevedo                        Linda                Cedar Grove                                                  Bridgeport                                                             111759              1573.30            -16076.02
+Acevedo                        Linda                Cedar Grove                                                  Fairview                                                                16293              3035.83            -14393.74
+Acevedo                        Linda                Cedar Grove                                                  Oak Ridge                                                               91764              3751.74             -9051.03
+Acevedo                        Linda                Cedar Grove                                                  Viola                                                                  239281              5298.39            -19089.66
+Acevedo                        Merle                Fairview                                                     Leon                                                                    79942               974.86            -12721.97
+Acevedo                        Robert               Red Hill                                                     Oakdale                                                                 95363              1136.19             -1669.38
+Acevedo                        Roland               Highland                                                     Fairfield                                                              209980              2825.90            -10816.33
+Acevedo                        Tammy                Fairfield                                                    Georgetown                                                             202956               717.87              2087.93
+Acker                          Emily                Antioch                                                      Walnut Grove                                                            99337              1503.21            -10663.45
+Acker                          Tiffany              Green Acres                                                  Lakeview                                                               231735              3929.28            -19829.44
+Ackerman                       Brian                Pleasant Valley                                              Carthage                                                                67694                 0.00               184.54
+Ackerman                       Carolyn              Gravel Hill                                                  Oakland                                                                  4390              2216.06            -10189.55
+Ackerman                       Martin               Pleasant Grove                                               Jackson                                                                 65433              2324.72            -15877.64
+Ackerman                       Sharon               Richardson                                                   Ashland                                                                167751                 0.00            -10112.05
+Ackerman                       Travis               Woodlawn                                                     Harmon                                                                 200910              1053.24            -17729.58
+Ackerman                       Travis               Woodlawn                                                     Oakland                                                                 27402                 2.64             -9261.95
+Ackerman                       Willie               Mount Zion                                                   Midway                                                                 197239              1401.27             -6895.23
+Ackerman                       Willie               Mount Zion                                                   Oak Hill                                                                68332                33.56             -1905.75
+Ackley                         Josephine            Kingston                                                     Salem                                                                  219213               617.23             -4573.22
+Acosta                         Brian                Hopewell                                                     Wildwood                                                                49826               137.22            -13601.99
+Acosta                         Carl                 Green Acres                                                  Georgetown                                                             213811              3722.32            -16433.33
+Acosta                         Carl                 Green Acres                                                  Highland                                                               178838              2814.43            -11297.19
+Acosta                         Elizabeth            Waterloo                                                     Macedonia                                                              226045              3460.83            -10479.41
+Acosta                         Joshua               Centerville                                                  Five Points                                                            126227               110.85             -3048.97
+Acosta                         Joshua               Centerville                                                  Mount Zion                                                              98497               337.19             -6205.13
+Acosta                         Judy                 Hillcrest                                                    Enterprise                                                               1423                 0.00               652.51
+Acosta                         Linda                New Hope                                                     Shiloh                                                                 190343              3054.13             -8187.17
+Acosta                         Major                Sunnyside                                                    Oakdale                                                                 79523                 0.00             -3421.76
+Acosta                         Milton               Clifton                                                      Pleasant Hill                                                          132454                 0.00                17.83
+Acosta                         Nicole               Clinton                                                      Enterprise                                                              19726                29.71             -9333.67
+Acosta                         Sean                 Glendale                                                     Five Points                                                             22112              2231.73             -8297.61
+Acuna                          Diane                Highland Park                                                Quincy                                                                  83911              2987.94            -11506.10
+Acuna                          Ethan                Crossroads                                                   Glendale                                                               194108              7005.15            -12243.15
+Acuna                          Lise                 White Oak                                                    Riverside                                                              159135              1719.43            -24530.29
+Acuna                          Martha               Cedar Grove                                                  Harmony                                                                133256              2493.23             -6837.43
+Acuna                          Pamela               Quincy                                                       Mount Pleasant                                                         210235                 0.00             -4346.66
+Acuna                          Tommy                Jackson                                                      Fairview                                                               153859                 0.00            -23303.14
+Adair                          David                Liberty                                                      Fairfield                                                               44407              1579.98            -11454.78
+Adair                          Theresa              Ashland                                                      Belmont                                                                141541               590.17             -4427.73
+Adam                           Yolanda              Fairview                                                     Shiloh                                                                 224544              6752.54            -13249.70
+Adame                          John                 Redland                                                      Clinton                                                                116321              4064.38            -22685.14
+Adame                          John                 Redland                                                      Shady Grove                                                             44602              2430.67            -10242.83
+Adams                          Aimee                Union Hill                                                   Mount Vernon                                                           230926              1896.02             -6338.40
+Adams                          Alfredo              Spring Hill                                                  Woodbury                                                                44534              4872.48             -8049.34
+Adams                          Alicia               Fayetteville                                                 Glenwood                                                                21564                97.15            -11816.17
+Adams                          Alicia               Fayetteville                                                 Glenwood                                                               164041              1535.03             -5118.51
+Adams                          Ana                  New Hope                                                     Five Forks                                                              44629                 0.00              1516.98
+Adams                          Andy                 Florence                                                     Riverside                                                              220619              3050.13            -14161.30
+Adams                          Arnold               Newtown                                                      Liberty                                                                 28819              2067.72            -14017.28
+Adams                          Arnold               Newtown                                                      Oakwood                                                                105551               324.69             -7255.28
+Adams                          Barbara              Green Acres                                                  Doyle                                                                  157302               230.06             -7401.91
+Adams                          Belinda              Glenwood                                                     Hamilton                                                               126051                 0.00                33.08
+Adams                          Benjamin             Centerville                                                  Buena Vista                                                            226645               404.26            -18482.67
+<group_end>
+
+--- 100 row(s) selected.
+
+<section_end>
+<section_begin>  ds50
+
+S_STORE_NAME                                       S_COMPANY_ID S_STREET_NUMBER S_STREET_NAME                                                S_STREET_TYPE   S_SUITE_NUMBER S_CITY                                                       S_COUNTY                       S_STATE S_ZIP      THIRTYDAYS           UNDERSIXTYDAYS       UNDERNINETYDAYS      UNDER120DAYS         OVER120DAYS         
+-------------------------------------------------- ------------ --------------- ------------------------------------------------------------ --------------- -------------- ------------------------------------------------------------ ------------------------------ ------- ---------- -------------------- -------------------- -------------------- -------------------- --------------------
+<group_begin>
+able                                                          1 377             Lincoln                                                      Ct.             Suite C        Fairview                                                     Williamson County              TN      35709                      5101                 5487                 5524                 5526                    0
+ation                                                         1 493             2nd Railroad                                                 Boulevard       Suite 50       Fairview                                                     Williamson County              TN      35709                      4880                 5665                 5610                 5518                    0
+bar                                                           1 236             Green                                                        Cir.            Suite L        Fairview                                                     Williamson County              TN      35709                      4901                 5545                 5774                 5626                    0
+eing                                                          1 635             11th                                                         Wy              Suite 450      Fairview                                                     Williamson County              TN      35709                      5080                 5537                 5566                 5670                    0
+ese                                                           1 643             Fourth Ash                                                   Street          Suite P        Fairview                                                     Williamson County              TN      35709                      5137                 5545                 5724                 5598                    0
+ought                                                         1 287             Smith                                                        Drive           Suite E        Fairview                                                     Williamson County              TN      35709                      5141                 5622                 5560                 5646                    0
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

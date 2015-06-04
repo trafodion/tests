@@ -1,0 +1,30 @@
+<section_begin>  a03s01
+
+ORDERING    CH1  PX1         CV1 
+----------- ---- ----------- ----
+<group_begin>
+          1 a           1.00 Z   
+          2 b           2.00 2   
+          3 NULL        3.00 Z   
+          4 d           4.00 4   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s02
+
+ORDERING    CH1  PX1         CV1  PX2        
+----------- ---- ----------- ---- -----------
+<group_begin>
+          1 a           1.00 Z           NULL
+          2 b           2.00 2           NULL
+          3 NULL        3.00 Z           NULL
+          4 d           4.00 4           NULL
+          5 NULL        NULL 5           NULL
+          6 f           6.00 6              6
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

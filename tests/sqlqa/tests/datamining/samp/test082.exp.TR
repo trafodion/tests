@@ -1,0 +1,67 @@
+<section_begin>  s1
+
+ROWS_SINCE_NULL
+---------------
+<group_begin>
+           NULL
+              1
+              1
+              2
+              3
+              4
+              5
+              6
+              7
+              8
+              9
+             10
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+ROWS_SINCE_NULL
+---------------
+<group_begin>
+           NULL
+              1
+              1
+              2
+              3
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+ROWS_SINCE_NULL
+---------------
+<group_begin>
+           NULL
+           NULL
+           NULL
+              1
+              1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+ROWS_SINCE_NULL
+---------------
+<group_begin>
+           NULL
+           NULL
+           NULL
+              1
+              1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

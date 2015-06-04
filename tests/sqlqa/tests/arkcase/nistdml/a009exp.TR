@@ -1,0 +1,18 @@
+<section_begin>  a009s0
+
+EMPNUM
+------
+E9    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a009s1
+
+EMPNUM HOURS      
+------ -----------
+E9            NULL
+
+--- 1 row(s) selected.
+
+<section_end>

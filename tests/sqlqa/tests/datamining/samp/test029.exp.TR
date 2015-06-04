@@ -1,0 +1,120 @@
+<section_begin>  s1
+
+(EXPR)
+--------------------
+<group_begin>
+                 250
+               26706
+               40772
+               64976
+               96121
+              124906
+              148595
+              170939
+              188318
+              212902
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+(EXPR)
+-----------
+<group_begin>
+        250
+      26456
+      26456
+      26456
+      31145
+      31145
+      31145
+      31145
+      31145
+      31145
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+(EXPR)
+-----------
+<group_begin>
+        250
+        250
+        250
+        250
+        250
+        250
+        250
+        250
+        250
+        250
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+(EXPR)
+-----------------
+<group_begin>
+           250.00
+         13353.00
+         13590.66
+         16244.00
+         19224.20
+         20817.66
+         20924.22
+         21227.85
+         21290.20
+         21367.37
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s5
+
+(EXPR)
+-----------------
+<group_begin>
+             0.00
+          8921.60
+          9382.83
+          9929.47
+         10716.58
+         11679.07
+         11947.08
+         12306.80
+         13109.46
+         18530.44
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s6
+
+(EXPR)
+-----------------
+<group_begin>
+             0.00
+      79595027.95
+      88037584.44
+      98594428.55
+     114845157.80
+     136400837.06
+     142732754.66
+     151457526.19
+     171858065.33
+     343377218.00
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>

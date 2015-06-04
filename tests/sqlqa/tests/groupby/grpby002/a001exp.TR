@@ -1,0 +1,294 @@
+<section_begin>  a01s1
+
+(EXPR)
+----------
+<group_begin>
+Programmer
+Analyst   
+Intern    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR)
+----------------
+<group_begin>
+Programming     
+Analyse problems
+Help Out        
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+(EXPR)
+-------
+<group_begin>
+  80000
+  50000
+  35000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+(EXPR)
+------
+<group_begin>
+CLARK 
+CRINAR
+GREEN 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+(EXPR)
+------
+<group_begin>
+     1
+     2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+(EXPR)
+------
+<group_begin>
+  1000
+  1500
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+(EXPR)
+------
+<group_begin>
+    10
+    15
+    12
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+(EXPR)
+------
+<group_begin>
+   400
+   200
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+(EXPR)
+------
+<group_begin>
+   300
+   250
+   150
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+(EXPR)
+------
+<group_begin>
+a     
+b     
+c     
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+(EXPR)
+------
+<group_begin>
+    10
+    20
+    30
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+(EXPR)
+----------
+<group_begin>
+1998-04-03
+1999-05-06
+2000-01-02
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+(EXPR)
+--------
+<group_begin>
+08:30:30
+08:45:00
+09:00:00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+(EXPR)
+-------------------
+<group_begin>
+2007-06-01:16:30:30
+2007-06-01:16:45:00
+2007-06-01:17:15:30
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+(EXPR)
+------
+<group_begin>
+ 9-03 
+ 8-01 
+ 7-05 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+(EXPR)
+------
+<group_begin>
+    10
+    20
+    30
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+(EXPR)
+-------
+<group_begin>
+  80000
+  50000
+   NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+------
+<group_begin>
+     1
+  NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)
+------------
+<group_begin>
+        1000
+        1500
+         100
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+(EXPR)
+------
+<group_begin>
+   400
+   200
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+(EXPR)
+----------
+<group_begin>
+1998-04-03
+1999-05-06
+2000-01-02
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+(EXPR)
+------
+<group_begin>
+ 9-03 
+ 8-01 
+NULL  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+(EXPR)
+------
+<group_begin>
+    10
+    20
+    30
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

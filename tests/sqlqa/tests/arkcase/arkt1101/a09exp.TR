@@ -1,0 +1,130 @@
+<section_begin>  a09s0
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+clark      dinah          9000      37000              3
+crinar     jessica        3500      39500              2
+green      roger          9000     175500              2
+howard     jerry          1000      65000              1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+L_NAME     F_NAME     MAR_STATUS
+---------- ---------- ----------
+<group_begin>
+clark      dinah               3
+crinar     jessica             2
+howard     jerry               1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+(EXPR)     (EXPR)     (EXPR)  
+---------- ---------- --------
+crinar     jessica    double  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+(EXPR)
+--------
+<group_begin>
+double  
+double  
+double  
+double  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s4
+
+(EXPR)
+----------
+<group_begin>
+crinar    
+crinar    
+crinar    
+crinar    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s5
+
+(EXPR)
+----------
+<group_begin>
+crinar    
+crinar    
+crinar    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a09s6
+
+(EXPR)     (EXPR) 
+---------- -------
+crinar     double 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s7
+
+(EXPR)
+-------
+<group_begin>
+double 
+double 
+double 
+double 
+double 
+double 
+double 
+double 
+double 
+double 
+double 
+double 
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s8
+
+(EXPR)
+--------
+double  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s9
+
+LAST_NAME  FIRST_NAME (EXPR)     (EXPR)  
+---------- ---------- ---------- --------
+<group_begin>
+clark      dinah      admin dept double  
+crinar     jessica    other dept double  
+howard     jerry      other dept double  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

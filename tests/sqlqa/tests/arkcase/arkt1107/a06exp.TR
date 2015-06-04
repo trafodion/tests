@@ -1,0 +1,228 @@
+<section_begin>  a06s0
+
+CHAR5_N20
+---------
+<group_begin>
+AAAAAAAA 
+AAAAAAAA 
+ACAAAAAA 
+CBAAAAAA 
+CCAAAAAA 
+DAAAAAAA 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+N1                   C2   C3   C4      
+-------------------- ---- ---- --------
+<group_begin>
+               -4344 AA   BA   BA      
+               -3552 BA   AA   AA      
+               -2389 BA   AA   AA      
+               -2789 DA   EA   NULL    
+                NULL NULL BA   BA      
+                NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+(EXPR) (EXPR) (EXPR)   (EXPR)  
+------ ------ -------- --------
+DA     EA     AA       DA      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+(EXPR)
+------
+BA    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+(EXPR)
+--------
+DAAAAAAA
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+a1         b1          c1    d1  
+a2         b2          c2    d2  
+a3         b3          c3    d3  
+a4         b4          c4    d4  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+a1         X3          c1    d1  
+a2         X3          c2    d2  
+a3         X3          c3    d3  
+a4         b4          c4    d4  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+a1         X3          c1    d1  
+a2         X3          d2d4  d2  
+a3         X3          d2d4  d3  
+a4         b4          d2d4  d4  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+(EXPR)
+------
+AA    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+a1         b1          ZA AA d1  
+a2         b2          ZA AA d2  
+a3         b3          ZA AA d3  
+a4         b4          ZA AA d4  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+(EXPR)
+------
+BA    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s12
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+a1         AA BA       ZA AA d1  
+a2         AA BA       ZA AA d2  
+a3         AA BA       ZA AA d3  
+a4         AA BA       ZA AA d4  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s13
+
+(EXPR)
+------
+d1    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s14
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+a1         b1          c1    d1  
+a2         b2          c2    d1  
+a3         b3          c3    d3  
+a4         b4          c4    d4  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s15
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+DA         change6     NULL  AA  
+DA         change6     NULL  AA  
+DA         change6     NULL  AA  
+DA         change6     NULL  AA  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s18
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+BA         11 varchar  BA    3 v 
+BA         11 varchar  BA    3 v 
+BA         11 varchar  AA    3 v 
+BA         11 varchar  AA    3 v 
+BA         11 varchar  NULL  3 v 
+BA         11 varchar  BA    3 v 
+BA         11 varchar  AA    3 v 
+BA         11 varchar  AA    3 v 
+DA         11 varchar  NULL  3 v 
+DA         11 varchar  DA    3 v 
+NULL       11 varchar  DA    3 v 
+NULL       11 varchar  BA    3 v 
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a06s22
+
+VC9        VC7         VC5   VC3 
+---------- ----------- ----- ----
+<group_begin>
+NULL       11 varchar  BA    3 v 
+NULL       11 varchar  AA    3 v 
+NULL       11 varchar  AA    3 v 
+NULL       11 varchar  DA    3 v 
+NULL       11 varchar  BA    3 v 
+NULL       11 varchar  BA    3 v 
+NULL       11 varchar  NULL  3 v 
+NULL       11 varchar  AA    3 v 
+NULL       11 varchar  AA    3 v 
+NULL       11 varchar  DA    3 v 
+NULL       11 varchar  NULL  3 v 
+NULL       11 varchar  BA    3 v 
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>

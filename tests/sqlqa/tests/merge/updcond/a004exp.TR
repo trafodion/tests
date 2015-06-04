@@ -1,0 +1,234 @@
+<section_begin>  v01
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3          -3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v01a
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v02
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3          -3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v02a
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v03
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1          -1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v03a
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v04
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1          -1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v04a
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v05
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1          -1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v05a
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v06
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1          -1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v06a
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v07
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3          -3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v08
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v09
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3          -3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v10
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v11
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  v12
+
+A1          B1          A_INT1      A_INT2      A_CHA1     A_CHA2    
+----------- ----------- ----------- ----------- ---------- ----------
+          1           1           1           1 aaa        aaaaa     
+          2           2           2           2 bbb        bbbbb     
+          3           3           3           3 ccc        ccccc     
+          4           4           4           4 ddd        ddddd     
+          5           5        NULL        NULL NULL       NULL      
+
+--- 5 row(s) selected.
+
+<section_end>

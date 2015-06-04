@@ -1,0 +1,21 @@
+<section_begin>  a512s0
+
+(EXPR)
+--------------------
+CALM                
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a512s1
+
+CITY            (EXPR)              
+--------------- --------------------
+<group_begin>
+Vienna                             2
+Deale                              3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

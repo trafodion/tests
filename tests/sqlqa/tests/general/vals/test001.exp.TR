@@ -1,0 +1,54 @@
+<section_begin>  test001a
+
+(EXPR) (EXPR)                                                                
+------ ----------------------------------------------------------------------
+string This is a string as long as I can successfully concentrate on one line
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test001b
+
+(EXPR)   (EXPR)        (EXPR)       (EXPR)       
+-------- ------------- ------------ -------------
+  -32768   -2147483648   4294967295   -4294967295
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test001c
+
+(EXPR)       (EXPR)                   (EXPR)              
+------------ ------------------------ --------------------
+ -12345.6789               31529.4646          615559.4955
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test001d
+
+(EXPR)   (EXPR)             
+-------- -------------------
+00:30:15 2000-01-01 00:00:00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test001e
+
+(EXPR)     (EXPR)     (EXPR)    
+---------- ---------- ----------
+1999-12-31 1999-12-31 1999-12-31
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test001f
+
+(EXPR)
+------------------
+364 23:59:59.9999 
+
+--- 1 row(s) selected.
+
+<section_end>

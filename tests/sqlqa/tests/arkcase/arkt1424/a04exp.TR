@@ -1,0 +1,117 @@
+<section_begin>  a04s0
+
+COL_FIX1             COL_VAR2             COL_VAR3                                 COL_FIX4   COL_VAR5             COL_FIX6 COL_FIX7             COL_VAR8             COL_FIX9 COL_VAR10                     
+-------------------- -------------------- ---------------------------------------- ---------- -------------------- -------- -------------------- -------------------- -------- ------------------------------
+<group_begin>
+CINDY                Waynes World         NULL                                     1996-02-25 Reprise              01:35:00                  140 Soundtrack               2000 Sunnyvale                     
+KAREN                Ropin the Wind       Brooks                                   1985-03-20 Liberty              04:10:00                  120 Country                  1000 Cupertino                     
+SHELLY               Luck of the Draw     Jackson                                  1985-03-20 Capitol              02:10:00                  160 Rock                     3000 San Jose                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+COL_FIX1             COL_VAR2             COL_VAR3                                 COL_FIX4   COL_VAR5             COL_FIX6 COL_FIX7             COL_VAR8             COL_FIX9 COL_VAR10                     
+-------------------- -------------------- ---------------------------------------- ---------- -------------------- -------- -------------------- -------------------- -------- ------------------------------
+<group_begin>
+CINDY                Waynes World         NULL                                     1996-02-25 Reprise              01:35:00                  140 Soundtrack               2000 Sunnyvale                     
+KAREN                Ropin the Wind       Brooks                                   1985-03-20 Liberty              04:10:00                  120 Country                  1000 Cupertino                     
+SHELLY               Luck of the Draw     Jackson                                  1985-03-20 Capitol              02:10:00                  160 Rock                     3000 San Jose                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+COL_FIX1             COL_VAR2             COL_VAR3                                 COL_FIX4   COL_VAR5             COL_FIX6 COL_FIX7             COL_VAR8             COL_FIX9 COL_VAR10                     
+-------------------- -------------------- ---------------------------------------- ---------- -------------------- -------- -------------------- -------------------- -------- ------------------------------
+<group_begin>
+CINDY                Waynes World         NULL                                     1996-02-25 Reprise              01:35:00                  140 Soundtrack               2000 Sunnyvale                     
+KAREN                Ropin the Wind       Brooks                                   1985-03-20 Liberty              04:10:00                  120 Country                  1000 Cupertino                     
+SHELLY               Luck of the Draw     Jackson                                  1985-03-20 Capitol              02:10:00                  160 Rock                     3000 San Jose                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+COL_FIX1             COL_VAR2             COL_VAR3                                 COL_FIX4   COL_VAR5             COL_FIX6 COL_FIX7             COL_VAR8             COL_FIX9 COL_VAR10                     
+-------------------- -------------------- ---------------------------------------- ---------- -------------------- -------- -------------------- -------------------- -------- ------------------------------
+<group_begin>
+CINDY                Waynes World         NULL                                     1996-02-25 Reprise              01:35:00                  140 Soundtrack               2000 Sunnyvale                     
+KAREN                Ropin the Wind       Brooks                                   1985-03-20 Liberty              04:10:00                  120 Country                  1000 Cupertino                     
+SHELLY               Luck of the Draw     Jackson                                  1985-03-20 Capitol              02:10:00                  160 CHANGED VALUE            3000 San Jose                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+COL_FIX1             COL_VAR2             COL_VAR3                                 COL_FIX4   COL_VAR5             COL_FIX6 COL_FIX7             COL_VAR8             COL_FIX9 COL_VAR10                     
+-------------------- -------------------- ---------------------------------------- ---------- -------------------- -------- -------------------- -------------------- -------- ------------------------------
+<group_begin>
+CINDY                Waynes World         NULL                                     1996-02-25 Reprise              01:35:00                  140 Soundtrack               2000 Sunnyvale                     
+KAREN                Ropin the Wind       Brooks                                   1985-03-20 Liberty              04:10:00                  120 Country                  1000 Cupertino                     
+SHELLY               Luck of the Draw     Jackson                                  1985-03-20 Capitol              02:10:00                  160 Rock                     3000 San Jose                      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+COL_VAR1                       COL_FIX2    COL_VAR3             COL_FIX4                   COL_VAR5        COL_VAR6             COL_FIX7    COL_FIX8    COL_VAR9                       COL_FIX10  
+------------------------------ ----------- -------------------- -------------------------- --------------- -------------------- ----------- ----------- ------------------------------ -----------
+<group_begin>
+Saving Private Ryan                  10111 Tom Hanks            1985-03-20 12:12:12.120000 AMC20           BATTLE                       160        1203 Santa Clara                           3000
+Shakepear In Love                    30333 Gwyneth Paltrowl     1999-01-04 02:10:00.000000 AMC6            LIGHT COMEDY                 300        1234 San Jose                              4500
+Youve Got Mail                       20222 Tom Hanks            1998-02-10 11:11:11.110000 AMC16           COMDEY                       260        3402 Campbell                              5000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+COL_VAR1                       COL_FIX2    COL_VAR3             COL_FIX4                   COL_VAR5        COL_VAR6             COL_FIX7    COL_FIX8    COL_VAR9                       COL_FIX10  
+------------------------------ ----------- -------------------- -------------------------- --------------- -------------------- ----------- ----------- ------------------------------ -----------
+<group_begin>
+Saving Private Ryan                  10111 Tom Hanks            1985-03-20 12:12:12.120000 AMC20           BATTLE                       160        1203 NULL                               1000000
+Shakepear In Love                    30333 Gwyneth Paltrowl     1999-01-04 02:10:00.000000 AMC6            LIGHT COMEDY                 300        1234 NULL                               1000000
+Youve Got Mail                       20222 Tom Hanks            1998-02-10 11:11:11.110000 AMC16           COMDEY                       260        3402 NULL                               1000000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+COL_VAR1                       COL_FIX2    COL_VAR3             COL_FIX4                   COL_VAR5        COL_VAR6             COL_FIX7    COL_FIX8    COL_VAR9                       COL_FIX10  
+------------------------------ ----------- -------------------- -------------------------- --------------- -------------------- ----------- ----------- ------------------------------ -----------
+<group_begin>
+Saving Private Ryan                  10111 Tom Hanks            1985-03-20 12:12:12.120000 AMC20           BATTLE                       160        1203 CHANGE BACK FROM NULL              1000000
+Shakepear In Love                    30333 Gwyneth Paltrowl     1999-01-04 02:10:00.000000 AMC6            LIGHT COMEDY                 300        1234 CHANGE BACK FROM NULL              1000000
+Youve Got Mail                       20222 Tom Hanks            1998-02-10 11:11:11.110000 AMC16           COMDEY                       260        3402 CHANGE BACK FROM NULL              1000000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+COL_VAR1                       COL_FIX2    COL_VAR3             COL_FIX4                   COL_VAR5        COL_VAR6             COL_FIX7    COL_FIX8    COL_VAR9                       COL_FIX10  
+------------------------------ ----------- -------------------- -------------------------- --------------- -------------------- ----------- ----------- ------------------------------ -----------
+<group_begin>
+Saving Private Ryan                  10111 Tom Hanks            1985-03-20 12:12:12.120000 AMC20           BATTLE                       160        1203 Santa Clara                           3000
+Shakepear In Love                    30333 Gwyneth Paltrowl     1999-01-04 02:10:00.000000 AMC6            LIGHT COMEDY                 300        1234 San Jose                              4500
+Youve Got Mail                       20222 Tom Hanks            1998-02-10 11:11:11.110000 AMC16           COMDEY                       260        3402 Campbell                              5000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

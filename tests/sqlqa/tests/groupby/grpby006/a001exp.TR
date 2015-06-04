@@ -1,0 +1,35 @@
+<section_begin>  a01s2
+
+(EXPR)
+----------
+Programmer
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+(EXPR)
+-------------
+<group_begin>
+   37000.0000
+   39500.0000
+  175500.0000
+   65000.0000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+(EXPR)
+----------
+<group_begin>
+         3
+         1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

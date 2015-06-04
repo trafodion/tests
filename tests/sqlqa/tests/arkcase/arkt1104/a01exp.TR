@@ -1,0 +1,250 @@
+<section_begin>  a01s0
+
+(EXPR)               UDEC17_100
+-------------------- ----------
+<group_begin>
+AWAAAAAAAAAAAAAA             27
+BLAAAAAAAAAAAAAA             78
+CBAAAAAAAAAAAAAA             46
+CCAAAAAAAAAAAAAA             16
+CCAAAAAAAAAAAAAA             57
+DDAAAAAAAAAAAAAA             24
+DMAAAAAAAAAAAAAA             85
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+COUNT1 MIN1                 MAX1                 COUNT_DISTINCT
+------ -------------------- -------------------- --------------
+     7 AWAAAAAAAAAAAAAA     DMAAAAAAAAAAAAAA                  6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR)
+--------------------
+<group_begin>
+AWAAAAAAAAAAAAAA    
+BLAAAAAAAAAAAAAA    
+CBAAAAAAAAAAAAAA    
+CCAAAAAAAAAAAAAA    
+DDAAAAAAAAAAAAAA    
+DMAAAAAAAAAAAAAA    
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+CHAR_COUNT           CHAR_MIN             CHAR_MAX             CHAR_COUNT_D        
+-------------------- -------------------- -------------------- --------------------
+<group_begin>
+                   1 AWAAAAAAAAAAAAAA     AWAAAAAAAAAAAAAA                        1
+                   1 BLAAAAAAAAAAAAAA     BLAAAAAAAAAAAAAA                        1
+                   1 CBAAAAAAAAAAAAAA     CBAAAAAAAAAAAAAA                        1
+                   1 DDAAAAAAAAAAAAAA     DDAAAAAAAAAAAAAA                        1
+                   1 DMAAAAAAAAAAAAAA     DMAAAAAAAAAAAAAA                        1
+                   2 CCAAAAAAAAAAAAAA     CCAAAAAAAAAAAAAA                        1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+(EXPR) (EXPR) (EXPR)              
+------ ------ --------------------
+    16     85                    7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+(EXPR) (EXPR)      ISITONE             
+------ ----------- --------------------
+     7         333                    1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+(EXPR) (EXPR)               ISIT333    
+------ -------------------- -----------
+     7                  333           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+(EXPR) (EXPR)               ISIT333    
+------ -------------------- -----------
+     7                  333         1.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+(EXPR) (EXPR)      ISIT333    
+------ ----------- -----------
+     7         333         332
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+(EXPR)           UDEC17_100
+---------------- ----------
+<group_begin>
+AWAAAAAAAAAAAAAA         27
+BLAAAAAAAAAAAAAA         78
+CBAAAAAAAAAAAAAA         46
+CCAAAAAAAAAAAAAA         16
+CCAAAAAAAAAAAAAA         57
+DDAAAAAAAAAAAAAA         24
+DMAAAAAAAAAAAAAA         85
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+<group_begin>
+                   1                    1
+                   1                    1
+                   1                    1
+                   1                    1
+                   1                    1
+                   4                    4
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+(EXPR)
+----------------
+<group_begin>
+AWAAAAAAAAAAAAAA
+BLAAAAAAAAAAAAAA
+CBAAAAAAAAAAAAAA
+CCAAAAAAAAAAAAAA
+DDAAAAAAAAAAAAAA
+DMAAAAAAAAAAAAAA
+DMAAAAAAAAAAAAAA
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+(EXPR)
+----------------
+<group_begin>
+AWAAAAAAAAAAAAAA
+BLAAAAAAAAAAAAAA
+CBAAAAAAAAAAAAAA
+CCAAAAAAAAAAAAAA
+DDAAAAAAAAAAAAAA
+DMAAAAAAAAAAAAAA
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+(EXPR)
+----------------
+<group_begin>
+CBAAAAAAAAAAAAAA
+CCAAAAAAAAAAAAAA
+DDAAAAAAAAAAAAAA
+DMAAAAAAAAAAAAAA
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+<group_begin>
+                   1                    1
+                   1                    1
+                   1                    1
+                   4                    4
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+(EXPR)
+----------------
+<group_begin>
+CBAAAAAAAAAAAAAA
+CCAAAAAAAAAAAAAA
+DDAAAAAAAAAAAAAA
+DMAAAAAAAAAAAAAA
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+(EXPR)
+----------------
+<group_begin>
+CBAAAAAAAAAAAAAA
+CBAAAAAAAAAAAAAA
+CCAAAAAAAAAAAAAA
+CCAAAAAAAAAAAAAA
+DDAAAAAAAAAAAAAA
+DDAAAAAAAAAAAAAA
+DMAAAAAAAAAAAAAA
+DMAAAAAAAAAAAAAA
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s18
+
+(EXPR) (EXPR) (EXPR)              
+------ ------ --------------------
+    16     78                    6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s19
+
+(EXPR)
+----------------
+<group_begin>
+CBAAAAAAAAAAAAAA
+CCAAAAAAAAAAAAAA
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

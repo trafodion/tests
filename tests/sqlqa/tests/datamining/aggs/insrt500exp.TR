@@ -1,0 +1,27 @@
+<section_begin>  insrt500a
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insrt500b
+
+COUNTSTAR            SUMTOTAL             AVERAGE             
+-------------------- -------------------- --------------------
+                 500              1188361                 2376
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  insrt500c
+
+MAX_NUM MINIMUM
+------- -------
+   4994       4
+
+--- 1 row(s) selected.
+
+<section_end>

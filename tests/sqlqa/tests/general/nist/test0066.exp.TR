@@ -1,0 +1,24 @@
+<section_begin>  test0066a
+
+EMPNUM (EXPR)
+------ ------
+E2         10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0066b
+
+EMPNUM (EXPR)
+------ ------
+<group_begin>
+E1         10
+E2         10
+E3         10
+E4         10
+E5         10
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

@@ -1,0 +1,320 @@
+<section_begin>  a06s0
+
+CNO  CNAME                 
+---- ----------------------
+C11  INTRO TO CS           
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+CNO  CNAME                  CDESCP                    CRED        CLABFEE CDEPT
+---- ---------------------- ------------------------- ----------- ------- -----
+<group_begin>
+C11  INTRO TO CS            FOR ROOKIES                         3  100.00 CIS  
+C22  DATA STRUCTURES        VERY USEFUL                         3   50.00 CIS  
+C33  DISCREET MATHEMATICS   ABSOLUTELY NECESSARY                3    0.00 CIS  
+C44  DIGITAL CIRCUITS       AH HA!                              3    0.00 CIS  
+C55  COMPUTER ARCH.         VON NEUMANN'S MACH.                 3  100.00 CIS  
+C66  RELATIONAL DATABASES   THE ONLY WAY TO GO                  3  500.00 CIS  
+P11  EMPIRICISM             SEE IT-BELIEVE IT                   3  100.00 PHIL 
+P22  RATIONALISM            FOR CIS MAJORS                      3   50.00 PHIL 
+P33  EXISTENTIALISM         FOR CIS MAJORS                      3  200.00 PHIL 
+P44  SOLIPSISM              MY SELF AND I                       6    0.00 PHIL 
+T11  SCHOLASTICISM          FOR THE PIOUS                       3  150.00 THEO 
+T12  FUNDAMENTALISM         FOR THE CAREFREE                    3   90.00 THEO 
+T33  HEDONISM               FOR THE SANE                        3    0.00 THEO 
+T44  COMMUNISM              FOR THE GREEDY                      6  200.00 THEO 
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+CNAME
+----------------------
+<group_begin>
+EMPIRICISM            
+SCHOLASTICISM         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+CNAME                  CDESCP                   
+---------------------- -------------------------
+<group_begin>
+FUNDAMENTALISM         FOR THE CAREFREE         
+HEDONISM               FOR THE SANE             
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+CNAME
+----------------------
+<group_begin>
+DISCREET MATHEMATICS  
+SCHOLASTICISM         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+CNO  CDESCP                   
+---- -------------------------
+<group_begin>
+C44  AH HA!                   
+C55  VON NEUMANN'S MACH.      
+P11  SEE IT-BELIEVE IT        
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+CNAME                  CDEPT
+---------------------- -----
+<group_begin>
+EMPIRICISM             PHIL 
+RATIONALISM            PHIL 
+EXISTENTIALISM         PHIL 
+SOLIPSISM              PHIL 
+SCHOLASTICISM          THEO 
+FUNDAMENTALISM         THEO 
+HEDONISM               THEO 
+COMMUNISM              THEO 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+CNAME                  CDEPT
+---------------------- -----
+<group_begin>
+INTRO TO CS            CIS  
+DATA STRUCTURES        CIS  
+DISCREET MATHEMATICS   CIS  
+DIGITAL CIRCUITS       CIS  
+COMPUTER ARCH.         CIS  
+RELATIONAL DATABASES   CIS  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+CNAME
+----------------------
+<group_begin>
+DATA STRUCTURES       
+DISCREET MATHEMATICS  
+DIGITAL CIRCUITS      
+COMPUTER ARCH.        
+RELATIONAL DATABASES  
+RATIONALISM           
+SOLIPSISM             
+FUNDAMENTALISM        
+HEDONISM              
+COMMUNISM             
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+CNAME                  CDESCP                   
+---------------------- -------------------------
+<group_begin>
+FUNDAMENTALISM         FOR THE CAREFREE         
+HEDONISM               FOR THE SANE             
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s11
+
+CNAME
+----------------------
+<group_begin>
+INTRO TO CS           
+EMPIRICISM            
+EXISTENTIALISM        
+SCHOLASTICISM         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s12
+
+CNAME
+----------------------
+<group_begin>
+INTRO TO CS           
+EMPIRICISM            
+EXISTENTIALISM        
+SCHOLASTICISM         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s13
+
+CNAME
+----------------------
+<group_begin>
+INTRO TO CS           
+EMPIRICISM            
+EXISTENTIALISM        
+SCHOLASTICISM         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s14
+
+CNAME                  CDESCP                   
+---------------------- -------------------------
+<group_begin>
+COMPUTER ARCH.         VON NEUMANN'S MACH.      
+EMPIRICISM             SEE IT-BELIEVE IT        
+RATIONALISM            FOR CIS MAJORS           
+EXISTENTIALISM         FOR CIS MAJORS           
+SOLIPSISM              MY SELF AND I            
+SCHOLASTICISM          FOR THE PIOUS            
+FUNDAMENTALISM         FOR THE CAREFREE         
+HEDONISM               FOR THE SANE             
+COMMUNISM              FOR THE GREEDY           
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a06s15
+
+CNAME                  CDESCP                   
+---------------------- -------------------------
+<group_begin>
+COMPUTER ARCH.         VON NEUMANN'S MACH.      
+EMPIRICISM             SEE IT-BELIEVE IT        
+RATIONALISM            FOR CIS MAJORS           
+EXISTENTIALISM         FOR CIS MAJORS           
+SOLIPSISM              MY SELF AND I            
+SCHOLASTICISM          FOR THE PIOUS            
+FUNDAMENTALISM         FOR THE CAREFREE         
+HEDONISM               FOR THE SANE             
+COMMUNISM              FOR THE GREEDY           
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a06s16
+
+CNAME                  CDESCP                   
+---------------------- -------------------------
+<group_begin>
+COMPUTER ARCH.         VON NEUMANN'S MACH.      
+EMPIRICISM             SEE IT-BELIEVE IT        
+RATIONALISM            FOR CIS MAJORS           
+EXISTENTIALISM         FOR CIS MAJORS           
+SOLIPSISM              MY SELF AND I            
+SCHOLASTICISM          FOR THE PIOUS            
+FUNDAMENTALISM         FOR THE CAREFREE         
+HEDONISM               FOR THE SANE             
+COMMUNISM              FOR THE GREEDY           
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a06s17
+
+ENAME      ETITLE     ESALARY     DEPT
+---------- ---------- ----------- ----
+<group_begin>
+MARK       EVANGLIST2          52 THEO
+MATTHEW    EVANGLIST1          51 THEO
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s18
+
+ENAME      ETITLE     ESALARY     DEPT
+---------- ---------- ----------- ----
+<group_begin>
+LUKE       EVANGLIST3          53 THEO
+MARK       EVANGLIST2          52 THEO
+MATTHEW    EVANGLIST1          51 THEO
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s19
+
+ENAME      ETITLE    
+---------- ----------
+<group_begin>
+HANK KISS  JESTER    
+ARCHIMEDES LAB ASSIST
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s20
+
+DEPT
+----
+THEO
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s21
+
+ENAME
+----------
+<group_begin>
+ARCHIMEDES
+DA VINCI  
+EUCLID    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

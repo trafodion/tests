@@ -1,0 +1,101 @@
+<section_begin>  a01s0
+
+SBIN0_4     VARCHAR0_500 UBIN16_N10 SDEC16_UNIQ          CHAR16_N20 CHAR17_2
+----------- ------------ ---------- -------------------- ---------- --------
+<group_begin>
+          0 BDAAAAAA              8                 2028 AD         AAAAAAAA
+          1 ACAABAAA              3                 1993 BDAA       AAAAAAAA
+          1 BBA%FAAA              3                 3293 BD         BAAAAAAA
+          1 BBAABA_A              1                 3917 BBAA       BAAAAAAA
+          1 BBAADAAA              7                 2701 BCAA       AAAAAAAA
+          3 CAAAGAAA              1                 4151 BB         BAAAAAAA
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+SBIN0_4     VARCHAR0_500 UBIN16_N10 SDEC16_UNIQ          CHAR16_N20 CHAR17_2
+----------- ------------ ---------- -------------------- ---------- --------
+<group_begin>
+          0 BDAAAAAA              8                 2028 AD         AAAAAAAA
+          1 ACAABAAA              3                 1993 BDAA       AAAAAAAA
+          1 BBA%FAAA              3                 3293 BD         BAAAAAAA
+          1 BBAABA_A              1                 3917 BBAA       BAAAAAAA
+          3 CAAAGAAA              1                 4151 BB         BAAAAAAA
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+SBIN0_4     VARCHAR0_500
+----------- ------------
+<group_begin>
+          1 ACAABAAA    
+          1 BBA%FAAA    
+          1 BBAABA_A    
+          1 BBAADAAA    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+UBIN16_N10 SDEC16_UNIQ          CHAR16_N20
+---------- -------------------- ----------
+<group_begin>
+         1                 3917 BBAA      
+         3                 1993 BDAA      
+         3                 3293 BD        
+         7                 2701 BCAA      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+CHAR17_2
+--------
+<group_begin>
+AAAAAAAA
+BAAAAAAA
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+SBIN0_4     VARCHAR0_500
+----------- ------------
+<group_begin>
+          0 BDAAAAAA    
+          1 ACAABAAA    
+          1 BBA%FAAA    
+          1 BBAABA_A    
+          3 CAAAGAAA    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+A04         B04         A500        B500       
+----------- ----------- ----------- -----------
+<group_begin>
+          0           0 BDAAAAAA    BDAAAAAA   
+          1           1 ACAABAAA    ACAABAAA   
+          1           1 BBA%FAAA    BBA%FAAA   
+          3           3 CAAAGAAA    CAAAGAAA   
+       NULL           1 NULL        BBAABA_A   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

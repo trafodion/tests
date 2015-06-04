@@ -1,0 +1,231 @@
+<section_begin>  a02s0
+
+(EXPR)     CHAR0_AZ_UNIQ
+---------- -------------
+<group_begin>
+John Smith ebaaoaaa     
+John Smith cjaaoaaa     
+John Smith adaaiaaa     
+John Smith dkaafaaa     
+John Smith agaaaaaa     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+CHAR0_09_UNIQ (EXPR) CHAR0_AZ_UNIQ
+------------- ------ -------------
+<group_begin>
+00000150      Robe   ebaaoaaa     
+00001106      Robe   cjaaoaaa     
+00001265      Robe   adaaiaaa     
+00001382      Robe   dkaafaaa     
+00001421      Robe   agaaaaaa     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+CHAR0_09_UNIQ (EXPR) CHAR0_AZ_UNIQ
+------------- ------ -------------
+<group_begin>
+00000150             ebaaoaaa     
+00001106             cjaaoaaa     
+00001265             adaaiaaa     
+00001382             dkaafaaa     
+00001421             agaaaaaa     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+CHAR0_09_UNIQ (EXPR)
+------------- ------
+<group_begin>
+00000150      h     
+00001106      h     
+00001265      h     
+00001382      h     
+00001421      h     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+CHAR0_09_UNIQ (EXPR)    
+------------- ----------
+<group_begin>
+00000150      John Smith
+00001106      John Smith
+00001265      John Smith
+00001382      John Smith
+00001421      John Smith
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)     CHAR0_AZ_UNIQ
+---------- -------------
+<group_begin>
+         6 ebaaoaaa     
+         6 cjaaoaaa     
+         6 adaaiaaa     
+         6 dkaafaaa     
+         6 agaaaaaa     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+(EXPR)     CHAR0_AZ_UNIQ
+---------- -------------
+<group_begin>
+         1 ebaaoaaa     
+         1 cjaaoaaa     
+         1 adaaiaaa     
+         1 dkaafaaa     
+         1 agaaaaaa     
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+(EXPR)     (EXPR)          
+---------- ----------------
+<group_begin>
+aaoaaa     [.ebaaoaaa      
+aaoaaa     .!cjaaoaaa      
+aaiaaa     r;adaaiaaa      
+aafaaa     1%dkaafaaa      
+aaaaaa     X*agaaaaaa      
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+(EXPR)            (EXPR)     CHAR0_09_UNIQ (EXPR)    
+----------------- ---------- ------------- ----------
+<group_begin>
+e                          4 00000150               1
+e                          4 00001106               1
+e                          4 00001265               1
+e                          4 00001382               1
+e                          4 00001421               1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+(EXPR)
+----------
+<group_begin>
+0150ebaaoa
+aaaaBAAAAA
+1106cjaaoa
+aaaaCAAAAA
+1265adaaia
+1382dkaafa
+1421agaaaa
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a02s12
+
+(EXPR)
+----------------
+<group_begin>
+00001421agaaaaaa
+baaaaaaaCA      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+(EXPR)
+------------
+LAAA00001265
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s14
+
+(EXPR)
+------------
+<group_begin>
+QAAA00000150
+QAAA00001106
+PAAA00001421
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s15
+
+(EXPR)
+------------
+<group_begin>
+QAAA00000150
+QAAA00001106
+LAAA00001265
+CAAA00001382
+PAAA00001421
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s16
+
+CHAR0_09_UNIQ (EXPR)    
+------------- ----------
+<group_begin>
+00000150      John Smith
+00001106      John Smith
+00001265      John Smith
+00001382      John Smith
+00001421      John Smith
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s17
+
+CHAR0_09_UNIQ (EXPR)
+------------- ------
+<group_begin>
+00000150            
+00001106            
+00001265            
+00001382            
+00001421            
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

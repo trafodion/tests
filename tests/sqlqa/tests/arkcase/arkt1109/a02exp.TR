@@ -1,0 +1,42 @@
+<section_begin>  a02s0
+
+REGNULLIFY
+----------
+<group_begin>
+bcdef     
+bcdey     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s26
+
+VC7     VC3 
+------- ----
+<group_begin>
+bcdef   jkz 
+bcdef   jkl 
+bcdey   jkl 
+bcdey   jkz 
+efghi   jkl 
+efghi   jkz 
+efghz   jkz 
+efghz   jkl 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a02s29
+
+VC9       VC7     VC5   VC3 
+--------- ------- ----- ----
+<group_begin>
+abcd      bcdef   efghi jkl 
+abcx      bcdey   efghz jkz 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

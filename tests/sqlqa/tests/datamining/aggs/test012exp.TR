@@ -1,0 +1,36 @@
+<section_begin>  test012a
+
+PVarWtDis
+------------------------
+       2158440.553823647
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test012b
+
+PStDevWtDis
+------------------------
+      1469.1632155154332
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test012c
+
+PVarWtAll                PVarWt                  
+------------------------ ------------------------
+      2368804.8516797605       2368804.8516797605
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test012d
+
+PStDevWtAll              PStDevWt                
+------------------------ ------------------------
+        1539.09221675628         1539.09221675628
+
+--- 1 row(s) selected.
+
+<section_end>

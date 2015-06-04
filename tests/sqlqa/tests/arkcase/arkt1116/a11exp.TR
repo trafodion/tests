@@ -1,0 +1,218 @@
+<section_begin>  a11s0
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+ANANDHI       RAMASWAMY       PROGRAMMER      FEMALE  
+BHAVESH       MEHTA           ENGINEER        MALE    
+Kathy         Baxter          secretary       female  
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+YUGAL         AGGARWAL        SYSADMIN        MALE    
+shanti        aradhyula       salesrep        female  
+steve         martin          director        male    
+sulu          kapoor          manager         female  
+NULL          HAUSMANN        PROGRAMMER      MALE    
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a11s1
+
+FIRST_NAME    LAST_NAME       SALARY      DEPT_NUM    STR 
+------------- --------------- ----------- ----------- ----
+<group_begin>
+ANANDHI       RAMASWAMY             50000          13 E   
+BHAVESH       MEHTA                 50000          14 C   
+Kathy         Baxter                36000          15 F   
+MARIA         JOYCE                 40000          16 I   
+YUGAL         AGGARWAL              80000          14 D   
+shanti        aradhyula             60000          12 A   
+steve         martin               120000          13 H   
+sulu          kapoor                90000          13 B   
+NULL          HAUSMANN              52000          14 J   
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a11s2
+
+PERSON          AGE        
+--------------- -----------
+<group_begin>
+JoHn                     45
+KAtHy                    35
+Maria                    30
+batlin                   25
+steVE                    55
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+(EXPR)          (EXPR)        (EXPR)          (EXPR)  
+--------------- ------------- --------------- --------
+baxter          kathy         secretary       female  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s4
+
+(EXPR)          (EXPR)        (EXPR)          (EXPR)  
+--------------- ------------- --------------- --------
+baxter          kathy         secretary       female  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+(EXPR)
+---------------
+<group_begin>
+aradhyula      
+kapoor         
+mehta          
+aggarwal       
+ramaswamy      
+baxter         
+martin         
+joyce          
+hausmann       
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a11s6
+
+PERSON          AGE        
+--------------- -----------
+<group_begin>
+JoHn                     45
+KAtHy                    35
+Maria                    30
+batlin                   25
+steVE                    55
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s7
+
+PERSON          AGE        
+--------------- -----------
+<group_begin>
+JoHn                     45
+KAtHy                    35
+steVE                    55
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a11s8
+
+(EXPR)
+---------------
+<group_begin>
+batlin         
+john           
+kathy          
+maria          
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a11s9
+
+(EXPR)
+---------------
+<group_begin>
+batlin         
+kathy          
+john           
+steve          
+maria          
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a11s10
+
+(EXPR)          (EXPR)        (EXPR)          (EXPR)  
+--------------- ------------- --------------- --------
+<group_begin>
+aradhyula       shanti        salesrep        female  
+kapoor          sulu          manager         female  
+mehta           bhavesh       engineer        male    
+aggarwal        yugal         sysadmin        male    
+ramaswamy       anandhi       programmer      female  
+baxter          kathy         secretary       female  
+martin          steve         director        male    
+joyce           maria         hairdresser     female  
+hausmann        NULL          programmer      male    
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a11s11
+
+(EXPR)          (EXPR)        (EXPR)         
+--------------- ------------- ---------------
+martin          steve         director       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s12
+
+(EXPR)
+---------------
+<group_begin>
+baxter         
+joyce          
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a11s13
+
+FIRST_NAME    LAST_NAME       SALARY      DEPT_NUM    STR 
+------------- --------------- ----------- ----------- ----
+<group_begin>
+ANANDHI       RAMASWAMY             50000          13 E   
+BHAVESH       MEHTA                 50000          14 C   
+Kathy         Baxter                36000          15 F   
+MARIA         JOYCE                 40000          16 I   
+YUGAL         AGGARWAL              80000          14 D   
+shanti        aradhyula             60000          12 A   
+steve         martin               120000          13 H   
+sulu          kapoor                90000          13 B   
+NULL          HAUSMANN              52000          14 J   
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a11s14
+
+(EXPR)          (EXPR)          (EXPR)   SALARY     
+--------------- --------------- -------- -----------
+<group_begin>
+mehta           engineer        male           50000
+aggarwal        sysadmin        male           80000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

@@ -1,0 +1,72 @@
+<section_begin>  a12s3
+
+INT_COL     LARGEINT_COL         REAL_COL        DOUBLE_COL              
+----------- -------------------- --------------- ------------------------
+-123456.789          -123456.789      -123456.79              -123456.789
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s4
+
+INT_COL     LARGEINT_COL         REAL_COL        DOUBLE_COL              
+----------- -------------------- --------------- ------------------------
+-123456.789          -123456.789      -123456.79              -123456.789
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s5
+
+(EXPR)
+--------------------
+         -120244.689
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s6
+
+INT_COL     LARGEINT_COL         REAL_COL        DOUBLE_COL              
+----------- -------------------- --------------- ------------------------
+-214748.364          -214748.364      -214748.36              -214748.364
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s7
+
+INT_COL     LARGEINT_COL         REAL_COL        DOUBLE_COL              
+----------- -------------------- --------------- ------------------------
+-214748.364          -214748.364      -214748.36              -214748.364
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s8
+
+(EXPR)
+--------------------
+          127894.700
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s9
+
+INT_COL     LARGEINT_COL         REAL_COL        DOUBLE_COL              
+----------- -------------------- --------------- ------------------------
+      1.000                1.000             1.0                      1.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s10
+
+INT_COL     LARGEINT_COL         REAL_COL        DOUBLE_COL              
+----------- -------------------- --------------- ------------------------
+      1.000                1.000             1.0                      1.0
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,27 @@
+<section_begin>  s02
+
+SK                   V1      N2     C3   N4          C5   N6      V7    N8    
+-------------------- ------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+                   1 a            1 a           0.90 NULL    NULL NULL       0
+                   2 cc           2 cc          2.00 cc       2.0 cc         2
+                   3 abcdefg      3 cc          0.09 alph     2.0 cc         1
+                   4 b            4 c     1234567.89 e     1234.5 c      12345
+                   5 abcdefg      5 cc          0.09 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s04
+
+SK                   V1      N2     C3   N4          C5   N6      V7    N8    
+-------------------- ------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+                  10 bambi       32 CHA         9.90 chin     5.2 chooo     -6
+                  11 thumper     34 cha         8.90 CHIN     5.1 chugg     -4
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

@@ -1,0 +1,235 @@
+<section_begin>  a06s0
+
+EMPNAME
+------------------
+<group_begin>
+ROGER GREEN       
+JERRY HOWARD      
+JACK RAYMOND      
+THOMAS RUDLOFF    
+KLAUS SAFFERT     
+PAUL WINTER       
+SUSAN HENDERSON   
+GLENN THOMAS      
+TIM WALKER        
+ERIC BROWN        
+PETER SMITH       
+DONALD TAYLOR     
+DAVID STRAND      
+STEVE COOK        
+SHERRIE WONG      
+TONY CRAFT        
+LINDA JONES       
+MANFRED CONRAD    
+JONATHAN MITCHEL  
+JULIA KELLY       
+WALTER LANCASTER  
+GEORGE FRENCHMAN  
+JOHANN HUBER      
+OTTO SCHNABL      
+MARTIN SCHAEFER   
+KARL HELMSTED     
+PETE WELLINGTON   
+GEORGE STRICKER   
+HERB ALBERT       
+BILL WINN         
+DAVE CLARK        
+ALAN TERRY        
+<group_end>
+
+--- 32 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+PARTNAME
+------------------
+CABINET LARGE     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+EMPNAME
+------------------
+<group_begin>
+ROGER GREEN       
+PAUL WINTER       
+GLENN THOMAS      
+ERIC BROWN        
+DAVID STRAND      
+SHERRIE WONG      
+JULIA KELLY       
+ALAN TERRY        
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+               40875               327000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+               42125               327000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+EMPNAME
+------------------
+<group_begin>
+ROGER GREEN       
+JERRY HOWARD      
+JACK RAYMOND      
+THOMAS RUDLOFF    
+KLAUS SAFFERT     
+PAUL WINTER       
+SUSAN HENDERSON   
+GLENN THOMAS      
+TIM WALKER        
+ERIC BROWN        
+PETER SMITH       
+DONALD TAYLOR     
+DAVID STRAND      
+STEVE COOK        
+SHERRIE WONG      
+TONY CRAFT        
+LINDA JONES       
+MANFRED CONRAD    
+TOM HALL          
+GEORGE FORSTER    
+RICHARD BARTON    
+JIMMY SCHNEIDER   
+JONATHAN MITCHEL  
+ROBERT WHITE      
+JULIA KELLY       
+WALTER LANCASTER  
+JOHN JONES        
+GEORGE FRENCHMAN  
+DAVID TERRY       
+JOHANN HUBER      
+OTTO SCHNABL      
+MARTIN SCHAEFER   
+HERBERT KARAJAN   
+KARL HELMSTED     
+XAVER SEDLMEYER   
+PETE WELLINGTON   
+GEORGE STRICKER   
+HERB ALBERT       
+THOMAS SPINNER    
+TED MCDONNALDS    
+BILL WINN         
+DAVE CLARK        
+ALAN TERRY        
+<group_end>
+
+--- 43 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+EMPNAME
+------------------
+<group_begin>
+ROGER GREEN       
+PAUL WINTER       
+GLENN THOMAS      
+ERIC BROWN        
+DAVID STRAND      
+SHERRIE WONG      
+JULIA KELLY       
+ALAN TERRY        
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+PARTNAME           PRICE     
+------------------ ----------
+<group_begin>
+SYSTEM 192KB CORE    92000.00
+COBOL MICRO            500.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+SUPPNAME
+------------------
+<group_begin>
+TANDEM COMPUTERS  
+DATADRIVE         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+EMPNAME
+------------------
+<group_begin>
+RICHARD BARTON    
+HERBERT KARAJAN   
+TED MCDONNALDS    
+ROBERT WHITE      
+GEORGE FORSTER    
+THOMAS SPINNER    
+JOHN JONES        
+XAVER SEDLMEYER   
+MANFRED CONRAD    
+JONATHAN MITCHEL  
+TIM WALKER        
+KARL HELMSTED     
+BILL WINN         
+PETE WELLINGTON   
+HERB ALBERT       
+DONALD TAYLOR     
+WALTER LANCASTER  
+JOHANN HUBER      
+OTTO SCHNABL      
+JERRY HOWARD      
+TONY CRAFT        
+PETER SMITH       
+DAVE CLARK        
+SUSAN HENDERSON   
+STEVE COOK        
+THOMAS RUDLOFF    
+LINDA JONES       
+SHERRIE WONG      
+PAUL WINTER       
+GLENN THOMAS      
+<group_end>
+
+--- 30 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+PARTNAME
+------------------
+<group_begin>
+SYSTEM 192KB CORE 
+SYSTEM 192KB SEMI 
+CABINET LARGE     
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

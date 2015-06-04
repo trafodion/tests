@@ -1,0 +1,463 @@
+<section_begin>  a02s1
+
+ORDERS      CH1  NUM1       
+----------- ---- -----------
+          1 a           NULL
+          2 b           NULL
+          3 c           NULL
+         11 k           1.01
+         12 l           NULL
+         13 m           2.02
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+ORDERS      CH1  NUM1        VCH1
+----------- ---- ----------- ----
+          1 a           NULL NULL
+          2 b           NULL NULL
+          3 c           NULL NULL
+         11 k           1.01 NULL
+         12 l           NULL NULL
+         13 m           2.02 NULL
+         15 o           3.03 A   
+         16 p           NULL NULL
+         17 p           4.04 NULL
+         18 NULL        NULL NULL
+         19 q           5.00 B   
+         20 r           6.00 C   
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+ORDERS      CH1  NUM1        VCH1
+----------- ---- ----------- ----
+         11 k           1.01 NULL
+         13 m           2.02 NULL
+         15 o           3.03 A   
+         17 p           4.04 NULL
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+ORDERS      CH1  NUM1        VCH1
+----------- ---- ----------- ----
+         13 m           2.02 NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+ORDERS      CH1  NUM1        VCH1
+----------- ---- ----------- ----
+         15 o           3.03 A   
+         19 q           5.00 B   
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+ORDERS      CH1  NUM1        VCH1
+----------- ---- ----------- ----
+         19 q           5.00 B   
+         20 r           6.00 C   
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+ORDERS      CH1  NUM1        VCH1
+----------- ---- ----------- ----
+         11 k           1.01 NULL
+         13 m           2.02 NULL
+         17 p           4.04 NULL
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+ORDERS      CH1  NUM1        VCH1
+----------- ---- ----------- ----
+         15 o           3.03 A   
+         19 q           5.00 B   
+         20 r           6.00 C   
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+NUM1        VCH1
+----------- ----
+       1.02 NULL
+       4.08 NULL
+       3.03 A   
+      16.32 NULL
+       5.00 B   
+       6.00 6   
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+ORDERS      NUM1        SMA1  VCH2                                                                                                                            
+----------- ----------- ----- --------------------------------------------------------------------------------------------------------------------------------
+          1        NULL  NULL NULL                                                                                                                            
+          2        NULL  NULL NULL                                                                                                                            
+          3        NULL  NULL NULL                                                                                                                            
+         11        1.02  NULL NULL                                                                                                                            
+         12        NULL  NULL NULL                                                                                                                            
+         13        4.08  NULL NULL                                                                                                                            
+         15        3.03  NULL NULL                                                                                                                            
+         16        NULL  NULL NULL                                                                                                                            
+         17       16.32  NULL NULL                                                                                                                            
+         18        NULL  NULL NULL                                                                                                                            
+         19        5.00  NULL NULL                                                                                                                            
+         20        6.00  NULL NULL                                                                                                                            
+         51        NULL    21 NULL                                                                                                                            
+         52        5.01    22 NULL                                                                                                                            
+         61        NULL  NULL character varying(255)                                                                                                          
+         62        5.02    23 variable length column                                                                                                          
+         63        5.03    99 variable length column vch2                                                                                                     
+
+--- 17 row(s) selected.
+
+<section_end>
+<section_begin>  a02s12
+
+ORDERS      CH1  NUM1        VCH1 SMA1  VCH2                                                                                                                             INT1       VCH3
+----------- ---- ----------- ---- ----- -------------------------------------------------------------------------------------------------------------------------------- ---------- ----
+          1 a           NULL NULL  NULL NULL                                                                                                                                   NULL NULL
+          2 b           NULL NULL  NULL NULL                                                                                                                                   NULL NULL
+          3 c           NULL NULL  NULL NULL                                                                                                                                   NULL NULL
+         11 k           1.02 NULL  NULL NULL                                                                                                                                   NULL CD  
+         12 l           NULL NULL  NULL NULL                                                                                                                                   NULL NULL
+         13 m           4.08 NULL  NULL NULL                                                                                                                                   NULL NULL
+         15 o           3.03 A     NULL NULL                                                                                                                                   NULL NULL
+         16 p           NULL NULL  NULL NULL                                                                                                                                   NULL NULL
+         17 p          16.32 NULL  NULL NULL                                                                                                                                   NULL NULL
+         18 NULL        NULL NULL  NULL NULL                                                                                                                                   NULL NULL
+         19 q           5.00 B     NULL NULL                                                                                                                                   NULL NULL
+         20 r           6.00 6     NULL NULL                                                                                                                                   NULL NULL
+         51 NULL        NULL NULL    21 NULL                                                                                                                                   NULL NULL
+         52 S           5.01 D       22 NULL                                                                                                                                   NULL NULL
+         61 NULL        NULL NULL  NULL character varying(255)                                                                                                                 NULL NULL
+         62 V           5.02 E       23 variable length column                                                                                                                 NULL NULL
+         63 NULL        5.03 NULL    99 variable length column vch2                                                                                                            NULL NULL
+         71 I           7.02 F      700 VARCHAR                                                                                                                                 100 NULL
+         72 NULL        NULL NULL  NULL NULL                                                                                                                                    200 NULL
+         73 NULL        NULL NULL  NULL VCH2                                                                                                                                    300 NULL
+         74 NULL        NULL 2       72 NULL                                                                                                                                    400 NULL
+         81 NULL        8.08 NULL    81 NULL                                                                                                                                     81 NULL
+         82 NULL        NULL NULL  NULL NULL                                                                                                                                   NULL AB  
+         83 8           NULL 8     NULL vch1_83                                                                                                                                NULL 83  
+         84 8           8.23 8       84 Bill and Joe ran softly near one of the hill. Some birds sprinted over Madelyn! Racoons and cats and blue birds. Oh My! Violet and Fred rushed sadly towards some door! Genelle and Janine split steadily across one of the string???         84 83  
+
+--- 25 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+ORDERS      VCH2                                                                                                                             INT1      
+----------- -------------------------------------------------------------------------------------------------------------------------------- ----------
+         74 NULL                                                                                                                                    400
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s14
+
+ORDERS      VCH2                                                                                                                             INT1      
+----------- -------------------------------------------------------------------------------------------------------------------------------- ----------
+         91 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE007P6RRT Mom sprinted beneath those worms??? A few horses got out beside Derek??? Those dogs ambled across dad??? An American and Ben leaped neatly over those string???          91
+         92 NULL                                                                                                                                   NULL
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s15
+
+ORDERS      VCH3
+----------- ----
+         91 91  
+         92 NULL
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s16
+
+ORDERS      INT1       SMA1  VCH1 VCH2                                                                                                                             VCH3
+----------- ---------- ----- ---- -------------------------------------------------------------------------------------------------------------------------------- ----
+         82       NULL  NULL NULL NULL                                                                                                                             AB  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s18
+
+(EXPR)               (EXPR)               (EXPR)     
+-------------------- -------------------- -----------
+                6.38               722078  1234567.89
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s21
+
+ORDERS      NUM1        SMA1  DEC1       
+----------- ----------- ----- -----------
+          1        NULL 65535  1234567.89
+          3        NULL 65535  1234567.89
+         11        1.02 65535  1234567.89
+         12        NULL 65535  1234567.89
+         13        4.08 65535  1234567.89
+         15        3.03 65535  1234567.89
+         16        NULL 65535  1234567.89
+         17       16.32 65535  1234567.89
+         18        NULL 65535  1234567.89
+         19        5.00 65535  1234567.89
+         20        6.00  NULL        NULL
+         61        NULL  NULL        NULL
+         62        5.02    23        NULL
+         63        5.03    99        NULL
+         72        NULL  NULL        NULL
+         73        NULL  NULL        NULL
+         74        NULL    72        NULL
+         83        NULL  NULL        NULL
+         84        8.23    84        NULL
+         91        9.10    91        9.10
+
+--- 20 row(s) selected.
+
+<section_end>
+<section_begin>  a02s22
+
+ORDERS      VCH1 INT1       VCH3
+----------- ---- ---------- ----
+          1 NULL       NULL VV  
+          3 NULL       NULL VV  
+         11 NULL       NULL VV  
+         12 NULL       NULL VV  
+         13 NULL       NULL VV  
+         15 A          NULL VV  
+         16 NULL       NULL VV  
+         17 NULL       NULL VV  
+         18 NULL       NULL VV  
+         19 B          NULL VV  
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a02s23
+
+ORDERS      NUM10       VCH3 VCH11
+----------- ----------- ---- -----
+          1        7.20 VV   a    
+          3        7.20 VV   a    
+         11        7.20 VV   a    
+         12        7.20 VV   a    
+         13        7.20 VV   a    
+         15        7.20 VV   a    
+         16        7.20 VV   a    
+         17        7.20 VV   a    
+         18        7.20 VV   a    
+         19        7.20 VV   a    
+         20        7.20 NULL a    
+         61        7.20 NULL a    
+         62        7.20 NULL a    
+         63        7.20 NULL a    
+         72        7.20 NULL a    
+         73        7.20 NULL a    
+         74        7.20 NULL a    
+         83        7.20 83   a    
+         84        7.20 83   a    
+         91        7.20 91   a    
+        101        7.20 NULL a    
+        102        1.02 NULL a    
+        103      333.33 EE   a    
+        104        1.04 NULL 4    
+        106      106.00 66   a    
+
+--- 25 row(s) selected.
+
+<section_end>
+<section_begin>  a02s24
+
+ORDERS      CH1  NUM1        VCH1 SMA1  VCH2                                                                                                                             INT1       VCH3 DEC1        NUM10       VCH11
+----------- ---- ----------- ---- ----- -------------------------------------------------------------------------------------------------------------------------------- ---------- ---- ----------- ----------- -----
+        103 A           3.03 A      303 VCHAR_6                                                                                                                                3030 EE         33.03      333.33 a    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s25
+
+ORDERS      CH1  NUM1        VCH1 SMA1  VCH2                                                                                                                             INT1       VCH3 DEC1        NUM10       VCH11
+----------- ---- ----------- ---- ----- -------------------------------------------------------------------------------------------------------------------------------- ---------- ---- ----------- ----------- -----
+        102 A           NULL NULL  NULL VCH6                                                                                                                                   NULL NULL        NULL        1.02 a    
+        104 NULL        NULL NULL  NULL NULL                                                                                                                                   NULL NULL        NULL        1.04 4    
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s25a
+
+ORDERS      NUM10       VCH3 DEC1       
+----------- ----------- ---- -----------
+          1       17.30 NN    1234567.89
+          3       17.30 NN    1234567.89
+         11       17.30 NN    1234567.89
+         12       17.30 NN    1234567.89
+         13       17.30 NN    1234567.89
+         15       17.30 NN    1234567.89
+         16       17.30 NN    1234567.89
+         17       17.30 NN    1234567.89
+         18       17.30 NN    1234567.89
+         19       17.30 NN    1234567.89
+         91       17.30 NN          9.10
+        103      343.43 NN         33.03
+        106      116.10 NN         10.06
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a02s26
+
+ORDERS      VCH11 NUM1        SMA1  INT1       DEC1       
+----------- ----- ----------- ----- ---------- -----------
+          1 0            0.00     0          0        0.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s27
+
+ORDERS      VCH3 NUM10       VCH11 DEC1       
+----------- ---- ----------- ----- -----------
+          1 NN         17.30 0            0.00
+         91 NN         17.30 a            9.10
+        103 NN        343.43 a           33.03
+        106 NN        116.10 a           10.06
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s28
+
+ORDERS      VCH15 CH1 
+----------- ----- ----
+          1 zz    a   
+          3 zz    c   
+         11 zz    k   
+         12 zz    l   
+         13 zz    m   
+         15 zz    o   
+         16 zz    p   
+         17 zz    p   
+         18 zz    NULL
+         19 zz    q   
+         61 zz    NULL
+         62 zz    V   
+         63 zz    NULL
+         72 zz    NULL
+         73 zz    NULL
+         74 zz    NULL
+         83 zz    8   
+         84 zz    8   
+         91 zz    9   
+        101 zz    NULL
+        102 zz    A   
+        103 zz    A   
+        104 zz    NULL
+        106 zz    A   
+        112 zz    NULL
+        113 zz    NULL
+        114 zz    NULL
+        115 zz    A   
+        116 zz    NULL
+        120 CD    y   
+        121 zz    X   
+        123 zz    NULL
+
+--- 32 row(s) selected.
+
+<section_end>
+<section_begin>  a02s29
+
+ORDERS      NUM1        VCH3 SMA12  VCH15
+----------- ----------- ---- ------ -----
+         83        NULL 83       -1 zz   
+         84        8.23 83       -1 zz   
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s30
+
+ORDERS      INT1       SMA1  VCH11 VCH13                                                                                                                            VCH15
+----------- ---------- ----- ----- -------------------------------------------------------------------------------------------------------------------------------- -----
+        121       NULL  NULL x     xxxxxxxxxx                                                                                                                       zz   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s31
+
+ORDERS      CH1  NUM1        VCH1 SMA1  VCH2                                                                                                                             INT1       VCH3 DEC1        NUM10       VCH11 SMA12  VCH13                                                                                                                            INT14       VCH15 DEC16      
+----------- ---- ----------- ---- ----- -------------------------------------------------------------------------------------------------------------------------------- ---------- ---- ----------- ----------- ----- ------ -------------------------------------------------------------------------------------------------------------------------------- ----------- ----- -----------
+        123 q           1.23 Q      123 Such book shall be kept at the principal office of the Corporation and shall be subject to the rights of inspection required by law as set forth in Section 2.9 of these Bylaws. The Administrator shall be responsible for maintaining such book.       NULL NULL        NULL        7.20 q         -1 Such book shall be kept at the principal office of the Corporation and shall be subject to the rights of inspection required by law as set forth in Section 2.9 of these Bylaws. The Administrator shall be responsible for maintaining such book.   123456789 CD     -9.9900000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s32
+
+ORDERS      NUM1        DEC1        INT1       VCH2                                                                                                                            
+----------- ----------- ----------- ---------- --------------------------------------------------------------------------------------------------------------------------------
+          1        0.00        0.00          0 VVCCHH2                                                                                                                         
+          3        NULL  1234567.89       NULL VVCCHH2                                                                                                                         
+         11        1.02  1234567.89       NULL VVCCHH2                                                                                                                         
+         12        NULL  1234567.89       NULL VVCCHH2                                                                                                                         
+         13        4.08  1234567.89       NULL VVCCHH2                                                                                                                         
+         15        3.03  1234567.89       NULL VVCCHH2                                                                                                                         
+         16        NULL  1234567.89       NULL VVCCHH2                                                                                                                         
+         17       16.32  1234567.89       NULL VVCCHH2                                                                                                                         
+         18        NULL  1234567.89       NULL VVCCHH2                                                                                                                         
+         19        5.00  1234567.89       NULL VVCCHH2                                                                                                                         
+         62        5.02        NULL       NULL variable length column                                                                                                          
+         63        5.03        NULL       NULL variable length column vch2                                                                                                     
+         84        8.23        NULL         84 Bill and Joe ran softly near one of the hill. Some birds sprinted over Madelyn! Racoons and cats and blue birds. Oh My! Violet and Fred rushed sadly towards some door! Genelle and Janine split steadily across one of the string???
+         91        9.10        9.10         91 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE007P6RRT Mom sprinted beneath those worms??? A few horses got out beside Derek??? Those dogs ambled across dad??? An American and Ben leaped neatly over those string??? 
+        101        1.01        NULL       NULL NULL                                                                                                                            
+        102        NULL        NULL       NULL VCH6                                                                                                                            
+        103        3.03       33.03       3030 VCHAR_6                                                                                                                         
+        104        NULL        NULL       NULL NULL                                                                                                                            
+        106        1.06       10.06       1060 VVV_VVV                                                                                                                         
+        112        NULL        NULL       NULL NULL                                                                                                                            
+        113        NULL        NULL       NULL NULL                                                                                                                            
+        114        NULL        NULL       1140 NULL                                                                                                                            
+        115        7.02        9.02        100 VARCHAR                                                                                                                         
+        116        NULL        NULL        116 NULL                                                                                                                            
+        120        NULL        NULL       NULL NULL                                                                                                                            
+        121        NULL        NULL       NULL vch2_varchar255                                                                                                                 
+        123        1.23        NULL       NULL Such book shall be kept at the principal office of the Corporation and shall be subject to the rights of inspection required by law as set forth in Section 2.9 of these Bylaws. The Administrator shall be responsible for maintaining such book.
+        124       12.40        1.24       1240 VCH6_COL16                                                                                                                      
+        125        NULL        NULL       NULL NULL                                                                                                                            
+        127        NULL       12.70       NULL NULL                                                                                                                            
+        128        NULL       12.80       1128 NULL                                                                                                                            
+
+--- 31 row(s) selected.
+
+<section_end>

@@ -1,0 +1,142 @@
+<section_begin>  a03s0
+
+D_OF_W      Y_TO_D    
+----------- ----------
+<group_begin>
+          7 1989-02-04
+          1 1989-02-05
+          2 1989-02-06
+          3 1989-02-07
+          4 1989-02-08
+          5 1989-02-09
+          6 1989-02-10
+          4 1990-02-28
+          5 1990-03-01
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+D_OF_W      Y_TO_D    
+----------- ----------
+<group_begin>
+          5 1990-09-06
+          1 1989-02-05
+          5 1990-10-25
+          5 1990-09-06
+          4 1989-02-08
+          5 1989-02-09
+          6 1989-02-10
+          4 1990-02-28
+          5 1990-03-01
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+D_OF_W      Y_TO_D    
+----------- ----------
+<group_begin>
+          4 1989-02-08
+          6 1989-02-10
+          4 1990-02-28
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+(EXPR) D_OF_W      Y_TO_D    
+------ ----------- ----------
+<group_begin>
+     6           6 1989-02-10
+     4           4 1989-02-08
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+(EXPR) D_OF_W      Y_TO_D    
+------ ----------- ----------
+     4           4 1990-02-28
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+(EXPR) D_OF_W      Y_TO_D     (EXPR) (EXPR)
+------ ----------- ---------- ------ ------
+<group_begin>
+     4           4 1989-02-08      5      4
+     6           6 1989-02-10      7      6
+     4           4 1990-02-28      5      4
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+(EXPR) D_OF_W      Y_TO_D     (EXPR) (EXPR)
+------ ----------- ---------- ------ ------
+<group_begin>
+     4           4 1989-02-08      3      4
+     6           6 1989-02-10      5      6
+     4           4 1990-02-28      3      4
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+(EXPR) D_OF_W      Y_TO_D    
+------ ----------- ----------
+<group_begin>
+     4           4 1989-02-08
+     6           6 1989-02-10
+     4           4 1990-02-28
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+(EXPR) D_OF_W      Y_TO_D    
+------ ----------- ----------
+<group_begin>
+     4           4 1989-02-08
+     6           6 1989-02-10
+     4           4 1990-02-28
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+(EXPR) D_OF_W      Y_TO_D    
+------ ----------- ----------
+     6           6 1989-02-10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+(EXPR) D_OF_W      Y_TO_D    
+------ ----------- ----------
+     6           6 1989-02-10
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,36 @@
+<section_begin>  test014a
+
+VarMinInt                StDMinint               
+------------------------ ------------------------
+    4.560444849918695E17       6.75310658135846E8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test014b
+
+VarMaxInt                StDMaxint               
+------------------------ ------------------------
+   4.5604448456714528E17      6.753106578213803E8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test014c
+
+VarMinSmall              StDMinSmall             
+------------------------ ------------------------
+    1.0585686588797984E8       10288.676585838426
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test014d
+
+VarMaxSmall              StDMaxSmall             
+------------------------ ------------------------
+    1.0585039511151524E8       10288.362119964248
+
+--- 1 row(s) selected.
+
+<section_end>

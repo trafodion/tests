@@ -1,0 +1,14 @@
+<section_begin>  verify1
+
+*** ERROR[4041] Type DATE cannot be compared with type CHAR(10). *
+
+<section_end>
+<section_begin>  verify
+
+OUT1                                              
+--------------------------------------------------
+AAA Computers                                  
+
+--- SQL operation complete.
+
+<section_end>

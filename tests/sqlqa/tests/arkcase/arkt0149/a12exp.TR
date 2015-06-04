@@ -1,0 +1,196 @@
+<section_begin>  a12s0
+
+KEY1 A1   B1  
+---- ---- ----
+<group_begin>
+01   A    B   
+02   B    C   
+03   C    D   
+04   D    E   
+05   E    F   
+06   F    G   
+07   G    H   
+08   H    I   
+09   I    J   
+10   J    K   
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a12s1
+
+KEY2 A2   B2  
+---- ---- ----
+<group_begin>
+01   a    b   
+02   b    c   
+03   c    d   
+04   d    e   
+05   e    f   
+06   f    g   
+07   g    h   
+08   h    i   
+09   i    j   
+10   J    k   
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a12s2
+
+KEY1 KEY2 A1   B1   A2   B2  
+---- ---- ---- ---- ---- ----
+<group_begin>
+02   02   B    C    b    c   
+03   03   C    D    c    d   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a12s3
+
+KEY1 KEY2 A1   B1   A2   B2  
+---- ---- ---- ---- ---- ----
+<group_begin>
+02   02   B    C    b    c   
+03   03   C    D    c    d   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a12s4
+
+KEY1 KEY2 A1   B1   A2   B2  
+---- ---- ---- ---- ---- ----
+<group_begin>
+02   02   B    C    b    c   
+03   03   C    D    c    d   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a12s5
+
+KEY1 KEY2 A1   B1   A2   B2  
+---- ---- ---- ---- ---- ----
+<group_begin>
+02   02   B    C    b    c   
+03   03   C    D    c    d   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a12s6
+
+KEY1 KEY2 A1   B1   A2   B2  
+---- ---- ---- ---- ---- ----
+<group_begin>
+02   02   B    C    b    c   
+03   03   C    D    c    d   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a12s7
+
+KEY1 KEY2 A1   B1   A2   B2  
+---- ---- ---- ---- ---- ----
+<group_begin>
+02   02   B    C    b    c   
+03   03   C    D    c    d   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a12s8
+
+KEY1 KEY2 A1   B1   A2   B2  
+---- ---- ---- ---- ---- ----
+<group_begin>
+02   02   B    C    b    c   
+03   03   C    D    c    d   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a12s9
+
+KEY1 KEY2
+---- ----
+<group_begin>
+02   02  
+03   03  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a12s11
+
+KEY1 KEY2
+---- ----
+<group_begin>
+02   02  
+03   03  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a12s12
+
+KEY1 KEY2
+---- ----
+<group_begin>
+02   02  
+03   03  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a12s13
+
+VAR_CHAR_3
+----------
+<group_begin>
+AbC       
+rum       
+zy        
+zz        
+NULL      
+NULL      
+NULL      
+NULL      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a12s14
+
+VAR_CHAR_3 VAR_CHAR_3
+---------- ----------
+rum        rum       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a12s15
+
+VAR_CHAR_3 VAR_CHAR_3
+---------- ----------
+rum        rum       
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,130 @@
+<section_begin>  a03s0
+
+COL_FIX1    COL_FIX2 COL_FIX3 COL_VAR4            
+----------- -------- -------- --------------------
+<group_begin>
+         11    10000    12345 The first row       
+         22    20000    23456 The second row      
+         33    30000    34567 The third row       
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+COL_FIX1    COL_FIX2 COL_FIX3 COL_VAR4            
+----------- -------- -------- --------------------
+<group_begin>
+     100000     1234     NULL It is a Varchar(20) 
+     100000     1234     NULL It is a Varchar(20) 
+     100000     1234     NULL It is a Varchar(20) 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+COL_FIX1    COL_FIX2 COL_FIX3 COL_VAR4            
+----------- -------- -------- --------------------
+<group_begin>
+         11    10000    12345 The first row       
+         22    20000    23456 The second row      
+         33    30000    34567 The third row       
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+COL_FIX1    COL_FIX2 COL_FIX3 COL_VAR4            
+----------- -------- -------- --------------------
+<group_begin>
+         11    10000    12345 The first row       
+         22    20000    23456 The second row      
+         33    30000    34567 The third row       
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+COL_FIX1    COL_FIX2 COL_FIX3 COL_VAR4            
+----------- -------- -------- --------------------
+<group_begin>
+         11    10000    12345 The first row       
+         22    20000    23456 The second row      
+         33    30000    34567 CHANGED VALUE       
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+COL_FIX1    COL_FIX2 COL_FIX3 COL_VAR4            
+----------- -------- -------- --------------------
+<group_begin>
+         11    10000    12345 The first row       
+         22    20000    23456 The second row      
+         33    30000    34567 The third row       
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+COL_VAR1                       COL_VAR2                  COL_VAR3             COL_FIX4   
+------------------------------ ------------------------- -------------------- -----------
+<group_begin>
+INFORMIX                       ORACLE                    MICROSOFT                   1234
+SUN MICROSYSTEMS               SILICON GRAPHICS          HEWLETT PACKARD             3456
+WAL-MART                       LUCKY                     SAFEWAY                     4321
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+COL_VAR1                       COL_VAR2                  COL_VAR3             COL_FIX4   
+------------------------------ ------------------------- -------------------- -----------
+<group_begin>
+INFORMIX                       ORACLE                    The third varchar           1000
+SUN MICROSYSTEMS               SILICON GRAPHICS          The third varchar           1000
+WAL-MART                       LUCKY                     The third varchar           1000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+COL_VAR1                       COL_VAR2                  COL_VAR3             COL_FIX4   
+------------------------------ ------------------------- -------------------- -----------
+<group_begin>
+INFORMIX                       ORACLE                    NULL                        1000
+SUN MICROSYSTEMS               SILICON GRAPHICS          NULL                        1000
+WAL-MART                       LUCKY                     NULL                        1000
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+COL_VAR1                       COL_VAR2                  COL_VAR3             COL_FIX4   
+------------------------------ ------------------------- -------------------- -----------
+<group_begin>
+INFORMIX                       ORACLE                    MICROSOFT                   1234
+SUN MICROSYSTEMS               SILICON GRAPHICS          HEWLETT PACKARD             3456
+WAL-MART                       LUCKY                     SAFEWAY                     4321
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

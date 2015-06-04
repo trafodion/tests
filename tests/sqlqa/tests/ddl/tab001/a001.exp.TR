@@ -1,0 +1,162 @@
+<section_begin>  A2s1a
+
+INT1_Y4 DATE1_YTOD TIME1_HTOM
+------- ---------- ----------
+<group_begin>
+1777    2002-02-02 13:08:08  
+1888    2002-03-13 18:08:08  
+1999    2002-04-14 16:08:08  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  A2s2a
+
+REAL3_N1000     INT3_YTOM_4 DATE3_N2000 UDEC3_N100  UBIN3_N2000 CHAR3_4 
+--------------- ----------- ----------- ----------- ----------- --------
+<group_begin>
+      100.19999 0-00        2103-11-22           20        1420 AAAAAAAA
+          1.002 0-00        2102-10-18           20        1020 AAAAAAAB
+      10059.999 0-00        2102-05-11           60         860 AAAAAAAC
+          100.0 0-00        2103-11-02            0        1400 AAAAAAAD
+      1015.9999 0-00        2102-01-31           60         760 AAAAAAAE
+         1.0127 0-03        2103-02-02           27        1127 DAAAAAAA
+      10166.999 0-03        2102-08-26           67         967 DAAAAAAB
+         1.0167 0-03        2103-03-14           67        1167 DAAAAAAC
+      1012.6999 0-03        2104-09-24           27        1727 DAAAAAAD
+         1.0167 0-03        2100-06-17           67         167 DAAAAAAE
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  A2s5a
+
+SBIN0_4     TIME0_UNIQ VARCHAR0_500 REAL0_20        INT0_D2_4 TS1_N100                   UBIN1_20   
+----------- ---------- ------------ --------------- --------- -------------------------- -----------
+<group_begin>
+          3 00:05:56   AAAABAAA                 1.0 21        2000-01-01 00:01:03.000000           0
+          1 00:11:47   AAAABAAA                 1.0 21        2000-01-01 00:00:07.875000          16
+          2 00:14:51   AAAACAAA           1.0006999 21        2000-01-01 00:01:42.375000          12
+          0 00:18:59   AAAAIAAA           1.0006999 21        2000-01-01 00:00:43.875000           4
+          2 01:01:59   AAAACAAA                 1.0 21        2000-01-01 00:00:21.375000           8
+          1 01:05:35   AAAABAAA                 1.0 21        2000-01-01 00:00:39.375000           8
+          1 01:05:37   AAAACAAA                 1.0 21        2000-01-01 00:00:41.625000           4
+          2 01:13:51   AAAAIAAA           1.0006999 21        2000-01-01 00:00:34.875000           0
+          1 01:14:52   AAAAHAAA           1.0006999 21        2000-01-01 00:01:43.500000           8
+          0 01:18:30   AAAAFAAA           1.0006999 21        2000-01-01 00:00:11.250000           4
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  A2s6a
+
+CHAR1_40                                 CHAR2_40                                 CHAR3_40                                 CHAR4_40                                 CHAR5_40                                 CHAR6_40                                 CHAR7_7 CHAR8_40                                
+---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ------- ----------------------------------------
+<group_begin>
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa baaaaaa baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa caaaaaa caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa daaaaaa daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  A2s7a
+
+SDEC4_N20 INT4_YTOM_UNIQ SBIN4_N1000 TIME4_1000 REAL4_2000     
+--------- -------------- ----------- ---------- ---------------
+<group_begin>
+       14   344-06               134 00:02:14            1.0134
+        8    95-08               148 00:02:28         103.47999
+       13   351-07               219 00:03:39         1.0218999
+        1   110-01               321 00:05:21         1012.0999
+       17   368-01               417 00:06:57            10.017
+        2   373-06               482 00:08:02            10.082
+        5    41-07               499 00:08:19            10.099
+       11   211-10               542 00:09:02            10.142
+        4   137-02               646 00:10:46         10045.999
+        6    72-02               866 00:14:26            100.66
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  A4s3
+
+(EXPR)      A123456789B123456789C123456789D123456789E123456789F123456789G123456789H123456789I123456789J123456789K123456789L123456789M1234567
+----------- --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+          2                                                                                                                                1
+          1                                                                                                                                2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  A4s4
+
+MAX3456789B123456789C123456789D123456789E123456789F123456789G123456789H123456789I123456789J123456789K123456789L123456789M1234567
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                               2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  A4s5
+
+g           p-|++56789&123456789*123456789<123456789?123456789,123456789?123456789+123456789()3456789[]3456789:=3456789;:3456789m1234567
+----------- ----------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+          1                                                                                                                            2
+          2                                                                                                                            3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  A4s6
+
+(EXPR)      p-|++56789&123456789*123456789<123456789?123456789,123456789?123456789+123456789()3456789[]3456789:=3456789;:3456789m1234567
+----------- ----------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+          1                                                                                                                            2
+          2                                                                                                                            3
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  A4s7
+
+max3456789&123456789*123456789<123456789?123456789,123456789?123456789+123456789()3456789[]3456789:=3456789;:3456789m1234567
+----------------------------------------------------------------------------------------------------------------------------
+                                                                                                                           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  A4s11
+
+g           k*()%       h4[]???     j+=:;>     
+----------- ----------- ----------- -----------
+<group_begin>
+          2           1           4           3
+          1           2           3           4
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  A4s12
+
+g           y&()        w2_+[]      col<4>      col5       
+----------- ----------- ----------- ----------- -----------
+          1           2           3           4           5
+
+--- 1 row(s) selected.
+
+<section_end>

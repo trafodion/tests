@@ -1,0 +1,486 @@
+<section_begin>  a02s0
+
+A    B           C      
+---- ----------- -------
+<group_begin>
+Z              2 a      
+A              1 z      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+(EXPR)    A          
+--------- -----------
+<group_begin>
+Bagheera         4096
+Mowgli           4096
+Sher Khan        4096
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+(EXPR)    A          
+--------- -----------
+<group_begin>
+Bagheera         4096
+Mowgli           4096
+Sher Khan        4096
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+X           (EXPR)     
+----------- -----------
+<group_begin>
+          2          20
+          3          30
+          1          10
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+COL_8
+------
+<group_begin>
+    22
+   100
+   313
+   400
+   507
+   555
+  1010
+  1111
+  5551
+  8888
+  9090
+  NULL
+  NULL
+  NULL
+  NULL
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+COL_8
+------
+<group_begin>
+   100
+   313
+   400
+   507
+   555
+  1010
+  1111
+  5551
+  8888
+  9090
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+B
+-----------
+          2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+X           Y          
+----------- -----------
+<group_begin>
+          1           1
+          2        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+X           Y           C          
+----------- ----------- -----------
+<group_begin>
+          2        NULL        NULL
+          1           1           1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+A           A          
+----------- -----------
+          1           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+A           A           A          
+----------- ----------- -----------
+<group_begin>
+          1           1           1
+          1           1           2
+          2           2           1
+          2           2           2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+A           A           A          
+----------- ----------- -----------
+<group_begin>
+          1           2           1
+          1           2           2
+          2           1           1
+          2           1           2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s15
+
+A           A           A          
+----------- ----------- -----------
+<group_begin>
+          1           1        NULL
+          2           2        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s17
+
+A           A           A          
+----------- ----------- -----------
+<group_begin>
+          1           2        NULL
+          2           1        NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s19
+
+(EXPR) (EXPR)               B           C           (EXPR)              
+------ -------------------- ----------- ----------- --------------------
+<group_begin>
+     2                4.000           2           3                    2
+     1                2.500           1           2                    2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s20
+
+(EXPR) A   
+------ ----
+<group_begin>
+       a   
+       b   
+       c   
+       c   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s21
+
+(EXPR) A   
+------ ----
+<group_begin>
+       a   
+       b   
+       c   
+       c   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s22
+
+(EXPR) A   
+------ ----
+<group_begin>
+       a   
+       b   
+       c   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s23
+
+A    (EXPR)
+---- ------
+<group_begin>
+a          
+b          
+c          
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s24
+
+A    (EXPR)
+---- ------
+<group_begin>
+a          
+b          
+c          
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s25
+
+A    (EXPR)
+---- ------
+<group_begin>
+a          
+b          
+c          
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s26
+
+A    (EXPR) (EXPR)
+---- ------ ------
+<group_begin>
+a                 
+b                 
+c                 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s27
+
+A    (EXPR) (EXPR)
+---- ------ ------
+<group_begin>
+a                 
+b                 
+c                 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s28
+
+A    (EXPR)
+---- ------
+<group_begin>
+a          
+b          
+c          
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s29
+
+A    (EXPR)
+---- ------
+<group_begin>
+a          
+b          
+c          
+c          
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s30
+
+A    (EXPR)
+---- ------
+<group_begin>
+a          
+b          
+c          
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s31
+
+(EXPR) A   
+------ ----
+<group_begin>
+       a   
+       b   
+       c   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s32
+
+KEY1 KEY2 A1   B1   A2   B2  
+---- ---- ---- ---- ---- ----
+<group_begin>
+02   02   B    C    b    c   
+03   03   C    D    c    d   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s33
+
+A           B           C           U   
+----------- ----------- ----------- ----
+<group_begin>
+          1           2           3 ABCD
+          1           2           4 ABCD
+          1           2           3 EBCD
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s34
+
+(EXPR)        (EXPR) C          
+------------- ------ -----------
+<group_begin>
+            3 ABCD             3
+            3 ABCD             4
+            3 EBCD             3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s35
+
+U
+----
+<group_begin>
+ABCD
+ABCD
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s36
+
+U
+----
+<group_begin>
+ABCD
+ABCD
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s37
+
+U
+----
+<group_begin>
+ABCD
+ABCD
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s38
+
+U
+----
+<group_begin>
+ABCD
+ABCD
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s39
+
+U
+----
+<group_begin>
+ABCD
+ABCD
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s40
+
+(EXPR)
+------
+ 32767
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s41
+
+(EXPR)
+-----------
+ 2147483647
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s42
+
+(EXPR)
+------
+    99
+
+--- 1 row(s) selected.
+
+<section_end>

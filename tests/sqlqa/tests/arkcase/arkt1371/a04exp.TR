@@ -1,0 +1,125 @@
+<section_begin>  a04s0
+
+CHAR_1 CHAR_10    PIC_X_1 PIC_X_7 PIC_X_LONG                                                                                                                       VAR_CHAR                                                                                                                         BINARY_SIGNED BINARY_32_U BINARY_64_S          PIC_COMP_1   PIC_COMP_2 PIC_COMP_3 SMALL_INT MEDIUM_INT LARGE_INT            DECIMAL_1 DECIMAL_2_SIGNED DECIMAL_3_UNSIGNED PIC_DECIMAL_1 PIC_DECIMAL_2 PIC_DECIMAL_3
+------ ---------- ------- ------- -------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------- ------------- ----------- -------------------- ------------ ---------- ---------- --------- ---------- -------------------- --------- ---------------- ------------------ ------------- ------------- -------------
+<group_begin>
+D      michelle   D       michael rat                                                                                                                                                                                                      thomas                                                                                                                                   -5000       90.00             2000.000          500       0.40  100.80000        90       8000                  200         7             0.93                140           6.1         0.600             6
+A      steven     C       walter  bob                                                                                                                                                                                                      B                                                                                                                                           50       50.00              200.000           50       0.12  100.90000        10      10000           1000000000         4             0.50                 90           1.1         0.100             1
+A      bobby      A       bobby   bop                                                                                                                                                                                                      B                                                                                                                                           60       60.00             1200.000           60       0.79  100.99000      1000       8000                -1000         5             0.60                100           2.1         0.200             2
+D      melissa    C       7       pop                                                                                                                                                                                                      jimmy                                                                                                                                     1000       80.00             1500.000          500       0.20  100.99990        80       9000                  999         5             0.80                120           4.1         0.400             4
+E      monica     Q       sue     pat                                                                                                                                                                                                      christopher                                                                                                                               2000       90.00             1200.000         3000       0.30  100.99999      2000       8000             -1000000         1             0.90                 80           5.1         0.500             5
+C      maureen    E       jimmy   rum                                                                                                                                                                                                      marilyn                                                                                                                                   3000       80.00             2000.000          500       0.50  100.70000      9000       1000                 2000         8             0.97                150           7.1         0.700             7
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+PIC_X_1
+-------
+<group_begin>
+B      
+C      
+B      
+Q      
+B      
+C      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+PIC_X_7 BINARY_32_U PIC_X4_A PIC_9_7   BINARY_64_S         
+------- ----------- -------- --------- --------------------
+<group_begin>
+A              5.00 make            90               200.00
+7              6.00 joe             80              1200.00
+8              6.00 joe             80              1200.00
+5           1000.00 5              100              1000.00
+michael       50.00 dave            50              1500.00
+7              6.00 john            80              2000.00
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+PIC_X_A PIC_X_B PIC_X_C COL_1 COL_2 COL_3 COL_4 COL_5 COL_6 COL_7 COL_8 COL_9 COL_10
+------- ------- ------- ----- ----- ----- ----- ----- ----- ----- ----- ----- ------
+<group_begin>
+joe     A       al      pablo david amy   amy   steve steve walt  mojo  joe   percy 
+sue     A       in      peggy diane zora  cathy mary  mary  rhoda debra sue   madge 
+deb     D       jo      lowry mary  sunny debra junk  junk  junk  junk  junk  junk  
+can     D       by      lowry steve slope debby junk  junk  junk  junk  junk  junk  
+box     C       to      howie debra snow  debbi junk  junk  junk  junk  junk  junk  
+red     B       go      lowry sue   ski   cammy junk  junk  junk  junk  junk  junk  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+PIC_X_A PIC_X_B PIC_X_C COL_1 COL_2 COL_3 COL_4 COL_5 COL_6 COL_7 COL_8 COL_9 COL_10
+------- ------- ------- ----- ----- ----- ----- ----- ----- ----- ----- ----- ------
+<group_begin>
+joe     A       al      pablo david amy   amy   steve steve walt  mojo  joe   percy 
+sue     A       in      peggy diane zora  cathy mary  mary  rhoda debra sue   madge 
+deb     D       jo      lowry mary  sunny debra junk  junk  junk  junk  junk  junk  
+can     D       by      lowry steve slope debby junk  junk  junk  junk  junk  junk  
+box     C       to      howie debra snow  debbi junk  junk  junk  junk  junk  junk  
+red     B       go      lowry sue   ski   cammy junk  junk  junk  junk  junk  junk  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+PIC_X_A PIC_X_B PIC_X_C COL_1 COL_2 COL_3 COL_4 COL_5 COL_6 COL_7 COL_8 COL_9 COL_10
+------- ------- ------- ----- ----- ----- ----- ----- ----- ----- ----- ----- ------
+<group_begin>
+joe     A       al      pablo david amy   amy   steve steve walt  mojo  joe   percy 
+sue     A       in      peggy diane zora  cathy mary  mary  rhoda debra sue   madge 
+deb     D       jo      lowry mary  sunny debra junk  junk  junk  junk  junk  junk  
+can     D       by      lowry steve slope debby junk  junk  junk  junk  junk  junk  
+box     C       to      howie debra snow  debbi junk  junk  junk  junk  junk  junk  
+red     B       go      lowry sue   ski   cammy junk  junk  junk  junk  junk  junk  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+MIXED_1 MIXED_2 MIXED_3 MIXED_4 MIXED_5 MIXED_11 MIXED_12 MIXED_13 MIXED_21 MIXED_22 MIXED_23
+------- ------- ------- ------- ------- -------- -------- -------- -------- -------- --------
+<group_begin>
+sue     A       in      peggy   diane   sue      C        by       jo       C        ek      
+joe     A       al      pablo   david   joe      C        go       jo       C        ek      
+joe     A       al      pablo   david   joe      Z        in       jo       Z        jo      
+joe     A       al      pablo   david   joe      A        jo       B        A        ed      
+sue     A       in      peggy   diane   sue      Q        on       al       Q        al      
+sue     A       in      peggy   diane   sue      D        so       JO       D        em      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+NEW_NAME_1 NEW_NAME_3
+---------- ----------
+<group_begin>
+        80 7         
+        80 B         
+        90 A         
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

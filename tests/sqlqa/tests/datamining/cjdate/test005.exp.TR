@@ -1,0 +1,40 @@
+<section_begin>  s1
+
+SNUM  SNAME                STATUS CITY            PNUM   PNAME                COLOR  WEIGHT
+----- -------------------- ------ --------------- ------ -------------------- ------ ------
+<group_begin>
+s1    Smith                    20 London          p1     nut                  red        12
+s1    Smith                    20 London          p4     screw                red        14
+s1    Smith                    20 London          p6     cog                  red        19
+s2    Jones                    10 Paris           p2     bolt                 green      17
+s2    Jones                    10 Paris           p5     cam                  blue       12
+s3    Blake                    30 Paris           p2     bolt                 green      17
+s3    Blake                    30 Paris           p5     cam                  blue       12
+s4    Clark                    20 London          p1     nut                  red        12
+s4    Clark                    20 London          p4     screw                red        14
+s4    Clark                    20 London          p6     cog                  red        19
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+SNUM  SNAME                STATUS CITY            PNUM   PNAME                COLOR  WEIGHT
+----- -------------------- ------ --------------- ------ -------------------- ------ ------
+<group_begin>
+s1    Smith                    20 London          p1     nut                  red        12
+s1    Smith                    20 London          p4     screw                red        14
+s1    Smith                    20 London          p6     cog                  red        19
+s2    Jones                    10 Paris           p2     bolt                 green      17
+s2    Jones                    10 Paris           p5     cam                  blue       12
+s3    Blake                    30 Paris           p2     bolt                 green      17
+s3    Blake                    30 Paris           p5     cam                  blue       12
+s4    Clark                    20 London          p1     nut                  red        12
+s4    Clark                    20 London          p4     screw                red        14
+s4    Clark                    20 London          p6     cog                  red        19
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>

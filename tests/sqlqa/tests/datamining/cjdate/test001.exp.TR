@@ -1,0 +1,24 @@
+<section_begin>  s1
+
+SNUM  STATUS
+----- ------
+<group_begin>
+s2        10
+s3        30
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+SNUM  STATUS
+----- ------
+<group_begin>
+s2        10
+s3        30
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

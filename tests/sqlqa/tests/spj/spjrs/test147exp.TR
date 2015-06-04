@@ -1,0 +1,562 @@
+<section_begin>  verify
+<group_begin>
+
+DOUBLE_PRECI
+------------------------
+                     0.0
+                     0.0
+ -1.7272336999999997E-76
+                     0.0
+                     0.0
+                     0.0
+                     0.0
+                     0.0
+                     0.0
+ -1.7272336999999997E-76
+ -1.7272336999999997E-76
+
+--- 11 row(s) selected.
+
+DECIMAL_US
+----------
+      NULL
+    133.11
+      0.00
+      0.00
+    333.13
+    333.13
+     23.21
+      0.00
+      0.00
+      0.00
+      0.00
+
+--- 11 row(s) selected.
+
+N5
+------------------------
+    4.942827519712582E26
+   5.0078966993133075E25
+   4.8758619763854497E26
+                    NULL
+  -1.4050345794075581E26
+    9.212283208272505E26
+    8.821929368604119E26
+    7.653664928885494E26
+                    NULL
+  -3.2016849327473334E26
+   1.5203439838939817E26
+   1.0108968696541669E27
+    8.655355699463032E26
+   -8.440958360990383E26
+    8.788529567925091E26
+   -2.871344958267036E26
+   -6.746661928664186E26
+    5.434931663303015E26
+    2.292962078194277E25
+
+--- 19 row(s) selected.
+
+N3
+------------------------
+   -3.130943552415516E38
+  -1.6187509032816747E38
+                    NULL
+   -2.907587572074583E38
+    6.821274823686944E37
+   1.0450166683529358E38
+   -3.421068634848109E37
+    2.540023124966313E38
+  -2.1600546534406616E38
+    2.581671918639232E37
+  -1.4321401787868914E38
+    2.818238500467591E38
+  -1.3169968724531086E38
+                    NULL
+  -2.0891067270709902E38
+  -2.0257062183835402E38
+   -2.237064903415018E38
+      5.2857163924247E37
+                    NULL
+
+--- 19 row(s) selected.
+
+N2
+------------------------
+    7.594749387433122E13
+    7.594749682273267E13
+    7.594757513418261E13
+    7.594748871091198E13
+    7.594751800345695E13
+    7.594732521107677E13
+    7.594758522175428E13
+    7.594737337268547E13
+                    NULL
+    7.594761837627564E13
+                    NULL
+     7.59474299826989E13
+    7.594759670172764E13
+    7.594753320791722E13
+    7.594732927891967E13
+    7.594748252701334E13
+    7.594758864632602E13
+    7.594738736924048E13
+    7.594738557348898E13
+
+--- 19 row(s) selected.
+
+S1
+------------------------
+    1.9479748925497339E9
+     1.798301806201026E8
+     2.880917621956657E8
+      7.02651917024814E8
+     2.072142055028277E9
+     1.399418106121844E9
+    1.5674780293535612E9
+     1.114387785178059E9
+     3.925190009986142E8
+     1.629533663784055E9
+     1.722368278078835E9
+     1.233678403273567E9
+      1.93552181235432E9
+     9.705187018764104E8
+    1.9150546333526719E9
+    1.7722756800754268E9
+     1.031549591517858E8
+    2.1145331901091323E9
+     6.498921475318679E8
+
+--- 19 row(s) selected.
+
+S0
+-----------
+       2175
+      32206
+       6896
+       2246
+       9579
+      33643
+      62498
+      59860
+      48594
+       1376
+      46704
+      41949
+      22092
+      18053
+      13944
+       3196
+      35158
+      13457
+      44064
+
+--- 19 row(s) selected.
+
+N6
+------------------------
+                    NULL
+   5.7204611761030545E19
+   5.7204042633216205E19
+   5.7205594826099245E19
+    5.720669225499993E19
+   5.7203786980191625E19
+    5.720573650076573E19
+   5.7203990024339276E19
+                    NULL
+    5.720601106826706E19
+    5.720610824298581E19
+   5.7206557320235114E19
+    5.720440773776165E19
+     5.72043959181655E19
+   5.7204503057278075E19
+                    NULL
+   5.7204497765570806E19
+    5.720678283682451E19
+    5.720659080477625E19
+
+--- 19 row(s) selected.
+
+N1
+------------------------
+   1.9773025819571992E60
+    1.743765668960615E60
+   4.2580798750185885E60
+   2.1119531232143398E60
+    4.674560002342868E60
+    4.208209083100687E60
+                    NULL
+    7.496566770957051E59
+    1.234826930785855E60
+   4.7534187049962844E60
+   4.5515847588038436E60
+   1.8307947577804464E60
+    1.500899424592097E60
+                    NULL
+    4.242560777731846E60
+                    NULL
+    1.817393435439062E60
+    3.561915860385377E60
+   2.1373236961385414E59
+
+--- 19 row(s) selected.
+
+S2
+------------------------
+                    9.03
+                    1.37
+                     6.9
+                   -7.71
+                   14.97
+                   -3.95
+                   -4.54
+                    2.88
+                    4.94
+                    NULL
+                   -3.33
+                    5.84
+                    0.23
+                    9.78
+                   16.23
+                    5.18
+                    0.49
+                   -7.41
+                   14.51
+
+--- 19 row(s) selected.
+
+S3
+------------------------
+                -3580.41
+                 -613.34
+                -1769.25
+                 -3301.0
+                -1463.94
+                 2438.42
+                 2730.05
+                 -573.76
+                 3300.27
+                 -321.45
+                -2051.87
+                -1964.21
+                 -560.32
+                 3269.08
+                 -340.89
+                  601.85
+                  430.64
+                -2240.39
+                -4526.37
+
+--- 19 row(s) selected.
+
+N4
+------------------------
+   -2.805546909099033E38
+   3.2323660295253167E38
+                    NULL
+   1.6343409861670023E38
+   2.5014017223767378E38
+  -2.1639229968100792E38
+  -2.8738081663544627E37
+                    NULL
+    4.468011345170713E37
+   -2.328283788226225E37
+    3.262053083976856E38
+  -2.1215405322094574E38
+   -2.411060560880588E38
+                    NULL
+   -1.811618427620466E38
+   -2.181283842597737E38
+   -3.099298512522107E38
+    9.052783505265789E37
+   -2.828062640387025E38
+
+--- 19 row(s) selected.
+
+ST1
+---------------------------------------------------------------------------------------------------------------------
+-275427.08804271324 192 -817608.8332214953                                                                           
+ 931892.7636158853 -768587.3458396954 -826255.5447646142 482 -4 367 -399 -51 -33 -463                                
+ -759576.5143965881 435 456460.6925244583 -827993.8170541001 -103 -9 -408215.319955618                               
+276 325229.5125800434 185 492426.48290554667 273 285 80665.79990977538                                               
+55151.25289719622 -955742.1651839486 361                                                                             
+0 -420 -264 -617292.4096839062 -519029.90705979214 592350.3848925123 799811.1278238832                               
+-148455.8532120384 965745.24351121 100727.95775494468 -121 -158 322 16355.978317754227 139 308                       
+118 -26 260 -713252.336519578 -207 295491.31063330686 181 64 286148.5571356034 -132034.97260540526                   
+ 471 136 -179011.2171844471 -777131.489735976 -419 971635.211366469 297 -508333.4497396581 615007.1042519333 113     
+425760.15470613725 245 11 -456 402 879377.8048802435 293 46 -476                                                     
+NULL                                                                                                                 
+569164.3278538533 -340 -426388.9477655649 -383 968913.7428815416 -384 401 -395508.60896345717                        
+467                                                                                                                  
+-368342.0467070817 -228796.40308067773 -387 -59 664722.0474792717                                                    
+797608.5315068637 321755.82934379973 -36571.08337854664 385 215 -147 -180 -118                                       
+-499921.94203564734 -485 291 -292 -248342.07594328106 -74 -867989.3137775805                                         
+474 -613675.2721482445 -20 490246.3083130957 935288.6247624084 -55 -519435.94790965156 -251                          
+-357 -204 891384.8590732787 -398 -321284.47770295665 420                                                             
+NULL                                                                                                                 
+-259313.14669021394 546043.3078223432 848151.3278231663 -145 -177722.87439805595 -97 440 16                          
+-259313.14669021394 546043.3078223432 848151.3278231663 -145 -177722.87439805595 -97 440 16                          
+
+--- 21 row(s) selected.
+
+ST2
+---------------------------------------------------------------------------------------------------------
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW4M6L0UJH KM6L0UJH 1M6L0UJH 8M6L0UJH WM6L0UJH 2M6L0UJH NM6L0UJH 
+NULL                                                                                                     
+'''''''''''''''''''''''''''''''''''''''''''''''''''CM6L0UJH XM6L0UJH GM6L0UJH PM6L0UJH LM6L0UJH 7M6L0UJH 
+W06L0UJH 206L0UJH N06L0UJH 006L0UJH H06L0UJH Y06L0UJH S06L0UJH CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+906L0UJH 606L0UJH Q06L0UJH Z06L0UJH 506L0UJH T06L0UJH 306L0UJH F06L0UJH U06L0UJH E06L0UJH                
+                                          4R6L0UJH KR6L0UJH 1R6L0UJH 8R6L0UJH WR6L0UJH 2R6L0UJH NR6L0UJH 
+               PR6L0UJH LR6L0UJH 7R6L0UJH IR6L0UJH 9R6L0UJH 6R6L0UJH QR6L0UJH ZR6L0UJH 5R6L0UJH TR6L0UJH 
+                                          OR6L0UJH RR6L0UJH VR6L0UJH BR6L0UJH MR6L0UJH JR6L0UJH DR6L0UJH 
+266L0UJH N66L0UJH 066L0UJH H66L0UJH Y66L0UJH S66L0UJH A66L0UJH C66L0UJH X66L0UJH G66L0UJH P66L0UJH       
+566L0UJH T66L0UJH 366L0UJH F66L0UJH U66L0UJH E66L0UJH O66L0UJH R66L0UJH V66L0UJH ssssssssssssssssssssssss
+D66L0UJH 476L0UJH K76L0UJH 176L0UJH 876L0UJH W76L0UJH 276L0UJH N76L0UJH WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+G76L0UJH P76L0UJH L76L0UJH 776L0UJH I76L0UJH 976L0UJH 676L0UJH Q76L0UJH Z76L0UJH 576L0UJH T76L0UJH zzzzzz
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBV76L0UJH B76L0UJH M76L0UJH J76L0UJH D76L0UJH 4B6L0UJH KB6L0UJH 
+0B6L0UJH HB6L0UJH YB6L0UJH SB6L0UJH AB6L0UJH ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+9B6L0UJH  6B6L0UJH QB6L0UJH ZB6L0UJH 5B6L0UJH TB6L0UJH 3B6L0UJH                                          
+VB6L0UJH BB6L0UJH MB6L0UJH JB6L0UJH DB6L0UJH 446L0UJH K46L0UJH 146L0UJH                                  
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbH46L0UJH Y46L0UJH S46L0UJH A46L0UJH C46L0UJH 
+                        Q46L0UJH Z46L0UJH 546L0UJH T46L0UJH 346L0UJH F46L0UJH U46L0UJH E46L0UJH O46L0UJH 
+ 8A6L0UJH WA6L0UJH 2A6L0UJH NA6L0UJH 0A6L0UJH HA6L0UJH YA6L0UJH SA6L0UJH AA6L0UJH CA6L0UJH               
+LA6L0UJH 7A6L0UJH IA6L0UJH 9A6L0UJH 6A6L0UJH QA6L0UJH                                                    
+LA6L0UJH 7A6L0UJH IA6L0UJH 9A6L0UJH 6A6L0UJH QA6L0UJH                                                    
+
+--- 21 row(s) selected.
+
+ST3
+----------------------------------------------------------------------------------------------------------
+                          CMIF7GJH 2MIF7GJH several HMIF7GJH 699141.592691117 923846.5980633064 Emma flew 
+         His father got out cheerfully. Edward jumped leisurely! lots of car Susan DMIF7GJH TMIF7GJH 363  
+Ed drove under lots of sharks? -178987.14391873404 240 -439 QMIF7GJH  The tigers wormed beneath Callie. ::
+WMIF7GJH VMIF7GJH RMIF7GJH  IMIF7GJH 119379.26586303813 several 5MIF7 bike rose 185                       
+99999999999999999999999999999999999999999999MIF7GJH XMIF7GJH EMIF7GJH OMIF7GJH MMIF7GJH BMIF7GJH LMIF7GJH 
+0MIF7GJH 4MIF7GJH C1IF7GJH 21IF7GJH H1IF7GJH D1IF7GJH T1IF7GJH Q1IF7GJH 71IF7GJH                          
+                              Those snails rushed close to Bill. Jessie split boldly. Mike walked neatly! 
+//////////////////////////////////////////////////////////////walked hightailed truck over J1IF7GJH 11IF7 
+N1IF7GJH  -210997.36128240812 hopped A1IF7GJH W1IF7GJH V1IF7GJH R1IF7GJH I1IF7GJH 51IF7GJH 91IF7GJH       
+      -18 466 484 -28361.52569006465 F1IF7 81IF7 Z1IF7GJH over P1IF7 01IF7GJH -156284.6630732055 41IF7GJH 
+                                          close to lots of string C4IF7 Seals and pigs and snails? Oh My! 
+Vince crawled near several turtles. 24IF7GJH H4IF7GJH D4IF7GJH T4IF7GJH Q4IF7GJH 74IF7GJH zzzzzzzzzzzzzzzz
+                   J4IF7GJH 14IF7GJH Biff scampered towards many snails. Goats and tigers and elk. Oh My! 
+NULL                                                                                                      
+around Joe wormed nervously. Chet crawled loudly. MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+Fish and chickens and chickens. Oh My! Eels and pigs and seals? Oh My! aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Callie close to several -100 rarely R4IF7GJH 368  -174 I4IF7GJH 54IF7GJH 94IF7GJH X4IF7GJH E4IF7GJH BBBBBB
+RRRRRRRRRRJessie happily hill excitedly O4IF7GJH M4IF7GJH some B4IF7GJH L4IF7GJH U4IF7GJH eagles K4IF7GJH 
+Sue and Iola sprinted promptly beneath some beach? Fred sprinted near lots of blue birds. ++++++++++++++++
+890217.540824526 CNIF7GJH 2NIF7GJH HNIF7GJH My mother and Fred jumped promptly close to some bike?        
+890217.540824526 CNIF7GJH 2NIF7GJH HNIF7GJH My mother and Fred jumped promptly close to some bike?        
+
+--- 21 row(s) selected.
+
+ST4
+------------------------------------------------------------------------------------------------------------------------
+225 quite a few 437RQ close to sprinted F37RQ  637RQ beneath K37RQ 598498.3059382555 cats lots of P37RQ4WH              
+X37RQ4WH 237RQ4WH birds turtles J37RQ Y37RQ  G37RQ4WH 216 -504810.576637059 -416 A37RQ4WH flew a few -86 zzzzzzzzzzzzzzz
+                                     V37RQ4WH 837RQ4WH over 166 961698.8053130626 T37RQ M37RQ4WH 037RQ4WH drove beneath 
+rarely beside got out Z37RQ U37RQ 775350.6878337655 racoons  ___________________________________________________________
+                          B37RQ4WH -318992.24878756003 around around some 737RQ4WH beneath slide those C37RQ L37RQ -205 
+                                                      -239 937RQ4WH 137RQ I37RQ4WH 213 4T7RQ -556143.2745420365 through 
+NULL                                                                                                                    
+PT7RQ DT7RQ 165 blue birds rambled car wolves OT7RQ faithfully quickly flew 554744.6734571252 thoughtfully RRRRRRRRRRRRR
+479 347445.28046879056 -419 2T7RQ -316 JT7RQ luckily YT7RQ4WH GT7RQ4WH AT7RQ4WH ST7RQ4WH 343 ooooooooooooooooooooooooooo
+                                                 one of the a few rushed Claire MT7RQ4WH Jessie 542014.0635171654 0T7RQ 
+6666666666666666666666ZT7RQ beneath UT7RQ RT7RQ 610827.488916235 quickly -636872.9262176658 mice  3T7RQ WT7RQ ET7RQ4WH  
+      eagles LT7RQ4WH -843075.1189519993 steadily QT7RQ4WH -239 tree lots of beneath quite a few -288106.2820658566 all 
+++++++++++++++++++++++++++564501.5257413525 1T7RQ IT7RQ rushed sharks -123 477RQ F77RQ 677RQ K77RQ4WH P77RQ4WH D77RQ4WH 
+ -974207.5309979279 277RQ 694846.08313824 J77RQ sharks many Y77RQ G77RQ4WH string A77RQ eagles 612998.4532842508        
+EE877RQ -173465.8192189642 steadily under rolled T77RQ4WH -855338.6560968377 M77RQ 077RQ4WH near -10 407987.41936755716 
+the U77RQ several R77RQ -453338.4103997275 penguins 89 377RQ4WH W77RQ4WH 206 -16                                        
+ under C77RQ4WH computer swiftly Ben wolves lots of -118 L77RQ4WH sprang -30090.798366051167 Q77RQ4WH 12 several        
+-636794.8283216909 -459 dolphins Claire hightailed quite a few Ben 177RQ4WH pppppppppppppppppppppppppppppppppppppppppppp
+                                                   617RQ4WH K17RQ4WH a few Frank P17RQ4WH rarely 282166.129903249 D17RQ 
+NULL                                                                                                                    
+NULL                                                                                                                    
+
+--- 21 row(s) selected.
+
+ST5
+-----------------------------------------------------------------------------------------------------------------
+                              8QN9E 6QN9E GQN9E0A2 EQN9E UQN9E Mike OQN9E0A2 Louise many -985737.648297855 Susan 
+NULL                                                                                                             
+9QN9E0A2 -395 4QN9E0A2 crows around towards 145 door                                                             
+-217616.10925354494 book mom 1QN9E 420 Fred RQN9E0A2 an Indian VQN9E0A2 lots of 7QN9E0A2 245417.75250266492 roof 
+NULL                                                                                                             
+                                   crows 2QN9E0A2 Edward across BQN9E several 258 blue birds an Englishman SQN9E 
+chair CQN9E0A2 over QQN9E HQN9E crane mom a few lovingly rapidly 276                                             
+6HN9E tree quite a few ambled GHN9E0A2 EHN9E over UHN9E crawled those close to OHN9E ----------------------------
+               KHN9E 0HN9E0A2 door -37987.09257293248 Janine YHN9E0A2 NHN9E0A2 -260 THN9E0A2 drove -291 415 Adam 
+WHN9E0A2 boldly carefully his father sprang across 1HN9E crane                                                   
+3HN9E0A2 across carelessly 2HN9E0A2 BHN9E SHN9E0A2 MHN9E goats ZHN9E0A2  split PHN9E CHN9E                       
+                                   -886664.8693634879 96770.9638168125 whales IHN9E sadly Chet 52 DHN9E0A2 Derek 
+8JN9E0A2 whales -49 Vince sauntered Frank 6JN9E0A2 GJN9E EJN9E UJN9E -116 -481 OJN9E0A2 -304                     
+               train KJN9E 0JN9E0A2 hill YJN9E0A2 NJN9E TJN9E0A2 AJN9E Alexandra rug 907064.2059836178 a sibling 
+    slide sauntered FJN9E0A2 -72128.73344324785 5JN9E0A2 JJN9E0A2 house 208935.09596802224 birds several quickly 
+1JN9E several RJN9E VJN9E 7JN9E0A2 -406 35 -340984.2044201357 sauntered 3JN9E0A2 many plane a few 2JN9E0A2       
+NULL                                                                                                             
+                                               crows Genelle PJN9E CJN9E0A2 scampered 483 all fish rats QJN9E0A2 
+LJN9E0A2 536629.3848650944 one of the IJN9E0A2 DJN9E some 88N9E0A2 438 11 68N9E0A2 G8N9E0A2 -170019.6378408461 ,,
+98N9E0A2 69888.00851253932 -427588.2297418694 48N9E0A2 K8N9E0A2 08N9E Y8N9E0A2 N8N9E -481 Ed T8N9E \\\\\\\\\\\\\\
+98N9E0A2 69888.00851253932 -427588.2297418694 48N9E0A2 K8N9E0A2 08N9E Y8N9E0A2 N8N9E -481 Ed T8N9E \\\\\\\\\\\\\\
+
+--- 21 row(s) selected.
+
+ST6
+------------------------------------------------------------------------------------------------------
+NULL                                                                                                  
+ Adam and Biff skedaddled cautiously under all bike. An indian scampered through one of the penguins. 
+Fred and Iola hotfooted rapidly near those train. Jessie scampered near one of the goats! 666666666666
+Michelle flew through the lions. Sue hopped beside those mice. A few tigers ran near dad. ''''''''''''
+Bob ran carefully! Callie ran boldly. Mike and an American dashed gracefully beneath all book! +++++++
+5555555An englishman and Mike ambled promptly over many desk. Derek skedaddled beside one of the elk! 
+                                         Edward hightailed rapidly. an Englishman sprinted leisurely. 
+EEEEEEEEEEEEEEEEEEEEEEEEEEEESheep and chickens and wolves. Oh My! Sharks and cows and racoons. Oh My! 
+Vince and Madelyn ambled solemnly through many crane.                                                 
+>>>>>>>>>>>>Callie and Louise ran carefully around lots of chair??? Tigers and goats and eels! Oh My! 
+        Frank ran excitedly. Michael crawled gracefully! Ben hightailed across quite a few turtles??? 
+NULL                                                                                                  
+NULL                                                                                                  
+Claire and a German sprinted sloppily beneath those slide? 7777777777777777777777777777777777777777777
+                            Those rats sauntered beside Diane! An englishman drove around a few cats? 
+                                 Mom ambled near several lions? Some cows scampered around an Indian. 
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMHenry and a sibling jumped badly through lots of ball! 
+llllllllHis father slide around several whales! An indian skipped boldly. Vince rambled thoughtfully. 
+iiiiiiiiiiiiiiiiiiiiiFrank sprinted sadly. Callie danced sloppily. Some mice scampered close to Iola. 
+All eagles flew across Janine. Those mice jumped beside Derek. &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+All eagles flew across Janine. Those mice jumped beside Derek. &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+--- 21 row(s) selected.
+
+S0
+-----------
+   78812.70
+   78824.81
+   78826.67
+   78811.70
+   78812.92
+   78810.39
+   78822.28
+   78817.34
+   78818.05
+   78813.07
+   78814.04
+   78812.48
+       NULL
+   78814.85
+   78826.63
+   78812.61
+   78814.19
+   78816.04
+   78815.43
+   78819.53
+   78819.53
+
+--- 21 row(s) selected.
+
+S1
+-----------
+     708.13
+    -368.42
+    -857.54
+   -2139.88
+    -265.11
+   -1213.71
+     871.51
+     705.51
+   -1406.25
+    1271.22
+    2128.55
+    1687.90
+     668.57
+    2031.30
+   -2011.08
+    -359.02
+     758.51
+   -1061.45
+   -1550.44
+    -200.82
+    -200.82
+
+--- 21 row(s) selected.
+
+DATE_KEY
+----------
+0011-12-30
+7009-02-01
+0009-02-01
+2999-12-30
+1011-07-18
+8011-12-30
+4011-10-03
+5009-02-01
+
+--- 8 row(s) selected.
+
+DATE_COL
+----------
+1239-01-01
+0001-01-01
+0001-01-01
+2999-12-12
+0001-01-01
+0001-01-01
+0001-01-01
+0001-01-01
+
+--- 8 row(s) selected.
+
+TIMESTAMP_COL
+--------------------------
+0091-10-10 10:10:10.111111
+0001-01-01 00:00:00.000000
+0001-01-01 00:00:00.000000
+9992-02-21 10:59:59.666666
+0001-01-01 00:00:00.000000
+0001-01-01 00:00:00.000000
+0001-01-01 00:00:00.000000
+0001-01-01 00:00:00.000000
+
+--- 8 row(s) selected.
+
+I1
+------------------------
+       9292497.946062302
+    1.0074399321376462E7
+       9793464.726473104
+        9604527.05587021
+
+--- 4 row(s) selected.
+
+I2
+--------------
+  5.7260061E11
+  5.7260212E11
+  5.7260337E11
+  5.7260468E11
+
+--- 4 row(s) selected.
+
+I3
+---------
+       10
+       17
+       24
+       31
+
+--- 4 row(s) selected.
+
+S0
+--------------------
+  3414950665.8174788
+  4044375689.5001424
+   438964038.3599992
+   307578692.3042454
+
+--- 4 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

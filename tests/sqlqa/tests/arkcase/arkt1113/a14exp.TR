@@ -1,0 +1,237 @@
+<section_begin>  a14s0
+
+SBIN0_4     VARCHAR0_500
+----------- ------------
+<group_begin>
+          0 BDAAAAAA    
+          1 ACAABAAA    
+          1 BBA%FAAA    
+          1 BBAABA_A    
+          3 CAAAGAAA    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a14s1
+
+SBIN0_4     VARCHAR0_500
+----------- ------------
+<group_begin>
+          0 BDAAAAAA    
+          1 ACAABAAA    
+          1 BBA%FAAA    
+          1 BBAABA_A    
+          3 CAAAGAAA    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a14s2
+
+SBIN0_4     VARCHAR0_500
+----------- ------------
+<group_begin>
+          0 BDAAAAAA    
+          1 ACAABAAA    
+          1 BBA%FAAA    
+          1 BBAABA_A    
+          3 CAAAGAAA    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a14s3
+
+SBIN0_4     VARCHAR0_500
+----------- ------------
+<group_begin>
+          0 BDAAAAAA    
+          1 BBA%FAAA    
+          1 BBAABA_A    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a14s4
+
+(EXPR)
+-----------
+CAAAGAAA   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a14s5
+
+VARCHAR0_500
+------------
+<group_begin>
+ACAABAAA    
+BBA%FAAA    
+BBAABA_A    
+BDAAAAAA    
+CAAAGAAA    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a14s6
+
+VARCHAR0_500 (EXPR)      
+------------ ------------
+<group_begin>
+ACAABAAA     acaabaaa%   
+BBA%FAAA     bba%faaa%   
+BBAABA_A     bbaaba_a%   
+BDAAAAAA     bdaaaaaa%   
+CAAAGAAA     caaagaaa%   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a14s7
+
+VARCHAR0_500
+------------
+<group_begin>
+ACAABAAA    
+BBA%FAAA    
+BBAABA_A    
+BDAAAAAA    
+CAAAGAAA    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a14s8
+
+SBIN0_4     VARCHAR0_500
+----------- ------------
+<group_begin>
+          0 BDAAAAAA    
+          1 ACAABAAA    
+          1 BBA%FAAA    
+          1 BBAABA_A    
+          3 CAAAGAAA    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a14s9
+
+VARCHAR0_500
+------------
+<group_begin>
+ACAABAAA    
+BBA%FAAA    
+BBAABA_A    
+BDAAAAAA    
+CAAAGAAA    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a14s10
+
+VARCHAR0_500
+------------
+BBA%FAAA    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a14s11
+
+VARCHAR0_500
+------------
+BBA%FAAA    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a14s12
+
+VARCHAR0_500
+------------
+BBA%FAAA    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a14s13
+
+(EXPR)
+-------
+X      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a14s14
+
+VARCHAR7 CHAR8   
+-------- --------
+<group_begin>
+AAAAAAA  NULL    
+CAAAAAA  CAAAAAA 
+DAAAAAA  CAAAAAAX
+EE       EE      
+X        EE      
+X        X       
+NULL     EE      
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a14s15
+
+C1      C2      
+------- --------
+<group_begin>
+CAAAAAA CAAAAAA 
+EE      EE      
+X       X       
+NULL    CAAAAAAX
+NULL    NULL    
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a14s16
+
+C1      C2      
+------- --------
+X       X       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a14s17
+
+C1      C2      
+------- --------
+NULL    CAAAAAAX
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a14s18
+
+VARCHAR0_500
+------------
+BBA%FAAA    
+
+--- 1 row(s) selected.
+
+<section_end>

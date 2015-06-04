@@ -1,0 +1,175 @@
+<section_begin>  a10s0
+
+A
+-----------
+<group_begin>
+          1
+          2
+          3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a10s1
+
+(EXPR) A          
+------ -----------
+<group_begin>
+     1           1
+     1           2
+     1           3
+     2           1
+     2           2
+     2           3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s2
+
+A    R                   
+---- --------------------
+<group_begin>
+   1                    6
+   2                    6
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a10s3
+
+A
+----
+<group_begin>
+1   
+2   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a10s4
+
+A
+----
+<group_begin>
+1   
+2   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a10s5
+
+(EXPR) A          
+------ -----------
+<group_begin>
+     1           1
+     1           2
+     1           3
+     2           1
+     2           2
+     2           3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s6
+
+A    R                   
+---- --------------------
+<group_begin>
+   1                    6
+   2                    6
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a10s7
+
+(EXPR) A          
+------ -----------
+<group_begin>
+     1           1
+     1           2
+     1           3
+     2           1
+     2           2
+     2           3
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s8
+
+A    R                   
+---- --------------------
+<group_begin>
+   1                    6
+   2                    6
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a10s9
+
+A
+---------
+<group_begin>
+joanzim  
+kirkstone
+swansea  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a10s10
+
+(EXPR) A        
+------ ---------
+<group_begin>
+1      joanzim  
+1      kirkstone
+1      swansea  
+2      joanzim  
+2      kirkstone
+2      swansea  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s11
+
+(EXPR) A        
+------ ---------
+<group_begin>
+1      joanzim  
+1      swansea  
+1      kirkstone
+2      kirkstone
+2      joanzim  
+2      swansea  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s12
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

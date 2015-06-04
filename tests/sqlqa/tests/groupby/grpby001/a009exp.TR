@@ -1,0 +1,46 @@
+<section_begin>  a09s1
+
+(EXPR)
+------------
+<group_begin>
+  37000.0000
+  39500.0000
+  87750.0000
+  16250.0000
+  34500.0000
+  16000.0000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+(EXPR)
+------------
+<group_begin>
+   74000.000
+   79000.000
+  175500.000
+   97500.000
+  103500.000
+   96000.000
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+(EXPR)
+------------
+<group_begin>
+   74000.000
+   97500.000
+  103500.000
+   96000.000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

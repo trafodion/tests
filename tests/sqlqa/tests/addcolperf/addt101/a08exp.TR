@@ -1,0 +1,48 @@
+<section_begin>  a08s01
+
+VCH1 VCH2 PX2        PX3      PX4                  PX5  PX6    PX7                
+---- ---- ---------- -------- -------------------- ---- ------ -------------------
+<group_begin>
+000  a    1000-01-31 NULL                      100 ABC   1-01  NULL               
+111  k    2006-01-01 NULL                   111100 ABC   1-01  NULL               
+222  l    1000-01-31 NULL                    20000 ABC   1-01  NULL               
+333  m    2003-01-01 16:00:00                 6000 XYZ  16-01    16 16:00:00.1234 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s02
+
+VCH1 VCH2 PX2        PX3      PX4                  PX5  PX6    PX7                 VCH3    
+---- ---- ---------- -------- -------------------- ---- ------ ------------------- --------
+<group_begin>
+000  a    1000-01-31 NULL                      100 ABC   1-01  NULL                Z       
+111  k    2006-01-01 NULL                   111100 ABC   1-01  NULL                Z       
+222  l    1000-01-31 NULL                    20000 ABC   1-01  NULL                Z       
+333  m    2003-01-01 16:00:00                 6000 XYZ  16-01    16 16:00:00.1234  Z       
+NULL 5    1000-01-31 NULL                      100 ABC  15-05  NULL                ZZZ     
+NULL NULL 2000-02-28 14:24:00                 9000 A08   1-01  NULL                Z       
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a08s03
+
+VCH1 VCH2 PX2        PX3      PX4                  PX5  PX6    PX7                 VCH3     INT9        VCH4
+---- ---- ---------- -------- -------------------- ---- ------ ------------------- -------- ----------- ----
+<group_begin>
+000  a    1000-01-31 NULL                      100 ABC   1-01  NULL                Z               NULL end 
+111  k    2006-01-01 NULL                   111100 ABC   1-01  NULL                Z               NULL end 
+222  l    1000-01-31 NULL                    20000 ABC   1-01  NULL                Z               NULL end 
+333  m    2003-01-01 16:00:00                 6000 XYZ  16-01    16 16:00:00.1234  Z               NULL end 
+999  NULL 1996-03-29 NULL                      100 999   1-01  NULL                Z               NULL end 
+NULL 5    1000-01-31 NULL                      100 ABC  15-05  NULL                ZZZ             NULL end 
+NULL x    1000-01-31 NULL                     5000 ABC   1-01  NULL                Z               NULL end 
+NULL NULL 2000-02-28 14:24:00                 9000 A08   1-01  NULL                Z               NULL end 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

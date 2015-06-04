@@ -1,0 +1,142 @@
+<section_begin>  a01s1
+
+ORDERS      CH1  PX1 
+----------- ---- ----
+<group_begin>
+          1 a    0   
+          2 b    0   
+          3 c    0   
+          4 d    0   
+          5 e    NULL
+          6 f    NULL
+          7 g    NULL
+          8 h    NULL
+          9 i    NULL
+         10 j    NULL
+         11 k    1   
+         12 l    NULL
+         13 m    2   
+         14 n    NULL
+         99 NULL 2   
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+ORDERS      CH1  PX1  CH2 
+----------- ---- ---- ----
+<group_begin>
+         17 p    B    Z   
+<group_end>
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+ORDERS      CH1  PX1  CH2 
+----------- ---- ---- ----
+<group_begin>
+          1 a    0    Z   
+          2 b    0    Z   
+         20 r    5    D   
+         21 s    6    E   
+         99 NULL 2    Z   
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+ORDERS      CH1  PX1  CH2 
+----------- ---- ---- ----
+<group_begin>
+         13 m    2    Z   
+         99 NULL 2    Z   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+ORDERS      CH1  PX1  CH2 
+----------- ---- ---- ----
+<group_begin>
+         15 o    3    A   
+         19 q    4    C   
+         20 r    5    D   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+ORDERS      CH1  PX1  CH2 
+----------- ---- ---- ----
+<group_begin>
+         18 NULL NULL Z   
+         99 NULL 2    Z   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+ORDERS      CH1  PX1  CH2 
+----------- ---- ---- ----
+<group_begin>
+          1 a    0    Z   
+          2 b    0    Z   
+          3 c    0    Z   
+          4 d    0    Z   
+         11 k    1    Z   
+         13 m    2    Z   
+         15 o    3    A   
+         17 p    B    Z   
+         19 q    4    C   
+         20 r    5    D   
+         21 s    6    E   
+         99 NULL 2    Z   
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+ORDERS      CH1  PX1  CH2 
+----------- ---- ---- ----
+<group_begin>
+          1 a    2    W   
+          2 b    2    W   
+          3 c    0    W   
+          4 d    0    W   
+          5 e    NULL W   
+          6 f    NULL W   
+          7 g    2    W   
+          8 h    NULL W   
+          9 i    NULL W   
+         10 j    NULL W   
+         11 k    1    Z   
+         12 l    NULL Z   
+         13 m    2    Z   
+         14 n    NULL Z   
+         15 o    3    A   
+         16 p    NULL Z   
+         17 p    B    Z   
+         18 NULL NULL Z   
+         19 q    4    C   
+         20 r    5    D   
+         21 0    6    E   
+         99 0    2    Z   
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>

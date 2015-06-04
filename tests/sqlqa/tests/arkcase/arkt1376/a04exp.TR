@@ -1,0 +1,107 @@
+<section_begin>  a04s0
+
+PIC_9_7   MEDIUM_INT 
+--------- -----------
+<group_begin>
+       50        2000
+       50        1000
+       50         999
+       50         200
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+PIC_X_1 PIC_9_7   MEDIUM_INT 
+------- --------- -----------
+<group_begin>
+Q              50         200
+Q              50         999
+Q              50        1000
+Q              50        2000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+DECIMAL_1 NEW_NAME_1
+--------- ----------
+<group_begin>
+        1         80
+        4         80
+        5         80
+        7         80
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+DECIMAL_1 NEW_NAME_1
+--------- ----------
+<group_begin>
+        1         90
+        4         90
+        5         90
+        7         90
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+MEDIUM_INT MEDIUM_INT 
+---------- -----------
+      1000        1000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+MEDIUM_INT
+----------
+<group_begin>
+      5000
+      8000
+      9000
+     10000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+NEW_NAME_3 COL_3     
+---------- ----------
+<group_begin>
+7                1000
+7                5000
+7                8000
+7                9000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+CHAR_1 MEDIUM_INT
+------ ----------
+<group_begin>
+A            8000
+A           10000
+C            1000
+D            8000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

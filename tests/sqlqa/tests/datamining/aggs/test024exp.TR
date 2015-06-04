@@ -1,0 +1,18 @@
+<section_begin>  test024a
+
+VAR                      STDEV                   
+------------------------ ------------------------
+   4.3888753769984851E17      6.624858773587921E8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test024b
+
+VAR                  STDEV               
+-------------------- --------------------
+  438887537699848512        662485877.358
+
+--- 1 row(s) selected.
+
+<section_end>

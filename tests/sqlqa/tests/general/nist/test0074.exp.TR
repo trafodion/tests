@@ -1,0 +1,16 @@
+<section_begin>  test0074
+
+PNUM (EXPR)              
+---- --------------------
+<group_begin>
+P1                     80
+P2                    140
+P3                     80
+P4                     60
+P5                     92
+P6                     12
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

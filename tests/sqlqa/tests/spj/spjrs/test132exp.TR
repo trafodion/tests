@@ -1,0 +1,24 @@
+<section_begin>  verify
+<group_begin>
+
+DOUBLECOL
+------------------------
+                 6.28318
+
+--- 1 row(s) selected.
+
+DOUBLECOL
+------------------------
+                 3.14159
+                 6.28318
+                 9.42477
+                12.56636
+                15.70795
+                 3.14159
+
+--- 6 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

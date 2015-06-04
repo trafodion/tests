@@ -1,0 +1,142 @@
+<section_begin>  a10s1
+
+TWO_FOUR_BIN
+------------
+      1.1001
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s2
+
+TWO_FOUR_BIN
+------------
+      1.1001
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s3
+
+TWO_FOUR_BIN
+------------
+      1.0016
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s4
+
+TWO_FOUR_BIN
+------------
+      0.0001
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s5
+
+ONE_ONE_BIN
+-----------
+        1.1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s7
+
+ONE_ONE_BIN
+-----------
+        0.1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s8
+
+ONE_ONE_BIN
+-----------
+        1.1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s10
+
+ONE_ONE_BIN
+-----------
+        0.1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s12
+
+ONE_ONE_BIN
+-----------
+        1.1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s14
+
+ONE_ONE_BIN
+-----------
+        9.9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s16
+
+ONE_ONE_BIN
+-----------
+        1.1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s18
+
+ONE_ONE_BIN
+-----------
+        9.9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s20
+
+(EXPR)
+--------------------
+ 1000000000000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s22
+
+(EXPR)
+--------------------
+ 1000000000000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s24
+
+TEST_SEQ TWO_FOUR_BIN ZERO_EIGHTEEN_BIN    ZERO_EIGHTEEN_DEC    EIGHTEEN_ZERO_BIN    EIGHTEEN_ZERO_DEC   
+-------- ------------ -------------------- -------------------- -------------------- --------------------
+<group_begin>
+       1       1.1001 0.000000000000000000 0.000000000000000000                    0                    0
+       2       1.0016 0.000000000000000000 0.000000000000000000                    0                    0
+       3       0.0001 0.000000000000000000 0.000000000000000000                    0                    0
+       5       0.0000 0.000000000000000000 0.000000000000000000                    0                    0
+       6       0.0000 0.000000000000000000 0.000000000000000000                    0                    1
+       7       0.0000 0.000000000000000000 0.000000000000000000                    0                    0
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

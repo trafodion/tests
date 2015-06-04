@@ -1,0 +1,52 @@
+<section_begin>  s1
+
+EMPNAME              GRADE 
+-------------------- ------
+<group_begin>
+Betty                    10
+Carmen                   13
+Ed                       13
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+EMPNAME              GRADE 
+-------------------- ------
+<group_begin>
+Betty                    10
+Carmen                   13
+Ed                       13
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+EMPNAME              GRADE 
+-------------------- ------
+<group_begin>
+Betty                    10
+Carmen                   13
+Ed                       13
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+EMPNAME              GRADE 
+-------------------- ------
+<group_begin>
+Betty                    10
+Carmen                   13
+Ed                       13
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

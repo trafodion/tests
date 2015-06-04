@@ -1,0 +1,149 @@
+<section_begin>  a01s1
+
+LAST_NAME
+----------
+<group_begin>
+CLARK     
+CRINAR    
+GREEN     
+HOWARD    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR)
+------
+a     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+(EXPR)
+--------------------
+<group_begin>
+CLARK     DINAH     
+CRINAR    JESSICA   
+GREEN     ROGER     
+HOWARD    JERRY     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+(EXPR)
+--------------------
+<group_begin>
+CLARK     DINAH     
+CRINAR    JESSICA   
+GREEN     ROGER     
+HOWARD    JERRY     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+(EXPR)
+--------------
+<group_begin>
+CLARK     name
+CRINAR    name
+GREEN     name
+HOWARD    name
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+------------------
+<group_begin>
+CLARK     55 53 41
+CRINAR    55 53 41
+GREEN     55 53 41
+HOWARD    55 53 41
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+(EXPR)
+------------------------------
+<group_begin>
+CLARK     DINAH     PROGRAMMER
+CRINAR    JESSICA   INTERN    
+GREEN     ROGER     MANAGER   
+HOWARD    JERRY     ANALYST   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+(EXPR)
+------------------------------
+<group_begin>
+CLARK     DINAH     PROGRAMMER
+CRINAR    JESSICA   INTERN    
+GREEN     ROGER     MANAGER   
+HOWARD    JERRY     ANALYST   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+(EXPR)
+---------------------------------
+<group_begin>
+CLARK     name and job PROGRAMMER
+CRINAR    name and job INTERN    
+GREEN     name and job MANAGER   
+HOWARD    name and job ANALYST   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+(EXPR)
+-------------------
+<group_begin>
+PROGRAMMER job code
+INTERN job code    
+MANAGER job code   
+ANALYST job code   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+(EXPR)
+-------------------
+<group_begin>
+PROGRAMMER job_code
+INTERN job_code    
+MANAGER job_code   
+ANALYST job_code   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

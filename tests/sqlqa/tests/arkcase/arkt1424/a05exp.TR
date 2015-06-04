@@ -1,0 +1,117 @@
+<section_begin>  a05s0
+
+COL_FIX1                       COL_VAR2             COL_FIX3    COL_VAR4                       COL_FIX5 COL_VAR6                       COL_FIX7             COL_VAR8                  COL_FIX9     COL_VAR10                      COL_FIX11 COL_FIX12 
+------------------------------ -------------------- ----------- ------------------------------ -------- ------------------------------ -------------------- ------------------------- ------------ ------------------------------ --------- ----------
+<group_begin>
+Karen                          XIONG                          1 LOC251                           2200.0 Texas A&M University                         980520 China                               94 Texas                               1997 1997-12-20
+Lalitha                        Maruvada                       2 LOC252                           2130.0 University of Colorado                       970320 India                               93 Colorado                            1997 1997-05-20
+Jerry                          Zheng                          3 LOC201                           1320.0 Cornell University                           960302 Taiwan                              92 New York                            1995 1995-12-10
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+COL_FIX1                       COL_VAR2             COL_FIX3    COL_VAR4                       COL_FIX5 COL_VAR6                       COL_FIX7             COL_VAR8                  COL_FIX9     COL_VAR10                      COL_FIX11 COL_FIX12 
+------------------------------ -------------------- ----------- ------------------------------ -------- ------------------------------ -------------------- ------------------------- ------------ ------------------------------ --------- ----------
+<group_begin>
+Karen                          XIONG                          1 LOC251                           2200.0 Texas A&M University                         980520 China                               94 Texas                               1997 1997-12-20
+Lalitha                        Maruvada                       2 LOC252                           2130.0 University of Colorado                       970320 India                               93 Colorado                            1997 1997-05-20
+Jerry                          Zheng                          3 LOC201                           1320.0 Cornell University                           960302 Taiwan                              92 New York                            1995 1995-12-10
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+COL_FIX1                       COL_VAR2             COL_FIX3    COL_VAR4                       COL_FIX5 COL_VAR6                       COL_FIX7             COL_VAR8                  COL_FIX9     COL_VAR10                      COL_FIX11 COL_FIX12 
+------------------------------ -------------------- ----------- ------------------------------ -------- ------------------------------ -------------------- ------------------------- ------------ ------------------------------ --------- ----------
+<group_begin>
+Karen                          XIONG                          1 LOC251                           2200.0 Texas A&M University                         980520 China                               94 Texas                               1997 1997-12-20
+Lalitha                        Maruvada                       2 LOC252                           2130.0 University of Colorado                       970320 India                               93 Colorado                            1997 1997-05-20
+Jerry                          Zheng                          3 LOC201                           1320.0 Cornell University                           960302 Taiwan                              92 New York                            1995 1995-12-10
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+COL_FIX1                       COL_VAR2             COL_FIX3    COL_VAR4                       COL_FIX5 COL_VAR6                       COL_FIX7             COL_VAR8                  COL_FIX9     COL_VAR10                      COL_FIX11 COL_FIX12 
+------------------------------ -------------------- ----------- ------------------------------ -------- ------------------------------ -------------------- ------------------------- ------------ ------------------------------ --------- ----------
+<group_begin>
+Karen                          XIONG                          1 LOC251                           2200.0 Texas A&M University                         980520 CHANGED VALUE                       94 Texas                               1997 1997-12-20
+Lalitha                        Maruvada                       2 LOC252                           2130.0 University of Colorado                       970320 India                               93 Colorado                            1997 1997-05-20
+Jerry                          Zheng                          3 LOC201                           1320.0 Cornell University                           960302 Taiwan                              92 New York                            1995 1995-12-10
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+COL_FIX1                       COL_VAR2             COL_FIX3    COL_VAR4                       COL_FIX5 COL_VAR6                       COL_FIX7             COL_VAR8                  COL_FIX9     COL_VAR10                      COL_FIX11 COL_FIX12 
+------------------------------ -------------------- ----------- ------------------------------ -------- ------------------------------ -------------------- ------------------------- ------------ ------------------------------ --------- ----------
+<group_begin>
+Karen                          XIONG                          1 LOC251                           2200.0 Texas A&M University                         980520 China                               94 Texas                               1997 1997-12-20
+Lalitha                        Maruvada                       2 LOC252                           2130.0 University of Colorado                       970320 India                               93 Colorado                            1997 1997-05-20
+Jerry                          Zheng                          3 LOC201                           1320.0 Cornell University                           960302 Taiwan                              92 New York                            1995 1995-12-10
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+COL_FIX1                       COL_VAR2             COL_FIX3    COL_VAR4                       COL_FIX5 COL_VAR6                       COL_FIX7             COL_VAR8                  COL_FIX9     COL_VAR10            COL_FIX11 COL_VAR12           
+------------------------------ -------------------- ----------- ------------------------------ -------- ------------------------------ -------------------- ------------------------- ------------ -------------------- --------- --------------------
+<group_begin>
+Karen                          XIONG                          1 LOC251                           2200.0 San Jose State                               980520 China                               94 Texas                     1997 University relations
+Lalitha                        Maruvada                       2 LOC252                           2130.0 University of Colorado                       970320 India                               93 Colorado                  1997 Job fair            
+Jerry                          Zheng                          3 LOC201                           1320.0 Cornell University                           960302 Taiwan                              92 New York                  1995 Internal Transfer   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+COL_FIX1                       COL_VAR2             COL_FIX3    COL_VAR4                       COL_FIX5 COL_VAR6                       COL_FIX7             COL_VAR8                  COL_FIX9     COL_VAR10            COL_FIX11 COL_VAR12           
+------------------------------ -------------------- ----------- ------------------------------ -------- ------------------------------ -------------------- ------------------------- ------------ -------------------- --------- --------------------
+<group_begin>
+NULL                           NULL                         100 NULL                             1234.5 NULL                                         991231 NULL                              2000 NULL                      1999 NULL                
+NULL                           NULL                         100 NULL                             1234.5 NULL                                         991231 NULL                              2000 NULL                      1999 NULL                
+NULL                           NULL                         100 NULL                             1234.5 NULL                                         991231 NULL                              2000 NULL                      1999 NULL                
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+COL_FIX1                       COL_VAR2             COL_FIX3    COL_VAR4                       COL_FIX5 COL_VAR6                       COL_FIX7             COL_VAR8                  COL_FIX9     COL_VAR10            COL_FIX11 COL_VAR12           
+------------------------------ -------------------- ----------- ------------------------------ -------- ------------------------------ -------------------- ------------------------- ------------ -------------------- --------- --------------------
+<group_begin>
+FIRST_NAME                     LAST_NAME                    100 LOCATION                         1234.6 SCHOOL NAME                                  991231 NATIONALITY                       2000 STATE                     1999 RECRUITING SOURCES  
+FIRST_NAME                     LAST_NAME                    100 LOCATION                         1234.6 SCHOOL NAME                                  991231 NATIONALITY                       2000 STATE                     1999 RECRUITING SOURCES  
+FIRST_NAME                     LAST_NAME                    100 LOCATION                         1234.6 SCHOOL NAME                                  991231 NATIONALITY                       2000 STATE                     1999 RECRUITING SOURCES  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a05s9
+
+COL_FIX1                       COL_VAR2             COL_FIX3    COL_VAR4                       COL_FIX5 COL_VAR6                       COL_FIX7             COL_VAR8                  COL_FIX9     COL_VAR10            COL_FIX11 COL_VAR12           
+------------------------------ -------------------- ----------- ------------------------------ -------- ------------------------------ -------------------- ------------------------- ------------ -------------------- --------- --------------------
+<group_begin>
+Karen                          XIONG                          1 LOC251                           2200.0 San Jose State                               980520 China                               94 Texas                     1997 University relations
+Lalitha                        Maruvada                       2 LOC252                           2130.0 University of Colorado                       970320 India                               93 Colorado                  1997 Job fair            
+Jerry                          Zheng                          3 LOC201                           1320.0 Cornell University                           960302 Taiwan                              92 New York                  1995 Internal Transfer   
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

@@ -1,0 +1,24 @@
+<section_begin>  test0180b
+
+EMPNUM GRADE 
+------ ------
+<group_begin>
+E2         10
+E4         12
+E1       NULL
+E3       NULL
+E5       NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  test0180d
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>

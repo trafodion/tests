@@ -1,0 +1,63 @@
+<section_begin>  verify
+<group_begin>
+
+IVYR
+----
+97  
+ 0  
+-30 
+
+--- 3 row(s) selected.
+
+IVMN
+----
+ 2  
+ 0  
+-12 
+
+--- 3 row(s) selected.
+
+IVDY
+----
+11  
+ 0  
+-31 
+
+--- 3 row(s) selected.
+
+IVHR
+----
+15  
+ 0  
+-24 
+
+--- 3 row(s) selected.
+
+IVMT
+----
+45  
+ 0  
+-60 
+
+--- 3 row(s) selected.
+
+IVSC
+----------
+14.000000 
+ 0.000000 
+-59.000000
+
+--- 3 row(s) selected.
+
+IVSC6
+----------
+23.123456 
+ 0.000000 
+-59.999999
+
+--- 3 row(s) selected.
+
+--- SQL operation complete.
+
+<group_end> 
+<section_end>

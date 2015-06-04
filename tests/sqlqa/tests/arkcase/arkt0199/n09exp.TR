@@ -1,0 +1,47 @@
+<section_begin>  n09s0
+
+CHAR_1 VAR_CHAR                                                                                                                         PIC_COMP_1  
+------ -------------------------------------------------------------------------------------------------------------------------------- ------------
+<group_begin>
+D      thomas                                                                                                                                    500
+A      B                                                                                                                                          50
+A      B                                                                                                                                          60
+D      jimmy                                                                                                                                     500
+E      christopher                                                                                                                              3000
+C      marilyn                                                                                                                                   500
+C      thomas                                                                                                                                     50
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  n09s5
+
+FLOAT_BASIC
+------------------------
+<group_begin>
+                     1.2
+                    NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  n09s7
+
+PIC_X_7
+-------
+<group_begin>
+7      
+A      
+B      
+black  
+green  
+sue    
+sue    
+white  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

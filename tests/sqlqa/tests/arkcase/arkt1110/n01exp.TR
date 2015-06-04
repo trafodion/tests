@@ -1,0 +1,28 @@
+<section_begin>  n01s4
+
+(EXPR)                                   CHAR0_1000                       UBIN3_UNIQ (EXPR)          
+---------------------------------------- -------------------------------- ---------- ----------------
+<group_begin>
+BQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA CCAAKAAAAAAAAAAAAAAAAAAAAAAAAAAA          7 CCAAKAABAAAAAAAA
+ATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA DEAACAAAAAAAAAAAAAAAAAAAAAAAAAAA       1995 DEAACAAEAAAAAAAA
+AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA DDAABAAAAAAAAAAAAAAAAAAAAAAAAAAA       1996 DDAABAADAAAAAAAA
+AYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA FGAADAAAAAAAAAAAAAAAAAAAAAAAAAAA       1997 FGAADAAEAAAAAAAA
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  n01s8
+
+(EXPR)                                   CHAR0_1000                       UBIN3_UNIQ (EXPR)          
+---------------------------------------- -------------------------------- ---------- ----------------
+<group_begin>
+BQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Update all rows to new value              7 CCAAKAABAAAAAAAA
+ATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Update all rows to new value           1995 DEAACAAEAAAAAAAA
+AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Update all rows to new value           1996 DDAABAADAAAAAAAA
+AYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Update all rows to new value           1997 FGAADAAEAAAAAAAA
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

@@ -1,0 +1,24 @@
+<section_begin>  b03s0
+
+SBIN0_4     VARCHAR0_500 UBIN16_N10 SDEC16_UNIQ          CHAR16_N20 CHAR17_2
+----------- ------------ ---------- -------------------- ---------- --------
+<group_begin>
+          0 BDAAAAAA              8                 2028 AD         AAAAAAAA
+          1 ACAABAAA              3                 1993 BDAA       AAAAAAAA
+          1 BBA%FAAA              3                 3293 BD         BAAAAAAA
+          1 BBAABA_A              1                 3917 BBAA       BAAAAAAA
+          3 CAAAGAAA              1                 4151 BB         BAAAAAAA
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  b03s1
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,119 @@
+<section_begin>  a09s0
+
+CHAR2_2 CHAR3_4  SBIN4_N1000 SBIN7_N20 CHAR0_N10 SBIN0_UNIQ
+------- -------- ----------- --------- --------- ----------
+<group_begin>
+AA      BA              -509        -4 NULL            -201
+AA      BA              -509        -4 NULL            -200
+BA      AA              -678       -12 NULL            -101
+BA      CA              -594        -9 NULL            -100
+DA      CA              -417        -9 NULL              -1
+EA      DA              -866       -10 NULL               0
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+CHAR2_2 CHAR3_4  SBIN4_N1000 SBIN7_N20 SBIN0_4     VARCHAR0_UNIQ
+------- -------- ----------- --------- ----------- -------------
+<group_begin>
+AA      AAAAAAAA        -509        -4          -1 AEAAJAAB     
+AA      AAAAAAAA        -678       -12          -2 CCAAFAAC     
+AA      BAAAAAAA        -724        -1           0 CJAAAAAC     
+BA      BAAAAAAA        -594        -9          -2 AIAALAAA     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+CHAR2_2
+-------
+<group_begin>
+AA     
+AA     
+AA     
+BA     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+CHAR2_2
+-------
+<group_begin>
+AA     
+AA     
+AA     
+BA     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a09s4
+
+CHAR2_2 CHAR3_4 
+------- --------
+<group_begin>
+AA      BA      
+AA      BA      
+BA      AA      
+BA      CA      
+DA      CA      
+EA      DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s5
+
+N1     C2  
+------ ----
+<group_begin>
+ -4344 AA  
+ -3552 BA  
+ -2789 DA  
+ -2389 BA  
+  NULL NULL
+  NULL NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s6
+
+N1     C2   C3   C4      
+------ ---- ---- --------
+<group_begin>
+ -4344 AA   BA   BA      
+ -3552 BA   AA   AA      
+ -2789 DA   EA   NULL    
+ -2389 BA   AA   AA      
+  NULL NULL BA   BA      
+  NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s7
+
+N1     C2  
+------ ----
+<group_begin>
+ -4344 AA  
+ -3552 BA  
+ -2389 BA  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

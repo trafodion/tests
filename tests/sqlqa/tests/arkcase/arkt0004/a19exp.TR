@@ -1,0 +1,1020 @@
+<section_begin>  a19s0
+
+FNAME
+--------------------
+<group_begin>
+LUKE                
+KATHY PEPE          
+MARK                
+JESSIE MARTYN       
+MATTHEW             
+JOE COHN            
+DICK NIX            
+AL HARTLEY          
+HANK KISS           
+JULIE MARTYN        
+JOHN                
+LISA BOBAK          
+EUCLID              
+BARB HLAVATY        
+ARCHIMEDES          
+DA VINCI            
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a19s1
+
+DEPT
+----
+<group_begin>
+PHIL
+THEO
+CIS 
+MATH
+ENG 
+NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a19s2
+
+DEPT
+----
+<group_begin>
+PHIL
+THEO
+THEO
+THEO
+CIS 
+THEO
+CIS 
+PHIL
+PHIL
+PHIL
+THEO
+THEO
+CIS 
+MATH
+ENG 
+NULL
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a19s3
+
+ESALARY
+--------------
+<group_begin>
+      35000.00
+         53.00
+      45000.00
+         52.00
+         51.00
+      25001.00
+      25000.00
+      36000.00
+         54.00
+       1000.00
+        200.00
+        500.00
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a19s4
+
+ENAME                DEPT ETITLE                   
+-------------------- ---- -------------------------
+<group_begin>
+MATTHEW              THEO EVANGLIST1               
+MARK                 THEO EVANGLIST2               
+LUKE                 THEO EVANGLIST3               
+LISA BOBAK           THEO 77 LAUGHING LN           
+JOHN                 THEO EVANGLIST4               
+JESSIE MARTYN        THEO 2135 EAST DR             
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a19s5
+
+CDEPT CRED        CDESCP                   
+----- ----------- -------------------------
+<group_begin>
+PHIL            2 7 STONEBRIDGE RD         
+PHIL            3 SEE IT-BELIEVE IT        
+PHIL            1 2135 EAST DR             
+PHIL            3 FOR CIS MAJORS           
+PHIL            6 MY SELF AND I            
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a19s6
+
+(EXPR)       (EXPR)              
+------------ --------------------
+<group_begin>
+upper                      300.00
+intermediate                66.66
+lower                       90.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a19s7
+
+(EXPR)  CLABFEE   CRED       
+------- --------- -----------
+<group_begin>
+faculty  35000.00           2
+course     100.00           3
+faculty  45000.00           7
+course      50.00           3
+faculty  35000.00           3
+course       0.00           3
+course     500.00           3
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a19s8
+
+(EXPR)    CNAME                  CDEPT CLABFEE
+--------- ---------------------- ----- -------
+<group_begin>
+cheap     DATA STRUCTURES        CIS     50.00
+expensive RELATIONAL DATABASES   CIS    500.00
+cheap     DISCREET MATHEMATICS   CIS      0.00
+expensive EXISTENTIALISM         PHIL   200.00
+cheap     DIGITAL CIRCUITS       CIS      0.00
+expensive COMMUNISM              THEO   200.00
+cheap     RATIONALISM            PHIL    50.00
+cheap     SOLIPSISM              PHIL     0.00
+cheap     HEDONISM               THEO     0.00
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a19s13
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a19s14
+
+COL2
+-----------
+<group_begin>
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a19s15
+
+COL3
+-----------
+<group_begin>
+         21
+         22
+         23
+         24
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a19s16
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a19s17
+
+COL2
+-----------
+<group_begin>
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+<group_end>
+
+--- 17 row(s) selected.
+
+<section_end>
+<section_begin>  a19s18
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s19
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s20
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          6
+          7
+          7
+          8
+          8
+          9
+          9
+         10
+         10
+         11
+         11
+         21
+         22
+         23
+         24
+         25
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s21
+
+COL2
+-----------
+<group_begin>
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         21
+         22
+         22
+         23
+         23
+         24
+         24
+         25
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s22
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s23
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          6
+          7
+          7
+          8
+          8
+          9
+          9
+         10
+         10
+         11
+         11
+         21
+         21
+         22
+         22
+         23
+         23
+         24
+         24
+         25
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+<group_end>
+
+--- 33 row(s) selected.
+
+<section_end>
+<section_begin>  a19s24
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+         32
+         33
+         34
+         35
+         36
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a19s25
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+         32
+         33
+         34
+         35
+         36
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a19s26
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a19s27
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          6
+          7
+          7
+          8
+          8
+          9
+          9
+         10
+         10
+         11
+         11
+         21
+         22
+         23
+         24
+         25
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s28
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a19s29
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          6
+          7
+          7
+          8
+          8
+          9
+          9
+         10
+         10
+         11
+         11
+         21
+         22
+         23
+         24
+         25
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s30
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a19s31
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a19s32
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a19s33
+
+COL1
+-----------
+<group_begin>
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+          1
+         22
+         23
+         24
+         25
+          2
+          3
+          4
+          5
+         26
+         27
+         28
+         29
+         30
+         31
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s34
+
+COL1
+-----------
+<group_begin>
+         21
+         22
+         23
+         24
+         25
+         26
+          6
+         27
+          1
+         28
+          7
+         29
+         30
+         31
+          2
+          8
+          3
+          9
+          4
+         10
+          5
+         11
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s35
+
+COL1
+-----------
+<group_begin>
+         21
+         22
+         23
+          6
+         24
+          1
+         25
+          7
+         26
+          2
+          8
+          3
+         27
+          9
+         28
+          4
+         29
+         10
+         30
+          5
+         31
+         11
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s36
+
+COL1
+-----------
+<group_begin>
+         21
+         22
+         23
+          6
+         24
+          1
+         25
+          7
+         26
+          2
+          8
+          3
+         27
+          9
+         28
+          4
+         29
+         10
+         30
+          5
+         31
+         11
+          6
+         21
+          7
+         22
+          8
+         23
+          9
+         24
+         25
+         10
+         11
+<group_end>
+
+--- 33 row(s) selected.
+
+<section_end>
+<section_begin>  a19s37
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s38
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s39
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+         10
+         11
+         21
+         22
+         23
+         24
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  a19s40
+
+COL1
+-----------
+<group_begin>
+          1
+          2
+          3
+          4
+          5
+          6
+          6
+          7
+          7
+          8
+          8
+          9
+          9
+         10
+         10
+         11
+         11
+         21
+         21
+         22
+         22
+         23
+         23
+         24
+         24
+         25
+         25
+         26
+         27
+         28
+         29
+         30
+         31
+<group_end>
+
+--- 33 row(s) selected.
+
+<section_end>

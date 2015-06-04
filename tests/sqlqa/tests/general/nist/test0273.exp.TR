@@ -1,0 +1,18 @@
+<section_begin>  test0273b
+
+(EXPR)               (EXPR)  (EXPR)  (EXPR)
+-------------------- ------- ------- ------
+                NULL    NULL    NULL E1    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0273d
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

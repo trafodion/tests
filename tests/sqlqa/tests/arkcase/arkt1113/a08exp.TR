@@ -1,0 +1,98 @@
+<section_begin>  a08s0
+
+VARCHAR1              VARCHAR2                SOMENUMBER 
+--------------------- ----------------------- -----------
+on                    off                               1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s3
+
+VARCHAR1              VARCHAR2                SOMENUMBER 
+--------------------- ----------------------- -----------
+<group_begin>
+doughnut              day                            9998
+omega                 plus                              3
+on                    off                               1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s4
+
+VARCHAR1              VARCHAR2                SOMENUMBER 
+--------------------- ----------------------- -----------
+<group_begin>
+doughnut              day                            9998
+omega                 plus                              3
+on                    off                               1
+volley                ball                           9999
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s6
+
+VARCHAR1              VARCHAR2                SOMENUMBER 
+--------------------- ----------------------- -----------
+<group_begin>
+doughnut              day                            9998
+omega                 plus                              3
+on                    off                               1
+volley                ball                           9999
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s7
+
+VARCHAR1              VARCHAR2                SOMENUMBER 
+--------------------- ----------------------- -----------
+<group_begin>
+doughnut              day                            9998
+omega                 plus                              3
+on                    off                               1
+read                  committed                        12
+volley                ball                           9999
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s8
+
+VARCHAR1              VARCHAR2                SOMENUMBER 
+--------------------- ----------------------- -----------
+<group_begin>
+doughnut              day                            9998
+omega                 plus                              3
+on                    off                               1
+read                  committed                        12
+repeatable            read                             13
+volley                ball                           9999
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a08s9
+
+VARCHAR1              VARCHAR2                SOMENUMBER 
+--------------------- ----------------------- -----------
+<group_begin>
+doughnut              day                            9998
+omega                 plus                              3
+on                    off                               1
+read                  committed                        12
+repeatable            read                             13
+serializable          NULL                             14
+volley                ball                           9999
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

@@ -1,0 +1,60 @@
+<section_begin>  s1
+
+SNUM  SNAME                STATUS CITY           
+----- -------------------- ------ ---------------
+<group_begin>
+s1    Smith                    20 London         
+s2    Jones                    10 Paris          
+s3    Blake                    30 Paris          
+s4    Clark                    20 London         
+s5    Adams                    30 Athens         
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+SNUM  SNAME                STATUS CITY           
+----- -------------------- ------ ---------------
+<group_begin>
+s1    Smith                    20 London         
+s2    Jones                    10 Paris          
+s3    Blake                    30 Paris          
+s4    Clark                    20 London         
+s5    Adams                    30 Athens         
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+SNUM  SNAME                STATUS CITY           
+----- -------------------- ------ ---------------
+<group_begin>
+s1    Smith                    20 London         
+s2    Jones                    10 Paris          
+s3    Blake                    30 Paris          
+s4    Clark                    20 London         
+s5    Adams                    30 Athens         
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+SNUM  SNAME                STATUS CITY           
+----- -------------------- ------ ---------------
+<group_begin>
+s1    Smith                    20 London         
+s2    Jones                    10 Paris          
+s3    Blake                    30 Paris          
+s4    Clark                    20 London         
+s5    Adams                    30 Athens         
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

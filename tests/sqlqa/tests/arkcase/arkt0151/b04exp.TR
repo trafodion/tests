@@ -1,0 +1,26 @@
+<section_begin>  b04s0
+
+Y    Y_TO_MO MO_1 D   
+---- ------- ---- ----
+<group_begin>
+ 1    0-00   NULL 15  
+30    0-00   NULL 20  
+99    0-10   10   23  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  b04s1
+
+D_TO_H_1 D_TO_MI   D_TO_S_1            H_TO_MI
+-------- --------- ------------------- -------
+<group_begin>
+ 0 00    23 12:55  25 14:55:55.000000  12:15  
+ 0 00    20 18:00  24 00:00:00.000000   0:12  
+22 13    23 00:00   0 00:00:45.000000   0:30  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

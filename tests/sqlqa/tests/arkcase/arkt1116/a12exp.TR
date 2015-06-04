@@ -1,0 +1,76 @@
+<section_begin>  a12s0
+
+LAST_NAME       FIRST_NAME   
+--------------- -------------
+<group_begin>
+AGGARWAL        YUGAL        
+Baxter          Kathy        
+HAUSMANN        NULL         
+JOYCE           MARIA        
+MEHTA           BHAVESH      
+RAMASWAMY       ANANDHI      
+aradhyula       shanti       
+kapoor          sulu         
+martin          steve        
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a12s1
+
+(EXPR)                       CLEN_EXPONENT_1
+---------------------------- ---------------
+<group_begin>
+AGGARWALYUGAL                             13
+BaxterKathy                               11
+JOYCEMARIA                                10
+MEHTABHAVESH                              12
+RAMASWAMYANANDHI                          16
+aradhyulashanti                           15
+kapoorsulu                                10
+martinsteve                               11
+NULL                                    NULL
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a12s2
+
+CLEN_EXPONENT_1
+---------------
+<group_begin>
+            100
+            100
+            121
+            121
+            144
+            169
+            225
+            256
+           NULL
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a12s3
+
+THREE_SQUARED
+------------------------
+<group_begin>
+                     9.0
+                     9.0
+                     9.0
+                     9.0
+                     9.0
+                     9.0
+                     9.0
+                     9.0
+                     9.0
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>

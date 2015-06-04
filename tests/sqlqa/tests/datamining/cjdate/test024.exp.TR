@@ -1,0 +1,84 @@
+<section_begin>  s1
+
+SNUM  PNUM   JNUM QTY        
+----- ------ ---- -----------
+<group_begin>
+s1    p1     j4           700
+s2    p3     j1           400
+s2    p3     j4           500
+s2    p3     j5           600
+s2    p3     j6           400
+s3    p4     j2           500
+s4    p6     j3           300
+s4    p6     j7           300
+s5    p5     j4           400
+s5    p5     j5           500
+s5    p6     j4           500
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+SNUM  PNUM   JNUM QTY        
+----- ------ ---- -----------
+<group_begin>
+s1    p1     j4           700
+s2    p3     j1           400
+s2    p3     j4           500
+s2    p3     j5           600
+s2    p3     j6           400
+s3    p4     j2           500
+s4    p6     j3           300
+s4    p6     j7           300
+s5    p5     j4           400
+s5    p5     j5           500
+s5    p6     j4           500
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+SNUM  PNUM   JNUM QTY        
+----- ------ ---- -----------
+<group_begin>
+s1    p1     j4           700
+s2    p3     j1           400
+s2    p3     j4           500
+s2    p3     j5           600
+s2    p3     j6           400
+s3    p4     j2           500
+s4    p6     j3           300
+s4    p6     j7           300
+s5    p5     j4           400
+s5    p5     j5           500
+s5    p6     j4           500
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+SNUM  PNUM   JNUM QTY        
+----- ------ ---- -----------
+<group_begin>
+s1    p1     j4           700
+s2    p3     j1           400
+s2    p3     j4           500
+s2    p3     j5           600
+s2    p3     j6           400
+s3    p4     j2           500
+s4    p6     j3           300
+s4    p6     j7           300
+s5    p5     j4           400
+s5    p5     j5           500
+s5    p6     j4           500
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>

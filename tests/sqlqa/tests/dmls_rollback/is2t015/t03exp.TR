@@ -1,0 +1,27 @@
+<section_begin>  t03s4
+
+(EXPR)
+--------------------
+               10000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t03s9
+
+(EXPR)
+--------------------
+                1001
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t03s12
+
+UNIQUE1     UNIQUE2     UNIQUE3    
+----------- ----------- -----------
+        440           0         440
+
+--- 1 row(s) selected.
+
+<section_end>

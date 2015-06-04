@@ -1,0 +1,3087 @@
+<section_begin>  a01s9
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s18
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s19
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s20
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s21
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s22
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s23
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s24
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s25
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s26
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s27
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s28
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s29
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         10                   10 baa 
+   20         10                   20 bab 
+   20         10                   30 bac 
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+   20         30                   10 bca 
+   20         30                   20 bcb 
+   20         30                   30 bcc 
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s30
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s31
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s32
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s33
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s34
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s35
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s43
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s44
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s45
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s46
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s47
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s48
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s49
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s50
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s51
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s52
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s53
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s54
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s55
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s56
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s57
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s58
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s59
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s60
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s61
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s62
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s63
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         10                   10 baa 
+   20         10                   20 bab 
+   20         10                   30 bac 
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+   20         30                   10 bca 
+   20         30                   20 bcb 
+   20         30                   30 bcc 
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s64
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s65
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s66
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s67
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s68
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s69
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s77
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s78
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s79
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s80
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s81
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s82
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s83
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s84
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s85
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s86
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s87
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s88
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s89
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s90
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s91
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s92
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s93
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s94
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s95
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s96
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s97
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         10                   10 baa 
+   20         10                   20 bab 
+   20         10                   30 bac 
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+   20         30                   10 bca 
+   20         30                   20 bcb 
+   20         30                   30 bcc 
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s98
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s99
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s100
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s101
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s102
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s103
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s111
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s112
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s113
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s114
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s115
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s116
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s117
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s118
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s119
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s120
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s121
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s122
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s123
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s124
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s125
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s126
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s127
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s128
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s129
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s130
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s131
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         10                   10 baa 
+   20         10                   20 bab 
+   20         10                   30 bac 
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+   20         30                   10 bca 
+   20         30                   20 bcb 
+   20         30                   30 bcc 
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s132
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s133
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s134
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s135
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s136
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s137
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s145
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s146
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s147
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s148
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s149
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s150
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s151
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s152
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s153
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s154
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s155
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s156
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s157
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s158
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s159
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s160
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s161
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s162
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s163
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s164
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s165
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         10                   10 baa 
+   20         10                   20 bab 
+   20         10                   30 bac 
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+   20         30                   10 bca 
+   20         30                   20 bcb 
+   20         30                   30 bcc 
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s166
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s167
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s168
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s169
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s170
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s171
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s179
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s180
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s181
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s182
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s183
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s184
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s185
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s186
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s187
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s188
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s189
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s190
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s191
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s192
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s193
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s194
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s195
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s196
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s197
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s198
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s199
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         10                   10 baa 
+   20         10                   20 bab 
+   20         10                   30 bac 
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+   20         30                   10 bca 
+   20         30                   20 bcb 
+   20         30                   30 bcc 
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s200
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s201
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s202
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s203
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s204
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s205
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s213
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s214
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s215
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s216
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s217
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s218
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s219
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s220
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s221
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s222
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s223
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s224
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s225
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s226
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s227
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s228
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s229
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s230
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s231
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s232
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s233
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         10                   10 baa 
+   20         10                   20 bab 
+   20         10                   30 bac 
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+   20         30                   10 bca 
+   20         30                   20 bcb 
+   20         30                   30 bcc 
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s234
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s235
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s236
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s237
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s238
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s239
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s247
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s248
+
+(EXPR)
+--------------------
+                  13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s249
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s250
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s251
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s252
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         30                   10 aca 
+   10         30                   20 acb 
+   10         30                   30 acc 
+   10         10                 NULL aca 
+   10       NULL                   10 NULL
+   10       NULL                 NULL aaa 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s253
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s254
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s255
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s256
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s257
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s258
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s259
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s260
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s261
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   30         20                   10 cba 
+   30         20                   20 cbb 
+   30         20                   30 cbc 
+   30         30                   10 cca 
+   30         30                   20 ccb 
+   30         30                   30 ccc 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s262
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s263
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s264
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s265
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s266
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL       NULL                   10 bbb 
+ NULL       NULL                 NULL NULL
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s267
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   20         10                   10 baa 
+   20         10                   20 bab 
+   20         10                   30 bac 
+   20         20                   10 bba 
+   20         20                   20 bbb 
+   20         20                   30 bbc 
+   20         30                   10 bca 
+   20         30                   20 bcb 
+   20         30                   30 bcc 
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s268
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s269
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s270
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         10                 NULL aca 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s271
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+   10          9                 NULL NULL
+   10         10                   10 aaa 
+   10         10                   20 aab 
+   10         10                   30 aac 
+   10         20                   10 aba 
+   10         20                   20 abb 
+   10         20                   30 abc 
+   10         10                 NULL aca 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s272
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                   10 NULL
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s273
+
+U1    U2         U3                   C3  
+----- ---------- -------------------- ----
+<group_begin>
+ NULL         10                   10 aaa 
+ NULL         10                 NULL bbb 
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

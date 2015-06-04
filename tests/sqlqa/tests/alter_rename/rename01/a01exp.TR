@@ -1,0 +1,380 @@
+<section_begin>  a01s02
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 wwww    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s03
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 vvvv    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+<group_begin>
+          0 ATAAAAAAAAAAAAAA AAAAAAAA                 1483          29        6.33                    4 AEAAAAAA           483 AEAA    
+          1 BKAAAAAAAAAAAAAA BAAAAAAA                 1484          42        6.84                    5 BAAAAAAA           484 BAAA    
+          0 AFAAAAAAAAAAAAAA AAAAAAAA                 1485          10        5.87                    0 AAAAAAAA           485 AAAA    
+          1 BTAAAAAAAAAAAAAA BAAAAAAA                 1486           8        7.79                    9 BEAAAAAA           486 BEAA    
+          1 DNAAAAAAAAAAAAAA DAAAAAAA                 1487          37       14.69                    3 BDAAAAAA           487 BDAA    
+          0 ABAAAAAAAAAAAAAA AAAAAAAA                 1488          88        0.76                   16 ABAAAAAA           488 ABAA    
+          1 BNAAAAAAAAAAAAAA BAAAAAAA                 1489           2        2.39                   13 BDAAAAAA           489 BDAA    
+          1 BUAAAAAAAAAAAAAA BAAAAAAA                 1490          57        3.97                    5 BAAAAAAA           490 BAAA    
+          1 DCAAAAAAAAAAAAAA DAAAAAAA                 1491          44        1.28                    7 BCAAAAAA           491 BCAA    
+          0 CGAAAAAAAAAAAAAA CAAAAAAA                 1492          96       14.61                    6 ABAAAAAA           492 ABAA    
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a02s12
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 wwww    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+<group_begin>
+          0 ATAAAAAAAAAAAAAA AAAAAAAA                 1483          29        6.33                    4 AEAAAAAA           483 AEAA    
+          1 BKAAAAAAAAAAAAAA BAAAAAAA                 1484          42        6.84                    5 BAAAAAAA           484 BAAA    
+          0 AFAAAAAAAAAAAAAA AAAAAAAA                 1485          10        5.87                    0 AAAAAAAA           485 AAAA    
+          1 BTAAAAAAAAAAAAAA BAAAAAAA                 1486           8        7.79                    9 BEAAAAAA           486 BEAA    
+          1 DNAAAAAAAAAAAAAA DAAAAAAA                 1487          37       14.69                    3 BDAAAAAA           487 BDAA    
+          0 ABAAAAAAAAAAAAAA AAAAAAAA                 1488          88        0.76                   16 ABAAAAAA           488 ABAA    
+          1 BNAAAAAAAAAAAAAA BAAAAAAA                 1489           2        2.39                   13 BDAAAAAA           489 BDAA    
+          1 BUAAAAAAAAAAAAAA BAAAAAAA                 1490          57        3.97                    5 BAAAAAAA           490 BAAA    
+          1 DCAAAAAAAAAAAAAA DAAAAAAA                 1491          44        1.28                    7 BCAAAAAA           491 BCAA    
+          0 CGAAAAAAAAAAAAAA CAAAAAAA                 1492          96       14.61                    6 ABAAAAAA           492 ABAA    
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 vvvv    
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a03s21
+
+(EXPR)
+--------------------
+                1500
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s22
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 wwww    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s23
+
+(EXPR)
+--------------------
+                1501
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s32
+
+(EXPR)
+--------------------
+                1500
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s33
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 wwww    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s34
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 vvvv    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s35
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 wwww    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s36
+
+(EXPR)
+--------------------
+                1501
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s41
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+<group_begin>
+          0 ATAAAAAAAAAAAAAA AAAAAAAA                 1483          29        6.33                    4 AEAAAAAA           483 AEAA    
+          1 BKAAAAAAAAAAAAAA BAAAAAAA                 1484          42        6.84                    5 BAAAAAAA           484 BAAA    
+          0 AFAAAAAAAAAAAAAA AAAAAAAA                 1485          10        5.87                    0 AAAAAAAA           485 AAAA    
+          1 BTAAAAAAAAAAAAAA BAAAAAAA                 1486           8        7.79                    9 BEAAAAAA           486 BEAA    
+          1 DNAAAAAAAAAAAAAA DAAAAAAA                 1487          37       14.69                    3 BDAAAAAA           487 BDAA    
+          0 ABAAAAAAAAAAAAAA AAAAAAAA                 1488          88        0.76                   16 ABAAAAAA           488 ABAA    
+          1 BNAAAAAAAAAAAAAA BAAAAAAA                 1489           2        2.39                   13 BDAAAAAA           489 BDAA    
+          1 BUAAAAAAAAAAAAAA BAAAAAAA                 1490          57        3.97                    5 BAAAAAAA           490 BAAA    
+          1 DCAAAAAAAAAAAAAA DAAAAAAA                 1491          44        1.28                    7 BCAAAAAA           491 BCAA    
+          0 CGAAAAAAAAAAAAAA CAAAAAAA                 1492          96       14.61                    6 ABAAAAAA           492 ABAA    
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a05s43
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 wwww    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s44
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+<group_begin>
+          0 ATAAAAAAAAAAAAAA AAAAAAAA                 1483          29        6.33                    4 AEAAAAAA           483 AEAA    
+          1 BKAAAAAAAAAAAAAA BAAAAAAA                 1484          42        6.84                    5 BAAAAAAA           484 BAAA    
+          0 AFAAAAAAAAAAAAAA AAAAAAAA                 1485          10        5.87                    0 AAAAAAAA           485 AAAA    
+          1 BTAAAAAAAAAAAAAA BAAAAAAA                 1486           8        7.79                    9 BEAAAAAA           486 BEAA    
+          1 DNAAAAAAAAAAAAAA DAAAAAAA                 1487          37       14.69                    3 BDAAAAAA           487 BDAA    
+          0 ABAAAAAAAAAAAAAA AAAAAAAA                 1488          88        0.76                   16 ABAAAAAA           488 ABAA    
+          1 BNAAAAAAAAAAAAAA BAAAAAAA                 1489           2        2.39                   13 BDAAAAAA           489 BDAA    
+          1 BUAAAAAAAAAAAAAA BAAAAAAA                 1490          57        3.97                    5 BAAAAAAA           490 BAAA    
+          1 DCAAAAAAAAAAAAAA DAAAAAAA                 1491          44        1.28                    7 BCAAAAAA           491 BCAA    
+          0 CGAAAAAAAAAAAAAA CAAAAAAA                 1492          96       14.61                    6 ABAAAAAA           492 ABAA    
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 vvvv    
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a05s45
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 wwww    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s46
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 vvvv    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s51
+
+(EXPR)
+--------------------
+                1500
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s52
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+<group_begin>
+          0 ATAAAAAAAAAAAAAA AAAAAAAA                 1483          29        6.33                    4 AEAAAAAA           483 AEAA    
+          1 BKAAAAAAAAAAAAAA BAAAAAAA                 1484          42        6.84                    5 BAAAAAAA           484 BAAA    
+          0 AFAAAAAAAAAAAAAA AAAAAAAA                 1485          10        5.87                    0 AAAAAAAA           485 AAAA    
+          1 BTAAAAAAAAAAAAAA BAAAAAAA                 1486           8        7.79                    9 BEAAAAAA           486 BEAA    
+          1 DNAAAAAAAAAAAAAA DAAAAAAA                 1487          37       14.69                    3 BDAAAAAA           487 BDAA    
+          0 ABAAAAAAAAAAAAAA AAAAAAAA                 1488          88        0.76                   16 ABAAAAAA           488 ABAA    
+          1 BNAAAAAAAAAAAAAA BAAAAAAA                 1489           2        2.39                   13 BDAAAAAA           489 BDAA    
+          1 BUAAAAAAAAAAAAAA BAAAAAAA                 1490          57        3.97                    5 BAAAAAAA           490 BAAA    
+          1 DCAAAAAAAAAAAAAA DAAAAAAA                 1491          44        1.28                    7 BCAAAAAA           491 BCAA    
+          0 CGAAAAAAAAAAAAAA CAAAAAAA                 1492          96       14.61                    6 ABAAAAAA           492 ABAA    
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a06s53
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 wwww    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s54
+
+(EXPR)
+--------------------
+                1501
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s55
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 wwww    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s56
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+<group_begin>
+          0 ATAAAAAAAAAAAAAA AAAAAAAA                 1483          29        6.33                    4 AEAAAAAA           483 AEAA    
+          1 BKAAAAAAAAAAAAAA BAAAAAAA                 1484          42        6.84                    5 BAAAAAAA           484 BAAA    
+          0 AFAAAAAAAAAAAAAA AAAAAAAA                 1485          10        5.87                    0 AAAAAAAA           485 AAAA    
+          1 BTAAAAAAAAAAAAAA BAAAAAAA                 1486           8        7.79                    9 BEAAAAAA           486 BEAA    
+          1 DNAAAAAAAAAAAAAA DAAAAAAA                 1487          37       14.69                    3 BDAAAAAA           487 BDAA    
+          0 ABAAAAAAAAAAAAAA AAAAAAAA                 1488          88        0.76                   16 ABAAAAAA           488 ABAA    
+          1 BNAAAAAAAAAAAAAA BAAAAAAA                 1489           2        2.39                   13 BDAAAAAA           489 BDAA    
+          1 BUAAAAAAAAAAAAAA BAAAAAAA                 1490          57        3.97                    5 BAAAAAAA           490 BAAA    
+          1 DCAAAAAAAAAAAAAA DAAAAAAA                 1491          44        1.28                    7 BCAAAAAA           491 BCAA    
+          0 CGAAAAAAAAAAAAAA CAAAAAAA                 1492          96       14.61                    6 ABAAAAAA           492 ABAA    
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 vvvv    
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a07s62
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 wwww    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s63
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 vvvv    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s71
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+<group_begin>
+          0 ATAAAAAAAAAAAAAA AAAAAAAA                 1483          29        6.33                    4 AEAAAAAA           483 AEAA    
+          1 BKAAAAAAAAAAAAAA BAAAAAAA                 1484          42        6.84                    5 BAAAAAAA           484 BAAA    
+          0 AFAAAAAAAAAAAAAA AAAAAAAA                 1485          10        5.87                    0 AAAAAAAA           485 AAAA    
+          1 BTAAAAAAAAAAAAAA BAAAAAAA                 1486           8        7.79                    9 BEAAAAAA           486 BEAA    
+          1 DNAAAAAAAAAAAAAA DAAAAAAA                 1487          37       14.69                    3 BDAAAAAA           487 BDAA    
+          0 ABAAAAAAAAAAAAAA AAAAAAAA                 1488          88        0.76                   16 ABAAAAAA           488 ABAA    
+          1 BNAAAAAAAAAAAAAA BAAAAAAA                 1489           2        2.39                   13 BDAAAAAA           489 BDAA    
+          1 BUAAAAAAAAAAAAAA BAAAAAAA                 1490          57        3.97                    5 BAAAAAAA           490 BAAA    
+          1 DCAAAAAAAAAAAAAA DAAAAAAA                 1491          44        1.28                    7 BCAAAAAA           491 BCAA    
+          0 CGAAAAAAAAAAAAAA CAAAAAAA                 1492          96       14.61                    6 ABAAAAAA           492 ABAA    
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a08s72
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 wwww    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s73
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+<group_begin>
+          0 ATAAAAAAAAAAAAAA AAAAAAAA                 1483          29        6.33                    4 AEAAAAAA           483 AEAA    
+          1 BKAAAAAAAAAAAAAA BAAAAAAA                 1484          42        6.84                    5 BAAAAAAA           484 BAAA    
+          0 AFAAAAAAAAAAAAAA AAAAAAAA                 1485          10        5.87                    0 AAAAAAAA           485 AAAA    
+          1 BTAAAAAAAAAAAAAA BAAAAAAA                 1486           8        7.79                    9 BEAAAAAA           486 BEAA    
+          1 DNAAAAAAAAAAAAAA DAAAAAAA                 1487          37       14.69                    3 BDAAAAAA           487 BDAA    
+          0 ABAAAAAAAAAAAAAA AAAAAAAA                 1488          88        0.76                   16 ABAAAAAA           488 ABAA    
+          1 BNAAAAAAAAAAAAAA BAAAAAAA                 1489           2        2.39                   13 BDAAAAAA           489 BDAA    
+          1 BUAAAAAAAAAAAAAA BAAAAAAA                 1490          57        3.97                    5 BAAAAAAA           490 BAAA    
+          1 DCAAAAAAAAAAAAAA DAAAAAAA                 1491          44        1.28                    7 BCAAAAAA           491 BCAA    
+          0 CGAAAAAAAAAAAAAA CAAAAAAA                 1492          96       14.61                    6 ABAAAAAA           492 ABAA    
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 vvvv    
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a09s81
+
+(EXPR)
+--------------------
+                1500
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s82
+
+SDEC0_2     VARCHAR0_100     CHAR0_4  SBIN0_UNIQ           UDEC0_100   UBIN0_UNIQ  SDEC1_20             VARCHAR1_10 SBIN1_1000 CHAR1_10
+----------- ---------------- -------- -------------------- ----------- ----------- -------------------- ----------- ---------- --------
+          0 zzzzzzzzzzzzzzzz yyyyyyyy                99999          10        9.99                    1 xxxxxxxx           999 wwww    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a09s83
+
+(EXPR)
+--------------------
+                1501
+
+--- 1 row(s) selected.
+
+<section_end>

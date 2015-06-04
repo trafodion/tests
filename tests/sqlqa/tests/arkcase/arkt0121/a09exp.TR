@@ -1,0 +1,33 @@
+<section_begin>  a09s1
+
+DATA_X3 DATA_93
+------- -------
+<group_begin>
+tom         100
+bob         200
+run         300
+sun         400
+fun         500
+gun         600
+nun         700
+pun         800
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+DATA_X3 DATA_93
+------- -------
+<group_begin>
+gun         600
+pun         800
+run         300
+sun         400
+tom         100
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

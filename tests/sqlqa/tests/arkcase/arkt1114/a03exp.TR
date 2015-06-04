@@ -1,0 +1,60 @@
+<section_begin>  a03s2
+
+C1          C2        
+----------- ----------
+<group_begin>
+          1 bb        
+          2 aaa       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+C1          C2        
+----------- ----------
+<group_begin>
+          1 aaaaaaaaa 
+          2 REALLY BIG
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+C1          C2         C3        C4         
+----------- ---------- --------- -----------
+<group_begin>
+          1 abc        wxyz                1
+          2 sjdkfl     aaa                 2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s12
+
+C1          C2         C3        C4         
+----------- ---------- --------- -----------
+<group_begin>
+          1 abc        aaaaaaaa            1
+          2 sjdkfl     REAL LONG           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s13
+
+C1          C2         C3        C4         
+----------- ---------- --------- -----------
+<group_begin>
+          1 NEW        aaaaaaaa            1
+          2 sjdkfl     YORKER              2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

@@ -1,0 +1,9 @@
+<section_begin>  verify
+
+x               OUT1                    
+--------------- ------------------------
+   1.8565786E24     1.856578610136397E24
+
+--- SQL operation complete.
+
+<section_end>

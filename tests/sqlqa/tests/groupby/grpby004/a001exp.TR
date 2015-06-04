@@ -1,0 +1,751 @@
+<section_begin>  a01s1
+
+(EXPR)
+----------
+2007-06-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+(EXPR)
+-------
+<group_begin>
+  9-06 
+  8-04 
+  7-08 
+  4-09 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+(EXPR)
+-------
+<group_begin>
+  8-11 
+  7-09 
+  7-01 
+  4-02 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+(EXPR)
+-------
+<group_begin>
+ 11-10 
+ 10-08 
+ 10-00 
+  7-01 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+-------
+<group_begin>
+ 11-03 
+ 10-01 
+  9-05 
+  6-06 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)
+-------
+<group_begin>
+  9-08 
+  8-06 
+  7-10 
+  4-11 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+(EXPR)
+-------
+<group_begin>
+  8-01 
+  6-11 
+  6-03 
+  3-04 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+(EXPR)
+-------
+<group_begin>
+  5-03 
+  4-01 
+  3-05 
+  0-06 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+(EXPR)
+-------
+<group_begin>
+  9-00 
+  7-10 
+  7-02 
+  4-03 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+(EXPR)
+--------
+<group_begin>
+  14-05 
+  13-03 
+  12-07 
+   9-08 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+HIRE_DATE
+----------
+<group_begin>
+1998-04-03
+1999-05-06
+2000-01-02
+2002-12-11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+(EXPR)
+----------
+<group_begin>
+1998-04-05
+1999-05-08
+2000-01-04
+2002-12-13
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+(EXPR)
+----------
+<group_begin>
+1998-03-31
+1999-05-03
+1999-12-30
+2002-12-08
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+(EXPR)
+----------
+<group_begin>
+1998-04-04
+1999-05-07
+2000-01-03
+2002-12-12
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+(EXPR)
+----------
+<group_begin>
+1998-06-03
+1999-07-06
+2000-03-02
+2003-02-11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+(EXPR)
+----------
+<group_begin>
+2002-04-03
+2003-05-06
+2004-01-02
+2006-12-11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+(EXPR)
+----------
+<group_begin>
+2002-06-03
+2003-07-06
+2004-03-02
+2007-02-11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+(EXPR)
+----------
+<group_begin>
+1998-03-14
+1999-04-16
+1999-12-13
+2002-11-21
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+(EXPR)
+----------
+<group_begin>
+1997-07-03
+1998-08-06
+1999-04-02
+2002-03-11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+(EXPR)
+----------
+<group_begin>
+1991-04-03
+1992-05-06
+1993-01-02
+1995-12-11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s11
+
+(EXPR)
+----------
+<group_begin>
+1994-11-03
+1995-12-06
+1996-08-02
+1999-07-11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+(EXPR)
+--------
+<group_begin>
+08:30:32
+08:45:02
+09:00:02
+09:15:32
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+(EXPR)
+--------
+<group_begin>
+08:30:25
+08:44:55
+08:59:55
+09:15:25
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+(EXPR)
+--------
+<group_begin>
+09:30:30
+09:45:00
+10:00:00
+10:15:30
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+(EXPR)
+--------
+<group_begin>
+08:35:30
+08:50:00
+09:05:00
+09:20:30
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+(EXPR)
+--------
+<group_begin>
+08:30:39
+08:45:09
+09:00:09
+09:15:39
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+(EXPR)
+--------
+<group_begin>
+12:50:30
+13:05:00
+13:20:00
+13:35:30
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+(EXPR)
+--------
+<group_begin>
+12:51:00
+13:05:30
+13:20:30
+13:36:00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+(EXPR)
+--------
+<group_begin>
+23:30:30
+23:45:00
+00:00:00
+00:15:30
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+(EXPR)
+--------
+<group_begin>
+07:50:30
+08:05:00
+08:20:00
+08:35:30
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+(EXPR)
+--------
+<group_begin>
+08:29:00
+08:43:30
+08:58:30
+09:14:00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+(EXPR)
+--------
+<group_begin>
+22:45:30
+23:00:00
+23:15:00
+23:30:30
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s12
+
+(EXPR)
+--------
+<group_begin>
+05:49:34
+06:04:04
+06:19:04
+06:34:34
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+(EXPR)
+--------------------------
+<group_begin>
+2007-06-01 16:30:31.000000
+2007-06-01 16:45:01.000000
+2007-06-01 17:00:01.000000
+2007-06-01 17:15:31.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+(EXPR)
+--------------------------
+<group_begin>
+2007-06-01 16:30:20.000000
+2007-06-01 16:44:50.000000
+2007-06-01 16:59:50.000000
+2007-06-01 17:15:20.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+(EXPR)
+--------------------------
+<group_begin>
+2008-07-01 16:30:30.000000
+2008-07-01 16:45:00.000000
+2008-07-01 17:00:00.000000
+2008-07-01 17:15:30.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+(EXPR)
+--------------------------
+<group_begin>
+2007-06-01 17:31:42.000000
+2007-06-01 17:46:12.000000
+2007-06-01 18:01:12.000000
+2007-06-01 18:16:42.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s5
+
+(EXPR)
+--------------------------
+<group_begin>
+2003-09-01 16:30:30.000000
+2003-09-01 16:45:00.000000
+2003-09-01 17:00:00.000000
+2003-09-01 17:15:30.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+(EXPR)
+--------------------------
+<group_begin>
+2007-06-01 08:41:11.000000
+2007-06-01 08:55:41.000000
+2007-06-01 09:10:41.000000
+2007-06-01 09:26:11.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+(EXPR)
+----------
+<group_begin>
+2007-07-03
+2007-06-06
+2007-06-02
+2007-06-11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+(EXPR)
+----------
+<group_begin>
+1989-01-03
+1991-04-06
+1992-08-02
+1998-06-11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+(EXPR)
+----------
+<group_begin>
+1989-01-06
+1991-04-09
+1992-08-05
+1998-06-14
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+(EXPR)
+-------
+<group_begin>
+ 18-06 
+ 16-02 
+ 14-10 
+  9-00 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+(EXPR)
+------
+<group_begin>
+ 4-07 
+ 4-00 
+ 3-08 
+ 2-03 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+(EXPR)
+----------
+<group_begin>
+2007-07-03
+2007-06-06
+2007-06-02
+2007-06-11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+(EXPR)
+----------
+<group_begin>
+1989-01-03
+1991-04-06
+1992-08-02
+1998-06-11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+(EXPR)
+----------
+<group_begin>
+2007-07-03
+2007-06-06
+2007-06-02
+2007-06-11
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+(EXPR)
+--------------------------
+<group_begin>
+2016-09-01 16:30:30.000000
+2015-07-01 16:45:00.000000
+2014-11-01 17:00:00.000000
+2011-12-01 17:15:30.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s7
+
+(EXPR)
+--------------------------
+<group_begin>
+2016-09-01 16:30:30.000000
+2015-07-01 16:45:00.000000
+2014-11-01 17:00:00.000000
+2011-12-01 17:15:30.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a07s8
+
+(EXPR)
+--------------------------
+<group_begin>
+1998-03-01 16:30:30.000000
+1999-05-01 16:45:00.000000
+2000-01-01 17:00:00.000000
+2002-12-01 17:15:30.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+(EXPR)
+----------
+<group_begin>
+1988-12-25
+1991-03-28
+1992-07-24
+1998-06-02
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+(EXPR)
+----------
+<group_begin>
+2007-07-09
+2007-06-12
+2007-06-08
+2007-06-17
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s3
+
+(EXPR)
+--------------------------
+<group_begin>
+2016-12-01 16:30:32.000000
+2015-10-01 16:45:02.000000
+2015-02-01 17:00:02.000000
+2012-03-01 17:15:32.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s4
+
+(EXPR)
+--------------------------
+<group_begin>
+2016-11-01 16:30:29.000000
+2015-09-01 16:44:59.000000
+2015-01-01 16:59:59.000000
+2012-02-01 17:15:29.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

@@ -1,0 +1,18 @@
+<section_begin>  innum100b
+
+COUNTSTAR            SUMTOTAL             AVERAGE             
+-------------------- -------------------- --------------------
+                 100    14025330181.37770      146097189.38935
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  innum100c
+
+MAXIMUM_NUM          MINIMUM             
+-------------------- --------------------
+    3241419930.57510    -3245121455.10584
+
+--- 1 row(s) selected.
+
+<section_end>

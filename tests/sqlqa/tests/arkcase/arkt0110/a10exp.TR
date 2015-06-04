@@ -1,0 +1,347 @@
+<section_begin>  a10s0
+
+CUSTNUM CUSTNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+    324 PREMIER INSURANCE  3300 WARBASH           LUBBOCK        TEXAS       
+   7777 SLEEPWELL HOTELS   9000 PETERS AVENUE     DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a10s1
+
+CUSTNUM CUSTNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     21 CENTRAL UNIVERSITY UNIVERSITY WAY         PHILADELPHIA   PENN        
+    123 BROWN MEDICAL CO   100 CALIFORNIA STREET  SAN FRANCISCO  CALIFORNIA  
+    143 STEVENS SUPPLY     2020 HARRIS STREET     DENVER         COLORADO    
+    543 FRESNO STATE BANK  2300 BROWN BLVD        FRESNO         CALIFORNIA  
+    926 METALL-AG.         12 WAGNERRING          FRANKFURT      GERMANY     
+   1234 DATASPEED          300 SAN GABRIEL WAY    NEW YORK       NEW YORK    
+   3210 BESTFOOD MARKETS   3333 PLELPS STREET     LINCOLN        NEBRASKA    
+   3333 DEUTSCHE STAHL     SIEMENS-STRASSE        DUISBURG       GERMANY     
+   5635 VEREINIGTE CHEMIE  45 FRANKENSTRASSE      MUENCHEN       GERMANY     
+   7654 MOTOR DISTRIBUTING 2345 FIRST STREET      CHICAGO        ILLINOIS    
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a10s2
+
+CUSTNUM CUSTNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+    123 BROWN MEDICAL CO   100 CALIFORNIA STREET  SAN FRANCISCO  CALIFORNIA  
+    324 PREMIER INSURANCE  3300 WARBASH           LUBBOCK        TEXAS       
+    543 FRESNO STATE BANK  2300 BROWN BLVD        FRESNO         CALIFORNIA  
+   7777 SLEEPWELL HOTELS   9000 PETERS AVENUE     DALLAS         TEXAS       
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a10s3
+
+CUSTNUM CUSTNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     21 CENTRAL UNIVERSITY UNIVERSITY WAY         PHILADELPHIA   PENN        
+    143 STEVENS SUPPLY     2020 HARRIS STREET     DENVER         COLORADO    
+    926 METALL-AG.         12 WAGNERRING          FRANKFURT      GERMANY     
+   1234 DATASPEED          300 SAN GABRIEL WAY    NEW YORK       NEW YORK    
+   3210 BESTFOOD MARKETS   3333 PLELPS STREET     LINCOLN        NEBRASKA    
+   3333 DEUTSCHE STAHL     SIEMENS-STRASSE        DUISBURG       GERMANY     
+   5635 VEREINIGTE CHEMIE  45 FRANKENSTRASSE      MUENCHEN       GERMANY     
+   7654 MOTOR DISTRIBUTING 2345 FIRST STREET      CHICAGO        ILLINOIS    
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a10s4
+
+REGNUM
+------
+<group_begin>
+     2
+     3
+     4
+     5
+     6
+    99
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s5
+
+EMPNAME
+------------------
+<group_begin>
+THOMAS RUDLOFF    
+KLAUS SAFFERT     
+PETER SMITH       
+DONALD TAYLOR     
+STEVE COOK        
+SHERRIE WONG      
+TONY CRAFT        
+GEORGE FORSTER    
+RICHARD BARTON    
+JIMMY SCHNEIDER   
+WALTER LANCASTER  
+JOHN JONES        
+MARLENE BONNY     
+GEORGE FRENCHMAN  
+DAVID TERRY       
+KARL HELMSTED     
+HEIDI WEIGL       
+XAVER SEDLMEYER   
+DAVE CLARK        
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a10s6
+
+EMPNAME
+------------------
+<group_begin>
+DAVE CLARK        
+DAVID TERRY       
+DONALD TAYLOR     
+GEORGE FORSTER    
+GEORGE FRENCHMAN  
+HEIDI WEIGL       
+JIMMY SCHNEIDER   
+JOHN JONES        
+KARL HELMSTED     
+KLAUS SAFFERT     
+MARLENE BONNY     
+PETER SMITH       
+RICHARD BARTON    
+SHERRIE WONG      
+STEVE COOK        
+THOMAS RUDLOFF    
+TONY CRAFT        
+WALTER LANCASTER  
+XAVER SEDLMEYER   
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a10s7
+
+EMPNAME
+------------------
+<group_begin>
+DAVE CLARK        
+DAVID TERRY       
+DONALD TAYLOR     
+GEORGE FORSTER    
+GEORGE FRENCHMAN  
+HEIDI WEIGL       
+JIMMY SCHNEIDER   
+JOHN JONES        
+KARL HELMSTED     
+KLAUS SAFFERT     
+MARLENE BONNY     
+PETER SMITH       
+RICHARD BARTON    
+SHERRIE WONG      
+STEVE COOK        
+THOMAS RUDLOFF    
+TONY CRAFT        
+WALTER LANCASTER  
+XAVER SEDLMEYER   
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a10s9
+
+PARTNUM
+-------
+   4102
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s10
+
+PARTNUM
+-------
+   4102
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s11
+
+PARTNUM
+-------
+   4102
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s12
+
+PARTNUM
+-------
+   4102
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s13
+
+PARTNUM
+-------
+   4102
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s15
+
+SUPPNUM PARTNUM PARTCOST  
+------- ------- ----------
+<group_begin>
+      1     212   92000.00
+      1     244   87000.00
+      1    1403   22000.00
+      1    2001    1500.00
+      1    2002    1000.00
+      1    2003     500.00
+      1    2402    7500.00
+      1    2403    9600.00
+      1    3102    4800.00
+      1    3103   10500.00
+      1    3201    4800.00
+      1    3302    2800.00
+      1    6201    5800.00
+      1    6301    2900.00
+      1    6302    4300.00
+      1    7301    2400.00
+      2    5502    9100.00
+      2    6402    1100.00
+      2    6603    2600.00
+      3    6401    1100.00
+      6    4102   10000.00
+      6    5504    1580.00
+      8    4103   19300.00
+      8    5101    5800.00
+      8    5103    6200.00
+     10    7102    6000.00
+     15    5505   33000.00
+<group_end>
+
+--- 27 row(s) selected.
+
+<section_end>
+<section_begin>  a10s17
+
+SUPPNUM PARTNUM PARTCOST  
+------- ------- ----------
+<group_begin>
+      1     212   92000.00
+      1     244   87000.00
+      1    1403   22000.00
+      1    2001    1500.00
+      1    2002    1000.00
+      1    2003     500.00
+      1    2402    7500.00
+      1    2403    9600.00
+      1    3102    4800.00
+      1    3103   10500.00
+      1    3201    4800.00
+      1    3302    2800.00
+      1    6201    5800.00
+      1    6301    2900.00
+      1    6302    4300.00
+      1    7301    2400.00
+      2    5502    9100.00
+      2    5504    1600.00
+      2    6401    1200.00
+      2    6402    1100.00
+      2    6603    2600.00
+      3    6401    1100.00
+      3    6402    1200.00
+      6    4101    6000.00
+      6    4102   10000.00
+      6    4103   20100.00
+      6    5504    1580.00
+      8    4102   12000.00
+      8    4103   19300.00
+      8    5101    5800.00
+      8    5103    6200.00
+     10    7102    6000.00
+     15    4101    6000.00
+     15    4102   11000.00
+     15    4103   19500.00
+     15    5101    5900.00
+     15    5103    6250.00
+     15    5504    1620.00
+     15    5505   33000.00
+<group_end>
+
+--- 39 row(s) selected.
+
+<section_end>
+<section_begin>  a10s18
+
+SUPPNUM PARTNUM PARTCOST  
+------- ------- ----------
+<group_begin>
+      1     212   92000.00
+      1     244   87000.00
+      1    1403   22000.00
+      1    2001    1500.00
+      1    2002    1000.00
+      1    2003     500.00
+      1    2402    7500.00
+      1    2403    9600.00
+      1    3102    4800.00
+      1    3103   10500.00
+      1    3201    4800.00
+      1    3302    2800.00
+      1    6201    5800.00
+      1    6301    2900.00
+      1    6302    4300.00
+      1    7301    2400.00
+      2    5502    9100.00
+      2    5504    1600.00
+      2    6401    1200.00
+      2    6402    1100.00
+      2    6603    2600.00
+      3    6401    1100.00
+      3    6402    1200.00
+      6    4101    6000.00
+      6    4102   10000.00
+      6    4103   20100.00
+      6    5504    1580.00
+      8    4102   12000.00
+      8    4103   19300.00
+      8    5101    5800.00
+      8    5103    6200.00
+     10    7102    6000.00
+     15    4101    6000.00
+     15    4102   11000.00
+     15    4103   19500.00
+     15    5101    5900.00
+     15    5103    6250.00
+     15    5504    1620.00
+     15    5505   33000.00
+<group_end>
+
+--- 39 row(s) selected.
+
+<section_end>

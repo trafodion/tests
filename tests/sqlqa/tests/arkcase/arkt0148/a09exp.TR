@@ -1,0 +1,790 @@
+<section_begin>  a09s0
+
+(EXPR) CITY           STATE       
+------ -------------- ------------
+<group_begin>
+View1  PHILADELPHIA   PENN        
+View1  SAN FRANCISCO  CALIFORNIA  
+View1  DENVER         COLORADO    
+View1  LUBBOCK        TEXAS       
+View1  FRESNO         CALIFORNIA  
+View1  FRANKFURT      GERMANY     
+View1  NEW YORK       NEW YORK    
+View1  LINCOLN        NEBRASKA    
+View1  DUISBURG       GERMANY     
+View1  MUENCHEN       GERMANY     
+View1  CHICAGO        ILLINOIS    
+View1  DALLAS         TEXAS       
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+L     C              S           
+----- -------------- ------------
+<group_begin>
+View1 PHILADELPHIA   PENN        
+View1 SAN FRANCISCO  CALIFORNIA  
+View1 DENVER         COLORADO    
+View1 LUBBOCK        TEXAS       
+View1 FRESNO         CALIFORNIA  
+View1 FRANKFURT      GERMANY     
+View1 NEW YORK       NEW YORK    
+View1 LINCOLN        NEBRASKA    
+View1 DUISBURG       GERMANY     
+View1 MUENCHEN       GERMANY     
+View1 CHICAGO        ILLINOIS    
+View1 DALLAS         TEXAS       
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+L     C              A                     
+----- -------------- ----------------------
+<group_begin>
+View2 CUPERTINO      19333 VALLCO PARKWAY  
+View2 IRVINE         2000 BAKER STREET     
+View2 PALO ALTO      7600 EMERSON          
+View2 LEXINGTON      1000 INDUSTRY DRIVE   
+View2 SEATTLE        7777 FOUNTAIN WAY     
+View2 SUNNYVALE      6000 LINCOLN LANE     
+View2 DALLAS         100  MACARTHUR        
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+L     C              S           
+----- -------------- ------------
+<group_begin>
+XYZ   CUPERTINO      CALIFORNIA  
+ABCDE PHILADELPHIA   PENN        
+XYZ   IRVINE         CALIFORNIA  
+ABCDE SAN FRANCISCO  CALIFORNIA  
+XYZ   PALO ALTO      CALIFORNIA  
+ABCDE DENVER         COLORADO    
+XYZ   LEXINGTON      MASS        
+ABCDE LUBBOCK        TEXAS       
+XYZ   SEATTLE        WASHINGTON  
+ABCDE FRESNO         CALIFORNIA  
+XYZ   SUNNYVALE      CALIFORNIA  
+ABCDE FRANKFURT      GERMANY     
+XYZ   DALLAS         TEXAS       
+ABCDE NEW YORK       NEW YORK    
+ABCDE LINCOLN        NEBRASKA    
+ABCDE DUISBURG       GERMANY     
+ABCDE MUENCHEN       GERMANY     
+ABCDE CHICAGO        ILLINOIS    
+ABCDE DALLAS         TEXAS       
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a09s4
+
+L    S            C             
+---- ------------ --------------
+<group_begin>
+A    CALIFORNIA   CUPERTINO     
+A9   PENN         PHILADELPHIA  
+A    CALIFORNIA   IRVINE        
+A9   CALIFORNIA   SAN FRANCISCO 
+A    CALIFORNIA   PALO ALTO     
+A9   COLORADO     DENVER        
+A    MASS         LEXINGTON     
+A9   TEXAS        LUBBOCK       
+A    WASHINGTON   SEATTLE       
+A9   CALIFORNIA   FRESNO        
+A    CALIFORNIA   SUNNYVALE     
+A9   GERMANY      FRANKFURT     
+A    TEXAS        DALLAS        
+A9   NEW YORK     NEW YORK      
+A9   NEBRASKA     LINCOLN       
+A9   GERMANY      DUISBURG      
+A9   GERMANY      MUENCHEN      
+A9   ILLINOIS     CHICAGO       
+A9   TEXAS        DALLAS        
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a09s5
+
+(EXPR)   UNIT  DATE1    AMOUNT 
+-------- ----- -------- -------
+<group_begin>
+A9Table1 UN1     900610     100
+A9Table1 UN1     900611     200
+A9Table1 UN1     900612     300
+A9Table1 UN2     900610      50
+A9Table1 UN2     900611     150
+A9Table1 UN2     900612     250
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s6
+
+(EXPR)   UNIT  DATE1    AMOUNT 
+-------- ----- -------- -------
+<group_begin>
+A9Table2 UN1     900610    1000
+A9Table2 UN1     900611    2000
+A9Table2 UN1     900612    3000
+A9Table2 UN2     900610    1500
+A9Table2 UN2     900611    2500
+A9Table2 UN2     900612    3500
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a09s7
+
+(EXPR)   UNIT  DATE1    AMOUNT 
+-------- ----- -------- -------
+<group_begin>
+A9Table1 UN1     900610     100
+A9Table1 UN1     900611     200
+A9Table1 UN1     900612     300
+A9Table2 UN1     900610    1000
+A9Table2 UN1     900611    2000
+A9Table2 UN1     900612    3000
+A9Table1 UN2     900610      50
+A9Table1 UN2     900611     150
+A9Table1 UN2     900612     250
+A9Table2 UN2     900610    1500
+A9Table2 UN2     900611    2500
+A9Table2 UN2     900612    3500
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s8
+
+(EXPR)   UNIT  DATE1    AMOUNT 
+-------- ----- -------- -------
+<group_begin>
+A9Table1 UN1     900610     100
+A9Table1 UN1     900611     200
+A9Table1 UN1     900612     300
+A9Table2 UN1     900610    1000
+A9Table2 UN1     900611    2000
+A9Table2 UN1     900612    3000
+A9Table1 UN2     900610      50
+A9Table1 UN2     900611     150
+A9Table1 UN2     900612     250
+A9Table2 UN2     900610    1500
+A9Table2 UN2     900611    2500
+A9Table2 UN2     900612    3500
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s9
+
+(EXPR)   UNIT  DATE1    AMOUNT 
+-------- ----- -------- -------
+<group_begin>
+A9Table1 UN1     900610     100
+A9Table1 UN1     900611     200
+A9Table1 UN1     900612     300
+A9Table1 UN2     900610      50
+A9Table1 UN2     900611     150
+A9Table1 UN2     900612     250
+A9Table2 UN1     900610    1000
+A9Table2 UN1     900611    2000
+A9Table2 UN1     900612    3000
+A9Table2 UN2     900610    1500
+A9Table2 UN2     900611    2500
+A9Table2 UN2     900612    3500
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s10
+
+(EXPR)   UNIT  DATE1    AMOUNT 
+-------- ----- -------- -------
+<group_begin>
+A9Table1 UN2     900610      50
+A9Table1 UN1     900610     100
+A9Table1 UN2     900611     150
+A9Table1 UN1     900611     200
+A9Table1 UN2     900612     250
+A9Table1 UN1     900612     300
+A9Table2 UN1     900610    1000
+A9Table2 UN2     900610    1500
+A9Table2 UN1     900611    2000
+A9Table2 UN2     900611    2500
+A9Table2 UN1     900612    3000
+A9Table2 UN2     900612    3500
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s11
+
+(EXPR)   UNIT  DATE1    AMOUNT 
+-------- ----- -------- -------
+<group_begin>
+A9Table1 UN1     900610     100
+A9Table1 UN2     900610      50
+A9Table1 UN1     900611     200
+A9Table1 UN2     900611     150
+A9Table1 UN1     900612     300
+A9Table1 UN2     900612     250
+A9Table2 UN1     900610    1000
+A9Table2 UN2     900610    1500
+A9Table2 UN1     900611    2000
+A9Table2 UN2     900611    2500
+A9Table2 UN1     900612    3000
+A9Table2 UN2     900612    3500
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s12
+
+(EXPR)   UNIT  DATE1    AMOUNT 
+-------- ----- -------- -------
+<group_begin>
+A9Table1 UN1     900610     100
+A9Table2 UN1     900610    1000
+A9Table1 UN1     900611     200
+A9Table2 UN1     900611    2000
+A9Table1 UN1     900612     300
+A9Table2 UN1     900612    3000
+A9Table1 UN2     900610      50
+A9Table2 UN2     900610    1500
+A9Table1 UN2     900611     150
+A9Table2 UN2     900611    2500
+A9Table1 UN2     900612     250
+A9Table2 UN2     900612    3500
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s13
+
+(EXPR)   UNIT  DATE1    AMOUNT 
+-------- ----- -------- -------
+<group_begin>
+A9Table1 UN1     900610     100
+A9Table2 UN1     900610    1000
+A9Table1 UN2     900610      50
+A9Table2 UN2     900610    1500
+A9Table1 UN1     900611     200
+A9Table2 UN1     900611    2000
+A9Table1 UN2     900611     150
+A9Table2 UN2     900611    2500
+A9Table1 UN1     900612     300
+A9Table2 UN1     900612    3000
+A9Table1 UN2     900612     250
+A9Table2 UN2     900612    3500
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s14
+
+UNIT  (EXPR)   DATE1    AMOUNT 
+----- -------- -------- -------
+<group_begin>
+UN1   A9Table1   900610     100
+UN2   A9Table1   900610      50
+UN1   A9Table2   900610    1000
+UN2   A9Table2   900610    1500
+UN1   A9Table1   900611     200
+UN2   A9Table1   900611     150
+UN1   A9Table2   900611    2000
+UN2   A9Table2   900611    2500
+UN1   A9Table1   900612     300
+UN2   A9Table1   900612     250
+UN1   A9Table2   900612    3000
+UN2   A9Table2   900612    3500
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s15
+
+DATE1    UNIT  (EXPR)   AMOUNT 
+-------- ----- -------- -------
+<group_begin>
+  900610 UN1   A9Table1     100
+  900611 UN1   A9Table1     200
+  900612 UN1   A9Table1     300
+  900610 UN2   A9Table1      50
+  900611 UN2   A9Table1     150
+  900612 UN2   A9Table1     250
+  900610 UN1   A9Table2    1000
+  900611 UN1   A9Table2    2000
+  900612 UN1   A9Table2    3000
+  900610 UN2   A9Table2    1500
+  900611 UN2   A9Table2    2500
+  900612 UN2   A9Table2    3500
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s16
+
+AMOUNT  DATE1    UNIT  (EXPR)  
+------- -------- ----- --------
+<group_begin>
+    100   900610 UN1   A9Table1
+    200   900611 UN1   A9Table1
+    300   900612 UN1   A9Table1
+     50   900610 UN2   A9Table1
+    150   900611 UN2   A9Table1
+    250   900612 UN2   A9Table1
+   1000   900610 UN1   A9Table2
+   2000   900611 UN1   A9Table2
+   3000   900612 UN1   A9Table2
+   1500   900610 UN2   A9Table2
+   2500   900611 UN2   A9Table2
+   3500   900612 UN2   A9Table2
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s17
+
+AMOUNT  DATE1    UNIT  (EXPR)  
+------- -------- ----- --------
+<group_begin>
+    100   900610 UN1   A9Table1
+   1000   900610 UN1   A9Table2
+    200   900611 UN1   A9Table1
+   2000   900611 UN1   A9Table2
+    300   900612 UN1   A9Table1
+   3000   900612 UN1   A9Table2
+     50   900610 UN2   A9Table1
+   1500   900610 UN2   A9Table2
+    150   900611 UN2   A9Table1
+   2500   900611 UN2   A9Table2
+    250   900612 UN2   A9Table1
+   3500   900612 UN2   A9Table2
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s18
+
+L     C              S           
+----- -------------- ------------
+<group_begin>
+View1 PHILADELPHIA   PENN        
+View1 SAN FRANCISCO  CALIFORNIA  
+View1 DENVER         COLORADO    
+View1 LUBBOCK        TEXAS       
+View1 FRESNO         CALIFORNIA  
+View1 FRANKFURT      GERMANY     
+View1 NEW YORK       NEW YORK    
+View1 LINCOLN        NEBRASKA    
+View1 DUISBURG       GERMANY     
+View1 MUENCHEN       GERMANY     
+View1 CHICAGO        ILLINOIS    
+View1 DALLAS         TEXAS       
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s19
+
+L     C              A                     
+----- -------------- ----------------------
+<group_begin>
+View2 CUPERTINO      19333 VALLCO PARKWAY  
+View2 IRVINE         2000 BAKER STREET     
+View2 PALO ALTO      7600 EMERSON          
+View2 LEXINGTON      1000 INDUSTRY DRIVE   
+View2 SEATTLE        7777 FOUNTAIN WAY     
+View2 SUNNYVALE      6000 LINCOLN LANE     
+View2 DALLAS         100  MACARTHUR        
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a09s20
+
+L     C              S                     
+----- -------------- ----------------------
+<group_begin>
+View2 CUPERTINO      19333 VALLCO PARKWAY  
+View1 PHILADELPHIA   PENN                  
+View2 IRVINE         2000 BAKER STREET     
+View1 SAN FRANCISCO  CALIFORNIA            
+View2 PALO ALTO      7600 EMERSON          
+View1 DENVER         COLORADO              
+View2 LEXINGTON      1000 INDUSTRY DRIVE   
+View1 LUBBOCK        TEXAS                 
+View2 SEATTLE        7777 FOUNTAIN WAY     
+View1 FRESNO         CALIFORNIA            
+View2 SUNNYVALE      6000 LINCOLN LANE     
+View1 FRANKFURT      GERMANY               
+View2 DALLAS         100  MACARTHUR        
+View1 NEW YORK       NEW YORK              
+View1 LINCOLN        NEBRASKA              
+View1 DUISBURG       GERMANY               
+View1 MUENCHEN       GERMANY               
+View1 CHICAGO        ILLINOIS              
+View1 DALLAS         TEXAS                 
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a09s21
+
+L     C              S                     
+----- -------------- ----------------------
+<group_begin>
+View1 CHICAGO        ILLINOIS              
+View1 DALLAS         TEXAS                 
+View1 DENVER         COLORADO              
+View1 DUISBURG       GERMANY               
+View1 FRANKFURT      GERMANY               
+View1 FRESNO         CALIFORNIA            
+View1 LINCOLN        NEBRASKA              
+View1 LUBBOCK        TEXAS                 
+View1 MUENCHEN       GERMANY               
+View1 NEW YORK       NEW YORK              
+View1 PHILADELPHIA   PENN                  
+View1 SAN FRANCISCO  CALIFORNIA            
+View2 CUPERTINO      19333 VALLCO PARKWAY  
+View2 DALLAS         100  MACARTHUR        
+View2 IRVINE         2000 BAKER STREET     
+View2 LEXINGTON      1000 INDUSTRY DRIVE   
+View2 PALO ALTO      7600 EMERSON          
+View2 SEATTLE        7777 FOUNTAIN WAY     
+View2 SUNNYVALE      6000 LINCOLN LANE     
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a09s22
+
+L     C              S                     
+----- -------------- ----------------------
+<group_begin>
+View1 CHICAGO        ILLINOIS              
+View2 CUPERTINO      19333 VALLCO PARKWAY  
+View2 DALLAS         100  MACARTHUR        
+View1 DALLAS         TEXAS                 
+View1 DENVER         COLORADO              
+View1 DUISBURG       GERMANY               
+View1 FRANKFURT      GERMANY               
+View1 FRESNO         CALIFORNIA            
+View2 IRVINE         2000 BAKER STREET     
+View2 LEXINGTON      1000 INDUSTRY DRIVE   
+View1 LINCOLN        NEBRASKA              
+View1 LUBBOCK        TEXAS                 
+View1 MUENCHEN       GERMANY               
+View1 NEW YORK       NEW YORK              
+View2 PALO ALTO      7600 EMERSON          
+View1 PHILADELPHIA   PENN                  
+View1 SAN FRANCISCO  CALIFORNIA            
+View2 SEATTLE        7777 FOUNTAIN WAY     
+View2 SUNNYVALE      6000 LINCOLN LANE     
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a09s23
+
+L     C              S                     
+----- -------------- ----------------------
+<group_begin>
+View2 DALLAS         100  MACARTHUR        
+View2 LEXINGTON      1000 INDUSTRY DRIVE   
+View2 CUPERTINO      19333 VALLCO PARKWAY  
+View2 IRVINE         2000 BAKER STREET     
+View2 SUNNYVALE      6000 LINCOLN LANE     
+View2 PALO ALTO      7600 EMERSON          
+View2 SEATTLE        7777 FOUNTAIN WAY     
+View1 FRESNO         CALIFORNIA            
+View1 SAN FRANCISCO  CALIFORNIA            
+View1 DENVER         COLORADO              
+View1 DUISBURG       GERMANY               
+View1 FRANKFURT      GERMANY               
+View1 MUENCHEN       GERMANY               
+View1 CHICAGO        ILLINOIS              
+View1 LINCOLN        NEBRASKA              
+View1 NEW YORK       NEW YORK              
+View1 PHILADELPHIA   PENN                  
+View1 DALLAS         TEXAS                 
+View1 LUBBOCK        TEXAS                 
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a09s24
+
+L     C              S           
+----- -------------- ------------
+<group_begin>
+XYZ   CUPERTINO      CALIFORNIA  
+ABCDE PHILADELPHIA   PENN        
+XYZ   IRVINE         CALIFORNIA  
+ABCDE SAN FRANCISCO  CALIFORNIA  
+XYZ   PALO ALTO      CALIFORNIA  
+ABCDE DENVER         COLORADO    
+XYZ   LEXINGTON      MASS        
+ABCDE LUBBOCK        TEXAS       
+XYZ   SEATTLE        WASHINGTON  
+ABCDE FRESNO         CALIFORNIA  
+XYZ   SUNNYVALE      CALIFORNIA  
+ABCDE FRANKFURT      GERMANY     
+XYZ   DALLAS         TEXAS       
+ABCDE NEW YORK       NEW YORK    
+ABCDE LINCOLN        NEBRASKA    
+ABCDE DUISBURG       GERMANY     
+ABCDE MUENCHEN       GERMANY     
+ABCDE CHICAGO        ILLINOIS    
+ABCDE DALLAS         TEXAS       
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a09s25
+
+L    S            C             
+---- ------------ --------------
+<group_begin>
+A    CALIFORNIA   CUPERTINO     
+A9   PENN         PHILADELPHIA  
+A    CALIFORNIA   IRVINE        
+A9   CALIFORNIA   SAN FRANCISCO 
+A    CALIFORNIA   PALO ALTO     
+A9   COLORADO     DENVER        
+A    MASS         LEXINGTON     
+A9   TEXAS        LUBBOCK       
+A    WASHINGTON   SEATTLE       
+A9   CALIFORNIA   FRESNO        
+A    CALIFORNIA   SUNNYVALE     
+A9   GERMANY      FRANKFURT     
+A    TEXAS        DALLAS        
+A9   NEW YORK     NEW YORK      
+A9   NEBRASKA     LINCOLN       
+A9   GERMANY      DUISBURG      
+A9   GERMANY      MUENCHEN      
+A9   ILLINOIS     CHICAGO       
+A9   TEXAS        DALLAS        
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a09s26
+
+L     C              S             
+----- -------------- --------------
+<group_begin>
+A     CALIFORNIA     CUPERTINO     
+XYZ   CUPERTINO      CALIFORNIA    
+A9    PENN           PHILADELPHIA  
+ABCDE PHILADELPHIA   PENN          
+A     CALIFORNIA     IRVINE        
+XYZ   IRVINE         CALIFORNIA    
+A9    CALIFORNIA     SAN FRANCISCO 
+ABCDE SAN FRANCISCO  CALIFORNIA    
+A     CALIFORNIA     PALO ALTO     
+XYZ   PALO ALTO      CALIFORNIA    
+A9    COLORADO       DENVER        
+ABCDE DENVER         COLORADO      
+A     MASS           LEXINGTON     
+XYZ   LEXINGTON      MASS          
+A9    TEXAS          LUBBOCK       
+ABCDE LUBBOCK        TEXAS         
+A     WASHINGTON     SEATTLE       
+XYZ   SEATTLE        WASHINGTON    
+A9    CALIFORNIA     FRESNO        
+ABCDE FRESNO         CALIFORNIA    
+A     CALIFORNIA     SUNNYVALE     
+XYZ   SUNNYVALE      CALIFORNIA    
+A9    GERMANY        FRANKFURT     
+ABCDE FRANKFURT      GERMANY       
+A     TEXAS          DALLAS        
+XYZ   DALLAS         TEXAS         
+A9    NEW YORK       NEW YORK      
+ABCDE NEW YORK       NEW YORK      
+A9    NEBRASKA       LINCOLN       
+ABCDE LINCOLN        NEBRASKA      
+A9    GERMANY        DUISBURG      
+ABCDE DUISBURG       GERMANY       
+A9    GERMANY        MUENCHEN      
+ABCDE MUENCHEN       GERMANY       
+A9    ILLINOIS       CHICAGO       
+ABCDE CHICAGO        ILLINOIS      
+A9    TEXAS          DALLAS        
+ABCDE DALLAS         TEXAS         
+<group_end>
+
+--- 38 row(s) selected.
+
+<section_end>
+<section_begin>  a09s27
+
+(EXPR)
+--------
+<group_begin>
+A9Table1
+A9Table2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s28
+
+(EXPR)
+--------
+<group_begin>
+A9Table2
+A9Table2
+A9Table2
+A9Table2
+A9Table2
+A9Table2
+A9Table1
+A9Table1
+A9Table1
+A9Table1
+A9Table1
+A9Table1
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s29
+
+(EXPR)
+------
+<group_begin>
+A     
+B     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s30
+
+(EXPR)
+------
+<group_begin>
+A     
+A     
+A     
+A     
+A     
+A     
+B     
+B     
+B     
+B     
+B     
+B     
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s31
+
+(EXPR)
+--------
+<group_begin>
+B2345678
+A2      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s32
+
+(EXPR)
+--------
+<group_begin>
+A2      
+A2      
+A2      
+A2      
+A2      
+A2      
+B2345678
+B2345678
+B2345678
+B2345678
+B2345678
+B2345678
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a09s33
+
+(EXPR)
+--------
+<group_begin>
+A2      
+B2345678
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a09s34
+
+(EXPR)
+--------
+<group_begin>
+B2345678
+B2345678
+B2345678
+B2345678
+B2345678
+B2345678
+A2      
+A2      
+A2      
+A2      
+A2      
+A2      
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>

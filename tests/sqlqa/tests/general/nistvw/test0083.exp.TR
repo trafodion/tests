@@ -1,0 +1,12 @@
+<section_begin>  s1
+
+EMPNUM EMPNUM
+------ ------
+<group_begin>
+E1     E4    
+E2     E3    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

@@ -1,0 +1,168 @@
+<section_begin>  a01s0
+
+PIC_9_7
+---------
+<group_begin>
+       50
+       80
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+MEDIUM_INT
+-----------
+<group_begin>
+        200
+        999
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+MEDIUM_INT
+-----------
+<group_begin>
+        200
+        999
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+PIC_9_7   PIC_X_7
+--------- -------
+<group_begin>
+       50 michael
+       80 7      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+PIC_9_7   MEDIUM_INT 
+--------- -----------
+<group_begin>
+       50         200
+       50         999
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+PIC_X_1 PIC_9_7   MEDIUM_INT 
+------- --------- -----------
+<group_begin>
+B              50         200
+B              50         999
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+DECIMAL_1 NEW_NAME_1
+--------- ----------
+<group_begin>
+        1         80
+        1         90
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+DECIMAL_1 NEW_NAME_1
+--------- ----------
+<group_begin>
+        1         80
+        1         90
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+MEDIUM_INT MEDIUM_INT 
+---------- -----------
+<group_begin>
+      1000         999
+      1000        1000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+MEDIUM_INT
+----------
+<group_begin>
+      1000
+      5000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+NEW_NAME_3 COL_3     
+---------- ----------
+<group_begin>
+7                1000
+7                5000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+CHAR_1 MEDIUM_INT
+------ ----------
+<group_begin>
+A            1000
+A            5000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+MEDIUM_INT
+----------
+<group_begin>
+      1000
+      5000
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+NEW_NAME_1 NEW_NAME_3
+---------- ----------
+<group_begin>
+        80 7         
+        80 B         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

@@ -1,0 +1,594 @@
+<section_begin>  a09s0
+
+DATA_93
+-------
+<group_begin>
+    100
+    200
+    250
+    350
+    450
+    550
+    650
+    750
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+DATA_93
+-------
+<group_begin>
+    100
+    200
+    250
+    350
+    450
+    550
+    650
+    750
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+DATA_93
+-------
+<group_begin>
+    250
+    550
+    200
+    450
+    650
+    100
+    750
+    350
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+DATA_93
+-------
+<group_begin>
+    750
+    250
+    550
+    100
+    350
+    200
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s4
+
+DATA_93
+-------
+<group_begin>
+    250
+    550
+    100
+    750
+    350
+    200
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s5
+
+DATA_93
+-------
+<group_begin>
+    750
+    250
+    550
+    100
+    350
+    200
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s6
+
+DATA_93
+-------
+<group_begin>
+    100
+    750
+    250
+    550
+    350
+    450
+    650
+    200
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s7
+
+DATA_93
+-------
+<group_begin>
+    100
+    350
+    250
+    550
+    750
+    200
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s8
+
+DATA_93
+-------
+<group_begin>
+    750
+    200
+    350
+    100
+    250
+    550
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s9
+
+DATA_93
+-------
+<group_begin>
+    350
+    250
+    550
+    100
+    750
+    200
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s10
+
+DATA_93
+-------
+<group_begin>
+    100
+    250
+    550
+    750
+    350
+    200
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s11
+
+DATA_93
+-------
+<group_begin>
+    750
+    100
+    350
+    250
+    550
+    200
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s12
+
+DATA_93
+-------
+<group_begin>
+    100
+    450
+    650
+    250
+    550
+    200
+    350
+    750
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s13
+
+DATA_93
+-------
+<group_begin>
+    200
+    100
+    750
+    450
+    650
+    250
+    550
+    350
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s14
+
+DATA_93
+-------
+<group_begin>
+    200
+    100
+    750
+    350
+    450
+    650
+    250
+    550
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s15
+
+DATA_93
+-------
+<group_begin>
+    350
+    100
+    750
+    250
+    550
+    200
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s16
+
+DATA_93
+-------
+<group_begin>
+    200
+    100
+    250
+    550
+    350
+    750
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s17
+
+DATA_93
+-------
+<group_begin>
+    250
+    550
+    100
+    350
+    750
+    200
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s18
+
+CHAR_1 PIC_X_7
+------ -------
+<group_begin>
+D      michael
+A      bobby  
+C      jimmy  
+D      7      
+D      9      
+A      walter 
+E      sue    
+C      johnny 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s19
+
+CHAR_1 PIC_X_7
+------ -------
+<group_begin>
+D      9      
+A      walter 
+A      bobby  
+C      jimmy  
+E      sue    
+C      johnny 
+D      7      
+D      michael
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s20
+
+CHAR_1 PIC_X_7
+------ -------
+<group_begin>
+A      walter 
+A      bobby  
+C      jimmy  
+D      michael
+D      7      
+D      9      
+E      sue    
+C      johnny 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s21
+
+CHAR_1 PIC_X_7
+------ -------
+<group_begin>
+D      9      
+D      7      
+D      michael
+A      bobby  
+C      jimmy  
+A      walter 
+E      sue    
+C      johnny 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s22
+
+CHAR_1 PIC_X_7
+------ -------
+<group_begin>
+D      9      
+D      7      
+A      walter 
+E      sue    
+C      johnny 
+D      michael
+A      bobby  
+C      jimmy  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s23
+
+CHAR_1 PIC_X_7
+------ -------
+<group_begin>
+D      9      
+D      michael
+A      bobby  
+C      jimmy  
+D      7      
+A      walter 
+E      sue    
+C      johnny 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s24
+
+CHAR_1 PIC_X_7
+------ -------
+<group_begin>
+A      walter 
+D      9      
+A      bobby  
+C      jimmy  
+D      michael
+D      7      
+E      sue    
+C      johnny 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s25
+
+CHAR_1 PIC_X_7
+------ -------
+<group_begin>
+D      9      
+A      bobby  
+C      jimmy  
+A      walter 
+E      sue    
+C      johnny 
+D      michael
+D      7      
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s26
+
+CHAR_1 PIC_X_7
+------ -------
+<group_begin>
+A      walter 
+D      9      
+D      7      
+A      bobby  
+C      jimmy  
+E      sue    
+C      johnny 
+D      michael
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s27
+
+CHAR_1 PIC_X_7
+------ -------
+<group_begin>
+D      7      
+D      9      
+A      bobby  
+C      jimmy  
+A      walter 
+E      sue    
+C      johnny 
+D      michael
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s28
+
+CHAR_1 PIC_X_7
+------ -------
+<group_begin>
+D      9      
+A      walter 
+D      michael
+D      7      
+E      sue    
+C      johnny 
+A      bobby  
+C      jimmy  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s29
+
+DATA_93
+-------
+<group_begin>
+    200
+    350
+    750
+    100
+    250
+    550
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s30
+
+DATA_93
+-------
+<group_begin>
+    750
+    350
+    250
+    550
+    100
+    450
+    650
+    200
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s36
+
+CHAR_1 PIC_X_7
+------ -------
+<group_begin>
+D      7      
+A      bobby  
+C      jimmy  
+D      michael
+D      9      
+A      walter 
+E      sue    
+C      johnny 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s37
+
+DATA_93
+-------
+<group_begin>
+    250
+    550
+    750
+    350
+    100
+    200
+    450
+    650
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>

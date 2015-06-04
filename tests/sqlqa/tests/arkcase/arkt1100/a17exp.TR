@@ -1,0 +1,148 @@
+<section_begin>  a17s0
+
+A
+-----------
+<group_begin>
+         10
+         20
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s1
+
+JOB
+------------
+<group_begin>
+ENGINEER    
+ENGINEER    
+ENGINEER    
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+MANAGER     
+PROGRAMMER  
+PROGRAMMER  
+PROGRAMMER  
+SALESMAN    
+SALESMAN    
+SALESMAN    
+SALESMAN    
+SALESMAN    
+SALESMAN    
+SALESMAN    
+SALESMAN    
+SALESMAN    
+SALESMAN    
+SALESMAN    
+SALESMAN    
+SALESMAN    
+SALESMAN    
+SECRETARY   
+SECRETARY   
+SECRETARY   
+SECRETARY   
+SECRETARY   
+SECRETARY   
+SECRETARY   
+SYS.-ANAL.  
+SYS.-ANAL.  
+SYS.-ANAL.  
+SYS.-ANAL.  
+SYS.-ANAL.  
+SYST.-ANAL  
+SYST.-ANAL  
+SYST.-ANAL  
+<group_end>
+
+--- 56 row(s) selected.
+
+<section_end>
+<section_begin>  a17s2
+
+BRANCHNAME
+--------------
+<group_begin>
+CHICAGO       
+CUPERTINO     
+DALLAS        
+DUESSELDORF   
+FRANKFURT     
+HOUSTON       
+LONDON        
+LOS ANGELES   
+MUENCHEN      
+NEW JERSEY    
+NEW YORK      
+SAN FRANCISCO 
+ST. LOUIS     
+TORONTO       
+VANCOUVER     
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a17s3
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s4
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s5
+
+(EXPR)
+--------------------
+                  15
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s6
+
+(EXPR)
+--------------------
+                   7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s7
+
+(EXPR)
+--------------------
+                  16
+
+--- 1 row(s) selected.
+
+<section_end>

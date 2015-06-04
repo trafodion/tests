@@ -1,0 +1,104 @@
+<section_begin>  a003cs0
+
+TM       IVHR IVMN IVSC      
+-------- ---- ---- ----------
+<group_begin>
+14:30:22 12   59    1.000000 
+00:00:00 -23  -59  59.000000 
+23:59:59  0    0    0.000000 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a003cs1
+
+TM       (EXPR)  
+-------- --------
+<group_begin>
+14:30:22 02:30:22
+00:00:00 23:00:00
+23:59:59 23:59:59
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a003cs2
+
+TM       (EXPR)  
+-------- --------
+<group_begin>
+14:30:22 14:30:22
+00:00:00 22:00:00
+23:59:59 23:59:59
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a003cs3
+
+TM       (EXPR)  
+-------- --------
+<group_begin>
+14:30:22 13:31:22
+00:00:00 00:59:00
+23:59:59 23:59:59
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a003cs4
+
+TM       IVSC       (EXPR)  
+-------- ---------- --------
+<group_begin>
+14:30:22  1.000000  14:30:21
+00:00:00 59.000000  23:59:01
+23:59:59  0.000000  23:59:59
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a003cs5
+
+TM       (EXPR)  
+-------- --------
+<group_begin>
+14:30:22 22:30:22
+00:00:00 08:00:00
+23:59:59 07:59:59
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a003cs6
+
+TM       (EXPR)  
+-------- --------
+<group_begin>
+14:30:22 14:29:22
+00:00:00 23:59:00
+23:59:59 23:58:59
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a003cs7
+
+TM       (EXPR)  
+-------- --------
+<group_begin>
+14:30:22 14:30:21
+00:00:00 23:59:59
+23:59:59 23:59:58
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

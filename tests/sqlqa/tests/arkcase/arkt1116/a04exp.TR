@@ -1,0 +1,184 @@
+<section_begin>  a04s0
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+ANANDHI       RAMASWAMY       PROGRAMMER      FEMALE  
+BHAVESH       MEHTA           ENGINEER        MALE    
+Kathy         Baxter          secretary       female  
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+YUGAL         AGGARWAL        SYSADMIN        MALE    
+shanti        aradhyula       salesrep        female  
+steve         martin          director        male    
+sulu          kapoor          manager         female  
+NULL          HAUSMANN        PROGRAMMER      MALE    
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+FIRST_NAME    LAST_NAME       SALARY      DEPT_NUM    STR 
+------------- --------------- ----------- ----------- ----
+<group_begin>
+ANANDHI       RAMASWAMY             50000          13 E   
+BHAVESH       MEHTA                 50000          14 C   
+Kathy         Baxter                36000          15 F   
+MARIA         JOYCE                 40000          16 I   
+YUGAL         AGGARWAL              80000          14 D   
+shanti        aradhyula             60000          12 A   
+steve         martin               120000          13 H   
+sulu          kapoor                90000          13 B   
+NULL          HAUSMANN              52000          14 J   
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+ANANDHI       RAMASWAMY       PROGRAMMER      female  
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+andrea        mitchell        programmer      female  
+martha        vincent         SECRETARY       FEMALE  
+sulu          kapoor          manager         female  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+FIRST_NAME    LAST_NAME       DEPT_NAME            EMP_NUM    
+------------- --------------- -------------------- -----------
+<group_begin>
+ANANDHI       RAMASWAMY       arkqa                       4254
+MARIA         JOYCE           Boutique                   23232
+andrea        mitchell        pathway                      123
+martha        vincent         networkmanagement            345
+sulu          kapoor          arkqa                       2345
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+LAST_NAME       FIRST_NAME    SALARY      DEPT_NUM   
+--------------- ------------- ----------- -----------
+Baxter          Kathy               36000          15
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+LAST_NAME       FIRST_NAME    SALARY      DEPT_NUM   
+--------------- ------------- ----------- -----------
+Baxter          Kathy               36000          15
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+LAST_NAME       FIRST_NAME    SALARY      DEPT_NUM   
+--------------- ------------- ----------- -----------
+Baxter          Kathy               36000          15
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+LAST_NAME       FIRST_NAME    SALARY      DEPT_NUM   
+--------------- ------------- ----------- -----------
+Baxter          Kathy               36000          15
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+LAST_NAME       FIRST_NAME    SALARY      DEPT_NUM   
+--------------- ------------- ----------- -----------
+Baxter          Kathy               36000          15
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+LOWER_LAST      SUBSTRING_BOTH SALARY      DEPT_NUM   
+--------------- -------------- ----------- -----------
+<group_begin>
+kapoor          manage               90000          13
+martin          direct              120000          13
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+LOWER_LAST      SUBSTRING_BOTH SALARY      DEPT_NUM   
+--------------- -------------- ----------- -----------
+<group_begin>
+kapoor          manage               90000          13
+martin          direct              120000          13
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+LEFT_LAST       LEFT_FIRST    RIGHT_LAST      RIGHT_FIRST  
+--------------- ------------- --------------- -------------
+<group_begin>
+joyce           maria         joyce           maria        
+kapoor          sulu          kapoor          sulu         
+ramaswamy       anandhi       ramaswamy       anandhi      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s12
+
+RIGHT_LAST      RIGHT_DEPT           LEFT_DNUM   RIGHT_ENUM 
+--------------- -------------------- ----------- -----------
+<group_begin>
+joyce           boutique                      16       23232
+kapoor          arkqa                         13        2345
+mitchell        pathway                     NULL         123
+ramaswamy       arkqa                         13        4254
+vincent         networkmanagement           NULL         345
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s13
+
+LEFT_FIRST LEFT_LAST RIGHT_FIRST RIGHT_LAST
+---------- --------- ----------- ----------
+<group_begin>
+ANANDHI    RAMASWAMY ANANDHI     RAMASWAMY 
+BHAVESH    MEHTA     NULL        NULL      
+Kathy      Baxter    NULL        NULL      
+MARIA      JOYCE     NULL        NULL      
+YUGAL      AGGARWAL  NULL        NULL      
+shanti     aradhyula NULL        NULL      
+steve      martin    NULL        NULL      
+sulu       kapoor    NULL        NULL      
+NULL       HAUSMANN  NULL        NULL      
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>

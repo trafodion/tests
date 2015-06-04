@@ -1,0 +1,353 @@
+<section_begin>  a03s0
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   19333 VALLCO PARKWAY   CUPERTINO      CALIFORNIA  
+      2 DATA TERMINAL CO   2000 BAKER STREET      IRVINE         CALIFORNIA  
+      3 DISPLAY INC        7600 EMERSON           PALO ALTO      CALIFORNIA  
+      6 INFOMATION STORAGE 1000 INDUSTRY DRIVE    LEXINGTON      MASS        
+      8 MAGNETICS CORP     7777 FOUNTAIN WAY      SEATTLE        WASHINGTON  
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+     15 DATADRIVE          100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+SUPPNUM SUPPNAME          
+------- ------------------
+<group_begin>
+      1 TANDEM COMPUTERS  
+      2 DATA TERMINAL CO  
+      3 DISPLAY INC       
+      6 INFOMATION STORAGE
+      8 MAGNETICS CORP    
+     10 STEELWORK INC     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+ADDRESS                CITY           STATE       
+---------------------- -------------- ------------
+<group_begin>
+6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s11
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s12
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a03s13
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a03s14
+
+SUPPNUM SUPPNAME          
+------- ------------------
+<group_begin>
+      1 TANDEM COMPUTERS  
+      2 DATA TERMINAL CO  
+      3 DISPLAY INC       
+      6 INFOMATION STORAGE
+      8 MAGNETICS CORP    
+     10 STEELWORK INC     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s15
+
+ADDRESS                CITY           STATE       
+---------------------- -------------- ------------
+<group_begin>
+6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s16
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s17
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s18
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s19
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+      2 DATA TERMINAL CO   NULL                   NULL           NULL        
+      3 DISPLAY INC        NULL                   NULL           NULL        
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+      1 TANDEM COMPUTERS   NULL                   NULL           NULL        
+      6 INFOMATION STORAGE NULL                   NULL           NULL        
+      8 MAGNETICS CORP     NULL                   NULL           NULL        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s20
+
+SUPPNUM SUPPNAME          
+------- ------------------
+<group_begin>
+      1 TANDEM COMPUTERS  
+      2 DATA TERMINAL CO  
+      3 DISPLAY INC       
+      6 INFOMATION STORAGE
+      8 MAGNETICS CORP    
+     10 STEELWORK INC     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s21
+
+ADDRESS                CITY           STATE       
+---------------------- -------------- ------------
+<group_begin>
+6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s22
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s23
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s24
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s25
+
+SUPPNUM SUPPNAME           ADDRESS                CITY           STATE       
+------- ------------------ ---------------------- -------------- ------------
+<group_begin>
+     10 STEELWORK INC      6000 LINCOLN LANE      SUNNYVALE      CALIFORNIA  
+   NULL NULL               100  MACARTHUR         DALLAS         TEXAS       
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

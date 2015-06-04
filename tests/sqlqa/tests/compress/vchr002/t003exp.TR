@@ -1,0 +1,405 @@
+<section_begin>  t003s9
+
+I1          V1   V2   (EXPR)   I2          V4       V5               V6  
+----------- ---- ---- -------- ----------- -------- ---------------- ----
+<group_begin>
+          1 A    0001 NULL             101 ABCDEFGH 00010001         a   
+          2 B    0002 NULL             102 ABCDEFGH 00020002         b   
+          3 C    0003 NULL             103 ABCDEFGH 00030003         c   
+          4 D    0004 NULL             104 ABCDEFGH 00040004         d   
+          5 E    0005 NULL             105 ABCDEFGH 00050005         e   
+          6 F    0006 NULL             106 ABCDEFGH 00060006         f   
+          7 G    0007 NULL             107 ABCDEFGH 00070007         g   
+          8 H    0008 NULL             108 ABCDEFGH 00080008         h   
+          9 I    0009 NULL             109 ABCDEFGH 00090009         i   
+         10 J    0010 NULL             110 ABCDEFGH 00100010         j   
+         11 K    0011 NULL             111 ABCDEFGH 00110111         k   
+         12 L    0012 NULL             112 ABCDEFGH 00120112         l   
+         13 M    0013 NULL             113 ABCDEFGH 00130113         m   
+         14 N    0014 NULL             114 ABCDEFGH 00140114         n   
+         15 O    0015 NULL             115 ABCDEFGH 00150115         o   
+         16 P    0016 NULL             116 ABCDEFGH 00160116         p   
+         17 Q    0017 NULL             117 ABCDEFGH 00170117         q   
+         18 R    0018 NULL             118 ABCDEFGH 00180118         r   
+         19 S    0019 NULL             119 ABCDEFGH 00190119         s   
+         20 T    0020 NULL             120 ABCDEFGH 00200120         t   
+          1 a    0021 0001              21 0021ABCD 00210021         A   
+          2 b    0022 0002              22 0022ABCD 00220022         B   
+          3 c    0023 0003              23 0023ABCD 00230023         C   
+          4 d    0024 0004              24 0024ABCD 00240024         D   
+          5 e    0025 0005              25 0025ABCD 00250025         E   
+          6 f    0026 0006              26 0026ABCD 00260026         F   
+          7 g    0027 0007              27 0027ABCD 00270027         G   
+          8 h    0028 0008              28 0028ABCD 00280028         H   
+          9 i    0029 0009              29 0029ABCD 00290029         I   
+         10 j    0030 0010              30 ABCD0030 00300130         J   
+         11 k    0031 0011              31 ABCD0031 00310131         K   
+         12 l    0032 0012              32 ABCD0032 00320132         L   
+         13 m    0033 0013              33 ABCD0033 00330133         M   
+         14 n    0034 0014              34 ABCD0034 00340134         N   
+         15 o    0035 0015              35 ABCD0035 00350135         O   
+         16 p    0036 0016              36 ABCD0036 00360136         P   
+         17 q    0037 0017              37 ABCD0037 00370137         Q   
+         18 r    0038 0018              38 ABCD0038 00380138         R   
+         19 s    0039 0019              39 ABCD0039 00390139         S   
+         20 t    0040 0020              40 ABCD0040 00400140         T   
+<group_end>
+
+--- 40 row(s) selected.
+
+<section_end>
+<section_begin>  t003s10
+
+I1          V1   V2   (EXPR)   I2          V4       V5               V6  
+----------- ---- ---- -------- ----------- -------- ---------------- ----
+<group_begin>
+          1 A    0001 NULL             101 ABCDEFGH 00010001         a   
+          2 B    0002 NULL             102 ABCDEFGH 00020002         b   
+          3 C    0003 NULL             103 ABCDEFGH 00030003         c   
+          4 D    0004 NULL             104 ABCDEFGH 00040004         d   
+          5 E    0005 NULL             105 ABCDEFGH 00050005         e   
+          6 F    0006 NULL             106 ABCDEFGH 00060006         f   
+          7 G    0007 NULL             107 ABCDEFGH 00070007         g   
+          8 H    0008 NULL             108 ABCDEFGH 00080008         h   
+          9 I    0009 NULL             109 ABCDEFGH 00090009         i   
+         10 J    0010 NULL             110 ABCDEFGH 00100010         j   
+          1 a    0021 0001              21 0021ABCD 00210021         A   
+          2 b    0022 0002              22 0022ABCD 00220022         B   
+          3 c    0023 0003              23 0023ABCD 00230023         C   
+          4 d    0024 0004              24 0024ABCD 00240024         D   
+          5 e    0025 0005              25 0025ABCD 00250025         E   
+          6 f    0026 0006              26 0026ABCD 00260026         F   
+          7 g    0027 0007              27 0027ABCD 00270027         G   
+          8 h    0028 0008              28 0028ABCD 00280028         H   
+          9 i    0029 0009              29 0029ABCD 00290029         I   
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  t003s11
+
+I1          V1   V2   (EXPR)   I2          V4       V5               V6  
+----------- ---- ---- -------- ----------- -------- ---------------- ----
+<group_begin>
+          1 a    0021 0001              21 0021ABCD 00210021         A   
+          2 b    0022 0002              22 0022ABCD 00220022         B   
+          3 c    0023 0003              23 0023ABCD 00230023         C   
+          4 d    0024 0004              24 0024ABCD 00240024         D   
+          5 e    0025 0005              25 0025ABCD 00250025         E   
+          6 f    0026 0006              26 0026ABCD 00260026         F   
+          7 g    0027 0007              27 0027ABCD 00270027         G   
+          8 h    0028 0008              28 0028ABCD 00280028         H   
+          9 i    0029 0009              29 0029ABCD 00290029         I   
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  t003s17
+
+CHR1 VCH1     VCH2     VCH3            
+---- -------- -------- ----------------
+<group_begin>
+A    0001     a0001A   00010000        
+B    0002     b0002B   00020000        
+C    0003     c0003C   00030000        
+D    0004     d0004D   00040000        
+E    0005     e0005E   00050000        
+K    0011     k0011K   00110000        
+L    0012     l0012L   00120000        
+M    0013     m0013M   00130000        
+N    0014     n0014N   00140000        
+O    0015     o0015O   00150000        
+P    0016     p0016P   00160000        
+Q    0017     q0017Q   00170000        
+R    0018     r0018R   00180000        
+S    0019     s0019S   00190000        
+T    0020     t0020T   00200000        
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  ins01
+
+I1          V1   V2   V3                               I2          V4       V5               V6  
+----------- ---- ---- -------------------------------- ----------- -------- ---------------- ----
+<group_begin>
+         50 5    0050 Mount McKinley                          NULL NULL     00500050bbbb     NULL
+         51 1    0051 Denali State Park                       NULL NULL     00510051bbbbBBBB NULL
+         52 NULL 0052 0052                                    NULL 0052     0052             5   
+         96 NULL 0096 William McKinley                        NULL NULL     bbbb00960096     5   
+         97 NULL 0097 Wonder Lake                               97 McKinley 0097             NULL
+         98 NULL 0098 Denali Wilderness                         98 NULL     0098bbbbBBBB0098 NULL
+         99 NULL 0099 Denali National Park                    NULL NULL     aaaa0099bbbb0099 NULL
+         55 k    011K aa11                                    NULL NULL     0011K            NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  upds02
+
+I1          V1   V2   V3                               I2          V4       V5               V6  
+----------- ---- ---- -------------------------------- ----------- -------- ---------------- ----
+<group_begin>
+        105 A    0052 Alaska Range                             105 Foraker  0052             F   
+        107 A    0097 Alaska Range                             107 Mountain 0097             M   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  upds03
+
+V1   V2   V3                               V6  
+---- ---- -------------------------------- ----
+<group_begin>
+a    0021 a0021A                           A   
+b    0022 b0022B                           B   
+c    0023 c0023C                           C   
+d    0024 d0024D                           D   
+e    0025 e0025E                           E   
+f    0026 f0026F                           F   
+g    0027 g0027G                           G   
+h    0028 h0028H                           H   
+i    0029 i0029I                           I   
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  upds05
+
+V1   V2   V3                               V4       V5              
+---- ---- -------------------------------- -------- ----------------
+<group_begin>
+H    0001 Mount Everest                    Himalaya 00010001        
+H    0003 Mount Everest                    Himalaya 00030003        
+H    0005 Mount Everest                    Himalaya 00050005        
+H    0007 Mount Everest                    Himalaya 00070007        
+H    0009 Mount Everest                    Himalaya 00090009        
+H    0010 Mount Everest                    Himalaya 00100010        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  upds07
+
+V1   V2   V3                               V4       V6  
+---- ---- -------------------------------- -------- ----
+<group_begin>
+a    0021 a0021A                           0021ABCD A   
+b    0022 b0022B                           0022ABCD B   
+c    0023 c0023C                           0023ABCD C   
+d    0024 d0024D                           0024ABCD D   
+e    0025 e0025E                           0025ABCD E   
+f    0026 f0026F                           0026ABCD F   
+g    0027 g0027G                           0027ABCD G   
+h    0028 h0028H                           0028ABCD H   
+i    0029 i0029I                           0029ABCD I   
+j    0030 0010                             ABCD0030 J   
+k    0031 0011                             ABCD0031 K   
+l    0032 0012                             ABCD0032 L   
+m    0033 0013                             ABCD0033 M   
+n    0034 0014                             ABCD0034 N   
+o    0035 0015                             ABCD0035 O   
+p    0036 0016                             ABCD0036 P   
+q    0037 0017                             ABCD0037 Q   
+r    0038 0018                             ABCD0038 R   
+s    0039 0019                             ABCD0039 S   
+t    0040 0020                             ABCD0040 T   
+y    0019 NULL                             ABCDEFGH Y   
+y    0020 NULL                             ABCDEFGH Y   
+<group_end>
+
+--- 22 row(s) selected.
+
+<section_end>
+<section_begin>  upds08
+
+I1          V1   V2   V3                               I2          V4       V5               V6  
+----------- ---- ---- -------------------------------- ----------- -------- ---------------- ----
+<group_begin>
+        105 A    0052 Alaska Range                             105 Foraker  0052             F   
+        107 A    0097 Alaska Range                             107 Mountain 0097             M   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  upds11
+
+I1          V1   V2   V3                               I2          V4       V5               V6  
+----------- ---- ---- -------------------------------- ----------- -------- ---------------- ----
+<group_begin>
+          1 H    0001 Mount Everest                            101 Himalaya 00010001         h   
+         53 A    0001 A0001A                                  NULL NULL     AA01AAAA         NULL
+         95 B    0002 b0002B                                  NULL NULL     00020000         NULL
+          2 B    0002 NULL                                     102 ABCDEFGH 00020002         b   
+          3 H    0003 Mount Everest                            103 Himalaya 00030003         h   
+          4 D    0004 NULL                                     104 ABCDEFGH 00040004         d   
+          5 H    0005 Mount Everest                            105 Himalaya 00050005         h   
+          6 F    0006 NULL                                     106 ABCDEFGH 00060006         f   
+          7 H    0007 Mount Everest                            107 Himalaya 00070007         h   
+          8 H    0008 NULL                                     108 ABCDEFGH 00080008         h   
+          9 H    0009 Mount Everest                            109 Himalaya 00090009         h   
+         10 H    0010 Mount Everest                            110 Himalaya 00100010         h   
+         11 K    0011 NULL                                     111 NULL     00110111         k   
+         12 L    0012 NULL                                     112 NULL     00120112         l   
+         13 M    0013 NULL                                     113 NULL     00130113         m   
+         14 N    0014 NULL                                     114 NULL     00140114         n   
+         15 O    0015 NULL                                     115 NULL     00150115         o   
+         16 P    0016 NULL                                     116 NULL     00160116         p   
+         17 Q    0017 NULL                                     117 NULL     00170117         q   
+         18 R    0018 NULL                                     118 ABCDEFGH 00180118         r   
+         19 y    0019 NULL                                     119 ABCDEFGH 00190119         Y   
+         20 y    0020 NULL                                     120 ABCDEFGH 00200120         Y   
+          1 a    0021 a0021A                                    21 0021ABCD 00210021         A   
+          2 b    0022 b0022B                                    22 0022ABCD 00220022         B   
+          3 c    0023 c0023C                                    23 0023ABCD 00230023         C   
+          4 d    0024 d0024D                                    24 0024ABCD 00240024         D   
+          5 e    0025 e0025E                                    25 0025ABCD 00250025         E   
+          6 f    0026 f0026F                                    26 0026ABCD 00260026         F   
+          7 g    0027 g0027G                                    27 0027ABCD 00270027         G   
+          8 h    0028 h0028H                                    28 0028ABCD 00280028         H   
+          9 i    0029 i0029I                                    29 0029ABCD 00290029         I   
+         10 j    0030 0010                                      30 ABCD0030 00300130         J   
+         11 k    0031 0011                                      31 ABCD0031 00310131         K   
+         12 l    0032 0012                                      32 ABCD0032 00320132         L   
+         13 m    0033 0013                                      33 ABCD0033 00330133         M   
+         14 n    0034 0014                                      34 ABCD0034 00340134         N   
+         15 o    0035 0015                                      35 ABCD0035 00350135         O   
+         16 p    0036 0016                                      36 ABCD0036 00360136         P   
+         17 q    0037 0017                                      37 ABCD0037 00370137         Q   
+         18 r    0038 0018                                      38 ABCD0038 00380138         R   
+         19 s    0039 0019                                      39 ABCD0039 00390139         S   
+         20 t    0040 0020                                      40 ABCD0040 00400140         T   
+         50 5    0050 Mount McKinley                          NULL NULL     00500050bbbb     NULL
+         51 1    0051 Denali State Park                       NULL NULL     00510051bbbbBBBB NULL
+        105 A    0052 Alaska Range                             105 Foraker  0052             F   
+         96 NULL 0096 William McKinley                        NULL NULL     bbbb00960096     5   
+        107 A    0097 Alaska Range                             107 Mountain 0097             M   
+         98 NULL 0098 Denali Wilderness                         98 NULL     0098bbbbBBBB0098 NULL
+         99 NULL 0099 Denali National Park                    NULL NULL     aaaa0099bbbb0099 NULL
+        101 r    011K Mount Rainier                            201 WA       0011K            R   
+<group_end>
+
+--- 50 row(s) selected.
+
+<section_end>
+<section_begin>  dels01
+
+I1          V1   V2   V3                               I2          V4       V5               V6  
+----------- ---- ---- -------------------------------- ----------- -------- ---------------- ----
+<group_begin>
+         53 A    0001 A0001A                                  NULL NULL     AA01AAAA         NULL
+         95 B    0002 b0002B                                  NULL NULL     00020000         NULL
+          2 B    0002 NULL                                     102 ABCDEFGH 00020002         b   
+          3 H    0003 Mount Everest                            103 Himalaya 00030003         h   
+          4 D    0004 NULL                                     104 ABCDEFGH 00040004         d   
+          5 H    0005 Mount Everest                            105 Himalaya 00050005         h   
+          6 F    0006 NULL                                     106 ABCDEFGH 00060006         f   
+          7 H    0007 Mount Everest                            107 Himalaya 00070007         h   
+          8 H    0008 NULL                                     108 ABCDEFGH 00080008         h   
+          9 H    0009 Mount Everest                            109 Himalaya 00090009         h   
+         10 H    0010 Mount Everest                            110 Himalaya 00100010         h   
+         18 R    0018 NULL                                     118 ABCDEFGH 00180118         r   
+         19 y    0019 NULL                                     119 ABCDEFGH 00190119         Y   
+         20 y    0020 NULL                                     120 ABCDEFGH 00200120         Y   
+         10 j    0030 0010                                      30 ABCD0030 00300130         J   
+         12 l    0032 0012                                      32 ABCD0032 00320132         L   
+         13 m    0033 0013                                      33 ABCD0033 00330133         M   
+         14 n    0034 0014                                      34 ABCD0034 00340134         N   
+         16 p    0036 0016                                      36 ABCD0036 00360136         P   
+         17 q    0037 0017                                      37 ABCD0037 00370137         Q   
+         18 r    0038 0018                                      38 ABCD0038 00380138         R   
+         20 t    0040 0020                                      40 ABCD0040 00400140         T   
+         50 5    0050 Mount McKinley                          NULL NULL     00500050bbbb     NULL
+         51 1    0051 Denali State Park                       NULL NULL     00510051bbbbBBBB NULL
+        105 A    0052 Alaska Range                             105 Foraker  0052             F   
+         96 NULL 0096 William McKinley                        NULL NULL     bbbb00960096     5   
+        107 A    0097 Alaska Range                             107 Mountain 0097             M   
+         98 NULL 0098 Denali Wilderness                         98 NULL     0098bbbbBBBB0098 NULL
+         99 NULL 0099 Denali National Park                    NULL NULL     aaaa0099bbbb0099 NULL
+        101 r    011K Mount Rainier                            201 WA       0011K            R   
+<group_end>
+
+--- 30 row(s) selected.
+
+<section_end>
+<section_begin>  dels02
+
+I1          V1   V2   V3                               I2          V4       V5               V6  
+----------- ---- ---- -------------------------------- ----------- -------- ---------------- ----
+<group_begin>
+         53 A    0001 A0001A                                  NULL NULL     AA01AAAA         NULL
+         95 B    0002 b0002B                                  NULL NULL     00020000         NULL
+          2 B    0002 NULL                                     102 ABCDEFGH 00020002         b   
+          3 H    0003 Mount Everest                            103 Himalaya 00030003         h   
+          4 D    0004 NULL                                     104 ABCDEFGH 00040004         d   
+          5 H    0005 Mount Everest                            105 Himalaya 00050005         h   
+          6 F    0006 NULL                                     106 ABCDEFGH 00060006         f   
+          7 H    0007 Mount Everest                            107 Himalaya 00070007         h   
+          8 H    0008 NULL                                     108 ABCDEFGH 00080008         h   
+          9 H    0009 Mount Everest                            109 Himalaya 00090009         h   
+         10 H    0010 Mount Everest                            110 Himalaya 00100010         h   
+         80 NULL 0016 p0016P                                  NULL NULL     00160000         NULL
+         81 NULL 0017 q0017Q                                  NULL NULL     00170000         NULL
+         82 NULL 0018 r0018R                                  NULL NULL     00180000         NULL
+         18 R    0018 NULL                                     118 ABCDEFGH 00180118         r   
+         83 NULL 0019 s0019S                                  NULL NULL     00190000         NULL
+         19 y    0019 NULL                                     119 ABCDEFGH 00190119         Y   
+         84 NULL 0020 t0020T                                  NULL NULL     00200000         NULL
+         20 y    0020 NULL                                     120 ABCDEFGH 00200120         Y   
+         10 j    0030 0010                                      30 ABCD0030 00300130         J   
+         12 l    0032 0012                                      32 ABCD0032 00320132         L   
+         13 m    0033 0013                                      33 ABCD0033 00330133         M   
+         14 n    0034 0014                                      34 ABCD0034 00340134         N   
+         16 p    0036 0016                                      36 ABCD0036 00360136         P   
+         17 q    0037 0017                                      37 ABCD0037 00370137         Q   
+         18 r    0038 0018                                      38 ABCD0038 00380138         R   
+         20 t    0040 0020                                      40 ABCD0040 00400140         T   
+         50 5    0050 Mount McKinley                          NULL NULL     00500050bbbb     NULL
+         51 1    0051 Denali State Park                       NULL NULL     00510051bbbbBBBB NULL
+        105 A    0052 Alaska Range                             105 Foraker  0052             F   
+         96 NULL 0096 William McKinley                        NULL NULL     bbbb00960096     5   
+        107 A    0097 Alaska Range                             107 Mountain 0097             M   
+         98 NULL 0098 Denali Wilderness                         98 NULL     0098bbbbBBBB0098 NULL
+         99 NULL 0099 Denali National Park                    NULL NULL     aaaa0099bbbb0099 NULL
+        101 r    011K Mount Rainier                            201 WA       0011K            R   
+<group_end>
+
+--- 35 row(s) selected.
+
+<section_end>
+<section_begin>  dels03
+
+I1          V1   V2   V3                               I2          V4       V5               V6  
+----------- ---- ---- -------------------------------- ----------- -------- ---------------- ----
+<group_begin>
+          6 F    0006 NULL                                     106 ABCDEFGH 00060006         f   
+          7 H    0007 Mount Everest                            107 Himalaya 00070007         h   
+          8 H    0008 NULL                                     108 ABCDEFGH 00080008         h   
+          9 H    0009 Mount Everest                            109 Himalaya 00090009         h   
+         10 H    0010 Mount Everest                            110 Himalaya 00100010         h   
+         10 j    0030 0010                                      30 ABCD0030 00300130         J   
+         12 l    0032 0012                                      32 ABCD0032 00320132         L   
+         13 m    0033 0013                                      33 ABCD0033 00330133         M   
+         14 n    0034 0014                                      34 ABCD0034 00340134         N   
+         16 p    0036 0016                                      36 ABCD0036 00360136         P   
+         17 q    0037 0017                                      37 ABCD0037 00370137         Q   
+         18 r    0038 0018                                      38 ABCD0038 00380138         R   
+         20 t    0040 0020                                      40 ABCD0040 00400140         T   
+         50 5    0050 Mount McKinley                          NULL NULL     00500050bbbb     NULL
+        105 A    0052 Alaska Range                             105 Foraker  0052             F   
+         96 NULL 0096 William McKinley                        NULL NULL     bbbb00960096     5   
+        107 A    0097 Alaska Range                             107 Mountain 0097             M   
+        101 r    011K Mount Rainier                            201 WA       0011K            R   
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>

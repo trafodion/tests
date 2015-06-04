@@ -1,0 +1,100 @@
+<section_begin>  a24s5
+
+DEPARTMENT HIGHEST_SALARY LOWEST_SALARY
+---------- -------------- -------------
+<group_begin>
+PHIL             45000.00      35000.00
+THEO             45000.00      36000.00
+CIS              45000.00      35000.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a24s6
+
+FAVG_SAL             FAVG_NUM_DEP        
+-------------------- --------------------
+            39428.57                    2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a24s8
+
+FAVG_SAL             FAVG_NUM_DEP        
+-------------------- --------------------
+            39428.57                    2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a24s9
+
+ENAME      ESALARY     ETITLE    
+---------- ----------- ----------
+<group_begin>
+LUKE                53 EVANGLIST3
+MARK                52 EVANGLIST2
+MATTHEW             51 EVANGLIST1
+JOHN                54 EVANGLIST4
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a24s10
+
+DEPT AVERAGE_SALARY      
+---- --------------------
+<group_begin>
+PHIL                25000
+MATH                 1000
+THEO                   52
+ENG                   200
+NULL                  500
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a24s12
+
+ESALARY
+--------------------
+                 210
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a24s13b
+
+INSTRUCTOR           COURSE_NAME           
+-------------------- ----------------------
+<group_begin>
+KATHY PEPE           EMPIRICISM            
+KATHY PEPE           EXISTENTIALISM        
+JESSIE MARTYN        SCHOLASTICISM         
+JOE COHN             INTRO TO CS           
+AL HARTLEY           COMPUTER ARCH.        
+LISA BOBAK           SCHOLASTICISM         
+LISA BOBAK           HEDONISM              
+BARB HLAVATY         DISCREET MATHEMATICS  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a24s14
+
+CNAME                  CLABFEE
+---------------------- -------
+<group_begin>
+DATA STRUCTURES          50.00
+DISCREET MATHEMATICS      0.00
+DIGITAL CIRCUITS          0.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

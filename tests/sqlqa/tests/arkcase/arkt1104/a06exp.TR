@@ -1,0 +1,306 @@
+<section_begin>  a06s0
+
+CHAR17_100           UDEC17_100
+-------------------- ----------
+<group_begin>
+AWAAAAAAAAAAAAAA             27
+BLAAAAAAAAAAAAAA             78
+CBAAAAAAAAAAAAAA             46
+CCAAAAAAAAAAAAAA             16
+CCAAAAAAAAAAAAAA             57
+DDAAAAAAAAAAAAAA             24
+DMAAAAAAAAAAAAAA             85
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+N2          N4          N6     
+----------- ----------- -------
+         16       85.00     7.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+<group_begin>
+                   1                    1
+                   1                    1
+                   1                    1
+                   4                    4
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+N2          N4         
+----------- -----------
+<group_begin>
+          1        1.00
+          1        1.00
+          1        1.00
+          4        4.00
+         16       85.00
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+V1       N2          C3   N4          C5   N6      V7    N8    
+-------- ----------- ---- ----------- ---- ------- ----- ------
+<group_begin>
+NULL               1 NULL        1.00 NULL    NULL NULL    NULL
+NULL               1 NULL        1.00 NULL    NULL NULL    NULL
+NULL               1 NULL        1.00 NULL    NULL NULL    NULL
+NULL               4 NULL        4.00 NULL    NULL NULL    NULL
+NULL              16 NULL       85.00 NULL     7.0 NULL    NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+V1       N2          C3   N4          C5   N6      V7    N8    
+-------- ----------- ---- ----------- ---- ------- ----- ------
+<group_begin>
+AbCdEfG            5 cC          0.09 Cc       2.0 cc         2
+a                  1 c           0.90         NULL NULL       0
+abcdefg            3 cc          0.09 alph     2.0 cc         1
+cc                 2 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+N2          N4         
+----------- -----------
+<group_begin>
+          1        0.90
+          2       78.00
+          3        0.09
+          5        0.09
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+N2          N4          N6     
+----------- ----------- -------
+<group_begin>
+          1        0.90    NULL
+          2       78.00     2.0
+          3       16.00     6.0
+          5        0.09     2.0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+V1       N2          C3   N4          C5   N6      V7    N8    
+-------- ----------- ---- ----------- ---- ------- ----- ------
+<group_begin>
+AbCdEfG            5 cC          0.09 Cc       2.0 cc         2
+a                  1 c           0.90         NULL NULL       0
+abcdefg            3 cc         16.00 alph     6.0 cc         1
+cc                 2 cc         78.00 cc       2.0 cc         2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+VARCHAR0_4 VARCHAR15_UNIQ CHAR16_UNIQ
+---------- -------------- -----------
+<group_begin>
+A          BEAAGAAC       BEAAGAAC   
+A          FJAAGAA        FJAAGAAE   
+AAA        FGAAAAAB       FGAAAAAB   
+E          BEAAGAAD       BF         
+F          BEAAGAAC       BF         
+G          BEAAGAAE       BG         
+H          BEAAGAAC       BH         
+I          BEAAGAAF       BI         
+J          BEAAGAAG       BJ         
+K          BEAAGAAD       BK         
+L          BEAAGAAC       BL         
+M          BEAAGAAC       BM         
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+CHAR0_1000
+----------------------------------------------------------------
+<group_begin>
+BE                                                              
+BEAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+BF                                                              
+BG                                                              
+BH                                                              
+BI                                                              
+BJ                                                              
+BK                                                              
+BL                                                              
+BM                                                              
+FGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+FJAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a06s11
+
+SBIN7_2 VARCHAR5_10 CHAR6_20 UBIN15_UNIQ
+------- ----------- -------- -----------
+<group_begin>
+      0 ABAAAAAA    ABAAAAAA        1188
+      0 ACAAA       ACAAAAAA        4412
+      1 AEAAAAA     AEAAAAAA        4559
+      5 AE          AE              5000
+      6 AF          AF              6000
+      7 AG          AG              7000
+      8 AH          AH              8000
+      9 AI          AI              9000
+     10 AJ          AJ             10000
+     11 AK          AK             11000
+     12 AL          AL             12000
+     13 AM          AM             13000
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a06s12
+
+C5   V1       N2         
+---- -------- -----------
+M    BEAAGAAC          11
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s13
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+VARCHAR0_4 VARCHAR15_UNIQ (EXPR)
+---------- -------------- ------
+A          BEAAGAAC       BEAAG 
+A          FJAAGAA        FJAAG 
+AAA        FGAAAAAB       FGAAA 
+E          BEAAGAAD       BF    
+F          BEAAGAAC       BF    
+G          BEAAGAAE       BG    
+H          BEAAGAAC       BH    
+I          BEAAGAAF       BI    
+J          BEAAGAAG       BJ    
+K          BEAAGAAD       BK    
+L          BEAAGAAC       BL    
+M          BEAAGAAC       BM    
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a06s14
+
+(EXPR) (EXPR)   (EXPR)  
+------ -------- --------
+<group_begin>
+A      BEAAGAAC BEAAG...
+A      FJAAGAA  FJAAG...
+AAA    FGAAAAAB FGAAA...
+E      BEAAGAAD BF   ...
+F      BEAAGAAC BF   ...
+G      BEAAGAAE BG   ...
+H      BEAAGAAC BH   ...
+I      BEAAGAAF BI   ...
+J      BEAAGAAG BJ   ...
+K      BEAAGAAD BK   ...
+L      BEAAGAAC BL   ...
+M      BEAAGAAC BM   ...
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a06s15
+
+C5   V1       V7   
+---- -------- -----
+<group_begin>
+A    BEAAGAAC BEAAG
+A    FJAAGAA  FJAAG
+AAA  FGAAAAAB FGAAA
+E    BEAAGAAD BF   
+F    BEAAGAAC BF   
+G    BEAAGAAE BG   
+H    BEAAGAAC BH   
+I    BEAAGAAF BI   
+J    BEAAGAAG BJ   
+K    BEAAGAAD BK   
+L    BEAAGAAC BL   
+M    BEAAGAAC BM   
+M    BEAAGAAC NULL 
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a06s16
+
+V1       N2          C3   N4          C5   N6      V7    N8    
+-------- ----------- ---- ----------- ---- ------- ----- ------
+<group_begin>
+AbCdEfG            5 cC          0.09 Cc       2.0 cc         2
+a                  1 c           0.90         NULL NULL       0
+abcdefg            3 cc          0.09 alph     2.0 cc         1
+cc                 2 cc          2.00 cc       2.0 cc         2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a06s17
+
+(EXPR)
+----------
+     13000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s18
+
+V1       N2          C3   N4          C5   N6      V7    N8    
+-------- ----------- ---- ----------- ---- ------- ----- ------
+<group_begin>
+AbCdEfG            5 cC      13000.00 Cc       2.0 cc         2
+a                  1 c       13000.00         NULL NULL       0
+abcdefg            3 cc      13000.00 alph     2.0 cc         1
+cc                 2 cc      13000.00 cc       2.0 cc         2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

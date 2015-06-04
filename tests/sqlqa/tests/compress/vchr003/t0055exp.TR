@@ -1,0 +1,9 @@
+<section_begin>  s01
+
+SDEC20_UNIQ VARCHAR2_2 VARCHAR9_UNIQ
+----------- ---------- -------------
+         60 AA         BIAAFAAA     
+
+--- 1 row(s) selected.
+
+<section_end>

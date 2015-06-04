@@ -1,0 +1,646 @@
+<section_begin>  a01s0
+
+MIN_C4   MIN_C3 SUM_N1      MAX_N1      MIN_N1 AVG_N1              
+-------- ------ ----------- ----------- ------ --------------------
+AA       AA          -13074    -2389.00  -4344                -3268
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s1
+
+(EXPR)   (EXPR) (EXPR)              
+-------- ------ --------------------
+DA       EA                   -13074
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR)      (EXPR) (EXPR)              
+----------- ------ --------------------
+          0 jz                      -21
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+CH7     CH2  NINT        NLARGE               NNUM9       NNUM4 
+------- ---- ----------- -------------------- ----------- ------
+<group_begin>
+AA      AA        -13074                -2389       -4344  -3268
+BA      a              1                 NULL        NULL   NULL
+EA      DA          NULL                 NULL      -13074   NULL
+jz      NULL           0                 NULL         -21   NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+VARCHAR0_500 CHAR2_2 SBIN7_N20 (EXPR)
+------------ ------- --------- ------
+<group_begin>
+ACAABAAA     AA              4   4002
+BBAABAAA     BA             12   4002
+BBAADAAA     BA             13   4002
+BBAAFAAA     BA              6   4002
+BDAAAAAA     BA             17   4002
+CAAAGAAA     AA             11   4002
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+CHAR1_4 CHAR2_2 VARCHAR5_10 CHAR10_20 CHAR12_10 CHAR13_100
+------- ------- ----------- --------- --------- ----------
+<group_begin>
+AAAA    AA      AA          ABAA      AB        ABAA      
+AAAA    AA      ABAAAAAA    ABAA      AB        AVAA      
+AAAA    BA      ACAAAAAAI   ACAA      AC        AWAA      
+AAAA    BB      AAB         AAAA      AA        APAA      
+AAAA    BE      ABB         AAAA      AA        AFAA      
+AE      AA      ABC         AD        AD        AX        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+CHAR1_4 CHAR2_2 VARCHAR5_10 CHAR10_20 CHAR12_10 CHAR13_100
+------- ------- ----------- --------- --------- ----------
+<group_begin>
+AAAA    AA      AA          ABAA      AB        ABAA      
+AAAA    AA      ABAAAAAA    ABAA      AB        AVAA      
+AAAA    BA      ACAAAAAAI   ACAA      AC        AWAA      
+AAAA    BB      AAB         AAAA      AA        APAA      
+AAAA    BE      ABB         AAAA      AA        AFAA      
+AE      AA      ABC         AD        AD        AX        
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+CHAR1_4 CHAR2_2 VARCHAR2_10     VARCHAR2_100              CHAR13_100
+------- ------- --------------- ------------------------- ----------
+<group_begin>
+AAAA    AA      AB              AYAAAAAAAAAAAAAA          AYAA      
+AAAA    AE      AE              ATAAAAAAAAAAAAAA          ATAA      
+AAAA    BA      AA              CIAAAAAAAAAAAAAA          AIAA      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+CHAR1_4 CHAR2_2 VARCHAR2_10     VARCHAR2_100              CHAR13_100
+------- ------- --------------- ------------------------- ----------
+<group_begin>
+AAAA    AA      AB              AYAAAAAAAAAAAAAA          AYAA      
+AAAA    AE      AE              ATAAAAAAAAAAAAAA          ATAA      
+AAAA    BA      AA              CIAAAAAAAAAAAAAA          AIAA      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+CH7     CH2  NINT        NLARGE              
+------- ---- ----------- --------------------
+<group_begin>
+ACAABAA AA             4                 4001
+ACAABAA AA             4                 4002
+ACAABAA AA             4                 4942
+BBAABAA BA            12                 4001
+BBAABAA BA            12                 4002
+BBAADAA BA            13                 3585
+BBAADAA BA            13                 4001
+BBAADAA BA            13                 4002
+BBAAFAA BA             6                 3389
+BBAAFAA BA             6                 4001
+BBAAFAA BA             6                 4002
+BDAAAAA BA            17                  603
+BDAAAAA BA            17                 4001
+BDAAAAA BA            17                 4002
+CAAAGAA AA            11                 3264
+CAAAGAA AA            11                 4001
+CAAAGAA AA            11                 4002
+<group_end>
+
+--- 17 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+(EXPR)  (EXPR) CCHAR_LENGTH  CPOSITION 
+------- ------ ------------- ----------
+<group_begin>
+aaaa    AA                 7          0
+abcabc  AB                 8          0
+aeaaeaa AE                16          9
+baba    BA                 7          0
+ebaaeaa EB                16          9
+ggaakaa GG                16          9
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+CH7     CH2  NINT        NLARGE              
+------- ---- ----------- --------------------
+<group_begin>
+aaaa    AA             7                    0
+abcabc  AB             8                    0
+aeaaeaa AE            16                    9
+baba    BA             7                    0
+ebaaeaa EB            16                    9
+ggaakaa GG            16                    9
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+7                        94 OVC                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+C
+--------------------
+                   8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value            8 o                       1
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+7                        94 OVC                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+CAAAAAAA                 98 BE                      6
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+SBINNEG15_NUNIQ      CHAR2_2 CHAR2_2 CHAR3_4 
+-------------------- ------- ------- --------
+<group_begin>
+               -4344 AA      AA      AA      
+               -4344 AA      AA      AA      
+               -4344 AA      AA      AA      
+               -4344 AA      AA      AA      
+               -3552 BA      BA      BA      
+               -3552 BA      BA      BA      
+               -3552 BA      BA      BA      
+               -3552 BA      BA      BA      
+               -2789 DA      DA      DA      
+               -2389 BA      BA      BA      
+               -2389 BA      BA      BA      
+               -2389 BA      BA      BA      
+               -2389 BA      BA      BA      
+               -1950 EA      EA      NULL    
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value            8 o                       1
+3rd orig value           97 ovc                     5
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       5
+7                        94 OVC                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+CAAAAAAA                 98 BE                      6
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a01s18
+
+VARCHAR0_UNIQ
+-------------
+<group_begin>
+AEAAJAAB     
+AIAALAAA     
+CCAAFAAC     
+CJAAAAAC     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s19
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+4th orig value           96 ov                      4
+5th orig value           95 o                       5
+6 is short               97 o                       6
+7                        94 OVC                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a01s20
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value           99 o                       1
+2nd orig value           98 ov                      2
+3rd orig value           97 ovc                     3
+5th orig value           95 o                       5
+6 is short               97 o                       6
+7                        94 OVC                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+CJAAAAAC                 96 ov                      4
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a01s21
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value            8 o                       1
+3rd orig value           97 ovc                     5
+4th orig value           96 ov                      4
+6 is short               97 o                       5
+7                        94 OVC                     7
+8th orig value           93 OV                      8
+9th orig val             92 O                       9
+CAAAAAAA                 98 BE                      6
+CAAAGAAA                 95 o                       5
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a01s23
+
+CH7     CH2  NINT        NLARGE              
+------- ---- ----------- --------------------
+<group_begin>
+Value A si             9                   81
+Value B th             9                   81
+Value D ro             9                   81
+Value D ro             9                   81
+Value D si             9                   81
+Value D si             9                   81
+Value D th             9                   81
+Value D th             9                   81
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a01s24
+
+CLOWER
+----------------------
+<group_begin>
+aaaa                  
+abcabc                
+aeaaeaab   aeaaeaab   
+baba                  
+ebaaeaac   ebaaeaac   
+ggaakaab   ggaakaab   
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s25
+
+(EXPR)
+----------------------
+ggaakaab   ggaakaab   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s26
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+10th val                 92 O                       9
+11th val                 92 O                       9
+1st orig value            8 o                       1
+3rd orig value           97 ovc                     5
+4th orig value           96 ov                      4
+6 is short               97 o                       5
+7                        94 OVC                     7
+9th orig val             92 O                       9
+CAAAAAAA                 98 BE                      6
+CAAAGAAA                 95 o                       5
+ggaakaab   ggaa          93 OV                      8
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a01s27
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+1st orig value            8 o                       1
+3rd orig value           97 ovc                     5
+4th orig value           96 ov                      4
+6 is short               97 o                       5
+7                        94 OVC                     7
+CAAAAAAA                 98 BE                      6
+CAAAGAAA                 95 o                       5
+ggaakaab   ggaa          93 OV                      8
+the great unkno          92 O                       9
+the great unkno          92 O                       9
+the great unkno          92 O                       9
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a01s28
+
+CHAR17_100           UDEC17_100
+-------------------- ----------
+<group_begin>
+AWAAAAAAAAAAAAAA             27
+BLAAAAAAAAAAAAAA             78
+CBAAAAAAAAAAAAAA             46
+CCAAAAAAAAAAAAAA             16
+CCAAAAAAAAAAAAAA             57
+DDAAAAAAAAAAAAAA             24
+DMAAAAAAAAAAAAAA             85
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s29
+
+CH7     CH2  NINT        NLARGE              
+------- ---- ----------- --------------------
+<group_begin>
+Value A si             9                   81
+Value B th             9                   81
+Value D ro             9                   81
+Value D ro             9                   81
+Value D si             9                   81
+Value D si             9                   81
+Value D th             9                   81
+Value D th             9                   81
+NULL    NULL           7                 NULL
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a01s30
+
+VARCHAR0_4 CHAR0_1000                                                       SBIN7_2 VARCHAR5_10 CHAR6_20 UBIN15_UNIQ VARCHAR15_UNIQ CHAR16_UNIQ
+---------- ---------------------------------------------------------------- ------- ----------- -------- ----------- -------------- -----------
+<group_begin>
+A          BEAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       0 ACAAA       ACAAAAAA        4412 BEAAGAAC       BEAAGAAC   
+A          FJAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       1 AEAAAAA     AEAAAAAA        4559 FJAAGAA        FJAAGAAE   
+AAA        FGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       0 ABAAAAAA    ABAAAAAA        1188 FGAAAAAB       FGAAAAAB   
+E          BE                                                                     5 AE          AE              5000 BEAAGAAD       BF         
+F          BF                                                                     6 AF          AF              6000 BEAAGAAC       BF         
+G          BG                                                                     7 AG          AG              7000 BEAAGAAE       BG         
+H          BH                                                                     8 AH          AH              8000 BEAAGAAC       BH         
+I          BI                                                                     9 AI          AI              9000 BEAAGAAF       BI         
+J          BJ                                                                    10 AJ          AJ             10000 BEAAGAAG       BJ         
+K          BK                                                                    11 AK          AK             11000 BEAAGAAD       BK         
+L          BL                                                                    12 AL          AL             12000 BEAAGAAC       BL         
+M          BM                                                                    13 AM          AM             13000 BEAAGAAC       BM         
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a01s31
+
+CH7     CH2  NINT        NLARGE              
+------- ---- ----------- --------------------
+<group_begin>
+Value A si             9                   81
+Value B th             9                   81
+Value D ro             9                   81
+Value D ro             9                   81
+Value D si             9                   81
+Value D si             9                   81
+Value D th             9                   81
+Value D th             9                   81
+NULL    NULL           7                 NULL
+NULL    NULL          12                 NULL
+NULL    NULL          12                 NULL
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a01s32
+
+VCH15           NINT        CH3  NLARGE              
+--------------- ----------- ---- --------------------
+<group_begin>
+1st orig value            8 o                       1
+4th orig value           96 ov                      4
+7                        94 OVC                     7
+CAAAAAAA                 98 BE                      6
+CAAAGAAA                 95 o                       5
+THE GREAT UNKNO          97 o                       5
+THE GREAT UNKNO          97 ovc                     5
+ggaakaab   ggaa          93 OV                      8
+the great unkno          92 O                       9
+the great unkno          92 O                       9
+the great unkno          92 O                       9
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a01s33
+
+VCH15           ROWCOUNTER  CH3  NUM1DP
+--------------- ----------- ---- ------
+<group_begin>
+1st orig value            1 AAY     1.1
+2nd orig value            2 aa      2.1
+3rd orig value            3 BA      3.1
+4th orig value            4 CA      4.1
+5th orig value            5 DA      5.1
+6 is short                6 EA      6.1
+7                         7 AA      7.1
+8th orig value            8 AB      8.1
+9th orig val              9 ZAA     9.1
+10th val                 10 NULL    0.0
+11th val                 11 XAA     0.1
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a01s34
+
+VARCHAR5_10
+-----------
+<group_begin>
+AA         
+AAB        
+ABAAAAAA   
+ABB        
+ABC        
+ACAAAAAAI  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s35
+
+(EXPR)
+---------
+AA       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s36
+
+VARCHAR5_10
+-----------
+<group_begin>
+AA         
+AAB        
+ABAAAAAA   
+ABB        
+ABC        
+ACAAAAAAI  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s37
+
+N1     C2   C3   C4      
+------ ---- ---- --------
+<group_begin>
+ -4344 AA   BA   BA      
+ -3552 BA   AA   AA      
+ -2789 DA   EA   NULL    
+ -2389 BA   AA   AA      
+  NULL NULL BA   BA      
+  NULL NULL DA   DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s38
+
+(EXPR)
+------
+XAA   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s39
+
+C
+----
+XAA 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s40
+
+(EXPR)
+------
+AAY   
+
+--- 1 row(s) selected.
+
+<section_end>

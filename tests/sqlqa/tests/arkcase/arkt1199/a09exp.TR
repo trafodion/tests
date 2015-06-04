@@ -1,0 +1,516 @@
+<section_begin>  a09s0
+
+CSIMPLE                 CSEARCHED         
+----------------------- ------------------
+<group_begin>
+Value A                 sint is the lowest
+Value B                 the great unknown 
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s1
+
+VC49N                                             VC50N                                              ROWNUM     
+------------------------------------------------- -------------------------------------------------- -----------
+<group_begin>
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa           1
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa           2
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa           3
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa           4
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa           9
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa          11
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa          12
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa          13
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa          14
+This is a 49 character varchar field cccccccccccc This is a 50 character varchar field aaaaaaaaaaaaa           5
+This is a 49 character varchar field cccccccccccc This is a 50 character varchar field aaaaaaaaaaaaa           6
+This is a 49 character varchar field cccccccccccc This is a 50 character varchar field aaaaaaaaaaaaa           7
+This is a 49 character varchar field cccccccccccc This is a 50 character varchar field aaaaaaaaaaaaa           8
+This is a 49 character varchar field cccccccccccc This is a 50 character varchar field aaaaaaaaaaaaa          10
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s2
+
+VC49N                                             VC50N                                              ROWNUM     
+------------------------------------------------- -------------------------------------------------- -----------
+<group_begin>
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa           1
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa           2
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa           3
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa           4
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa           9
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa          11
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa          12
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa          13
+This is a 49 character varchar field bbbbbbbbbbbb This is a 50 character varchar field aaaaaaaaaaaaa          14
+This is a 49 character varchar field cccccccccccc This is a 50 character varchar field aaaaaaaaaaaaa           5
+This is a 49 character varchar field cccccccccccc This is a 50 character varchar field aaaaaaaaaaaaa           6
+This is a 49 character varchar field cccccccccccc This is a 50 character varchar field aaaaaaaaaaaaa           7
+This is a 49 character varchar field cccccccccccc This is a 50 character varchar field aaaaaaaaaaaaa           8
+This is a 49 character varchar field cccccccccccc This is a 50 character varchar field aaaaaaaaaaaaa          10
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s3
+
+ROWNUM      VC49N                                             SINT  
+----------- ------------------------------------------------- ------
+<group_begin>
+          1 This is a 49 character varchar field bbbbbbbbbbbb -32768
+          2 This is a 49 character varchar field bbbbbbbbbbbb  32767
+          3 This is a 49 character varchar field bbbbbbbbbbbb -32768
+          4 This is a 49 character varchar field bbbbbbbbbbbb  32767
+          9 This is a 49 character varchar field bbbbbbbbbbbb -32768
+         11 This is a 49 character varchar field bbbbbbbbbbbb -32767
+         12 This is a 49 character varchar field bbbbbbbbbbbb -32767
+         13 This is a 49 character varchar field bbbbbbbbbbbb -32767
+         14 This is a 49 character varchar field bbbbbbbbbbbb -32767
+          5 This is a 49 character varchar field cccccccccccc -32768
+          6 This is a 49 character varchar field cccccccccccc  32767
+          7 This is a 49 character varchar field cccccccccccc -32768
+          8 This is a 49 character varchar field cccccccccccc  32767
+         10 This is a 49 character varchar field cccccccccccc -32767
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s4
+
+(EXPR)
+-----------------------
+<group_begin>
+Value A                
+Value B                
+Value C                
+Value D -- Rowcount > 3
+Value D -- Rowcount > 3
+Value D -- Rowcount > 3
+Value D -- Rowcount > 3
+Value D -- Rowcount > 3
+Value D -- Rowcount > 3
+Value D -- Rowcount > 3
+Value D -- Rowcount > 3
+Value D -- Rowcount > 3
+Value D -- Rowcount > 3
+Value D -- Rowcount > 3
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s5
+
+(EXPR)
+-----------------
+<group_begin>
+rownum over 10   
+rownum over 10   
+rownum over 10   
+rownum over 10   
+sin is the lowest
+sin is the lowest
+sin is the lowest
+sin is the lowest
+sin is the lowest
+the great unknown
+the great unknown
+the great unknown
+the great unknown
+the great unknown
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s6
+
+ROWNUM
+-----------
+<group_begin>
+          1
+          2
+          7
+          8
+          9
+         10
+         11
+         12
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a09s7
+
+ROWNUM      CH1N CH50N                                             
+----------- ---- --------------------------------------------------
+<group_begin>
+          1 S    This is a 50 character field                      
+          2 S    This is a 50 character field                      
+          3 S    This is a 50 character field                      
+          4 A    This is a 50 character field                      
+          5 A    This is a 50 character field                      
+          6 A    This is a 50 character field                      
+          7 A    This is a 50 character field                      
+          8 A    This is a 50 character field                      
+          9 A    This is a 50 character field                      
+         10 A    This is a 50 character field                      
+         11 A    This is a 50 character field                      
+         12 S    This is a 50 character field                      
+         13 A    This is a 50 character field                      
+         14 A    This is a 50 character field                      
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s8
+
+ROWNUM      CH49N                                             VC1N
+----------- ------------------------------------------------- ----
+<group_begin>
+          1 This is a 49 character field                      V   
+          2 This is a 49 character field                      V   
+          3 This is a 49 character field                      V   
+          4 This is a 49 character field                      V   
+          5 This is a 49 character field                      V   
+          6 This is a 49 character field                      V   
+          7 This is a 49 character field                      V   
+          8 This is a 49 character field                      V   
+          9 This is a 49 character field                      V   
+         10 This is a 49 character field                      V   
+         11 This is a 49 character field                      V   
+         12 This is a 49 character field                      V   
+         13 This is a 49 character field                      V   
+         14 This is a 49 character field                      V   
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s9
+
+ROWNUM      VC50N                                             
+----------- --------------------------------------------------
+<group_begin>
+          1 This is a 50 character varchar field aaaaaaaaaaaaa
+          2 This is a 50 character varchar field aaaaaaaaaaaaa
+          3 This is a 50 character varchar field aaaaaaaaaaaaa
+          4 This is a 50 character varchar field aaaaaaaaaaaaa
+          5 This is a 50 character varchar field aaaaaaaaaaaaa
+          6 This is a 50 character varchar field aaaaaaaaaaaaa
+          7 This is a 50 character varchar field aaaaaaaaaaaaa
+          8 This is a 50 character varchar field aaaaaaaaaaaaa
+          9 This is a 50 character varchar field aaaaaaaaaaaaa
+         10 This is a 50 character varchar field aaaaaaaaaaaaa
+         11 This is a 50 character varchar field aaaaaaaaaaaaa
+         12 This is a 50 character varchar field aaaaaaaaaaaaa
+         13 This is a 50 character varchar field aaaaaaaaaaaaa
+         14 This is a 50 character varchar field aaaaaaaaaaaaa
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s10
+
+ROWNUM      VC49N                                             NM1N
+----------- ------------------------------------------------- ----
+<group_begin>
+          1 This is a 49 character varchar field bbbbbbbbbbbb   -1
+          2 This is a 49 character varchar field bbbbbbbbbbbb   -1
+          3 This is a 49 character varchar field bbbbbbbbbbbb   -1
+          4 This is a 49 character varchar field bbbbbbbbbbbb   -1
+          5 This is a 49 character varchar field cccccccccccc   -1
+          6 This is a 49 character varchar field cccccccccccc   -1
+          7 This is a 49 character varchar field cccccccccccc   -1
+          8 This is a 49 character varchar field cccccccccccc   -1
+          9 This is a 49 character varchar field bbbbbbbbbbbb   -1
+         10 This is a 49 character varchar field cccccccccccc   -1
+         11 This is a 49 character varchar field bbbbbbbbbbbb   -1
+         12 This is a 49 character varchar field bbbbbbbbbbbb   -1
+         13 This is a 49 character varchar field bbbbbbbbbbbb   -1
+         14 This is a 49 character varchar field bbbbbbbbbbbb   -1
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s11
+
+ROWNUM      NM180N               NM18N                NM90N      
+----------- -------------------- -------------------- -----------
+<group_begin>
+          1   123456789012345678 -0.12345678901234567   123456789
+          2   123456789012345678 -0.12345678901234567   123456789
+          3   123456789012345678 -0.12345678901234567   123456789
+          4   123456789012345678 -0.12345678901234567   123456789
+          5   123456789012345678 -0.12345678901234567   123456789
+          6   123456789012345678 -0.12345678901234567   123456789
+          7   123456789012345678 -0.12345678901234567   123456789
+          8   123456789012345678 -0.12345678901234567   123456789
+          9   123456789012345678 -0.12345678901234567   123456789
+         10   123456789012345678 -0.12345678901234567   123456789
+         11   123456789012345678 -0.12345678901234567   123456789
+         12   123456789012345678 -0.12345678901234567   123456789
+         13   123456789012345678 -0.12345678901234567   123456789
+         14   123456789012345678 -0.12345678901234567   123456789
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s12
+
+ROWNUM      NM9N        NM85N      NM85U      SINT  
+----------- ----------- ---------- ---------- ------
+<group_begin>
+          1 0.123456789 -999.45678  999.45678 -32768
+          2 0.123456789 -999.45678  999.45678  32767
+          3 0.123456789 -999.45678  999.45678 -32768
+          4 0.123456789 -999.45678  999.45678  32767
+          5 0.123456789 -999.45678  999.45678 -32768
+          6 0.123456789 -999.45678  999.45678  32767
+          7 0.123456789 -999.45678  999.45678 -32768
+          8 0.123456789 -999.45678  999.45678  32767
+          9 0.123456789 -999.45678  999.45678 -32768
+         10 0.123456789 -999.45678  999.45678 -32767
+         11 0.123456789 -999.45678  999.45678 -32767
+         12 0.123456789 -999.45678  999.45678 -32767
+         13 0.123456789 -999.45678  999.45678 -32767
+         14 0.123456789 -999.45678  999.45678 -32767
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s13
+
+ROWNUM      SIUN  INUN       INN         LIN                 
+----------- ----- ---------- ----------- --------------------
+<group_begin>
+          1 32766 4294967295 -2147483648                   -9
+          2 32760 4294967295 -2147483648                   -9
+          3 32767 4294967295 -2147483648                   -9
+          4 32767 4294967295 -2147483648                   -9
+          5 30000 4294967295 -2147483648                   -9
+          6 30000 4294967295 -2147483648                   -9
+          7 30000 4294967295 -2147483648                   -9
+          8 30000 4294967295 -2147483648                   -9
+          9 30000 4294967295 -2147483648                   -9
+         10 32767 4294967295 -2147483648                   -9
+         11 32767 4294967295 -2147483648                   -9
+         12 32767 4294967295 -2147483648                   -9
+         13 32767 4294967295 -2147483648                   -9
+         14 32767 4294967295 -2147483648                   -9
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s14
+
+ROWNUM      DCN  DC180N               DC18N               
+----------- ---- -------------------- --------------------
+<group_begin>
+          1    0   876543210987654321 -0.87654321098765432
+          2    0   876543210987654321 -0.87654321098765432
+          3    0   876543210987654321 -0.87654321098765432
+          4    0   876543210987654321 -0.87654321098765432
+          5    0   876543210987654321 -0.87654321098765432
+          6    0   876543210987654321 -0.87654321098765432
+          7    0   876543210987654321 -0.87654321098765432
+          8    0   876543210987654321 -0.87654321098765432
+          9    0   876543210987654321 -0.87654321098765432
+         10    0   876543210987654321 -0.87654321098765432
+         11    0   876543210987654321 -0.87654321098765432
+         12    0   876543210987654321 -0.87654321098765432
+         13    0   876543210987654321 -0.87654321098765432
+         14    0   876543210987654321 -0.87654321098765432
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s15
+
+ROWNUM      DC90N       DC9N        DC85N      DC85UN    
+----------- ----------- ----------- ---------- ----------
+<group_begin>
+          1   987654321 0.987654321 -999.54321  999.54321
+          2   987654321 0.987654321 -999.54321  999.54321
+          3   987654321 0.987654321 -999.54321  999.54321
+          4   987654321 0.987654321 -999.54321  999.54321
+          5   987654321 0.987654321 -999.54321  999.54321
+          6   987654321 0.987654321 -999.54321  999.54321
+          7   987654321 0.987654321 -999.54321  999.54321
+          8   987654321 0.987654321 -999.54321  999.54321
+          9   987654321 0.987654321 -999.54321  999.54321
+         10   987654321 0.987654321 -999.54321  999.54321
+         11   987654321 0.987654321 -999.54321  999.54321
+         12   987654321 0.987654321 -999.54321  999.54321
+         13   987654321 0.987654321 -999.54321  999.54321
+         14   987654321 0.987654321 -999.54321  999.54321
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s16
+
+ROWNUM      IYEARN IDAYN          
+----------- ------ ---------------
+<group_begin>
+          1 NULL   NULL           
+          2 NULL   NULL           
+          3 NULL   NULL           
+          4 NULL   NULL           
+          5 NULL   NULL           
+          6 NULL   NULL           
+          7 NULL   NULL           
+          8 NULL   NULL           
+          9 NULL   NULL           
+         10 NULL   NULL           
+         11 NULL   NULL           
+         12 NULL   NULL           
+         13 NULL   NULL           
+         14 NULL   NULL           
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s17
+
+ROWNUM      CH287                                                                                                                           
+----------- --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+          1 This is a 287 character field                                                                                                                                                                                                                                                                  
+          2 This is a 287 character field                                                                                                                                                                                                                                                                  
+          3 This is a 287 character field                                                                                                                                                                                                                                                                  
+          4 This is a 287 character field                                                                                                                                                                                                                                                                  
+          5 This is a 287 character field                                                                                                                                                                                                                                                                  
+          6 This is a 287 character field                                                                                                                                                                                                                                                                  
+          7 This is a 287 character field                                                                                                                                                                                                                                                                  
+          8 This is a 287 character field                                                                                                                                                                                                                                                                  
+          9 This is a 287 character field                                                                                                                                                                                                                                                                  
+         10 This is a 287 character field                                                                                                                                                                                                                                                                  
+         11 This is a 287 character field                                                                                                                                                                                                                                                                  
+         12 This is a 287 character field                                                                                                                                                                                                                                                                  
+         13 This is a 287 character field                                                                                                                                                                                                                                                                  
+         14 This is a 287 character field                                                                                                                                                                                                                                                                  
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s18
+
+ROWNUM      CH288                                                                                                                           
+----------- --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+          1 This is a 288 character field                                                                                                                                                                                                                                                                   
+          2 This is a 288 character field                                                                                                                                                                                                                                                                   
+          3 This is a 288 character field                                                                                                                                                                                                                                                                   
+          4 This is a 288 character field                                                                                                                                                                                                                                                                   
+          5 This is a 288 character field                                                                                                                                                                                                                                                                   
+          6 This is a 288 character field                                                                                                                                                                                                                                                                   
+          7 This is a 288 character field                                                                                                                                                                                                                                                                   
+          8 This is a 288 character field                                                                                                                                                                                                                                                                   
+          9 This is a 288 character field                                                                                                                                                                                                                                                                   
+         10 This is a 288 character field                                                                                                                                                                                                                                                                   
+         11 This is a 288 character field                                                                                                                                                                                                                                                                   
+         12 This is a 288 character field                                                                                                                                                                                                                                                                   
+         13 This is a 288 character field                                                                                                                                                                                                                                                                   
+         14 This is a 288 character field                                                                                                                                                                                                                                                                   
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s19
+
+ROWNUM      VC287                                                                                                                           
+----------- --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+          1 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+          2 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+          3 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+          4 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+          5 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+          6 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+          7 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+          8 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+          9 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+         10 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+         11 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+         12 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+         13 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+         14 This is a 287 character varchar field ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s20
+
+ROWNUM      VC288                                                                                                                           
+----------- --------------------------------------------------------------------------------------------------------------------------------
+<group_begin>
+          1 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+          2 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+          3 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+          4 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+          5 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+          6 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+          7 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+          8 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+          9 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+         10 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+         11 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+         12 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+         13 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+         14 This is a 288 character varchar field dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a09s21
+
+ROWNUM      IYEAR  IDAY               
+----------- ------ -------------------
+<group_begin>
+          1  0-01   0 00:00:00.000001 
+          2  1-08   0 00:00:00.000100 
+          3  1-01   0 00:00:00.000100 
+          4  1-01   0 00:00:00.000001 
+          5  1-01   0 00:00:00.000001 
+          6  0-01   0 00:00:00.000001 
+          7  1-08   0 00:00:00.000100 
+          8  0-01   0 00:00:00.000001 
+          9  0-01   0 00:00:00.000001 
+         10  0-01   0 00:00:00.000001 
+         11 99-11  99 23:59:59.999999 
+         12 99-11  99 23:59:59.999999 
+         13 99-11  99 23:59:59.999999 
+         14 99-11  99 23:59:59.999999 
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>

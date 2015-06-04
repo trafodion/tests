@@ -1,0 +1,89 @@
+<section_begin>  a02s0
+
+SHOULD_BE_ZERO
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+FIRST_NAME LAST_NAME  DEPT_NUM
+---------- ---------- --------
+<group_begin>
+dinah      clark          9000
+jerry      howard         1000
+jessica    crinar         3500
+roger      green          9000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+L_NAME     F_NAME    
+---------- ----------
+Albert     william   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+L_NAME     F_NAME    
+---------- ----------
+<group_begin>
+Albert     First Name
+Last Name  william   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+-------
+roger  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+L_NAME     F_NAME    
+---------- ----------
+<group_begin>
+roger      NULL      
+roger      NULL      
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY     MARITAL_STATUS
+---------- ---------- -------- ---------- --------------
+<group_begin>
+crinar     jessica        3500      39500 2             
+howard     jerry          1000      65000 1             
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+L_NAME     F_NAME    
+---------- ----------
+<group_begin>
+crinar     jessica   
+howard     jerry     
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

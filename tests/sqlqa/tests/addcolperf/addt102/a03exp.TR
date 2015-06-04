@@ -1,0 +1,111 @@
+<section_begin>  a03s2
+
+SMA1   INT2        VCH1 INT3        I64_4               
+------ ----------- ---- ----------- --------------------
+<group_begin>
+     1           1 1              1                 NULL
+     2           2 2              2                 NULL
+     3           3 3              3                 NULL
+     4        NULL NULL           4                 1000
+     5           5 5              5                 2000
+     6           6 6              6                 3000
+     7           7 NULL           7                 NULL
+     8        NULL NULL           8                 NULL
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+SMA1   INT2        VCH1 INT3        I64_4                VCH5 
+------ ----------- ---- ----------- -------------------- -----
+<group_begin>
+     7           7 NULL           7                 NULL AAAAA
+<group_end>
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+SMA1   INT2        VCH1 INT3        I64_4                VCH5 
+------ ----------- ---- ----------- -------------------- -----
+<group_begin>
+     1           1 1              1                 NULL AAAAA
+     2           2 2              2                 NULL AAAAA
+     3           3 3              3                 NULL AAAAA
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+SMA1   INT2        VCH1 INT3        I64_4                VCH5 
+------ ----------- ---- ----------- -------------------- -----
+<group_begin>
+     1           1 1              1                 NULL AAAAA
+     2           2 2              2                 NULL AAAAA
+     3           3 3              3                 NULL AAAAA
+     7           7 NULL           7                 NULL AAAAA
+     8        NULL NULL           8                 NULL AAAAA
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+SMA1   INT2        VCH1 INT3        I64_4                VCH5 
+------ ----------- ---- ----------- -------------------- -----
+<group_begin>
+     1           1 1              1                 NULL AAAAA
+     2           2 2              2                 NULL AAAAA
+     3           3 3              3                 NULL AAAAA
+     5           5 5              5                 2000 AAAAA
+     6           6 6              6                 3000 AAAAA
+     7           7 NULL           7                 NULL AAAAA
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+SMA1   INT2        VCH1 INT3        I64_4                VCH5 
+------ ----------- ---- ----------- -------------------- -----
+<group_begin>
+     1           1 1              1                 NULL AAAAA
+     2           2 2              2                 NULL AAAAA
+     3           3 3              3                 NULL AAAAA
+     4        NULL NULL           4               101000 AAAAA
+     5           5 5              5               102000 AAAAA
+     6           6 6              6               103000 AAAAA
+     7           7 NULL           7                 NULL AAAAA
+     8        NULL NULL           8                 NULL ABCDE
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+SMA1   INT2        VCH1 INT3        I64_4                VCH5 
+------ ----------- ---- ----------- -------------------- -----
+<group_begin>
+     1           1 1              1                 NULL AAAAA
+     2           2 2              2                 NULL AAAAA
+     3           3 3              3                 NULL AAAAA
+     4        NULL NULL           4               101000 AAAAA
+     5           5 5              5               102000 AAAAA
+     6           6 6              6               103000 AAAAA
+     7           7 NULL           7                 NULL AAAAA
+     8        NULL NULL           8                 NULL ABCDE
+     9           9 9              9            987654321 VCH5 
+    10        NULL NULL          10                 NULL VARCH
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>

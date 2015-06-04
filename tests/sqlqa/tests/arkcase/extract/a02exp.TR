@@ -1,0 +1,156 @@
+<section_begin>  a02s0
+
+IY   IYM    IM   ID  
+---- ------ ---- ----
+<group_begin>
+97   97-02  22   27  
+ 0    0-01   1    1  
+99    5-10  12   31  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+(EXPR)
+------
+<group_begin>
+    97
+     0
+    99
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+(EXPR)
+------
+<group_begin>
+    97
+     0
+     5
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+(EXPR)
+------
+<group_begin>
+     2
+     1
+    10
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+------
+<group_begin>
+    22
+     1
+    12
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)
+------
+<group_begin>
+    27
+     1
+    31
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+IY   IYM    IM   ID  
+---- ------ ---- ----
+<group_begin>
+97   97-02  22   27  
+ 0    0-01   1    1  
+99    5-10  12   31  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+(EXPR)
+------
+<group_begin>
+    97
+     0
+    99
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+(EXPR)
+------
+<group_begin>
+    97
+     0
+     5
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+(EXPR)
+------
+<group_begin>
+     2
+     1
+    10
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+(EXPR)
+------
+<group_begin>
+    22
+     1
+    12
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+(EXPR)
+------
+<group_begin>
+    27
+     1
+    31
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

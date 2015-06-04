@@ -1,0 +1,36 @@
+<section_begin>  a04s0
+
+CHAR_1 CHAR_10   
+------ ----------
+C      marcia    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1a
+
+CHAR_1 CHAR_10    PIC_X_7
+------ ---------- -------
+C      marcia     johnny 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+CHAR_1 CHAR_10    PIC_X_1
+------ ---------- -------
+C      marcia     Z      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+CHAR_1 CHAR_10    CHAR_1 CHAR_10    PIC_X_1 CHAR_1 CHAR_10    CHAR_1 CHAR_10    PIC_X_1
+------ ---------- ------ ---------- ------- ------ ---------- ------ ---------- -------
+C      marcia     C      marcia     Z       C      marcia     C      marcia     Z      
+
+--- 1 row(s) selected.
+
+<section_end>

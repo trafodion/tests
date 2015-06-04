@@ -1,0 +1,375 @@
+<section_begin>  a1
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1        NULL
+Abe                     7    12200.00          2          3        NULL
+Arnold                  1    12300.00          3          4        NULL
+Becky                   2    15000.00          9          5        NULL
+Arthur                  3    18100.00          5          7        NULL
+Abby                    4    24200.00          3         10        NULL
+Becky                   5    24300.00          3         11        NULL
+Bill                    4    24400.00          9         12        NULL
+Aloysius                6    72100.00          1         13        NULL
+Bruce                   7    90100.00          9         14        NULL
+Arnold                  7    90200.00          2         15    12200.00
+Bruce                   7    90300.00          5         16    90100.00
+Becky                   7    90400.00          9         17    90200.00
+Bill                    5    30100.00          5         19        NULL
+Bridget                 5    30200.00          3         20    24300.00
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a2
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1        NULL
+Abe                     7    12200.00          2          3        NULL
+Arnold                  1    12300.00          3          4        NULL
+Becky                   2    15000.00          9          5        NULL
+Arthur                  3    18100.00          5          7        NULL
+Abby                    4    24200.00          3         10        NULL
+Becky                   5    24300.00          3         11        NULL
+Bill                    4    24400.00          9         12        NULL
+Aloysius                6    72100.00          1         13        NULL
+Bruce                   7    90100.00          9         14        NULL
+Arnold                  7    90200.00          2         15    12200.00
+Bruce                   7    90300.00          5         16    90100.00
+Becky                   7    90400.00          9         17    90200.00
+Bill                    5    30100.00          5         19        NULL
+Bridget                 5    30200.00          3         20    24300.00
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a3
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1    12000.00
+Abe                     7    12200.00          2          3    12200.00
+Arnold                  1    12300.00          3          4    12300.00
+Becky                   2    15000.00          9          5    15000.00
+Arthur                  3    18100.00          5          7    18100.00
+Abby                    4    24200.00          3         10    24200.00
+Becky                   5    24300.00          3         11    24300.00
+Bill                    4    24400.00          9         12    24400.00
+Aloysius                6    72100.00          1         13    72100.00
+Bruce                   7    90100.00          9         14    90100.00
+Arnold                  7    90200.00          2         15    90200.00
+Bruce                   7    90300.00          5         16    90300.00
+Becky                   7    90400.00          9         17    90400.00
+Bill                    5    30100.00          5         19    30100.00
+Bridget                 5    30200.00          3         20    30200.00
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a4
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1    12000.00
+Abe                     7    12200.00          2          3    12200.00
+Arnold                  1    12300.00          3          4    12300.00
+Becky                   2    15000.00          9          5    15000.00
+Arthur                  3    18100.00          5          7    18100.00
+Abby                    4    24200.00          3         10    24200.00
+Becky                   5    24300.00          3         11    24300.00
+Bill                    4    24400.00          9         12    24400.00
+Aloysius                6    72100.00          1         13    72100.00
+Bruce                   7    90100.00          9         14    90100.00
+Arnold                  7    90200.00          2         15    90200.00
+Bruce                   7    90300.00          5         16    90300.00
+Becky                   7    90400.00          9         17    90400.00
+Bill                    5    30100.00          5         19    30100.00
+Bridget                 5    30200.00          3         20    30200.00
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a5
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1    12000.00
+Abe                     7    12200.00          2          3    12200.00
+Arnold                  1    12300.00          3          4    12300.00
+Becky                   2    15000.00          9          5    15000.00
+Arthur                  3    18100.00          5          7    18100.00
+Abby                    4    24200.00          3         10    24200.00
+Becky                   5    24300.00          3         11    24300.00
+Bill                    4    24400.00          9         12    24400.00
+Aloysius                6    72100.00          1         13    72100.00
+Bruce                   7    90100.00          9         14    90100.00
+Arnold                  7    90200.00          2         15    90200.00
+Bruce                   7    90300.00          5         16    90300.00
+Becky                   7    90400.00          9         17    90400.00
+Bill                    5    30100.00          5         19    30100.00
+Bridget                 5    30200.00          3         20    30200.00
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a6
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1    12300.00
+Abe                     7    12200.00          2          3    90200.00
+Arnold                  1    12300.00          3          4    12300.00
+Becky                   2    15000.00          9          5    15000.00
+Arthur                  3    18100.00          5          7    18100.00
+Abby                    4    24200.00          3         10    24400.00
+Becky                   5    24300.00          3         11    30200.00
+Bill                    4    24400.00          9         12    24400.00
+Aloysius                6    72100.00          1         13    72100.00
+Bruce                   7    90100.00          9         14    90300.00
+Arnold                  7    90200.00          2         15    90400.00
+Bruce                   7    90300.00          5         16    90400.00
+Becky                   7    90400.00          9         17    90400.00
+Bill                    5    30100.00          5         19    30200.00
+Bridget                 5    30200.00          3         20    30200.00
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a7
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1    12300.00
+Abe                     7    12200.00          2          3    90400.00
+Arnold                  1    12300.00          3          4    12300.00
+Becky                   2    15000.00          9          5    15000.00
+Arthur                  3    18100.00          5          7    18100.00
+Abby                    4    24200.00          3         10    24400.00
+Becky                   5    24300.00          3         11    30200.00
+Bill                    4    24400.00          9         12    24400.00
+Aloysius                6    72100.00          1         13    72100.00
+Bruce                   7    90100.00          9         14    90400.00
+Arnold                  7    90200.00          2         15    90400.00
+Bruce                   7    90300.00          5         16    90400.00
+Becky                   7    90400.00          9         17    90400.00
+Bill                    5    30100.00          5         19    30200.00
+Bridget                 5    30200.00          3         20    30200.00
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a8
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1    12300.00
+Abe                     7    12200.00          2          3    90200.00
+Arnold                  1    12300.00          3          4    12300.00
+Becky                   2    15000.00          9          5    15000.00
+Arthur                  3    18100.00          5          7    18100.00
+Abby                    4    24200.00          3         10    24400.00
+Becky                   5    24300.00          3         11    30200.00
+Bill                    4    24400.00          9         12    24400.00
+Aloysius                6    72100.00          1         13    72100.00
+Bruce                   7    90100.00          9         14    90300.00
+Arnold                  7    90200.00          2         15    90400.00
+Bruce                   7    90300.00          5         16    90400.00
+Becky                   7    90400.00          9         17    90400.00
+Bill                    5    30100.00          5         19    30200.00
+Bridget                 5    30200.00          3         20    30200.00
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a9
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1    12300.00
+Abe                     7    12200.00          2          3    90400.00
+Arnold                  1    12300.00          3          4    12300.00
+Becky                   2    15000.00          9          5    15000.00
+Arthur                  3    18100.00          5          7    18100.00
+Abby                    4    24200.00          3         10    24400.00
+Becky                   5    24300.00          3         11    30200.00
+Bill                    4    24400.00          9         12    24400.00
+Aloysius                6    72100.00          1         13    72100.00
+Bruce                   7    90100.00          9         14    90400.00
+Arnold                  7    90200.00          2         15    90400.00
+Bruce                   7    90300.00          5         16    90400.00
+Becky                   7    90400.00          9         17    90400.00
+Bill                    5    30100.00          5         19    30200.00
+Bridget                 5    30200.00          3         20    30200.00
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a10
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1    12300.00
+Abe                     7    12200.00          2          3    90200.00
+Arnold                  1    12300.00          3          4    12300.00
+Becky                   2    15000.00          9          5    15000.00
+Arthur                  3    18100.00          5          7    18100.00
+Abby                    4    24200.00          3         10    24400.00
+Becky                   5    24300.00          3         11    30200.00
+Bill                    4    24400.00          9         12    24400.00
+Aloysius                6    72100.00          1         13    72100.00
+Bruce                   7    90100.00          9         14    90300.00
+Arnold                  7    90200.00          2         15    90400.00
+Bruce                   7    90300.00          5         16    90400.00
+Becky                   7    90400.00          9         17    90400.00
+Bill                    5    30100.00          5         19    30200.00
+Bridget                 5    30200.00          3         20    30200.00
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a11
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1    12300.00
+Abe                     7    12200.00          2          3    90400.00
+Arnold                  1    12300.00          3          4    12300.00
+Becky                   2    15000.00          9          5    15000.00
+Arthur                  3    18100.00          5          7    18100.00
+Abby                    4    24200.00          3         10    24400.00
+Becky                   5    24300.00          3         11    30200.00
+Bill                    4    24400.00          9         12    24400.00
+Aloysius                6    72100.00          1         13    72100.00
+Bruce                   7    90100.00          9         14    90400.00
+Arnold                  7    90200.00          2         15    90400.00
+Bruce                   7    90300.00          5         16    90400.00
+Becky                   7    90400.00          9         17    90400.00
+Bill                    5    30100.00          5         19    30200.00
+Bridget                 5    30200.00          3         20    30200.00
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a12
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1    12300.00
+Abe                     7    12200.00          2          3    90400.00
+Arnold                  1    12300.00          3          4    12300.00
+Becky                   2    15000.00          9          5    15000.00
+Arthur                  3    18100.00          5          7    18100.00
+Abby                    4    24200.00          3         10    24400.00
+Becky                   5    24300.00          3         11    30200.00
+Bill                    4    24400.00          9         12    24400.00
+Aloysius                6    72100.00          1         13    72100.00
+Bruce                   7    90100.00          9         14    90400.00
+Arnold                  7    90200.00          2         15    90400.00
+Bruce                   7    90300.00          5         16    90400.00
+Becky                   7    90400.00          9         17    90400.00
+Bill                    5    30100.00          5         19    30200.00
+Bridget                 5    30200.00          3         20    30200.00
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a13
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1        NULL
+Abe                     7    12200.00          2          3    90400.00
+Arnold                  1    12300.00          3          4        NULL
+Becky                   2    15000.00          9          5        NULL
+Arthur                  3    18100.00          5          7        NULL
+Abby                    4    24200.00          3         10        NULL
+Becky                   5    24300.00          3         11        NULL
+Bill                    4    24400.00          9         12        NULL
+Aloysius                6    72100.00          1         13        NULL
+Bruce                   7    90100.00          9         14        NULL
+Arnold                  7    90200.00          2         15        NULL
+Bruce                   7    90300.00          5         16        NULL
+Becky                   7    90400.00          9         17        NULL
+Bill                    5    30100.00          5         19        NULL
+Bridget                 5    30200.00          3         20        NULL
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a14
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1        NULL
+Abe                     7    12200.00          2          3    90400.00
+Arnold                  1    12300.00          3          4        NULL
+Becky                   2    15000.00          9          5        NULL
+Arthur                  3    18100.00          5          7        NULL
+Abby                    4    24200.00          3         10        NULL
+Becky                   5    24300.00          3         11        NULL
+Bill                    4    24400.00          9         12        NULL
+Aloysius                6    72100.00          1         13        NULL
+Bruce                   7    90100.00          9         14        NULL
+Arnold                  7    90200.00          2         15        NULL
+Bruce                   7    90300.00          5         16        NULL
+Becky                   7    90400.00          9         17        NULL
+Bill                    5    30100.00          5         19        NULL
+Bridget                 5    30200.00          3         20        NULL
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a15
+
+FIRSTNAME      PAYGRADE   SALARY      DEPTNUM    NUM        MAXSALARY  
+-------------- ---------- ----------- ---------- ---------- -----------
+<group_begin>
+Abe                     1    12000.00          1          1        NULL
+Abe                     7    12200.00          2          3    90400.00
+Arnold                  1    12300.00          3          4        NULL
+Becky                   2    15000.00          9          5        NULL
+Arthur                  3    18100.00          5          7        NULL
+Abby                    4    24200.00          3         10        NULL
+Becky                   5    24300.00          3         11        NULL
+Bill                    4    24400.00          9         12        NULL
+Aloysius                6    72100.00          1         13        NULL
+Bruce                   7    90100.00          9         14        NULL
+Arnold                  7    90200.00          2         15        NULL
+Bruce                   7    90300.00          5         16        NULL
+Becky                   7    90400.00          9         17        NULL
+Bill                    5    30100.00          5         19        NULL
+Bridget                 5    30200.00          3         20        NULL
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>

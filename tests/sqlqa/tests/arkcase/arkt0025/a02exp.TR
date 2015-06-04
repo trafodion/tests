@@ -1,0 +1,39 @@
+<section_begin>  a02s2
+
+VAR_CHAR                                                                                                                         MEDIUM_INT  PIC_X_7 PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- ----------- ------- ------------
+<group_begin>
+tom                                                                                                                                     1000 7                200
+bob                                                                                                                                      999 A                300
+sue                                                                                                                                      200 sue              100
+bobby                                                                                                                                    200 sue              100
+bill                                                                                                                                    2000 B                500
+christopher                                                                                                                             1000 white           1000
+william                                                                                                                                 1000 black           2000
+marilyn                                                                                                                                 2000 green           3000
+xyz                                                                                                                                      -32 abcdefg           43
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+VAR_CHAR                                                                                                                         MEDIUM_INT  PIC_X_7 PIC_COMP_1  
+-------------------------------------------------------------------------------------------------------------------------------- ----------- ------- ------------
+<group_begin>
+tom                                                                                                                                     1000 7                200
+bob                                                                                                                                      999 A                300
+sue                                                                                                                                      200 sue              100
+bobby                                                                                                                                    200 sue              100
+bill                                                                                                                                    2000 B                500
+christopher                                                                                                                             1000 white           1000
+william                                                                                                                                 1000 black           2000
+marilyn                                                                                                                                 2000 green           3000
+xyz                                                                                                                                      -32 abcdefg           43
+abc                                                                                                                                       -1 abc123d          400
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>

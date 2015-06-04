@@ -1,0 +1,218 @@
+<section_begin>  a03s0
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFOMATION STORAGE
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+SUPPNAME
+------------------
+<group_begin>
+DATADRIVE         
+INFOMATION STORAGE
+MAGNETICS CORP    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+SUPPNAME
+------------------
+<group_begin>
+DATA TERMINAL CO  
+DISPLAY INC       
+STEELWORK INC     
+TANDEM COMPUTERS  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+REGNAME
+------------
+HEADQUARTERS
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+PARTNUM
+-------
+<group_begin>
+   4101
+   4102
+   4103
+   5101
+   5103
+   5504
+   6401
+   6402
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+SALESMAN ORDERNUM
+-------- --------
+<group_begin>
+     204       32
+     205       66
+     207       41
+     212       45
+     218       38
+     221      122
+     222       30
+     225       48
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+PARTNAME
+------------------
+<group_begin>
+SYSTEM 192KB CORE 
+SYSTEM 192KB SEMI 
+PROC     96KB SEMI
+DISC CONT DUAL    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+SALESMAN
+--------
+<group_begin>
+     205
+     212
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+EMPNAME
+------------------
+<group_begin>
+THOMAS RUDLOFF    
+KLAUS SAFFERT     
+PETER SMITH       
+DONALD TAYLOR     
+STEVE COOK        
+SHERRIE WONG      
+TONY CRAFT        
+GEORGE FORSTER    
+RICHARD BARTON    
+JIMMY SCHNEIDER   
+WALTER LANCASTER  
+JOHN JONES        
+MARLENE BONNY     
+GEORGE FRENCHMAN  
+DAVID TERRY       
+KARL HELMSTED     
+HEIDI WEIGL       
+XAVER SEDLMEYER   
+DAVE CLARK        
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+EMPNAME
+------------------
+<group_begin>
+THOMAS RUDLOFF    
+KLAUS SAFFERT     
+PETER SMITH       
+DONALD TAYLOR     
+STEVE COOK        
+SHERRIE WONG      
+TONY CRAFT        
+GEORGE FORSTER    
+RICHARD BARTON    
+JIMMY SCHNEIDER   
+WALTER LANCASTER  
+JOHN JONES        
+MARLENE BONNY     
+GEORGE FRENCHMAN  
+DAVID TERRY       
+KARL HELMSTED     
+HEIDI WEIGL       
+XAVER SEDLMEYER   
+DAVE CLARK        
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+SUPPNUM
+-------
+<group_begin>
+      6
+     15
+      8
+      2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s11
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+     10
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s12
+
+CUSTNAME
+------------------
+<group_begin>
+DATASPEED         
+CENTRAL UNIVERSITY
+PREMIER INSURANCE 
+VEREINIGTE CHEMIE 
+METALL-AG.        
+SLEEPWELL HOTELS  
+FRESNO STATE BANK 
+STEVENS SUPPLY    
+DEUTSCHE STAHL    
+BROWN MEDICAL CO  
+MOTOR DISTRIBUTING
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>

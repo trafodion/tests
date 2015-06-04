@@ -1,0 +1,562 @@
+<section_begin>  a08s0
+
+(EXPR)
+--------------------
+              110.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+(EXPR)
+--------------------
+              110.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+(EXPR)
+--------------------
+<group_begin>
+              125.00
+               87.50
+              110.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s3
+
+(EXPR)  (EXPR)  (EXPR) (EXPR)
+------- ------- ------ ------
+   0.00  200.00 P11    P44   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s4
+
+(EXPR)  (EXPR)  (EXPR) (EXPR)
+------- ------- ------ ------
+   0.00  500.00 C11    C66   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s5
+
+(EXPR)  (EXPR)  (EXPR) (EXPR)
+------- ------- ------ ------
+   0.00  200.00 T11    T44   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s6
+
+(EXPR)
+--------------------
+              750.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s7
+
+(EXPR)
+----------------------
+COMMUNISM             
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s8
+
+(EXPR)
+----------------------
+SOLIPSISM             
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s9
+
+(EXPR)
+--------------------
+              350.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s10
+
+(EXPR)               (EXPR)  (EXPR) 
+-------------------- ------- -------
+              187.50  500.00   50.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s11
+
+(EXPR)               (EXPR)  (EXPR) 
+-------------------- ------- -------
+              187.50  500.00   50.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s12
+
+(EXPR)
+--------------------
+              650.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s13
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s14
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s15
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s16
+
+(EXPR)
+--------------------
+                   8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s17
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s18
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s19
+
+(EXPR)
+--------------------
+                  14
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s20
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s21
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+             1890.00               1565.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s22
+
+(EXPR)
+--------------------
+                 187
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s23
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+CIS                 125.00
+PHIL                 87.50
+THEO                110.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s25
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+CIS                 125.00
+PHIL                 87.50
+THEO                110.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s26
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+CIS                 125.00
+PHIL                116.66
+THEO                 80.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s27
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+THEO                 80.00
+PHIL                116.66
+CIS                 125.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s28
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+THEO                 80.00
+PHIL                116.66
+CIS                 125.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s29
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+CIS                 125.00
+PHIL                116.66
+THEO                 80.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s30
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+CIS                 125.00
+PHIL                116.66
+THEO                 80.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s32
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+CIS                     18
+PHIL                    15
+THEO                    15
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s33
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+CIS                      6
+PHIL                     4
+THEO                     4
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s34
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+CIS                 750.00
+PHIL                350.00
+THEO                240.00
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a08s35
+
+CLABFEE (EXPR)              
+------- --------------------
+<group_begin>
+ 500.00                    3
+ 200.00                    9
+ 150.00                    3
+ 100.00                    9
+  90.00                    3
+  50.00                    6
+   0.00                   15
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a08s36
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+CIS                 125.00
+THEO                110.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s37
+
+CDEPT (EXPR)              
+----- --------------------
+PHIL                 87.50
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s38
+
+CDEPT (EXPR) 
+----- -------
+CIS    500.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s39
+
+CDEPT (EXPR)              
+----- --------------------
+CIS                     18
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s41
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+CIS                 125.00
+THEO                110.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s42
+
+CDEPT (EXPR)              
+----- --------------------
+CIS                 125.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s43
+
+CDEPT (EXPR)              
+----- --------------------
+CIS                 125.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s45
+
+CDEPT (EXPR) 
+----- -------
+CIS    500.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s46
+
+CDEPT CRED        (EXPR)               (EXPR)  (EXPR) 
+----- ----------- -------------------- ------- -------
+<group_begin>
+CIS             3               125.00  500.00    0.00
+PHIL            3               116.66  200.00   50.00
+THEO            3                80.00  150.00    0.00
+THEO            6               200.00  200.00  200.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a08s47
+
+CDEPT (EXPR)               (EXPR)              
+----- -------------------- --------------------
+THEO                110.00                    4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s48
+
+CDEPT (EXPR)               (EXPR)              
+----- -------------------- --------------------
+THEO                110.00                    4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s51
+
+CDEPT CLABFEE
+----- -------
+<group_begin>
+CIS    100.00
+CIS     50.00
+CIS    500.00
+PHIL   100.00
+PHIL    50.00
+PHIL   200.00
+THEO   150.00
+THEO    90.00
+THEO   200.00
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a08s52
+
+CDEPT (EXPR)              
+----- --------------------
+<group_begin>
+PHIL                 87.50
+THEO                110.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a08s53
+
+(EXPR)               (EXPR)               (EXPR)      (EXPR)     
+-------------------- -------------------- ----------- -----------
+               51911                 5767       25001          51
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s54
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s55
+
+(EXPR)
+--------------------
+                   7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s56
+
+(EXPR)
+--------------------
+               56911
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s57
+
+DEPT (EXPR)              
+---- --------------------
+<group_begin>
+ENG                   200
+MATH                 1000
+PHIL                25000
+THEO                   52
+NULL                  500
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s58
+
+DEPT (EXPR)              
+---- --------------------
+<group_begin>
+MATH                 1000
+PHIL                50001
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

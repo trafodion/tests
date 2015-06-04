@@ -1,0 +1,28 @@
+<section_begin>  s1
+
+EMPNUM HOURS  
+------ -------
+<group_begin>
+E1          20
+E2          80
+E3          20
+E4          20
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+EMPNUM HOURS  
+------ -------
+<group_begin>
+E1          20
+E2          80
+E3          20
+E4          20
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

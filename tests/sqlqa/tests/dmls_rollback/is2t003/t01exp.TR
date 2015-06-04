@@ -1,0 +1,127 @@
+<section_begin>  t01exe
+
+T_AVG
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t02exe
+
+T_AVG
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t03exe
+
+T_AVG                T_SUM               
+-------------------- --------------------
+                   2              4000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t04exe
+
+T_AVG
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t05exe
+
+T_AVG
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t06exe
+
+T_AVG
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t07exe
+
+T_AVG
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t11exe
+
+T_AVG
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t12exe
+
+T_AVG
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t13exe
+
+TEMPSUM
+--------------------
+             2000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t14exe
+
+T_AVG
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t15exe
+
+T_AVG
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t17exe
+
+RECCOUNT 10000
+
+<section_end>
+<section_begin>  t18exe
+
+TEMPSUM
+--------------------
+             2000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  t19exe
+
+RECCOUNT 10000
+
+<section_end>

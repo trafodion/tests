@@ -1,0 +1,152 @@
+<section_begin>  b09s0
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                  13                39066
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  b09s1
+
+(EXPR)
+------
+    13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  b09s2
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                  13                39066
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  b09s3
+
+VARCHAR13     VARCHAR7 SOMENUMBER 
+------------- -------- -----------
+<group_begin>
+aa            aaa               13
+ad            astra          39066
+bb            bbb               13
+on            off               13
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  b09s4
+
+SDEC13_UNIQ
+-----------
+<group_begin>
+       1413
+       3030
+       3030
+       3030
+       3030
+       3030
+       3031
+       3031
+       3031
+       3031
+       3050
+       3112
+       4217
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  b09s5
+
+SDEC13_UNIQ
+-----------
+<group_begin>
+       1413
+       3030
+       3031
+       3050
+       3112
+       4217
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  b09s6
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  b09s7
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  b09s8
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                  13                39066
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  b09s9
+
+A                    B                   
+-------------------- --------------------
+                  13                39066
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  b09s10
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+                   6                17853
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  b09s11
+
+A                    B                   
+-------------------- --------------------
+                   6                17853
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  b09s12
+
+A                    B                   
+-------------------- --------------------
+                   6                17853
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  b09s13
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>

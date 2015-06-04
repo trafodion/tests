@@ -1,0 +1,117 @@
+<section_begin>  a06s0
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+(EXPR)
+--------------------
+                   5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s13
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s17
+
+(EXPR)
+------
+c     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s18
+
+(EXPR)
+------
+1     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s25
+
+(EXPR)
+--------------------
+                   1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s30
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s33
+
+VC9       VC7     VC5   VC3 
+--------- ------- ----- ----
+<group_begin>
+this      not     cc    cc  
+this      not     alph  cc  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s37
+
+VC9       VC7     VC5   VC3 
+--------- ------- ----- ----
+<group_begin>
+this      not     cc    cc  
+this      not     alph  cc  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s41
+
+(EXPR)      (EXPR)     
+----------- -----------
+<group_begin>
+          1           2
+          9           0
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

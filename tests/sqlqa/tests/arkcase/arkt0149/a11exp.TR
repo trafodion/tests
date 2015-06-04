@@ -1,0 +1,704 @@
+<section_begin>  a11s1
+
+A           B           C          
+----------- ----------- -----------
+          1           2           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s2
+
+A           B           C          
+----------- ----------- -----------
+          1           2           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s3
+
+A           B           C           X           Y          
+----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s4
+
+A           B           C           X           Y          
+----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s5
+
+A           B           C          
+----------- ----------- -----------
+          1           2           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s6
+
+A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s7
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s8
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s9
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3           1           2           3        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s10
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3           1           2           3           1           2           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s11
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s12
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL           1           2           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s13
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3           1           2           3        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s14
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3           1           2           3           1           2           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s15
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s16
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s17
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3           1           2           3        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s18
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3           1           2           3           1           2           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s19
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s20
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL           1           2           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s21
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3           1           2           3        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s22
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3           1           2           3           1           2           3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s23
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s24
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s25
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s26
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3        NULL        NULL        NULL        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s27
+
+A           B           C           A           B           C           A           B           C          
+----------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+          1           2           3           1           2           3        NULL        NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a11s28
+
+CHAR_1
+------
+<group_begin>
+D     
+A     
+A     
+D     
+E     
+C     
+C     
+D     
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a11s29
+
+CHAR_1 CHAR_1
+------ ------
+<group_begin>
+D      A     
+D      A     
+D      E     
+D      C     
+D      C     
+A      D     
+A      D     
+A      E     
+A      C     
+A      C     
+A      D     
+A      D     
+A      D     
+A      E     
+A      C     
+A      C     
+A      D     
+D      A     
+D      A     
+D      E     
+D      C     
+D      C     
+E      D     
+E      A     
+E      A     
+E      D     
+E      C     
+E      C     
+E      D     
+C      D     
+C      A     
+C      A     
+C      D     
+C      E     
+C      D     
+C      D     
+C      A     
+C      A     
+C      D     
+C      E     
+C      D     
+D      A     
+D      A     
+D      E     
+D      C     
+D      C     
+<group_end>
+
+--- 46 row(s) selected.
+
+<section_end>
+<section_begin>  a11s30
+
+CHAR_1 CHAR_1
+------ ------
+<group_begin>
+D      A     
+D      A     
+D      A     
+D      A     
+D      A     
+D      A     
+D      A     
+D      A     
+D      A     
+D      A     
+D      A     
+D      A     
+D      A     
+D      A     
+D      A     
+D      A     
+D      E     
+D      E     
+D      E     
+D      E     
+D      E     
+D      E     
+D      E     
+D      E     
+D      C     
+D      C     
+D      C     
+D      C     
+D      C     
+D      C     
+D      C     
+D      C     
+D      C     
+D      C     
+D      C     
+D      C     
+D      C     
+D      C     
+D      C     
+D      C     
+A      D     
+A      D     
+A      D     
+D      A     
+D      A     
+D      A     
+A      D     
+A      D     
+A      D     
+D      A     
+D      A     
+D      A     
+A      D     
+A      D     
+A      D     
+D      A     
+D      A     
+D      A     
+A      D     
+A      D     
+A      D     
+D      A     
+D      A     
+D      A     
+A      D     
+A      D     
+A      D     
+D      A     
+D      A     
+D      A     
+A      D     
+A      E     
+A      E     
+D      A     
+D      E     
+D      E     
+A      E     
+A      E     
+A      E     
+D      E     
+D      E     
+D      E     
+A      E     
+A      E     
+A      E     
+D      E     
+D      E     
+D      E     
+A      C     
+A      C     
+A      C     
+D      C     
+D      C     
+D      C     
+A      C     
+A      C     
+A      C     
+D      C     
+D      C     
+D      C     
+A      C     
+A      C     
+A      C     
+A      C     
+A      C     
+A      C     
+D      C     
+D      C     
+D      C     
+A      C     
+A      C     
+A      C     
+D      C     
+D      C     
+D      C     
+A      C     
+A      D     
+A      D     
+D      C     
+D      C     
+D      C     
+A      D     
+A      D     
+A      D     
+D      C     
+A      D     
+A      D     
+A      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      E     
+C      E     
+C      E     
+C      E     
+C      E     
+C      E     
+C      E     
+C      E     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+D      A     
+D      A     
+D      A     
+A      D     
+A      D     
+A      D     
+D      A     
+D      A     
+D      A     
+A      D     
+A      D     
+A      D     
+D      A     
+D      A     
+D      A     
+A      D     
+A      D     
+A      D     
+D      A     
+D      A     
+D      A     
+A      D     
+A      D     
+A      D     
+D      A     
+D      A     
+D      A     
+A      D     
+A      D     
+A      D     
+D      A     
+D      E     
+D      E     
+A      D     
+A      E     
+A      E     
+D      E     
+D      E     
+D      E     
+A      E     
+A      E     
+A      E     
+D      E     
+D      E     
+D      E     
+A      E     
+A      E     
+A      E     
+D      C     
+D      C     
+D      C     
+A      C     
+A      C     
+A      C     
+D      C     
+D      C     
+D      C     
+A      C     
+A      C     
+A      C     
+D      C     
+D      C     
+D      C     
+A      C     
+A      C     
+A      C     
+D      C     
+D      C     
+D      C     
+A      C     
+A      C     
+A      C     
+D      C     
+D      C     
+D      C     
+A      C     
+A      C     
+A      C     
+D      C     
+A      C     
+A      D     
+A      D     
+A      D     
+A      D     
+A      D     
+A      D     
+A      D     
+A      D     
+E      D     
+E      D     
+E      D     
+E      D     
+E      D     
+E      D     
+E      D     
+E      D     
+E      A     
+E      A     
+E      A     
+E      A     
+E      A     
+E      A     
+E      A     
+E      A     
+E      A     
+E      A     
+E      A     
+E      A     
+E      A     
+E      A     
+E      A     
+E      A     
+E      D     
+E      D     
+E      D     
+E      D     
+E      D     
+E      D     
+E      D     
+E      D     
+E      C     
+E      C     
+E      C     
+E      C     
+E      C     
+E      C     
+E      C     
+E      C     
+E      C     
+E      C     
+E      C     
+E      C     
+E      C     
+E      C     
+E      C     
+E      C     
+E      D     
+E      D     
+E      D     
+E      D     
+E      D     
+E      D     
+E      D     
+E      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      A     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      E     
+C      E     
+C      E     
+C      E     
+C      E     
+C      E     
+C      E     
+C      E     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+C      D     
+<group_end>
+
+--- 368 row(s) selected.
+
+<section_end>
+<section_begin>  a11s31
+
+X           Y          
+----------- -----------
+          1           1
+
+--- 1 row(s) selected.
+
+<section_end>

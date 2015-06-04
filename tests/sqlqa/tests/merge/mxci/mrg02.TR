@@ -1,0 +1,21 @@
+<section_begin>  s01
+
+COL1                 COL2       COL3  COL4                
+-------------------- ---------- ----- --------------------
+<group_begin>
+                   1 AAAAAAAAAA BBBBB my longish string   
+                   2 bbbbbbbbbb ccccc my second string    
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  s02
+
+A                    B          C     D                   
+-------------------- ---------- ----- --------------------
+                  10 ZZZZZZZZZZ XXXXX this is it          
+
+--- 1 row(s) selected.
+
+<section_end>

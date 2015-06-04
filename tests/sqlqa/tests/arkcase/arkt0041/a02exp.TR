@@ -1,0 +1,234 @@
+<section_begin>  a02s0
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+(EXPR)
+--------------------
+  999999999999999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+(EXPR)
+--------------------
+  999999999999999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+--------------------
+ 1000000000000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)
+--------------------
+ 1000000000000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+(EXPR)
+--------------------
+ 1.10000000000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+(EXPR)
+--------------------
+ 1.10000000000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+(EXPR)
+--------------------
+ 1.00000000000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+(EXPR)
+--------------------
+ 1.00000000000000999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s12
+
+(EXPR)
+--------------------
+ 1.00000000000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+(EXPR)
+--------------------
+ 1.00000000000001999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s14
+
+(EXPR)
+--------------------
+  199999999999999998
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s15
+
+(EXPR)
+--------------------
+ -199999999999999998
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s16
+
+(EXPR)
+--------------------
+ 1000000000.20000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s17
+
+(EXPR)
+--------------------
+  999999999.99999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s18
+
+LARGE_BIN_1          SMALL_BIN_1          (EXPR)              
+-------------------- -------------------- --------------------
+  999999999999999999 0.999999999999999999   999999999999999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s19
+
+LARGE_DEC_1          SMALL_DEC_1          (EXPR)              
+-------------------- -------------------- --------------------
+  999999999999999999 0.999999999999999999   999999999999999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s20
+
+LARGE_BIN_1          SMALL_BIN_1          (EXPR)              
+-------------------- -------------------- --------------------
+ -999999999999999999 0.999999999999999999  -999999999999999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s21
+
+NINE_ZERO_BIN_U ZERO_NINE_BIN_U (EXPR)              
+--------------- --------------- --------------------
+              2     0.200000000           2.20000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s22
+
+(EXPR)
+--------------------
+          2.20000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s23
+
+(EXPR)
+--------------------
+  999999999.99999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s24
+
+(EXPR)
+--------------------
+  999999999.99999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s25
+
+(EXPR)
+--------------------
+  1000000000.9999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s26
+
+(EXPR)
+--------------------
+  1000000000.9999999
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s27
+
+(EXPR)
+--------------------
+   -10000000009.9999
+
+--- 1 row(s) selected.
+
+<section_end>

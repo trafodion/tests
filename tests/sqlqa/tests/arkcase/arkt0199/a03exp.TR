@@ -1,0 +1,464 @@
+<section_begin>  a03s0
+
+CHAR_1 (EXPR)
+------ ------
+<group_begin>
+1      1     
+2      2     
+3      3     
+NULL   NULL  
+5      5     
+9      9     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+VAR_CHAR_3 (EXPR)
+---------- ------
+<group_begin>
+123        123   
+246        246   
+333        333   
+NULL       NULL  
+55         55    
+999        999   
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+SMALL_INT (EXPR) MEDIUM_INT (EXPR)     LARGE_INT            (EXPR)              
+--------- ------ ---------- ---------- -------------------- --------------------
+<group_begin>
+        3 3               4 4                             5 5                   
+       33 33             44 44                            5 5                   
+      333 333           333 333                         333 333                 
+     NULL NULL         NULL NULL                       NULL NULL                
+    32767 32767  2147483647 2147483647  9223372036854775807 9223372036854775807 
+   -32768 -32768          0 0          -9223372036854775808 -9223372036854775808
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+FLOAT_BASIC              (EXPR)                    Y_TO_D     (EXPR)     (EXPR)     
+------------------------ ------------------------- ---------- ---------- -----------
+<group_begin>
+                     6.2 6.20000000000000000E+000  1991-09-28 1991-09-28 1991-09-28 
+                    66.2 6.62000000000000128E+001  1991-12-27 1991-12-27 1991-12-27 
+                   333.0 3.33000000000000000E+002  1933-03-03 1933-03-03 1933-03-03 
+                    NULL NULL                      NULL       NULL       NULL       
+                   333.0 3.33000000000000000E+002  1999-12-12 1999-12-12 1999-12-12 
+                  -512.5 -5.12500000000000000E+002 2000-01-01 2000-01-01 2000-01-01 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+CHAR_1 (EXPR)   (EXPR) VAR_CHAR_3 (EXPR)   (EXPR)
+------ -------- ------ ---------- -------- ------
+<group_begin>
+a      A        A      AbC        ABC      ABC   
+NULL   NULL     NULL   zz         ZZ       ZZ    
+NULL   NULL     NULL   zy         ZY       ZY    
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+CHAR_1
+------
+<group_begin>
+1     
+2     
+3     
+NULL  
+5     
+9     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+(EXPR)
+--------------------
+                   9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+(EXPR)
+-----------
+          1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+(EXPR)
+------------------------
+                    20.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+Y_TO_D     (EXPR)              
+---------- --------------------
+1975-01-01   211024526400000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s11
+
+(EXPR)
+--------------------
+  211024526400000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s12
+
+(EXPR)
+--------------------------
+1975-01-01 00:00:00.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s13
+
+(EXPR)
+--------------------------
+1975-01-01 00:00:00.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s14
+
+(EXPR)
+--------------------------
+1975-01-01 00:00:00.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s15
+
+(EXPR)
+--------------------------
+1975-01-01 00:00:00.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s16
+
+(EXPR)
+--------------------
+  211024526400000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s17
+
+(EXPR)
+--------------------------
+1975-01-01 00:00:00.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s18
+
+(EXPR)
+--------------------
+  211024526400000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s19
+
+(EXPR)
+--------------------------
+1975-01-01 00:00:00.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s20
+
+(EXPR)
+--------------------------
+1975-01-01 00:00:00.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s21
+
+(EXPR)
+--------------------------
+<group_begin>
+1988-01-01 00:00:00.000000
+1977-03-02 00:00:00.000000
+0802-09-07 00:00:00.000000
+0100-01-01 00:00:00.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s22
+
+(EXPR)
+--------------------------
+<group_begin>
+1988-01-01 00:00:00.000000
+1977-03-02 00:00:00.000000
+0802-09-07 00:00:00.000000
+0100-01-01 00:00:00.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s23
+
+(EXPR)
+--------------------------
+<group_begin>
+1988-01-01 00:00:00.000000
+1988-01-01 00:00:00.000000
+1988-01-01 00:00:00.000000
+1988-01-01 00:00:00.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s24
+
+(EXPR)
+--------------------------
+<group_begin>
+1988-01-01 00:00:00.000000
+1988-01-01 00:00:00.000000
+1988-01-01 00:00:00.000000
+1988-01-01 00:00:00.000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s25
+
+(EXPR)
+----------
+1990-06-11
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s26
+
+(EXPR)
+----------
+06/11/1990
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s27
+
+(EXPR)
+----------
+11.06.1990
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s28
+
+(EXPR)
+------
+     3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s29
+
+CHAR_1
+------
+<group_begin>
+1     
+2     
+3     
+NULL  
+5     
+9     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s30
+
+(EXPR)
+------
+<group_begin>
+1     
+2     
+3     
+NULL  
+5     
+9     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s31
+
+(EXPR)
+------
+<group_begin>
+1     
+2     
+3     
+NULL  
+5     
+9     
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s32
+
+SMALL_INT
+---------
+<group_begin>
+        3
+       33
+      333
+     NULL
+    32767
+   -32768
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s33
+
+(EXPR)
+------
+<group_begin>
+3     
+33    
+333   
+NULL  
+32767 
+-32768
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s34
+
+(EXPR)
+------
+<group_begin>
+     3
+    33
+   333
+  NULL
+ 32767
+-32768
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s35
+
+(EXPR)
+------
+<group_begin>
+     3
+    33
+   333
+  NULL
+ 32767
+-32768
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s36
+
+(EXPR)
+------
+<group_begin>
+     3
+    33
+   333
+  NULL
+ 32767
+-32768
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a03s37
+
+(EXPR)
+--------------------
+<group_begin>
+                   3
+                  33
+                 333
+                NULL
+               32767
+              -32768
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

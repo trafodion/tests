@@ -1,0 +1,162 @@
+<section_begin>  a07s0
+
+CINTERVALYM CINTERVALDS        
+----------- -------------------
+<group_begin>
+ 0-00        0 07:00:00.000001 
+ 0-00        0 07:00:00.000002 
+ 0-01        0 07:00:00.000001 
+ 0-01        0 07:00:00.000002 
+ 0-01        7 00:00:00.000001 
+ 1-01        0 07:00:00.000001 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s1
+
+CDATE
+----------
+<group_begin>
+1998-08-26
+1998-08-27
+1998-08-28
+1998-08-29
+1998-08-30
+1998-08-31
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s2
+
+UBIN1_N2 UDEC1_100 CHAR2_2 SBIN2_NUNIQ         
+-------- --------- ------- --------------------
+<group_begin>
+    NULL         0 BE                      4942
+    NULL         1 BA                      3389
+    NULL         2 BA                      3585
+    NULL         3 BA                       505
+    NULL         4 AB                       603
+    NULL         5 AA                      3264
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s3
+
+CLOWER                 CUPPER                 CCHAR_LENGTH 
+---------------------- ---------------------- -------------
+<group_begin>
+aaaa                   AAAA                               7
+abcabc                 ABCABC                             8
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB               16
+baba                   BABA                               7
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC               16
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB               16
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s4
+
+CSUBSTRING  CTRIM                             
+----------- ----------------------------------
+<group_begin>
+AA          trim leading spaces AA            
+ABC         trim leading spaces ABC           
+AEAAEAAB    trim leading spaces AEAAEAAB      
+BA          trim leading spaces BA            
+EBAAEAAC    trim leading spaces EBAAEAAC      
+GGAAKAAB    trim leading spaces GGAAKAAB      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s5
+
+CCONCATCHAR                                         CCONCATVARCHAR        
+--------------------------------------------------- ----------------------
+<group_begin>
+2_2:AA 3_4:DAAAAAAA  4_n10:BBAAAAAA 5_n20:BAAAAAAA  AEAAEAAB   AEAAEAAB   
+2_2:AB 3_4:BAAAAAAA  4_n10:ADAAAAAA 5_n20:AEAAAAAA  BABA                  
+2_2:BA 3_4:AAAAAAAA  4_n10:BBAAAAAA 5_n20:DDAAAAAA  GGAAKAAB   GGAAKAAB   
+2_2:BA 3_4:BAAAAAAA  4_n10:BCAAAAAA 5_n20:CCAAAAAA  EBAAEAAC   EBAAEAAC   
+2_2:BA 3_4:CAAAAAAA  4_n10:BDAAAAAA 5_n20:BBAAAAAA  AAAA                  
+2_2:BE 3_4:AAAAAAAA  4_n10:BDAAAAAA 5_n20:AAAAAAAA  ABCABC                
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s6
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s7
+
+(EXPR)
+--------------------
+                   6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a07s8
+
+UDEC3_N100  UBIN3_N2000 CHAR3_4   CINTERVALYM CINTERVALDS        
+----------- ----------- --------- ----------- -------------------
+<group_begin>
+         12        1812 AAAAAAAA   0-01        0 07:00:00.000001 
+         13        1013 BAAAAAAA   0-01        0 07:00:00.000002 
+         84        1584 AAAAAAAA   0-00        0 07:00:00.000001 
+         86         186 CAAAAAAA   0-01        7 00:00:00.000001 
+         91         591 DAAAAAAA   1-01        0 07:00:00.000001 
+         97         697 BAAAAAAA   0-00        0 07:00:00.000002 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s9
+
+CHAR3_4   VARCHAR0_NUNIQ SDEC2_500   SDEC5_10   
+--------- -------------- ----------- -----------
+<group_begin>
+AAAAAAAA  ABC                    442           0
+AAAAAAAA  GGAAKAAB                 5           3
+BAAAAAAA  BA                     103           4
+BAAAAAAA  EBAAEAAC                85           2
+CAAAAAAA  AA                     389           1
+DAAAAAAA  AEAAEAAB               264           5
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a07s10
+
+SBIN17_UNIQ          SDEC17_NUNIQ         CHAR17_2
+-------------------- -------------------- --------
+<group_begin>
+               32293                    1 BAAAAAAA
+               42154                    0 AAAAAAAA
+               56017                    4 AAAAAAAA
+               59492                    2 AAAAAAAA
+              109174                    5 BAAAAAAA
+              149840                    3 BAAAAAAA
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

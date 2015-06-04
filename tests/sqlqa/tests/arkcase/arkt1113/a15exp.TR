@@ -1,0 +1,173 @@
+<section_begin>  a15s0
+
+VARCHAR8
+--------
+CC      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s1
+
+VARCHAR8
+--------
+CC      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s2
+
+VARCHAR8
+--------
+<group_begin>
+AA      
+CACAAAAA
+CC      
+CCCCAAAA
+Z       
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a15s3
+
+VARCHAR8
+--------
+<group_begin>
+AA      
+CACAAAAA
+CC      
+CCCCAAAA
+Z       
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a15s4
+
+VARCHAR8
+--------
+<group_begin>
+AA      
+CACAAAAA
+CC      
+CCCCAAAA
+Z       
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a15s5
+
+VARCHAR8
+--------
+<group_begin>
+AA      
+CACAAAAA
+CC      
+CCCCAAAA
+Z       
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a15s6
+
+VARCHAR8
+--------
+<group_begin>
+AA      
+CACAAAAA
+CC      
+CCCCAAAA
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a15s7
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s8
+
+VARCHAR3
+--------
+abc     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s9
+
+ORDERING
+-----------
+<group_begin>
+         11
+         12
+         21
+         22
+         23
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a15s10
+
+ORDERING    VARCHAR3 VARCHAR4
+----------- -------- --------
+<group_begin>
+         11 abc      CC      
+         12 NULL     CACA    
+         21 NULL     AA      
+         22 e        CCCC    
+         23 f        Z       
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a15s11
+
+ORDERING    VARCHAR3 VARCHAR4
+----------- -------- --------
+<group_begin>
+         11 abc      CC      
+         12 NULL     CACA    
+         21 NULL     AA      
+         22 e        CCCC    
+         23 f        Z       
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a15s12
+
+(EXPR)
+--------------------
+                   3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s13
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

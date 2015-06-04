@@ -1,0 +1,862 @@
+<section_begin>  n06s1
+
+(EXPR)
+------
+     0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s2
+
+(EXPR)
+------
+ 65535
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s4
+
+(EXPR)
+------
+ 32767
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s6
+
+(EXPR)
+------
+-32768
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s9
+
+(EXPR)
+----------
+         0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s10
+
+(EXPR)
+----------
+4294967295
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s12
+
+(EXPR)
+-----------
+-2147483648
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s14
+
+(EXPR)
+-----------
+ 2147483647
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s16
+
+(EXPR)
+--------------------
+                  -1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s17
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s19
+
+(EXPR)
+--------------------
+ 9223000000000001024
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s20
+
+(EXPR)
+--------------------
+ 9222099999999998976
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s21
+
+(EXPR)
+--------------------
+ 4611686020000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s22
+
+(EXPR)
+--------------------
+-9222000000000000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s23
+
+(EXPR)
+--------------------
+-9223000000000001024
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s24
+
+(EXPR)
+------
+     0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s25
+
+(EXPR)
+-----------
+          0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s26
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s27
+
+BINARY_32_U (EXPR)
+----------- ------
+      80.00     80
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s28
+
+PIC_COMP_3 (EXPR)     
+---------- -----------
+ 100.70000         100
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s29
+
+DECIMAL_2_SIGNED (EXPR)              
+---------------- --------------------
+            0.97                    0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s30
+
+PIC_DECIMAL_1 (EXPR)
+------------- ------
+          7.1      7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s31
+
+PIC_DECIMAL_2 (EXPR)              
+------------- --------------------
+        0.700                    0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s45
+
+(EXPR)
+----------
+<group_begin>
+1991-12-01
+1991-12-01
+1991-12-01
+1991-12-01
+1991-12-01
+1991-12-01
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  n06s48
+
+BINARY_32_U
+-----------
+      80.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s51
+
+(EXPR)
+------
+80.00 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s54
+
+(EXPR)
+---------
+100.70000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s55
+
+(EXPR)
+------------------------
+                100000.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s56
+
+(EXPR)
+------------
+1.0000E+005 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s57
+
+(EXPR)
+-------------
+1.00000E+005 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s58
+
+FLOAT_BASIC
+------------------------
+                     1.2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s59
+
+(EXPR)
+-------------
+1.20000E+000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s60
+
+FLOAT_REAL
+---------------
+         1.0E-4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s61
+
+(EXPR)
+-------------
+9.99999E-005 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s62
+
+FLOAT_DOUBLE_P
+------------------------
+                  2.0E-4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s63
+
+(EXPR)
+-------------
+2.00000E-004 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s65
+
+(EXPR)
+----------
+1990-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s66
+
+(EXPR)
+-------------------
+1990-01-02 12:45:59
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s67
+
+(EXPR)
+----------------------
+1990-11-22 04:05:06.07
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s68
+
+(EXPR)
+-----------------------
+1990-11-22 04:05:06.07 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s74
+
+(EXPR)
+--------
+15:01:59
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s76
+
+(EXPR)
+----------
+1975-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s78
+
+(EXPR)
+----------
+1980-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s79
+
+(EXPR)
+-----------
+15:00:00.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s80
+
+(EXPR)
+------------
+15:00:00.000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s82
+
+(EXPR)
+--------
+13:11:59
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s83
+
+(EXPR)
+------
+      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s84
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR)
+------
+ab    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s85
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR)
+------
+%     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s86
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR)
+------
+MAUREE
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s87
+
+(EXPR)
+-------
+maureen
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s88
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR)
+------
+r     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s89
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR)
+------
+ru    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s90
+
+(EXPR)
+------
+rum   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s91
+
+(EXPR)
+------
+12    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s92
+
+(EXPR)
+------------------------
+                100000.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s93
+
+(EXPR)
+-------------
+1.00000E+005 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s94
+
+(EXPR)
+--------------
+1.000000E+005 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s95
+
+DECIMAL_2_SIGNED
+----------------
+            0.97
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s97
+
+(EXPR)
+------
+.97   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s98
+
+PIC_DECIMAL_1
+-------------
+          7.1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s100
+
+(EXPR)
+------
+7.1   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s101
+
+PIC_DECIMAL_2
+-------------
+        0.700
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s103
+
+(EXPR)
+------
+.700  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s104
+
+BINARY_32_U
+-----------
+      80.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s106
+
+(EXPR)
+------
+80.00 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s107
+
+PIC_COMP_3
+----------
+ 100.70000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s109
+
+(EXPR)
+---------
+100.70000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s110
+
+FLOAT_BASIC
+------------------------
+                     1.2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s111
+
+(EXPR)
+-------------
+1.20000E+000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s112
+
+(EXPR)
+---------------
+1.2000000E+000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s113
+
+FLOAT_REAL
+---------------
+         1.0E-4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s114
+
+(EXPR)
+--------------
+9.999999E-005 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s115
+
+(EXPR)
+---------------
+9.9999997E-005 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s116
+
+FLOAT_DOUBLE_P
+------------------------
+                  2.0E-4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s117
+
+(EXPR)
+----------
+2.00E-004 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s118
+
+(EXPR)
+---------------
+2.0000000E-004 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s120
+
+(EXPR)
+----------
+1990-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s122
+
+(EXPR)
+-----------
+1990-01-01 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s124
+
+(EXPR)
+-------------------
+1990-01-02 12:45:59
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s125
+
+(EXPR)
+---------------------
+1990-11-22 04:05:06.0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s129
+
+(EXPR)
+----------
+1975-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s131
+
+(EXPR)
+----------
+1980-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s132
+
+(EXPR)
+-----------
+15:00:00.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s133
+
+(EXPR)
+------------
+15:00:00.000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s135
+
+(EXPR)
+--------
+13:11:59
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s136
+
+CHAR_1 VAR_CHAR_3 SMALL_INT MEDIUM_INT LARGE_INT            FLOAT_BASIC              Y_TO_D    
+------ ---------- --------- ---------- -------------------- ------------------------ ----------
+a      bc                 3          4                    5                      6.0 1980-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s138
+
+CHAR_1 VAR_CHAR_3 SMALL_INT MEDIUM_INT LARGE_INT            FLOAT_BASIC              Y_TO_D    
+------ ---------- --------- ---------- -------------------- ------------------------ ----------
+a      bc                 3          4                    5                      6.0 1980-01-01
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s139
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR)
+------
+ab    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s140
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR)
+------
+%     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s141
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR)
+------
+maure 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s142
+
+(EXPR)
+-------
+MAUREEN
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s143
+
+*** WARNING[8402] A string overflow occurred during the evaluation of a character expression. *
+(EXPR)
+------
+r     
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  n06s144
+
+(EXPR)
+------
+RUM   
+
+--- 1 row(s) selected.
+
+<section_end>

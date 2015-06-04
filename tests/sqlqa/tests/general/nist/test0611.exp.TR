@@ -1,0 +1,27 @@
+<section_begin>  test0611c
+
+(EXPR)
+------------------
+          9.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0611d
+
+(EXPR) (EXPR)
+------ ------
+   -99     -6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test0611e
+
+(EXPR) (EXPR)            
+------ ------------------
+    99           9.000000
+
+--- 1 row(s) selected.
+
+<section_end>

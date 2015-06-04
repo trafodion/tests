@@ -1,0 +1,198 @@
+<section_begin>  a08s0
+
+BINARY_64_S          (EXPR)              
+-------------------- --------------------
+             200.000                    1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+BINARY_64_S          PIC_COMP_1   (EXPR)
+-------------------- ------------ ------
+             200.000           50   0.50
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s3
+
+NEW_NAME_2  (EXPR)              
+----------- --------------------
+       5.00                 5.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s4
+
+PIC_COMP_1   (EXPR)                                                                                                                          
+------------ --------------------------------------------------------------------------------------------------------------------------------
+         200 tom                                                                                                                             
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s5
+
+PIC_COMP_1   (EXPR)              
+------------ --------------------
+          50                45.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s6
+
+NEW_NAME_1 (EXPR)              
+---------- --------------------
+        80                    2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s7
+
+BINARY_64_S          (EXPR)                                                                                                                          
+-------------------- --------------------------------------------------------------------------------------------------------------------------------
+             200.000 B                                                                                                                               
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s8
+
+BINARY_64_S          (EXPR)              
+-------------------- --------------------
+             200.000               100.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s9
+
+MEDIUM_INT (EXPR)              
+---------- --------------------
+      1000             18000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s10
+
+MEDIUM_INT (EXPR)              
+---------- --------------------
+      1000              2000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s12
+
+MEDIUM_INT (EXPR)              
+---------- --------------------
+      1000                   90
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s13
+
+MEDIUM_INT (EXPR)              
+---------- --------------------
+      1000                   10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s14
+
+PIC_COMP_1   (EXPR)              
+------------ --------------------
+         200                  600
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s15
+
+MEDIUM_INT (EXPR)              
+---------- --------------------
+      1000                   16
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s16
+
+MEDIUM_INT (EXPR)               (EXPR)               (EXPR) (EXPR) (EXPR)               (EXPR)              
+---------- -------------------- -------------------- ------ ------ -------------------- --------------------
+      1000                    7                    7      7      7                    1                    1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s17
+
+BINARY_64_S          (EXPR)              
+-------------------- --------------------
+            2000.000                    3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s18
+
+PIC_COMP_1   (EXPR)              
+------------ --------------------
+          60             1200.000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s19
+
+NEW_NAME_1 (EXPR)              
+---------- --------------------
+        80                    2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s20
+
+PIC_COMP_1   (EXPR)              
+------------ --------------------
+          50                95.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s21
+
+BINARY_64_S          (EXPR)              
+-------------------- --------------------
+             200.000                    8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s22
+
+MEDIUM_INT (EXPR)              
+---------- --------------------
+      1000                 2000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a08s23
+
+(EXPR)
+--------------------
+                 200
+
+--- 1 row(s) selected.
+
+<section_end>

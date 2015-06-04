@@ -1,0 +1,165 @@
+<section_begin>  a10s2
+
+LAST_NAME  (EXPR) (EXPR)     (EXPR) (EXPR) (EXPR)
+---------- ------ ---------- ------ ------ ------
+<group_begin>
+DINAH      cla               CL     CLAR   dinah 
+JERRY      how               HO     HOWA   jerry 
+JESSICA    cri               CR     CRIN   jessi 
+ROGER      gre               GR     GREE   roger 
+christian  han               HA     HANS   chris 
+white      jer               JE     JERR   white 
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s3
+
+FIRST_NAME LAST_NAME  (EXPR) (EXPR)                 
+---------- ---------- ------ -----------------------
+<group_begin>
+CLARK      DINAH      CL     DI###########          
+HOWARD     JERRY      HO     JE###########          
+CRINAR     JESSICA    CJ     JE###########          
+GREEN      ROGER      GJ     JO###########          
+hans       christian  ha     ch###########          
+jerry      white      je     wh###########          
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s4
+
+FIRST_NAME LAST_NAME  DEPT_NUM SALARY     MARITAL_STATUS HIRE_DATE  START_TIME                
+---------- ---------- -------- ---------- -------------- ---------- --------------------------
+<group_begin>
+CLARK      DINAH          9000   37000.50              3 1977-05-02 1977-05-02 08:12:00.110000
+CRINAR     JESSICA        3500   39500.00              2 1984-08-12 1984-08-12 05:00:00.000233
+GREEN      ROGER          9000  175500.99              2 1908-09-23 1908-09-23 12:34:00.320222
+HOWARD     JERRY          1000   65000.64              1 1923-11-05 1923-11-05 10:30:00.999900
+david      jungle            9   45903.05              7 2990-09-04 2998-04-19 12:32:00.123400
+hans       christian       500   99000.04              1 1908-09-23 1908-09-23 12:34:00.067222
+jerry      white          1200   70000.00              1 1923-11-05 1923-11-05 08:30:00.009999
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a10s5
+
+FIRST_NAME LAST_NAME  DEPT_NUM SALARY     MARITAL_STATUS HIRE_DATE  START_TIME                
+---------- ---------- -------- ---------- -------------- ---------- --------------------------
+<group_begin>
+CLARK      DINAH          9000   37000.50              3 1977-05-02 1977-05-02 08:12:00.110000
+CRINAR     JESSICA        3500   39500.00              2 1984-08-12 1984-08-12 05:00:00.000233
+GREEN      ROGER          9000  175500.99              2 1908-09-23 1908-09-23 12:34:00.320222
+HOWARD     JERRY          1000   65000.64              1 1923-11-05 1923-11-05 10:30:00.999900
+david      dav               9   45903.05              7 2990-09-04 2998-04-19 12:32:00.123400
+hans       christian       500   99000.04              1 1908-09-23 1908-09-23 12:34:00.067222
+jerry      white          1200   70000.00              1 1923-11-05 1923-11-05 08:30:00.009999
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a10s6
+
+FIRST_NAME (EXPR)     (EXPR)     HIRE_DATE  (EXPR)            
+---------- ---------- ---------- ---------- ------------------
+jerry             106 %erry      1923-11-05 whi               
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s7
+
+FIRST_NAME (EXPR)     (EXPR)        (EXPR)       (EXPR) (EXPR)                                             
+---------- ---------- ------------- ------------ ------ ---------------------------------------------------
+jerry      jerry      GGGwhite      whiGGGGGGGGG W      what is white first name                           
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a10s8
+
+FIRST_NAME LAST_NAME  DEPT_NUM SALARY     MARITAL_STATUS HIRE_DATE  START_TIME                
+---------- ---------- -------- ---------- -------------- ---------- --------------------------
+<group_begin>
+CLARK      DINAH          9000   37000.50              3 1977-05-02 1977-05-02 08:12:00.110000
+CRINAR     JESSICA        3500   39500.00              2 1984-08-12 1984-08-12 05:00:00.000233
+GREEN      ROGER          9000  175500.99              2 1908-09-23 1908-09-23 12:34:00.320222
+HOWARD     JERRY          1000   65000.64              1 1923-11-05 1923-11-05 10:30:00.999900
+hans       christian       500   99000.04              1 1908-09-23 1908-09-23 12:34:00.067222
+jerry      white          1200   70000.00              1 1923-11-05 1923-11-05 08:30:00.009999
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a10s9
+
+VC1  VC2        VC3       
+---- ---------- ----------
+<group_begin>
+C    dinah      1977-05-02
+G    roger      1908-09-23
+H    jerry      1923-11-05
+H    christian  1908-09-23
+J    white      1923-11-05
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a10s10
+
+VC1  FIRST_NAME LAST_NAME  HIRE_DATE 
+---- ---------- ---------- ----------
+<group_begin>
+G    hans       christian  1908-09-23
+H    hans       christian  1908-09-23
+H    GREEN      ROGER      1908-09-23
+G    GREEN      ROGER      1908-09-23
+H    jerry      white      1923-11-05
+J    jerry      white      1923-11-05
+H    HOWARD     JERRY      1923-11-05
+J    HOWARD     JERRY      1923-11-05
+C    CLARK      DINAH      1977-05-02
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a10s11
+
+LAST_NAME  HIRE_DATE  (EXPR)                   (EXPR)                        
+---------- ---------- ------------------------ ------------------------------
+<group_begin>
+CL         1977-05-02 I am left trimed  :)          :)I am right trimed .    
+DINAH      1977-05-02 ltrim with concat           rtrim with concat          
+CR         1984-08-12 I am left trimed  :)          :)I am right trimed .    
+JESSICA    1984-08-12 ltrim with concat           rtrim with concat          
+GR         1908-09-23 I am left trimed  :)          :)I am right trimed .    
+ROGER      1908-09-23 ltrim with concat           rtrim with concat          
+HO         1923-11-05 I am left trimed  :)          :)I am right trimed .    
+JERRY      1923-11-05 ltrim with concat           rtrim with concat          
+ha         1908-09-23 I am left trimed  :)          :)I am right trimed .    
+christian  1908-09-23 ltrim with concat           rtrim with concat          
+je         1923-11-05 I am left trimed  :)          :)I am right trimed .    
+white      1923-11-05 ltrim with concat           rtrim with concat          
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a10s12
+
+(EXPR)     (EXPR)     (EXPR)     (EXPR)     (EXPR)
+---------- ---------- ---------- ---------- ------
+        10         17         10         10 an    
+
+--- 1 row(s) selected.
+
+<section_end>

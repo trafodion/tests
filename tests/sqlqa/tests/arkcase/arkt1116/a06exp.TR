@@ -1,0 +1,253 @@
+<section_begin>  a06s0
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+ANANDHI       RAMASWAMY       PROGRAMMER      FEMALE  
+BHAVESH       MEHTA           ENGINEER        MALE    
+Kathy         Baxter          secretary       female  
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+YUGAL         AGGARWAL        SYSADMIN        MALE    
+shanti        aradhyula       salesrep        female  
+steve         martin          director        male    
+sulu          kapoor          manager         female  
+NULL          HAUSMANN        PROGRAMMER      MALE    
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a06s1
+
+FIRST_NAME    LAST_NAME       SALARY      DEPT_NUM    STR 
+------------- --------------- ----------- ----------- ----
+<group_begin>
+ANANDHI       RAMASWAMY             50000          13 E   
+BHAVESH       MEHTA                 50000          14 C   
+Kathy         Baxter                36000          15 F   
+MARIA         JOYCE                 40000          16 I   
+YUGAL         AGGARWAL              80000          14 D   
+shanti        aradhyula             60000          12 A   
+steve         martin               120000          13 H   
+sulu          kapoor                90000          13 B   
+NULL          HAUSMANN              52000          14 J   
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a06s2
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+ANANDHI       RAMASWAMY       PROGRAMMER      female  
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+andrea        mitchell        programmer      female  
+martha        vincent         SECRETARY       FEMALE  
+sulu          kapoor          manager         female  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s3
+
+FIRST_NAME    LAST_NAME       DEPT_NAME            EMP_NUM    
+------------- --------------- -------------------- -----------
+<group_begin>
+ANANDHI       RAMASWAMY       arkqa                       4254
+MARIA         JOYCE           Boutique                   23232
+andrea        mitchell        pathway                      123
+martha        vincent         networkmanagement            345
+sulu          kapoor          arkqa                       2345
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s4
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+ANANDHI       RAMASWAMY       PROGRAMMER      FEMALE  
+BHAVESH       MEHTA           ENGINEER        MALE    
+Kathy         Baxter          secretary       female  
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+YUGAL         AGGARWAL        SYSADMIN        MALE    
+shanti        aradhyula       salesrep        female  
+steve         martin          director        male    
+sulu          kapoor          manager         female  
+NULL          HAUSMANN        PROGRAMMER      MALE    
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a06s5
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+ANANDHI       RAMASWAMY       PROGRAMMER      female  
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+andrea        mitchell        programmer      female  
+martha        vincent         SECRETARY       FEMALE  
+sulu          kapoor          manager         female  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s6
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+sulu          kapoor          manager         female  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s7
+
+B      C      D      E      F      G     
+------ ------ ------ ------ ------ ------
+<group_begin>
+joycem      5      5      0 JOYCE  JOYCE 
+kapoor      6      6      2 kapoor kapoor
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s8
+
+A               B          C               D      E         
+--------------- ---------- --------------- ------ ----------
+<group_begin>
+joyce                    1 HAIRDRESSER     MALE           10
+kapoor                   0 anager          male           10
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s9
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+sulu          kapoor          manager         female  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s10
+
+LAST_NAME       FIRST_NAME    JOB             GENDER  
+--------------- ------------- --------------- --------
+JOYCE           MARIA         HAIRDRESSER     FEMALE  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s11
+
+FIRST_NAME    LAST_NAME       EMP_NUM    
+------------- --------------- -----------
+<group_begin>
+andrea        mitchell                123
+martha        vincent                 345
+sulu          kapoor                 2345
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a06s12
+
+(EXPR)
+-------------
+martha       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s13
+
+LAST_NAME       (EXPR)        JOB            
+--------------- ------------- ---------------
+JOYCE           maria         HAIRDRESSER    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a06s14
+
+FIRST_NAME    LAST_NAME       JOB             GENDER  
+------------- --------------- --------------- --------
+<group_begin>
+MARIA         JOYCE           HAIRDRESSER     FEMALE  
+sulu          kapoor          manager         female  
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s15
+
+DEPT_NAME
+--------------------
+<group_begin>
+Boutique            
+arkqa               
+arkqa               
+networkmanagement   
+pathway             
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s16
+
+(EXPR)
+-------------
+<group_begin>
+anandhi      
+kathy        
+maria        
+shanti       
+sulu         
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a06s17
+
+CA
+-------------
+<group_begin>
+MARIA        
+sulu         
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a06s18
+
+LAST_NAME       JOB             LENGTH_FIRST OCTET_FIRST POSITION_JOB LENGTH_GENDER
+--------------- --------------- ------------ ----------- ------------ -------------
+kapoor          manager                    4           6            0             6
+
+--- 1 row(s) selected.
+
+<section_end>

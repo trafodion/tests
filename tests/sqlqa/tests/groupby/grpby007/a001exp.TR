@@ -1,0 +1,317 @@
+<section_begin>  a01s1
+
+(EXPR)
+----------
+<group_begin>
+        67
+        71
+        72
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+(EXPR)
+------
+<group_begin>
+D     
+J     
+R     
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+(EXPR)
+----------
+        10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+(EXPR)
+----------
+<group_begin>
+        68
+        74
+        82
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+(EXPR)
+--------------------
+<group_begin>
+CLARK     DINAH     
+CRINAR    JESSICA   
+GREEN     ROGER     
+HOWARD    JERRY     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+(EXPR)
+-----------------------
+<group_begin>
+CnewK                  
+CnewAR                 
+GnewN                  
+HnewRD                 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+(EXPR)
+----------
+<group_begin>
+dinah     
+jessica   
+roger     
+jerry     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+(EXPR)
+------
+<group_begin>
+CLA   
+CRI   
+GRE   
+HOW   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+(EXPR)
+----------
+         0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+(EXPR)
+----------
+<group_begin>
+clark     
+crinar    
+green     
+howard    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s1
+
+(EXPR)
+------
+<group_begin>
+DIN   
+JES   
+ROG   
+JER   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+(EXPR)
+----------
+<group_begin>
+CLARK     
+CRINAR    
+GREEN     
+HOWARD    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+(EXPR)
+----------
+        10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+(EXPR)
+----------
+         0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+(EXPR)
+--------------------
+<group_begin>
+DINAH     DINAH     
+JESSICA   JESSICA   
+ROGER     ROGER     
+JERRY     JERRY     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+(EXPR)
+----------
+<group_begin>
+CLARK     
+CRINAR    
+GREEN     
+HOWARD    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+(EXPR)
+----------
+          
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+(EXPR)
+------
+<group_begin>
+CLA   
+CRI   
+GRE   
+HOW   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+(EXPR)
+----------
+<group_begin>
+DINAH     
+JESSICA   
+ROGER     
+JERRY     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+(EXPR)
+------
+      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+(EXPR)
+------
+<group_begin>
+ARK   
+INA   
+EEN   
+WAR   
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s1
+
+(EXPR)
+----------
+<group_begin>
+CLARK     
+CRINAR    
+GREEN     
+HOWARD    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+(EXPR)
+----------
+<group_begin>
+DINAH     
+JESSICA   
+ROGER     
+JERRY     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+(EXPR)
+----------
+<group_begin>
+CLARK     
+CRINAR    
+GREEN     
+HOWARD    
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a05s4
+
+(EXPR)
+----------
+<group_begin>
+DINAH     
+JESSICA   
+ROGER     
+JERRY     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

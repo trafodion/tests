@@ -1,0 +1,92 @@
+<section_begin>  a08s0
+
+SKY                  VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+-------------------- ------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+                   1 a            1 a           0.90 NULL    NULL NULL       0
+                   2 cc           2 cc          2.00 cc       2.0 cc         2
+                   3 abcdefg      3 cc          0.09 alph     2.0 cc         1
+                   4 b            4 c     1234567.89 e     1234.5 c      12345
+                   5 abcdefg      5 cc          0.09 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s1
+
+SKY                  VCH7    NINT   CH3  NNUM9       CH4  NNUM5   VCH5  NSINT 
+-------------------- ------- ------ ---- ----------- ---- ------- ----- ------
+<group_begin>
+                   1 a            1 a           0.90 NULL    NULL NULL       0
+                   2 cc           2 cc          2.00 cc       2.0 cc         2
+                   3 abcdefg      3 cc          0.09 alph     2.0 cc         1
+                   4 b            4 c     1234567.89 e     1234.5 c      12345
+                   5 abcdefg      5 cc          0.09 cc       2.0 cc         2
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a08s2
+
+ 
+LC   RC   OP   OPERATOR              OPT       DESCRIPTION           CARD   
+---- ---- ---- --------------------  --------  --------------------  ---------
+<group_begin>
+ 
+7    .    8    root                            x                     1.00E+002
+3    6    7    tuple_flow                                            1.00E+002
+*
+4    .    5    partition_access                                      1.00E+000
+.    .    4    unique_merge                    TTF2                  1.00E+000
+*
+1    .    2    partition_access                                      1.00E+002
+.    .    1    file_scan             fs fr     TTF                   1.00E+002
+<group_end>
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a08s3
+
+ 
+LC   RC   OP   OPERATOR              OPT       DESCRIPTION           CARD   
+---- ---- ---- --------------------  --------  --------------------  ---------
+<group_begin>
+ 
+7    .    8    root                            x                     5.00E+003
+3    6    7    tuple_flow                                            5.00E+003
+*
+4    .    5    partition_access                                      5.00E+001
+.    .    4    subset_update                   TTF2                  5.00E+001
+*
+1    .    2    partition_access                                      1.00E+002
+.    .    1    file_scan             fs fr     TTF                   1.00E+002
+<group_end>
+
+--- SQL operation complete.
+
+<section_end>
+<section_begin>  a08s4
+
+ 
+LC   RC   OP   OPERATOR              OPT       DESCRIPTION           CARD   
+---- ---- ---- --------------------  --------  --------------------  ---------
+<group_begin>
+ 
+9    .    10   root                  o         s                     1.00E+000
+6    8    9    tuple_flow                                            1.00E+000
+7    .    8    partition_access                                      1.00E+000
+.    .    7    cursor_update                   TTF2                  1.00E+000
+3    5    6    nested_join                                           1.00E+000
+4    .    5    partition_access      o                               1.00E+000
+.    .    4    file_scan_unique      o fr      TTF2                  1.00E+000
+2    .    3    sort_scalar_aggr                                      1.00E+000
+1    .    2    partition_access      o                               1.00E+000
+.    .    1    file_scan_unique      o fr      TTF                   1.00E+000
+<group_end>
+
+--- SQL operation complete.
+
+<section_end>

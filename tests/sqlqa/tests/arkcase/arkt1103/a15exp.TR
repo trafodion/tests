@@ -1,0 +1,684 @@
+<section_begin>  a15s0
+
+CSIMPLE                 CSEARCHED         
+----------------------- ------------------
+<group_begin>
+Value A                 sint is the lowest
+Value B                 the great unknown 
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a15s1
+
+CLOWER                 CUPPER                
+---------------------- ----------------------
+<group_begin>
+aaaa                   AAAA                  
+abcabc                 ABCABC                
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+baba                   BABA                  
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a15s2
+
+CSIMPLE                 CSEARCHED         
+----------------------- ------------------
+<group_begin>
+Value A                 sint is the lowest
+Value B                 the great unknown 
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a15s3
+
+CCHAR_LENGTH  CPOSITION 
+------------- ----------
+<group_begin>
+            7          0
+            7          0
+            8          0
+           16          9
+           16          9
+           16          9
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a15s4
+
+V91_CSIMPLE             V92_CSIMPLE            
+----------------------- -----------------------
+<group_begin>
+Value A                 Value B                
+Value B                 Value B                
+Value D -- Rowcount > 3 Value B                
+Value D -- Rowcount > 3 Value B                
+Value D -- Rowcount > 3 Value B                
+Value D -- Rowcount > 3 Value B                
+Value D -- Rowcount > 3 Value B                
+Value D -- Rowcount > 3 Value B                
+NULL                    Value A                
+NULL                    Value D -- Rowcount > 3
+NULL                    Value D -- Rowcount > 3
+NULL                    Value D -- Rowcount > 3
+NULL                    Value D -- Rowcount > 3
+NULL                    Value D -- Rowcount > 3
+NULL                    Value D -- Rowcount > 3
+<group_end>
+
+--- 15 row(s) selected.
+
+<section_end>
+<section_begin>  a15s5
+
+A                       B                  A                      B                     
+----------------------- ------------------ ---------------------- ----------------------
+<group_begin>
+Value A                 sint is the lowest aaaa                   AAAA                  
+Value A                 sint is the lowest abcabc                 ABCABC                
+Value A                 sint is the lowest aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value A                 sint is the lowest baba                   BABA                  
+Value A                 sint is the lowest ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value A                 sint is the lowest ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value B                 the great unknown  aaaa                   AAAA                  
+Value B                 the great unknown  abcabc                 ABCABC                
+Value B                 the great unknown  aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value B                 the great unknown  baba                   BABA                  
+Value B                 the great unknown  ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value B                 the great unknown  ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value D -- Rowcount > 3 rownum over 10     aaaa                   AAAA                  
+Value D -- Rowcount > 3 rownum over 10     aaaa                   AAAA                  
+Value D -- Rowcount > 3 rownum over 10     abcabc                 ABCABC                
+Value D -- Rowcount > 3 rownum over 10     abcabc                 ABCABC                
+Value D -- Rowcount > 3 rownum over 10     aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value D -- Rowcount > 3 rownum over 10     aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value D -- Rowcount > 3 rownum over 10     baba                   BABA                  
+Value D -- Rowcount > 3 rownum over 10     baba                   BABA                  
+Value D -- Rowcount > 3 rownum over 10     ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value D -- Rowcount > 3 rownum over 10     ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value D -- Rowcount > 3 rownum over 10     ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value D -- Rowcount > 3 rownum over 10     ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value D -- Rowcount > 3 sint is the lowest aaaa                   AAAA                  
+Value D -- Rowcount > 3 sint is the lowest aaaa                   AAAA                  
+Value D -- Rowcount > 3 sint is the lowest abcabc                 ABCABC                
+Value D -- Rowcount > 3 sint is the lowest abcabc                 ABCABC                
+Value D -- Rowcount > 3 sint is the lowest aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value D -- Rowcount > 3 sint is the lowest aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value D -- Rowcount > 3 sint is the lowest baba                   BABA                  
+Value D -- Rowcount > 3 sint is the lowest baba                   BABA                  
+Value D -- Rowcount > 3 sint is the lowest ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value D -- Rowcount > 3 sint is the lowest ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value D -- Rowcount > 3 sint is the lowest ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value D -- Rowcount > 3 sint is the lowest ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value D -- Rowcount > 3 the great unknown  aaaa                   AAAA                  
+Value D -- Rowcount > 3 the great unknown  aaaa                   AAAA                  
+Value D -- Rowcount > 3 the great unknown  abcabc                 ABCABC                
+Value D -- Rowcount > 3 the great unknown  abcabc                 ABCABC                
+Value D -- Rowcount > 3 the great unknown  aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value D -- Rowcount > 3 the great unknown  aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value D -- Rowcount > 3 the great unknown  baba                   BABA                  
+Value D -- Rowcount > 3 the great unknown  baba                   BABA                  
+Value D -- Rowcount > 3 the great unknown  ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value D -- Rowcount > 3 the great unknown  ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value D -- Rowcount > 3 the great unknown  ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value D -- Rowcount > 3 the great unknown  ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+<group_end>
+
+--- 48 row(s) selected.
+
+<section_end>
+<section_begin>  a15s6
+
+CSIMPLE                 CSEARCHED          CLOWER                 CUPPER                
+----------------------- ------------------ ---------------------- ----------------------
+<group_begin>
+Value A                 sint is the lowest aaaa                   AAAA                  
+Value A                 sint is the lowest abcabc                 ABCABC                
+Value A                 sint is the lowest aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value A                 sint is the lowest baba                   BABA                  
+Value A                 sint is the lowest ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value A                 sint is the lowest ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value B                 the great unknown  aaaa                   AAAA                  
+Value B                 the great unknown  abcabc                 ABCABC                
+Value B                 the great unknown  aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value B                 the great unknown  baba                   BABA                  
+Value B                 the great unknown  ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value B                 the great unknown  ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value D -- Rowcount > 3 rownum over 10     aaaa                   AAAA                  
+Value D -- Rowcount > 3 rownum over 10     aaaa                   AAAA                  
+Value D -- Rowcount > 3 rownum over 10     abcabc                 ABCABC                
+Value D -- Rowcount > 3 rownum over 10     abcabc                 ABCABC                
+Value D -- Rowcount > 3 rownum over 10     aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value D -- Rowcount > 3 rownum over 10     aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value D -- Rowcount > 3 rownum over 10     baba                   BABA                  
+Value D -- Rowcount > 3 rownum over 10     baba                   BABA                  
+Value D -- Rowcount > 3 rownum over 10     ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value D -- Rowcount > 3 rownum over 10     ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value D -- Rowcount > 3 rownum over 10     ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value D -- Rowcount > 3 rownum over 10     ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value D -- Rowcount > 3 sint is the lowest aaaa                   AAAA                  
+Value D -- Rowcount > 3 sint is the lowest aaaa                   AAAA                  
+Value D -- Rowcount > 3 sint is the lowest abcabc                 ABCABC                
+Value D -- Rowcount > 3 sint is the lowest abcabc                 ABCABC                
+Value D -- Rowcount > 3 sint is the lowest aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value D -- Rowcount > 3 sint is the lowest aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value D -- Rowcount > 3 sint is the lowest baba                   BABA                  
+Value D -- Rowcount > 3 sint is the lowest baba                   BABA                  
+Value D -- Rowcount > 3 sint is the lowest ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value D -- Rowcount > 3 sint is the lowest ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value D -- Rowcount > 3 sint is the lowest ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value D -- Rowcount > 3 sint is the lowest ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value D -- Rowcount > 3 the great unknown  aaaa                   AAAA                  
+Value D -- Rowcount > 3 the great unknown  aaaa                   AAAA                  
+Value D -- Rowcount > 3 the great unknown  abcabc                 ABCABC                
+Value D -- Rowcount > 3 the great unknown  abcabc                 ABCABC                
+Value D -- Rowcount > 3 the great unknown  aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value D -- Rowcount > 3 the great unknown  aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+Value D -- Rowcount > 3 the great unknown  baba                   BABA                  
+Value D -- Rowcount > 3 the great unknown  baba                   BABA                  
+Value D -- Rowcount > 3 the great unknown  ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value D -- Rowcount > 3 the great unknown  ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+Value D -- Rowcount > 3 the great unknown  ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+Value D -- Rowcount > 3 the great unknown  ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+<group_end>
+
+--- 48 row(s) selected.
+
+<section_end>
+<section_begin>  a15s7
+
+CLOWER                 CUPPER                
+---------------------- ----------------------
+<group_begin>
+aaaa                   AAAA                  
+aaaa                   AAAA                  
+aaaa                   AAAA                  
+aaaa                   AAAA                  
+aaaa                   AAAA                  
+aaaa                   AAAA                  
+aaaa                   AAAA                  
+aaaa                   AAAA                  
+abcabc                 ABCABC                
+abcabc                 ABCABC                
+abcabc                 ABCABC                
+abcabc                 ABCABC                
+abcabc                 ABCABC                
+abcabc                 ABCABC                
+abcabc                 ABCABC                
+abcabc                 ABCABC                
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+baba                   BABA                  
+baba                   BABA                  
+baba                   BABA                  
+baba                   BABA                  
+baba                   BABA                  
+baba                   BABA                  
+baba                   BABA                  
+baba                   BABA                  
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+<group_end>
+
+--- 48 row(s) selected.
+
+<section_end>
+<section_begin>  a15s8
+
+CLOWER                 CUPPER                
+---------------------- ----------------------
+<group_begin>
+aaaa                   AAAA                  
+abcabc                 ABCABC                
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+baba                   BABA                  
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a15s9
+
+CLOWER                 CUPPER                
+---------------------- ----------------------
+<group_begin>
+aaaa                   AAAA                  
+abcabc                 ABCABC                
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+baba                   BABA                  
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a15s10
+
+CLOWER                 CUPPER                
+---------------------- ----------------------
+<group_begin>
+aaaa                   AAAA                  
+abcabc                 ABCABC                
+aeaaeaab   aeaaeaab    AEAAEAAB   AEAAEAAB   
+baba                   BABA                  
+ebaaeaac   ebaaeaac    EBAAEAAC   EBAAEAAC   
+ggaakaab   ggaakaab    GGAAKAAB   GGAAKAAB   
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a15s11
+
+CUPPER                 CLOWER                
+---------------------- ----------------------
+<group_begin>
+AAAA                   aaaa                  
+AAAA                   abcabc                
+AAAA                   aeaaeaab   aeaaeaab   
+AAAA                   baba                  
+AAAA                   ebaaeaac   ebaaeaac   
+AAAA                   ggaakaab   ggaakaab   
+ABCABC                 aaaa                  
+ABCABC                 abcabc                
+ABCABC                 aeaaeaab   aeaaeaab   
+ABCABC                 baba                  
+ABCABC                 ebaaeaac   ebaaeaac   
+ABCABC                 ggaakaab   ggaakaab   
+AEAAEAAB   AEAAEAAB    aaaa                  
+AEAAEAAB   AEAAEAAB    abcabc                
+AEAAEAAB   AEAAEAAB    aeaaeaab   aeaaeaab   
+AEAAEAAB   AEAAEAAB    baba                  
+AEAAEAAB   AEAAEAAB    ebaaeaac   ebaaeaac   
+AEAAEAAB   AEAAEAAB    ggaakaab   ggaakaab   
+BABA                   aaaa                  
+BABA                   abcabc                
+BABA                   aeaaeaab   aeaaeaab   
+BABA                   baba                  
+BABA                   ebaaeaac   ebaaeaac   
+BABA                   ggaakaab   ggaakaab   
+EBAAEAAC   EBAAEAAC    aaaa                  
+EBAAEAAC   EBAAEAAC    abcabc                
+EBAAEAAC   EBAAEAAC    aeaaeaab   aeaaeaab   
+EBAAEAAC   EBAAEAAC    baba                  
+EBAAEAAC   EBAAEAAC    ebaaeaac   ebaaeaac   
+EBAAEAAC   EBAAEAAC    ggaakaab   ggaakaab   
+GGAAKAAB   GGAAKAAB    aaaa                  
+GGAAKAAB   GGAAKAAB    abcabc                
+GGAAKAAB   GGAAKAAB    aeaaeaab   aeaaeaab   
+GGAAKAAB   GGAAKAAB    baba                  
+GGAAKAAB   GGAAKAAB    ebaaeaac   ebaaeaac   
+GGAAKAAB   GGAAKAAB    ggaakaab   ggaakaab   
+<group_end>
+
+--- 36 row(s) selected.
+
+<section_end>
+<section_begin>  a15s12
+
+CSIMPLE                 CSEARCHED         
+----------------------- ------------------
+<group_begin>
+Value A                 rownum over 10    
+Value A                 rownum over 10    
+Value A                 sint is the lowest
+Value A                 sint is the lowest
+Value A                 sint is the lowest
+Value A                 the great unknown 
+Value A                 the great unknown 
+Value A                 the great unknown 
+Value B                 rownum over 10    
+Value B                 rownum over 10    
+Value B                 sint is the lowest
+Value B                 sint is the lowest
+Value B                 sint is the lowest
+Value B                 the great unknown 
+Value B                 the great unknown 
+Value B                 the great unknown 
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 sint is the lowest
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+Value D -- Rowcount > 3 the great unknown 
+<group_end>
+
+--- 64 row(s) selected.
+
+<section_end>
+<section_begin>  a15s13
+
+CSIMPLE                 CSEARCHED         
+----------------------- ------------------
+<group_begin>
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+Value D -- Rowcount > 3 rownum over 10    
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>
+<section_begin>  a15s14
+
+A                       B                  A                      B                     
+----------------------- ------------------ ---------------------- ----------------------
+<group_begin>
+Value A                 sint is the lowest baba                   BABA                  
+Value B                 the great unknown  baba                   BABA                  
+Value D -- Rowcount > 3 rownum over 10     baba                   BABA                  
+Value D -- Rowcount > 3 rownum over 10     baba                   BABA                  
+Value D -- Rowcount > 3 sint is the lowest baba                   BABA                  
+Value D -- Rowcount > 3 sint is the lowest baba                   BABA                  
+Value D -- Rowcount > 3 the great unknown  baba                   BABA                  
+Value D -- Rowcount > 3 the great unknown  baba                   BABA                  
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a15s15
+
+CUPPER                 CLOWER                
+---------------------- ----------------------
+<group_begin>
+AAAA                   abcabc                
+AAAA                   aeaaeaab   aeaaeaab   
+AAAA                   baba                  
+AAAA                   ebaaeaac   ebaaeaac   
+AAAA                   ggaakaab   ggaakaab   
+ABCABC                 aaaa                  
+ABCABC                 aeaaeaab   aeaaeaab   
+ABCABC                 baba                  
+ABCABC                 ebaaeaac   ebaaeaac   
+ABCABC                 ggaakaab   ggaakaab   
+AEAAEAAB   AEAAEAAB    aaaa                  
+AEAAEAAB   AEAAEAAB    abcabc                
+AEAAEAAB   AEAAEAAB    baba                  
+AEAAEAAB   AEAAEAAB    ebaaeaac   ebaaeaac   
+AEAAEAAB   AEAAEAAB    ggaakaab   ggaakaab   
+BABA                   aaaa                  
+BABA                   abcabc                
+BABA                   aeaaeaab   aeaaeaab   
+BABA                   ebaaeaac   ebaaeaac   
+BABA                   ggaakaab   ggaakaab   
+EBAAEAAC   EBAAEAAC    aaaa                  
+EBAAEAAC   EBAAEAAC    abcabc                
+EBAAEAAC   EBAAEAAC    aeaaeaab   aeaaeaab   
+EBAAEAAC   EBAAEAAC    baba                  
+EBAAEAAC   EBAAEAAC    ggaakaab   ggaakaab   
+GGAAKAAB   GGAAKAAB    aaaa                  
+GGAAKAAB   GGAAKAAB    abcabc                
+GGAAKAAB   GGAAKAAB    aeaaeaab   aeaaeaab   
+GGAAKAAB   GGAAKAAB    baba                  
+GGAAKAAB   GGAAKAAB    ebaaeaac   ebaaeaac   
+<group_end>
+
+--- 30 row(s) selected.
+
+<section_end>
+<section_begin>  a15s16
+
+CSIMPLE                 LENGTH_CSIMPLE
+----------------------- --------------
+<group_begin>
+Value A                              7
+Value B                              7
+Value D -- Rowcount > 3             23
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a15s17
+
+CASE_RESULT
+---------------------------
+Text: Not WHEN 1 THEN      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s18
+
+(EXPR)
+-------------------------
+Text: the total is 14    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s19
+
+(EXPR)
+-------------------------
+Text: the total is 14    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a15s20
+
+(EXPR)
+-----------------------------
+<group_begin>
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a15s21
+
+(EXPR)
+-----------------------------
+<group_begin>
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a15s22
+
+(EXPR)
+-----------------------------
+<group_begin>
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+Min = Value A                
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a15s23
+
+CCHAR_LENGTH  CPOSITION 
+------------- ----------
+<group_begin>
+            7          0
+            7          0
+            8          0
+           16          9
+           16          9
+           16          9
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a15s24
+
+CCHAR_LENGTH  CPOSITION 
+------------- ----------
+<group_begin>
+            8          9
+            8          9
+            8          9
+         NULL          0
+         NULL          0
+         NULL          0
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a15s25
+
+CSUBSTRING  CTRIM                             
+----------- ----------------------------------
+<group_begin>
+AA          trim leading spaces BA            
+ABC         trim leading spaces BA            
+AEAAEAAB    trim leading spaces BA            
+BA          trim leading spaces AA            
+BA          trim leading spaces ABC           
+BA          trim leading spaces AEAAEAAB      
+BA          trim leading spaces BA            
+BA          trim leading spaces EBAAEAAC      
+BA          trim leading spaces GGAAKAAB      
+EBAAEAAC    trim leading spaces BA            
+GGAAKAAB    trim leading spaces BA            
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a15s26
+
+CUPPER                 CLOWER                
+---------------------- ----------------------
+<group_begin>
+AAAA                   aaaa                  
+ABCABC                 abcabc                
+AEAAEAAB   AEAAEAAB    aeaaeaab   aeaaeaab   
+BABA                   baba                  
+EBAAEAAC   EBAAEAAC    ebaaeaac   ebaaeaac   
+GGAAKAAB   GGAAKAAB    ggaakaab   ggaakaab   
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

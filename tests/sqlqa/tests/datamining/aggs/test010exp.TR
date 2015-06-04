@@ -1,0 +1,81 @@
+<section_begin>  test010f
+
+CountDis
+--------------------
+                 495
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test010g
+
+AverageDis
+--------------------
+                2394
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test010h
+
+SumDis
+--------------------
+             1185172
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test010i
+
+VarDis
+------------------------
+      2147812.6867705397
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test010j
+
+MinDis
+------
+     4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test010k
+
+StDevDis
+------------------------
+      1465.5417724413521
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test010l
+
+MaxDis
+------
+  4994
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test010m
+
+CountAll             AverageAll           SumAll               VarAll                   MinAll StDevAll                 MaxAll
+-------------------- -------------------- -------------------- ------------------------ ------ ------------------------ ------
+                 500                 2398              1199305         2156003.06002004      4       1468.3334294430676   4994
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  test010n
+
+CountAll             AverageAll           SumAll               VarAll                   MinAll StDevAll                 MaxAll
+-------------------- -------------------- -------------------- ------------------------ ------ ------------------------ ------
+                 500                 2398              1199305         2156003.06002004      4       1468.3334294430676   4994
+
+--- 1 row(s) selected.
+
+<section_end>

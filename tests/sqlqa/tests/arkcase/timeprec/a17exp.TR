@@ -1,0 +1,96 @@
+<section_begin>  a17s0
+
+IV
+------
+<group_begin>
+9.999 
+0.000 
+1.001 
+NULL  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a17s1
+
+IV
+-----
+<group_begin>
+99.9 
+ 0.0 
+ 1.1 
+NULL 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a17s2
+
+IV
+--------------------
+<group_begin>
+9999999999999999.99 
+               0.00 
+               1.01 
+NULL                
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a17s4
+
+IV
+------
+<group_begin>
+9.999 
+9.999 
+9.999 
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a17s5
+
+IV
+-----
+<group_begin>
+ 0.0 
+ 1.1 
+12.3 
+99.9 
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a17s7
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s8
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s9
+
+(EXPR)
+--------------------
+                   2
+
+--- 1 row(s) selected.
+
+<section_end>

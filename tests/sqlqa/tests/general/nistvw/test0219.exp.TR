@@ -1,0 +1,30 @@
+<section_begin>  s1
+
+(EXPR)
+--------------------
+                   4
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+COL5     (EXPR)               (EXPR)     
+-------- -------------------- -----------
+<group_begin>
+88888889                  777         448
+88888888                  333         224
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

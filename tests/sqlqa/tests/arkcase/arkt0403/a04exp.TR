@@ -1,0 +1,27 @@
+<section_begin>  a04s1
+
+MO
+----
+<group_begin>
+ 0  
+ 5  
+ 1  
+11  
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+Y    Y_TO_MO
+---- -------
+<group_begin>
+ 1    1-01  
+10   10-01  
+99   99-11  
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

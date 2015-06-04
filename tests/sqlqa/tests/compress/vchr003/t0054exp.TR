@@ -1,0 +1,189 @@
+<section_begin>  s00
+
+SBIN0_500            VARCHAR0_10 UDEC0_2000  UBIN0_1000  SDEC0_UNIQ VARCHAR0_4
+-------------------- ----------- ----------- ----------- ---------- ----------
+                   0 ZZ                    0           0 1234567890 zz        
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s01
+
+SBIN1_100   VARCHAR1_4 VARCHAR1_10 UBIN1_4     SDEC1_2    
+----------- ---------- ----------- ----------- -----------
+          1 ZZ         1234567890            1           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s02
+
+SBIN2_2 UBIN2_4 SDEC2_10 VARCHAR2_2 VARCHAR2_100
+------- ------- -------- ---------- ------------
+      2       2        2 AA         zz          
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s03
+
+SBIN3_1000 UDEC3_2000 VARCHAR3_1000                                                                                                                    SDEC3_500 UBIN3_UNIQ
+---------- ---------- -------------------------------------------------------------------------------------------------------------------------------- --------- ----------
+       333        333 Mount McKinley or Denali in Alaska is the highest mountain peak in North America, at a height of approximately 20,320 feet (6,194 m). It is the centerpiece of Denali National Park. The mountain is als       333        333
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s04
+
+VARCHAR4_2 VARCHAR4_4 VARCHAR4_10 VARCHAR4_1A VARCHAR4_2A
+---------- ---------- ----------- ----------- -----------
+0.0        0.0        AA          ZZ          zz         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s05
+
+SBIN5_4 UBIN5_20    UDEC5_20 VARCHAR5_10 VARCHAR5_100       
+------- ----------- -------- ----------- -------------------
+      5           5        5 zzZZ        Mount McKinley or  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s06
+
+SBIN6_UNIQ SDEC6_2000 UDEC6_500 VARCHAR6_20 UBIN6_2
+---------- ---------- --------- ----------- -------
+         6          6         6 AAzz              6
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s07
+
+SBIN7_2 SDEC7_10 CHAR7_UNIQ                                                                                           UDEC7_20 UBIN7_100
+------- -------- ---------------------------------------------------------------------------------------------------- -------- ---------
+      7      0.7 Mount McKinley or Denali in Alaska is the highest mountain peak in North America, at a height of app      7.0         7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s08
+
+SBIN8_1000           VARCHAR8_500                                                                                         SDEC8_2000 UDEC8_500 UBIN8_2
+-------------------- ---------------------------------------------------------------------------------------------------- ---------- --------- -------
+                   8 Mount McKinley or Denali in Alaska is the highest mountain peak in North America, at a height of app        8.0       8.0     0.8
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s09
+
+SBIN9_4 VARCHAR9_UNIQ VARCHAR9_10 VARCHAR9_20 UBIN9_100
+------- ------------- ----------- ----------- ---------
+    0.9 BIAAFAAA      8           zz                9.9
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s10
+
+SBIN10_UNIQ UBIN10_1000 VARCHAR10_20 UDEC10_2000 SDEC10_500          
+----------- ----------- ------------ ----------- --------------------
+         10          10 zz                    10                   10
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s11
+
+SBIN11_2000 SDEC11_20 UDEC11_20 UBIN11_2 VARCHAR11_4
+----------- --------- --------- -------- -----------
+         11   0.11000   0.11000       11 ZZ         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s12
+
+VARCHAR12_1000 VARCHAR12_100 VARCHAR12_10 UBIN12_10   UDEC12_1000
+-------------- ------------- ------------ ----------- -----------
+ZZZZZZZZ       ZZZZZZZZ      ZZ                    12          12
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s13
+
+SBIN13_UNIQ VARCHAR13_100 SDEC13_UNIQ UBIN13_10 UDEC13_500 
+----------- ------------- ----------- --------- -----------
+    0.13000 AP                     13   0.13000          13
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s14
+
+VARCHAR14_100 VARCHAR14_2 VARCHAR14_20 VARCHAR14_10 VARCHAR14_2A
+------------- ----------- ------------ ------------ ------------
+0z5           1z6         2z7          3z8          4z9         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s15
+
+SBIN15_2    UDEC15_4    VARCHAR15_UNIQ UBIN15_UNIQ SDEC15_10  
+----------- ----------- -------------- ----------- -----------
+         15        0.15 BIAAFAAA                15        0.15
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s16
+
+SBIN16_20   SDEC16_100  UBIN16_1000 UDEC16_1000 VARCHAR16_UNIQ
+----------- ----------- ----------- ----------- --------------
+       0.16        0.16        1.60        1.60 BIAAFAAA      
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s17
+
+SBIN17_UNIQ  SDEC17_20 UBIN17_2000 VARCHAR17_100                                                                                        UDEC17_100
+------------ --------- ----------- ---------------------------------------------------------------------------------------------------- ----------
+          17        17       17.00 Mount McKinley or Denali in Alaska is the highest mountain peak in North America, at a height of app         17
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s18
+
+SBIN18_UNIQ          VARCHAR18_20                                                                                         UBIN18_20 SDEC18_4 UDEC18_4
+-------------------- ---------------------------------------------------------------------------------------------------- --------- -------- --------
+                  18 Mount McKinley or Denali in Alaska is the highest mountain peak in North America, at a height of app        18       18       18
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s19
+
+SBIN19_4             CHAR19_2 UBIN19_10 VARCHAR19_100 VARCHAR19_1000
+-------------------- -------- --------- ------------- --------------
+                  19 zz              19 9.4           zz            
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s20
+
+SBIN20_2000          UDEC20_UNIQ UBIN20_1000 VARCHAR20_10                                                                                                                     SDEC20_UNIQ
+-------------------- ----------- ----------- -------------------------------------------------------------------------------------------------------------------------------- -----------
+               20.00          20         2.0 Mount McKinley or Denali in Alaska is the highest mountain peak in North America, at a height of approximately 20,320 feet (6,194 m). It is the centerpiece of Denali National Park. The mountain is also known as Bolshaya Gora, meaning Big Mountain, in Russian.          60
+
+--- 1 row(s) selected.
+
+<section_end>

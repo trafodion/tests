@@ -1,0 +1,246 @@
+<section_begin>  a003s0
+
+D_T_M_E                    D_N        M_N        D_OF_Y      W_K    Q_R    YEAR_D      MONTH_D DAY_D  HOUR_D MINUTE_D SECOND_D   
+-------------------------- ---------- ---------- ----------- ------ ------ ----------- ------- ------ ------ -------- -----------
+<group_begin>
+1901-10-10 23:15:00.300000 Wednesday  October              1     53      1        1945       8     31     12       59           0
+1999-12-31 23:59:59.999999 Monday     January            365      1      2           1       7     28     12       59          59
+0001-12-13 00:00:00.000000 Wednesday  October              1     39      4        1945      10     29      0        0          40
+1901-05-10 15:19:59.300000 Friday     January              1     14      3        2106       4     31     12       59           1
+1990-10-05 15:19:59.900000 Saturday   January              1     53      3        2106       8     31     12       59           1
+1990-10-05 15:19:59.300000 Saturday   January              1     53      3        2106       8     31     12       59           1
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a003s1
+
+(EXPR)
+-------------
+          365
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a003s1a
+
+(EXPR)
+-------------
+<group_begin>
+          283
+          365
+          347
+          130
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a003s2
+
+(EXPR)
+------
+    31
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a003s3
+
+(EXPR)
+--------------
+<group_begin>
+           283
+           365
+           347
+          2184
+           130
+          2364
+           278
+           348
+           278
+          2031
+           278
+          2268
+          2268
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a003s4
+
+D_OF_Y      D_OF_Y     
+----------- -----------
+<group_begin>
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+        365         365
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+<group_end>
+
+--- 37 row(s) selected.
+
+<section_end>
+<section_begin>  a003s5
+
+D_OF_Y      D_OF_Y     
+----------- -----------
+<group_begin>
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+        365         365
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+<group_end>
+
+--- 37 row(s) selected.
+
+<section_end>
+<section_begin>  a003s6
+
+D_OF_Y      D_OF_Y     
+----------- -----------
+<group_begin>
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+        365         365
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+          1           1
+<group_end>
+
+--- 37 row(s) selected.
+
+<section_end>
+<section_begin>  a003s8
+
+D_OF_Y
+-----------
+<group_begin>
+          1
+          1
+          1
+          1
+          1
+          1
+        365
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a003s8a
+
+D_N        M_N        D_OF_Y      W_K    Q_R    (EXPR)          
+---------- ---------- ----------- ------ ------ ----------------
+<group_begin>
+Wednesday  October              1     53      1              383
+Monday     January            365      1      2              465
+Wednesday  October              1     39      4              447
+Friday     January              1     14      3              230
+Saturday   January              1     53      3              378
+Saturday   January              1     53      3              378
+Saturday   January              1     53      3              378
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>

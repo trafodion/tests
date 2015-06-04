@@ -1,0 +1,1522 @@
+<section_begin>  a02s0
+
+PIC_X_1 PIC_X_7
+------- -------
+<group_begin>
+B       5      
+B       7      
+B       8      
+B       A      
+B       B      
+B       michael
+C       5      
+C       7      
+C       8      
+C       A      
+C       B      
+C       michael
+Q       5      
+Q       7      
+Q       8      
+Q       A      
+Q       B      
+Q       michael
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+PIC_X_1 PIC_X_7
+------- -------
+<group_begin>
+B       A      
+B       7      
+B       8      
+B       5      
+B       michael
+B       7      
+B       B      
+B       michael
+C       A      
+C       7      
+C       8      
+C       5      
+C       michael
+C       7      
+C       B      
+C       michael
+B       A      
+B       7      
+B       8      
+B       5      
+B       michael
+B       7      
+B       B      
+B       michael
+Q       A      
+Q       7      
+Q       8      
+Q       5      
+Q       michael
+Q       7      
+Q       B      
+Q       michael
+B       A      
+B       7      
+B       8      
+B       5      
+B       michael
+B       7      
+B       B      
+B       michael
+C       A      
+C       7      
+C       8      
+C       5      
+C       michael
+C       7      
+C       B      
+C       michael
+Q       A      
+Q       7      
+Q       8      
+Q       5      
+Q       michael
+Q       7      
+Q       B      
+Q       michael
+Q       A      
+Q       7      
+Q       8      
+Q       5      
+Q       michael
+Q       7      
+Q       B      
+Q       michael
+<group_end>
+
+--- 64 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+PIC_X_1 PIC_X_7 BINARY_32_U
+------- ------- -----------
+<group_begin>
+B       5           1000.00
+B       7              6.00
+B       8              6.00
+B       A              5.00
+B       B              6.00
+B       michael       50.00
+B       michael       70.00
+C       5           1000.00
+C       7              6.00
+C       8              6.00
+C       A              5.00
+C       B              6.00
+C       michael       50.00
+C       michael       70.00
+Q       5           1000.00
+Q       7              6.00
+Q       8              6.00
+Q       A              5.00
+Q       B              6.00
+Q       michael       50.00
+Q       michael       70.00
+<group_end>
+
+--- 21 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+PIC_X_1 PIC_X_7 BINARY_32_U
+------- ------- -----------
+<group_begin>
+B       A              5.00
+B       7              6.00
+B       8              6.00
+B       5           1000.00
+B       michael       50.00
+B       7              6.00
+B       B              6.00
+B       michael       70.00
+C       A              5.00
+C       7              6.00
+C       8              6.00
+C       5           1000.00
+C       michael       50.00
+C       7              6.00
+C       B              6.00
+C       michael       70.00
+B       A              5.00
+B       7              6.00
+B       8              6.00
+B       5           1000.00
+B       michael       50.00
+B       7              6.00
+B       B              6.00
+B       michael       70.00
+Q       A              5.00
+Q       7              6.00
+Q       8              6.00
+Q       5           1000.00
+Q       michael       50.00
+Q       7              6.00
+Q       B              6.00
+Q       michael       70.00
+B       A              5.00
+B       7              6.00
+B       8              6.00
+B       5           1000.00
+B       michael       50.00
+B       7              6.00
+B       B              6.00
+B       michael       70.00
+C       A              5.00
+C       7              6.00
+C       8              6.00
+C       5           1000.00
+C       michael       50.00
+C       7              6.00
+C       B              6.00
+C       michael       70.00
+Q       A              5.00
+Q       7              6.00
+Q       8              6.00
+Q       5           1000.00
+Q       michael       50.00
+Q       7              6.00
+Q       B              6.00
+Q       michael       70.00
+Q       A              5.00
+Q       7              6.00
+Q       8              6.00
+Q       5           1000.00
+Q       michael       50.00
+Q       7              6.00
+Q       B              6.00
+Q       michael       70.00
+<group_end>
+
+--- 64 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+PIC_X_1 PIC_X_A PIC_X_7 PIC_9_7   CHAR_10    DECIMAL_10   BINARY_UNSIGNED BINARY_32_SIGNED
+------- ------- ------- --------- ---------- ------------ --------------- ----------------
+<group_begin>
+B       sue     sue             1 ebedafiih           110              80              100
+B       bob     bobby           2 ebediih              90             100            -1000
+B       rob     bobby           2 ebediih              90             100            -1000
+B       tom     tom             3 abadefih            100             100             -100
+B       don     who            50 outside           10000             100             -100
+B       rod     for           400 inside               25              60                0
+B       jon     does         1000 offsides          50000             500              100
+B       ron     they         2000 onsides           10000             100             -100
+C       sue     sue             1 ebedafiih           110              80              100
+C       bob     bobby           2 ebediih              90             100            -1000
+C       rob     bobby           2 ebediih              90             100            -1000
+C       tom     tom             3 abadefih            100             100             -100
+C       don     who            50 outside           10000             100             -100
+C       rod     for           400 inside               25              60                0
+C       jon     does         1000 offsides          50000             500              100
+C       ron     they         2000 onsides           10000             100             -100
+Q       sue     sue             1 ebedafiih           110              80              100
+Q       bob     bobby           2 ebediih              90             100            -1000
+Q       rob     bobby           2 ebediih              90             100            -1000
+Q       tom     tom             3 abadefih            100             100             -100
+Q       don     who            50 outside           10000             100             -100
+Q       rod     for           400 inside               25              60                0
+Q       jon     does         1000 offsides          50000             500              100
+Q       ron     they         2000 onsides           10000             100             -100
+<group_end>
+
+--- 24 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+PIC_X_1 PIC_X_A PIC_X_7 PIC_9_7   CHAR_10    DECIMAL_10   BINARY_UNSIGNED BINARY_32_SIGNED
+------- ------- ------- --------- ---------- ------------ --------------- ----------------
+<group_begin>
+B       sue     sue             1 ebedafiih           110              80              100
+B       bob     bobby           2 ebediih              90             100            -1000
+B       rob     bobby           2 ebediih              90             100            -1000
+B       tom     tom             3 abadefih            100             100             -100
+B       don     who            50 outside           10000             100             -100
+B       rod     for           400 inside               25              60                0
+B       jon     does         1000 offsides          50000             500              100
+B       ron     they         2000 onsides           10000             100             -100
+C       sue     sue             1 ebedafiih           110              80              100
+C       bob     bobby           2 ebediih              90             100            -1000
+C       rob     bobby           2 ebediih              90             100            -1000
+C       tom     tom             3 abadefih            100             100             -100
+C       don     who            50 outside           10000             100             -100
+C       rod     for           400 inside               25              60                0
+C       jon     does         1000 offsides          50000             500              100
+C       ron     they         2000 onsides           10000             100             -100
+B       sue     sue             1 ebedafiih           110              80              100
+B       bob     bobby           2 ebediih              90             100            -1000
+B       rob     bobby           2 ebediih              90             100            -1000
+B       tom     tom             3 abadefih            100             100             -100
+B       don     who            50 outside           10000             100             -100
+B       rod     for           400 inside               25              60                0
+B       jon     does         1000 offsides          50000             500              100
+B       ron     they         2000 onsides           10000             100             -100
+Q       sue     sue             1 ebedafiih           110              80              100
+Q       bob     bobby           2 ebediih              90             100            -1000
+Q       rob     bobby           2 ebediih              90             100            -1000
+Q       tom     tom             3 abadefih            100             100             -100
+Q       don     who            50 outside           10000             100             -100
+Q       rod     for           400 inside               25              60                0
+Q       jon     does         1000 offsides          50000             500              100
+Q       ron     they         2000 onsides           10000             100             -100
+B       sue     sue             1 ebedafiih           110              80              100
+B       bob     bobby           2 ebediih              90             100            -1000
+B       rob     bobby           2 ebediih              90             100            -1000
+B       tom     tom             3 abadefih            100             100             -100
+B       don     who            50 outside           10000             100             -100
+B       rod     for           400 inside               25              60                0
+B       jon     does         1000 offsides          50000             500              100
+B       ron     they         2000 onsides           10000             100             -100
+C       sue     sue             1 ebedafiih           110              80              100
+C       bob     bobby           2 ebediih              90             100            -1000
+C       rob     bobby           2 ebediih              90             100            -1000
+C       tom     tom             3 abadefih            100             100             -100
+C       don     who            50 outside           10000             100             -100
+C       rod     for           400 inside               25              60                0
+C       jon     does         1000 offsides          50000             500              100
+C       ron     they         2000 onsides           10000             100             -100
+Q       sue     sue             1 ebedafiih           110              80              100
+Q       bob     bobby           2 ebediih              90             100            -1000
+Q       rob     bobby           2 ebediih              90             100            -1000
+Q       tom     tom             3 abadefih            100             100             -100
+Q       don     who            50 outside           10000             100             -100
+Q       rod     for           400 inside               25              60                0
+Q       jon     does         1000 offsides          50000             500              100
+Q       ron     they         2000 onsides           10000             100             -100
+Q       sue     sue             1 ebedafiih           110              80              100
+Q       bob     bobby           2 ebediih              90             100            -1000
+Q       rob     bobby           2 ebediih              90             100            -1000
+Q       tom     tom             3 abadefih            100             100             -100
+Q       don     who            50 outside           10000             100             -100
+Q       rod     for           400 inside               25              60                0
+Q       jon     does         1000 offsides          50000             500              100
+Q       ron     they         2000 onsides           10000             100             -100
+<group_end>
+
+--- 64 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+PIC_X_1 PIC_X_A PIC_X_7 PIC_9_7   CHAR_10    DECIMAL_10   BINARY_UNSIGNED BINARY_32_SIGNED
+------- ------- ------- --------- ---------- ------------ --------------- ----------------
+<group_begin>
+B       sue     sue             1 ebedafiih           110              80              100
+B       bob     bobby           2 ebediih              90             100            -1000
+B       rob     bobby           2 ebediih              90             100            -1000
+B       tom     tom             3 abadefih            100             100             -100
+B       don     who            50 outside           10000             100             -100
+B       rod     for           400 inside               25              60                0
+B       jon     does         1000 offsides          50000             500              100
+B       ron     they         2000 onsides           10000             100             -100
+C       sue     sue             1 ebedafiih           110              80              100
+C       bob     bobby           2 ebediih              90             100            -1000
+C       rob     bobby           2 ebediih              90             100            -1000
+C       tom     tom             3 abadefih            100             100             -100
+C       don     who            50 outside           10000             100             -100
+C       rod     for           400 inside               25              60                0
+C       jon     does         1000 offsides          50000             500              100
+C       ron     they         2000 onsides           10000             100             -100
+Q       sue     sue             1 ebedafiih           110              80              100
+Q       bob     bobby           2 ebediih              90             100            -1000
+Q       rob     bobby           2 ebediih              90             100            -1000
+Q       tom     tom             3 abadefih            100             100             -100
+Q       don     who            50 outside           10000             100             -100
+Q       rod     for           400 inside               25              60                0
+Q       jon     does         1000 offsides          50000             500              100
+Q       ron     they         2000 onsides           10000             100             -100
+<group_end>
+
+--- 24 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+PIC_X_1 PIC_X_A PIC_X_7 PIC_9_7   CHAR_10    DECIMAL_10   BINARY_UNSIGNED BINARY_32_SIGNED
+------- ------- ------- --------- ---------- ------------ --------------- ----------------
+<group_begin>
+B       sue     sue             1 ebedafiih           110              80              100
+B       bob     bobby           2 ebediih              90             100            -1000
+B       rob     bobby           2 ebediih              90             100            -1000
+B       tom     tom             3 abadefih            100             100             -100
+B       don     who            50 outside           10000             100             -100
+B       rod     for           400 inside               25              60                0
+B       jon     does         1000 offsides          50000             500              100
+B       ron     they         2000 onsides           10000             100             -100
+C       sue     sue             1 ebedafiih           110              80              100
+C       bob     bobby           2 ebediih              90             100            -1000
+C       rob     bobby           2 ebediih              90             100            -1000
+C       tom     tom             3 abadefih            100             100             -100
+C       don     who            50 outside           10000             100             -100
+C       rod     for           400 inside               25              60                0
+C       jon     does         1000 offsides          50000             500              100
+C       ron     they         2000 onsides           10000             100             -100
+B       sue     sue             1 ebedafiih           110              80              100
+B       bob     bobby           2 ebediih              90             100            -1000
+B       rob     bobby           2 ebediih              90             100            -1000
+B       tom     tom             3 abadefih            100             100             -100
+B       don     who            50 outside           10000             100             -100
+B       rod     for           400 inside               25              60                0
+B       jon     does         1000 offsides          50000             500              100
+B       ron     they         2000 onsides           10000             100             -100
+Q       sue     sue             1 ebedafiih           110              80              100
+Q       bob     bobby           2 ebediih              90             100            -1000
+Q       rob     bobby           2 ebediih              90             100            -1000
+Q       tom     tom             3 abadefih            100             100             -100
+Q       don     who            50 outside           10000             100             -100
+Q       rod     for           400 inside               25              60                0
+Q       jon     does         1000 offsides          50000             500              100
+Q       ron     they         2000 onsides           10000             100             -100
+B       sue     sue             1 ebedafiih           110              80              100
+B       bob     bobby           2 ebediih              90             100            -1000
+B       rob     bobby           2 ebediih              90             100            -1000
+B       tom     tom             3 abadefih            100             100             -100
+B       don     who            50 outside           10000             100             -100
+B       rod     for           400 inside               25              60                0
+B       jon     does         1000 offsides          50000             500              100
+B       ron     they         2000 onsides           10000             100             -100
+C       sue     sue             1 ebedafiih           110              80              100
+C       bob     bobby           2 ebediih              90             100            -1000
+C       rob     bobby           2 ebediih              90             100            -1000
+C       tom     tom             3 abadefih            100             100             -100
+C       don     who            50 outside           10000             100             -100
+C       rod     for           400 inside               25              60                0
+C       jon     does         1000 offsides          50000             500              100
+C       ron     they         2000 onsides           10000             100             -100
+Q       sue     sue             1 ebedafiih           110              80              100
+Q       bob     bobby           2 ebediih              90             100            -1000
+Q       rob     bobby           2 ebediih              90             100            -1000
+Q       tom     tom             3 abadefih            100             100             -100
+Q       don     who            50 outside           10000             100             -100
+Q       rod     for           400 inside               25              60                0
+Q       jon     does         1000 offsides          50000             500              100
+Q       ron     they         2000 onsides           10000             100             -100
+Q       sue     sue             1 ebedafiih           110              80              100
+Q       bob     bobby           2 ebediih              90             100            -1000
+Q       rob     bobby           2 ebediih              90             100            -1000
+Q       tom     tom             3 abadefih            100             100             -100
+Q       don     who            50 outside           10000             100             -100
+Q       rod     for           400 inside               25              60                0
+Q       jon     does         1000 offsides          50000             500              100
+Q       ron     they         2000 onsides           10000             100             -100
+<group_end>
+
+--- 64 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+NEW_NAME_3 PIC_X_7
+---------- -------
+<group_begin>
+7          7      
+7          A      
+7          B      
+7          black  
+7          green  
+7          white  
+A          7      
+A          A      
+A          B      
+A          black  
+A          green  
+A          white  
+B          7      
+B          A      
+B          B      
+B          black  
+B          green  
+B          white  
+<group_end>
+
+--- 18 row(s) selected.
+
+<section_end>
+<section_begin>  a02s9
+
+NEW_NAME_3 PIC_X_7
+---------- -------
+<group_begin>
+A          7      
+A          A      
+A          B      
+A          white  
+A          black  
+A          green  
+7          7      
+7          A      
+7          B      
+7          white  
+7          black  
+7          green  
+7          7      
+7          A      
+7          B      
+7          white  
+7          black  
+7          green  
+B          7      
+B          A      
+B          B      
+B          white  
+B          black  
+B          green  
+<group_end>
+
+--- 24 row(s) selected.
+
+<section_end>
+<section_begin>  a02s10
+
+PIC_X_B PIC_X_7
+------- -------
+<group_begin>
+A       7      
+A       A      
+A       B      
+A       black  
+A       green  
+A       white  
+C       7      
+C       A      
+C       B      
+C       black  
+C       green  
+C       white  
+D       7      
+D       A      
+D       B      
+D       black  
+D       green  
+D       white  
+E       7      
+E       A      
+E       B      
+E       black  
+E       green  
+E       white  
+F       7      
+F       A      
+F       B      
+F       black  
+F       green  
+F       white  
+P       7      
+P       A      
+P       B      
+P       black  
+P       green  
+P       white  
+Q       7      
+Q       A      
+Q       B      
+Q       black  
+Q       green  
+Q       white  
+Z       7      
+Z       A      
+Z       B      
+Z       black  
+Z       green  
+Z       white  
+<group_end>
+
+--- 48 row(s) selected.
+
+<section_end>
+<section_begin>  a02s11
+
+PIC_X_B PIC_X_7
+------- -------
+<group_begin>
+P       7      
+P       A      
+P       B      
+P       white  
+P       black  
+P       green  
+F       7      
+F       A      
+F       B      
+F       white  
+F       black  
+F       green  
+F       7      
+F       A      
+F       B      
+F       white  
+F       black  
+F       green  
+Q       7      
+Q       A      
+Q       B      
+Q       white  
+Q       black  
+Q       green  
+E       7      
+E       A      
+E       B      
+E       white  
+E       black  
+E       green  
+F       7      
+F       A      
+F       B      
+F       white  
+F       black  
+F       green  
+A       7      
+A       A      
+A       B      
+A       white  
+A       black  
+A       green  
+C       7      
+C       A      
+C       B      
+C       white  
+C       black  
+C       green  
+D       7      
+D       A      
+D       B      
+D       white  
+D       black  
+D       green  
+Z       7      
+Z       A      
+Z       B      
+Z       white  
+Z       black  
+Z       green  
+<group_end>
+
+--- 60 row(s) selected.
+
+<section_end>
+<section_begin>  a02s12
+
+NEW_NAME_3 NEW_NAME_3
+---------- ----------
+<group_begin>
+7          7         
+7          A         
+7          B         
+A          7         
+A          A         
+A          B         
+B          7         
+B          A         
+B          B         
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a02s13
+
+NEW_NAME_3 NEW_NAME_3
+---------- ----------
+<group_begin>
+A          A         
+A          7         
+A          7         
+A          B         
+7          A         
+7          7         
+7          7         
+7          B         
+7          A         
+7          7         
+7          7         
+7          B         
+B          A         
+B          7         
+B          7         
+B          B         
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a02s14
+
+COL_3
+----------
+<group_begin>
+      1000
+      5000
+      8000
+      9000
+     10000
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a02s15
+
+COL_3
+----------
+<group_begin>
+     10000
+      8000
+      8000
+     10000
+      9000
+      8000
+      8000
+      8000
+      1000
+      5000
+     10000
+      8000
+      8000
+     10000
+      9000
+      8000
+      8000
+      8000
+      1000
+      5000
+     10000
+      8000
+      8000
+     10000
+      9000
+      8000
+      8000
+      8000
+      1000
+      5000
+     10000
+      8000
+      8000
+     10000
+      9000
+      8000
+      8000
+      8000
+      1000
+      5000
+<group_end>
+
+--- 40 row(s) selected.
+
+<section_end>
+<section_begin>  a02s16
+
+PIC_X_1 PIC_X_1
+------- -------
+<group_begin>
+B       B      
+B       C      
+B       Q      
+C       B      
+C       C      
+C       Q      
+Q       B      
+Q       C      
+Q       Q      
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a02s17
+
+PIC_X_1 PIC_X_1
+------- -------
+<group_begin>
+B       B      
+B       C      
+B       B      
+B       Q      
+B       B      
+B       C      
+B       Q      
+B       Q      
+C       B      
+C       C      
+C       B      
+C       Q      
+C       B      
+C       C      
+C       Q      
+C       Q      
+B       B      
+B       C      
+B       B      
+B       Q      
+B       B      
+B       C      
+B       Q      
+B       Q      
+Q       B      
+Q       C      
+Q       B      
+Q       Q      
+Q       B      
+Q       C      
+Q       Q      
+Q       Q      
+B       B      
+B       C      
+B       B      
+B       Q      
+B       B      
+B       C      
+B       Q      
+B       Q      
+C       B      
+C       C      
+C       B      
+C       Q      
+C       B      
+C       C      
+C       Q      
+C       Q      
+Q       B      
+Q       C      
+Q       B      
+Q       Q      
+Q       B      
+Q       C      
+Q       Q      
+Q       Q      
+Q       B      
+Q       C      
+Q       B      
+Q       Q      
+Q       B      
+Q       C      
+Q       Q      
+Q       Q      
+<group_end>
+
+--- 64 row(s) selected.
+
+<section_end>
+<section_begin>  a02s18
+
+NEW_NAME_3 NEW_NAME_3
+---------- ----------
+<group_begin>
+7          7         
+7          A         
+7          B         
+A          7         
+A          A         
+A          B         
+B          7         
+B          A         
+B          B         
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a02s19
+
+NEW_NAME_3 NEW_NAME_3
+---------- ----------
+<group_begin>
+A          A         
+A          7         
+A          7         
+A          B         
+7          A         
+7          7         
+7          7         
+7          B         
+7          A         
+7          7         
+7          7         
+7          B         
+B          A         
+B          7         
+B          7         
+B          B         
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a02s20
+
+NEW_NAME_3 NEW_NAME_3
+---------- ----------
+<group_begin>
+7          7         
+7          A         
+7          B         
+A          7         
+A          A         
+A          B         
+B          7         
+B          A         
+B          B         
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a02s21
+
+NEW_NAME_3 NEW_NAME_3
+---------- ----------
+<group_begin>
+A          A         
+A          7         
+A          7         
+A          B         
+7          A         
+7          7         
+7          7         
+7          B         
+7          A         
+7          7         
+7          7         
+7          B         
+B          A         
+B          7         
+B          7         
+B          B         
+<group_end>
+
+--- 16 row(s) selected.
+
+<section_end>
+<section_begin>  a02s22
+
+PIC_X_1 BINARY_64_S          MEDIUM_INT 
+------- -------------------- -----------
+<group_begin>
+B                     200.00         200
+B                     200.00         999
+B                     200.00        1000
+B                     200.00        2000
+B                    1000.00         200
+B                    1000.00         999
+B                    1000.00        1000
+B                    1000.00        2000
+B                    1200.00         200
+B                    1200.00         999
+B                    1200.00        1000
+B                    1200.00        2000
+B                    1500.00         200
+B                    1500.00         999
+B                    1500.00        1000
+B                    1500.00        2000
+B                    2000.00         200
+B                    2000.00         999
+B                    2000.00        1000
+B                    2000.00        2000
+B                    3000.00         200
+B                    3000.00         999
+B                    3000.00        1000
+B                    3000.00        2000
+B                    4000.00         200
+B                    4000.00         999
+B                    4000.00        1000
+B                    4000.00        2000
+C                     200.00         200
+C                     200.00         999
+C                     200.00        1000
+C                     200.00        2000
+C                    1000.00         200
+C                    1000.00         999
+C                    1000.00        1000
+C                    1000.00        2000
+C                    1200.00         200
+C                    1200.00         999
+C                    1200.00        1000
+C                    1200.00        2000
+C                    1500.00         200
+C                    1500.00         999
+C                    1500.00        1000
+C                    1500.00        2000
+C                    2000.00         200
+C                    2000.00         999
+C                    2000.00        1000
+C                    2000.00        2000
+C                    3000.00         200
+C                    3000.00         999
+C                    3000.00        1000
+C                    3000.00        2000
+C                    4000.00         200
+C                    4000.00         999
+C                    4000.00        1000
+C                    4000.00        2000
+Q                     200.00         200
+Q                     200.00         999
+Q                     200.00        1000
+Q                     200.00        2000
+Q                    1000.00         200
+Q                    1000.00         999
+Q                    1000.00        1000
+Q                    1000.00        2000
+Q                    1200.00         200
+Q                    1200.00         999
+Q                    1200.00        1000
+Q                    1200.00        2000
+Q                    1500.00         200
+Q                    1500.00         999
+Q                    1500.00        1000
+Q                    1500.00        2000
+Q                    2000.00         200
+Q                    2000.00         999
+Q                    2000.00        1000
+Q                    2000.00        2000
+Q                    3000.00         200
+Q                    3000.00         999
+Q                    3000.00        1000
+Q                    3000.00        2000
+Q                    4000.00         200
+Q                    4000.00         999
+Q                    4000.00        1000
+Q                    4000.00        2000
+<group_end>
+
+--- 84 row(s) selected.
+
+<section_end>
+<section_begin>  a02s23
+
+PIC_X_1 BINARY_64_S          MEDIUM_INT 
+------- -------------------- -----------
+<group_begin>
+B                     200.00        1000
+B                     200.00         999
+B                     200.00         200
+B                     200.00         200
+B                     200.00        2000
+B                     200.00        1000
+B                     200.00        1000
+B                     200.00        2000
+B                    1200.00        1000
+B                    1200.00         999
+B                    1200.00         200
+B                    1200.00         200
+B                    1200.00        2000
+B                    1200.00        1000
+B                    1200.00        1000
+B                    1200.00        2000
+B                    1200.00        1000
+B                    1200.00         999
+B                    1200.00         200
+B                    1200.00         200
+B                    1200.00        2000
+B                    1200.00        1000
+B                    1200.00        1000
+B                    1200.00        2000
+B                    1000.00        1000
+B                    1000.00         999
+B                    1000.00         200
+B                    1000.00         200
+B                    1000.00        2000
+B                    1000.00        1000
+B                    1000.00        1000
+B                    1000.00        2000
+B                    1500.00        1000
+B                    1500.00         999
+B                    1500.00         200
+B                    1500.00         200
+B                    1500.00        2000
+B                    1500.00        1000
+B                    1500.00        1000
+B                    1500.00        2000
+B                    2000.00        1000
+B                    2000.00         999
+B                    2000.00         200
+B                    2000.00         200
+B                    2000.00        2000
+B                    2000.00        1000
+B                    2000.00        1000
+B                    2000.00        2000
+B                    3000.00        1000
+B                    3000.00         999
+B                    3000.00         200
+B                    3000.00         200
+B                    3000.00        2000
+B                    3000.00        1000
+B                    3000.00        1000
+B                    3000.00        2000
+B                    4000.00        1000
+B                    4000.00         999
+B                    4000.00         200
+B                    4000.00         200
+B                    4000.00        2000
+B                    4000.00        1000
+B                    4000.00        1000
+B                    4000.00        2000
+C                     200.00        1000
+C                     200.00         999
+C                     200.00         200
+C                     200.00         200
+C                     200.00        2000
+C                     200.00        1000
+C                     200.00        1000
+C                     200.00        2000
+C                    1200.00        1000
+C                    1200.00         999
+C                    1200.00         200
+C                    1200.00         200
+C                    1200.00        2000
+C                    1200.00        1000
+C                    1200.00        1000
+C                    1200.00        2000
+C                    1200.00        1000
+C                    1200.00         999
+C                    1200.00         200
+C                    1200.00         200
+C                    1200.00        2000
+C                    1200.00        1000
+C                    1200.00        1000
+C                    1200.00        2000
+C                    1000.00        1000
+C                    1000.00         999
+C                    1000.00         200
+C                    1000.00         200
+C                    1000.00        2000
+C                    1000.00        1000
+C                    1000.00        1000
+C                    1000.00        2000
+C                    1500.00        1000
+C                    1500.00         999
+C                    1500.00         200
+C                    1500.00         200
+C                    1500.00        2000
+C                    1500.00        1000
+C                    1500.00        1000
+C                    1500.00        2000
+C                    2000.00        1000
+C                    2000.00         999
+C                    2000.00         200
+C                    2000.00         200
+C                    2000.00        2000
+C                    2000.00        1000
+C                    2000.00        1000
+C                    2000.00        2000
+C                    3000.00        1000
+C                    3000.00         999
+C                    3000.00         200
+C                    3000.00         200
+C                    3000.00        2000
+C                    3000.00        1000
+C                    3000.00        1000
+C                    3000.00        2000
+C                    4000.00        1000
+C                    4000.00         999
+C                    4000.00         200
+C                    4000.00         200
+C                    4000.00        2000
+C                    4000.00        1000
+C                    4000.00        1000
+C                    4000.00        2000
+B                     200.00        1000
+B                     200.00         999
+B                     200.00         200
+B                     200.00         200
+B                     200.00        2000
+B                     200.00        1000
+B                     200.00        1000
+B                     200.00        2000
+B                    1200.00        1000
+B                    1200.00         999
+B                    1200.00         200
+B                    1200.00         200
+B                    1200.00        2000
+B                    1200.00        1000
+B                    1200.00        1000
+B                    1200.00        2000
+B                    1200.00        1000
+B                    1200.00         999
+B                    1200.00         200
+B                    1200.00         200
+B                    1200.00        2000
+B                    1200.00        1000
+B                    1200.00        1000
+B                    1200.00        2000
+B                    1000.00        1000
+B                    1000.00         999
+B                    1000.00         200
+B                    1000.00         200
+B                    1000.00        2000
+B                    1000.00        1000
+B                    1000.00        1000
+B                    1000.00        2000
+B                    1500.00        1000
+B                    1500.00         999
+B                    1500.00         200
+B                    1500.00         200
+B                    1500.00        2000
+B                    1500.00        1000
+B                    1500.00        1000
+B                    1500.00        2000
+B                    2000.00        1000
+B                    2000.00         999
+B                    2000.00         200
+B                    2000.00         200
+B                    2000.00        2000
+B                    2000.00        1000
+B                    2000.00        1000
+B                    2000.00        2000
+B                    3000.00        1000
+B                    3000.00         999
+B                    3000.00         200
+B                    3000.00         200
+B                    3000.00        2000
+B                    3000.00        1000
+B                    3000.00        1000
+B                    3000.00        2000
+B                    4000.00        1000
+B                    4000.00         999
+B                    4000.00         200
+B                    4000.00         200
+B                    4000.00        2000
+B                    4000.00        1000
+B                    4000.00        1000
+B                    4000.00        2000
+Q                     200.00        1000
+Q                     200.00         999
+Q                     200.00         200
+Q                     200.00         200
+Q                     200.00        2000
+Q                     200.00        1000
+Q                     200.00        1000
+Q                     200.00        2000
+Q                    1200.00        1000
+Q                    1200.00         999
+Q                    1200.00         200
+Q                    1200.00         200
+Q                    1200.00        2000
+Q                    1200.00        1000
+Q                    1200.00        1000
+Q                    1200.00        2000
+Q                    1200.00        1000
+Q                    1200.00         999
+Q                    1200.00         200
+Q                    1200.00         200
+Q                    1200.00        2000
+Q                    1200.00        1000
+Q                    1200.00        1000
+Q                    1200.00        2000
+Q                    1000.00        1000
+Q                    1000.00         999
+Q                    1000.00         200
+Q                    1000.00         200
+Q                    1000.00        2000
+Q                    1000.00        1000
+Q                    1000.00        1000
+Q                    1000.00        2000
+Q                    1500.00        1000
+Q                    1500.00         999
+Q                    1500.00         200
+Q                    1500.00         200
+Q                    1500.00        2000
+Q                    1500.00        1000
+Q                    1500.00        1000
+Q                    1500.00        2000
+Q                    2000.00        1000
+Q                    2000.00         999
+Q                    2000.00         200
+Q                    2000.00         200
+Q                    2000.00        2000
+Q                    2000.00        1000
+Q                    2000.00        1000
+Q                    2000.00        2000
+Q                    3000.00        1000
+Q                    3000.00         999
+Q                    3000.00         200
+Q                    3000.00         200
+Q                    3000.00        2000
+Q                    3000.00        1000
+Q                    3000.00        1000
+Q                    3000.00        2000
+Q                    4000.00        1000
+Q                    4000.00         999
+Q                    4000.00         200
+Q                    4000.00         200
+Q                    4000.00        2000
+Q                    4000.00        1000
+Q                    4000.00        1000
+Q                    4000.00        2000
+B                     200.00        1000
+B                     200.00         999
+B                     200.00         200
+B                     200.00         200
+B                     200.00        2000
+B                     200.00        1000
+B                     200.00        1000
+B                     200.00        2000
+B                    1200.00        1000
+B                    1200.00         999
+B                    1200.00         200
+B                    1200.00         200
+B                    1200.00        2000
+B                    1200.00        1000
+B                    1200.00        1000
+B                    1200.00        2000
+B                    1200.00        1000
+B                    1200.00         999
+B                    1200.00         200
+B                    1200.00         200
+B                    1200.00        2000
+B                    1200.00        1000
+B                    1200.00        1000
+B                    1200.00        2000
+B                    1000.00        1000
+B                    1000.00         999
+B                    1000.00         200
+B                    1000.00         200
+B                    1000.00        2000
+B                    1000.00        1000
+B                    1000.00        1000
+B                    1000.00        2000
+B                    1500.00        1000
+B                    1500.00         999
+B                    1500.00         200
+B                    1500.00         200
+B                    1500.00        2000
+B                    1500.00        1000
+B                    1500.00        1000
+B                    1500.00        2000
+B                    2000.00        1000
+B                    2000.00         999
+B                    2000.00         200
+B                    2000.00         200
+B                    2000.00        2000
+B                    2000.00        1000
+B                    2000.00        1000
+B                    2000.00        2000
+B                    3000.00        1000
+B                    3000.00         999
+B                    3000.00         200
+B                    3000.00         200
+B                    3000.00        2000
+B                    3000.00        1000
+B                    3000.00        1000
+B                    3000.00        2000
+B                    4000.00        1000
+B                    4000.00         999
+B                    4000.00         200
+B                    4000.00         200
+B                    4000.00        2000
+B                    4000.00        1000
+B                    4000.00        1000
+B                    4000.00        2000
+C                     200.00        1000
+C                     200.00         999
+C                     200.00         200
+C                     200.00         200
+C                     200.00        2000
+C                     200.00        1000
+C                     200.00        1000
+C                     200.00        2000
+C                    1200.00        1000
+C                    1200.00         999
+C                    1200.00         200
+C                    1200.00         200
+C                    1200.00        2000
+C                    1200.00        1000
+C                    1200.00        1000
+C                    1200.00        2000
+C                    1200.00        1000
+C                    1200.00         999
+C                    1200.00         200
+C                    1200.00         200
+C                    1200.00        2000
+C                    1200.00        1000
+C                    1200.00        1000
+C                    1200.00        2000
+C                    1000.00        1000
+C                    1000.00         999
+C                    1000.00         200
+C                    1000.00         200
+C                    1000.00        2000
+C                    1000.00        1000
+C                    1000.00        1000
+C                    1000.00        2000
+C                    1500.00        1000
+C                    1500.00         999
+C                    1500.00         200
+C                    1500.00         200
+C                    1500.00        2000
+C                    1500.00        1000
+C                    1500.00        1000
+C                    1500.00        2000
+C                    2000.00        1000
+C                    2000.00         999
+C                    2000.00         200
+C                    2000.00         200
+C                    2000.00        2000
+C                    2000.00        1000
+C                    2000.00        1000
+C                    2000.00        2000
+C                    3000.00        1000
+C                    3000.00         999
+C                    3000.00         200
+C                    3000.00         200
+C                    3000.00        2000
+C                    3000.00        1000
+C                    3000.00        1000
+C                    3000.00        2000
+C                    4000.00        1000
+C                    4000.00         999
+C                    4000.00         200
+C                    4000.00         200
+C                    4000.00        2000
+C                    4000.00        1000
+C                    4000.00        1000
+C                    4000.00        2000
+Q                     200.00        1000
+Q                     200.00         999
+Q                     200.00         200
+Q                     200.00         200
+Q                     200.00        2000
+Q                     200.00        1000
+Q                     200.00        1000
+Q                     200.00        2000
+Q                    1200.00        1000
+Q                    1200.00         999
+Q                    1200.00         200
+Q                    1200.00         200
+Q                    1200.00        2000
+Q                    1200.00        1000
+Q                    1200.00        1000
+Q                    1200.00        2000
+Q                    1200.00        1000
+Q                    1200.00         999
+Q                    1200.00         200
+Q                    1200.00         200
+Q                    1200.00        2000
+Q                    1200.00        1000
+Q                    1200.00        1000
+Q                    1200.00        2000
+Q                    1000.00        1000
+Q                    1000.00         999
+Q                    1000.00         200
+Q                    1000.00         200
+Q                    1000.00        2000
+Q                    1000.00        1000
+Q                    1000.00        1000
+Q                    1000.00        2000
+Q                    1500.00        1000
+Q                    1500.00         999
+Q                    1500.00         200
+Q                    1500.00         200
+Q                    1500.00        2000
+Q                    1500.00        1000
+Q                    1500.00        1000
+Q                    1500.00        2000
+Q                    2000.00        1000
+Q                    2000.00         999
+Q                    2000.00         200
+Q                    2000.00         200
+Q                    2000.00        2000
+Q                    2000.00        1000
+Q                    2000.00        1000
+Q                    2000.00        2000
+Q                    3000.00        1000
+Q                    3000.00         999
+Q                    3000.00         200
+Q                    3000.00         200
+Q                    3000.00        2000
+Q                    3000.00        1000
+Q                    3000.00        1000
+Q                    3000.00        2000
+Q                    4000.00        1000
+Q                    4000.00         999
+Q                    4000.00         200
+Q                    4000.00         200
+Q                    4000.00        2000
+Q                    4000.00        1000
+Q                    4000.00        1000
+Q                    4000.00        2000
+Q                     200.00        1000
+Q                     200.00         999
+Q                     200.00         200
+Q                     200.00         200
+Q                     200.00        2000
+Q                     200.00        1000
+Q                     200.00        1000
+Q                     200.00        2000
+Q                    1200.00        1000
+Q                    1200.00         999
+Q                    1200.00         200
+Q                    1200.00         200
+Q                    1200.00        2000
+Q                    1200.00        1000
+Q                    1200.00        1000
+Q                    1200.00        2000
+Q                    1200.00        1000
+Q                    1200.00         999
+Q                    1200.00         200
+Q                    1200.00         200
+Q                    1200.00        2000
+Q                    1200.00        1000
+Q                    1200.00        1000
+Q                    1200.00        2000
+Q                    1000.00        1000
+Q                    1000.00         999
+Q                    1000.00         200
+Q                    1000.00         200
+Q                    1000.00        2000
+Q                    1000.00        1000
+Q                    1000.00        1000
+Q                    1000.00        2000
+Q                    1500.00        1000
+Q                    1500.00         999
+Q                    1500.00         200
+Q                    1500.00         200
+Q                    1500.00        2000
+Q                    1500.00        1000
+Q                    1500.00        1000
+Q                    1500.00        2000
+Q                    2000.00        1000
+Q                    2000.00         999
+Q                    2000.00         200
+Q                    2000.00         200
+Q                    2000.00        2000
+Q                    2000.00        1000
+Q                    2000.00        1000
+Q                    2000.00        2000
+Q                    3000.00        1000
+Q                    3000.00         999
+Q                    3000.00         200
+Q                    3000.00         200
+Q                    3000.00        2000
+Q                    3000.00        1000
+Q                    3000.00        1000
+Q                    3000.00        2000
+Q                    4000.00        1000
+Q                    4000.00         999
+Q                    4000.00         200
+Q                    4000.00         200
+Q                    4000.00        2000
+Q                    4000.00        1000
+Q                    4000.00        1000
+Q                    4000.00        2000
+<group_end>
+
+--- 512 row(s) selected.
+
+<section_end>

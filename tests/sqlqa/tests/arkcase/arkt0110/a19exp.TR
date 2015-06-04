@@ -1,0 +1,58 @@
+<section_begin>  a19s0
+
+SUPPNUM
+-------
+<group_begin>
+     15
+      6
+      8
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a19s2
+
+(EXPR) (EXPR)              
+------ --------------------
+  7301                    5
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a19s3
+
+(EXPR) (EXPR)              
+------ --------------------
+  7301                    3
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a19s4
+
+(EXPR) (EXPR)               (EXPR)              
+------ -------------------- --------------------
+  7301           7306.00000             5.000000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a19s5
+
+(EXPR) (EXPR)              
+------ --------------------
+  7301              1.00000
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a19s6
+
+(EXPR) (EXPR)                                                                                                                          
+------ --------------------------------------------------------------------------------------------------------------------------------
+  7301 5                                                                                                                               
+
+--- 1 row(s) selected.
+
+<section_end>

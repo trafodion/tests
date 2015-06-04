@@ -1,0 +1,254 @@
+<section_begin>  a01s1
+
+C1          C2         
+----------- -----------
+<group_begin>
+          1           1
+          1           2
+          1        NULL
+          2           1
+          2           2
+          2        NULL
+       NULL           1
+       NULL           2
+       NULL        NULL
+       NULL           1
+<group_end>
+
+--- 10 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+C1          C2         
+----------- -----------
+<group_begin>
+          1           1
+          1           2
+          1        NULL
+          2           1
+          2           2
+          2        NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+C1          C2         
+----------- -----------
+<group_begin>
+          2           1
+          2           2
+          2        NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+C1          C2         
+----------- -----------
+<group_begin>
+          1           1
+          1           2
+          2           1
+          2           2
+       NULL           1
+       NULL           2
+       NULL           1
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+C1          C2         
+----------- -----------
+<group_begin>
+          1           2
+          2           2
+       NULL           2
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+C1          C2         
+----------- -----------
+<group_begin>
+          1           1
+          1           2
+          1        NULL
+          2           1
+          2           2
+          2        NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+C1          C2         
+----------- -----------
+<group_begin>
+          1           1
+          1           2
+          1        NULL
+          2           1
+          2           2
+          2        NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+C1          C2         
+----------- -----------
+<group_begin>
+          1           1
+          1           2
+          1        NULL
+          2           1
+          2           2
+          2        NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+C1          C2         
+----------- -----------
+<group_begin>
+          1           1
+          1           2
+          2           1
+          2           2
+          2        NULL
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+C1          C2         
+----------- -----------
+<group_begin>
+          1           2
+          2           1
+          2           2
+          2        NULL
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s11
+
+C1          C2         
+----------- -----------
+<group_begin>
+          2           1
+          2           2
+          2        NULL
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+C1          C2         
+----------- -----------
+<group_begin>
+          2           1
+          2           2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+C1          C2         
+----------- -----------
+          2           2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+C1          C2         
+----------- -----------
+       NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+C1          C2         
+----------- -----------
+       NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+C1          C2         
+----------- -----------
+<group_begin>
+          1           1
+          1           2
+          2           1
+          2           2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+C1          C2         
+----------- -----------
+       NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s18
+
+C1          C2         
+----------- -----------
+       NULL        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s19
+
+C1          C2         
+----------- -----------
+<group_begin>
+          1           1
+          1           2
+          2           1
+          2           2
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

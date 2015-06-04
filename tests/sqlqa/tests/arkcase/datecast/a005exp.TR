@@ -1,0 +1,72 @@
+<section_begin>  a005s0
+
+INUM        DNUM      
+----------- ----------
+         99  23.123456
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a005s1
+
+(EXPR)
+------
+99    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a005s2
+
+(EXPR)
+------
+99    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a005s3
+
+(EXPR)
+------
+99    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a005s4
+
+(EXPR)
+------
+99    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a005s5
+
+(EXPR)
+------
+99    
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a005s6
+
+(EXPR)
+----------
+99.000000 
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a005s7
+
+(EXPR)
+--------------
+    23.123456 
+
+--- 1 row(s) selected.
+
+<section_end>

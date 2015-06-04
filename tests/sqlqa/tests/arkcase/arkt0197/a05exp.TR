@@ -1,0 +1,36 @@
+<section_begin>  a05s5
+
+T_STAMP              THE_DATE                   ANIMAL      VEGETABLE NUMBER1
+-------------------- -------------------------- ----------- --------- -------
+                NULL NULL                       lamb        CARROT          7
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s8
+
+T_STAMP              (EXPR)                     THE_DATE                   ANIMAL     
+-------------------- -------------------------- -------------------------- -----------
+                NULL NULL                       NULL                       lamb       
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s10
+
+(EXPR) (EXPR)                     T_STAMP              (EXPR) (EXPR)                     (EXPR)              
+------ -------------------------- -------------------- ------ -------------------------- --------------------
+  NULL NULL                                       NULL   NULL NULL                                       NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s11
+
+T_STAMP              (EXPR)                     (EXPR)               (EXPR)                    
+-------------------- -------------------------- -------------------- --------------------------
+                NULL NULL                                       NULL NULL                      
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,154 @@
+<section_begin>  a04s0
+
+FIRST_NAME LAST_NAME 
+---------- ----------
+<group_begin>
+dinah      clark     
+jerry      howard    
+jessica    crinar    
+roger      green     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+FIRST_NAME LAST_NAME 
+---------- ----------
+<group_begin>
+gail       jones     
+judy       velcro    
+kathy      zann      
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+L_NAME     F_NAME     MAR_STATUS
+---------- ---------- ----------
+<group_begin>
+clark      dinah               3
+crinar     jessica             2
+howard     jerry               1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+LAST_NAME  FIRST_NAME MARITAL_STATUS     
+---------- ---------- -------------------
+<group_begin>
+jones      gail       divorced or widowed
+velcro     judy       double             
+zann       kathy      single             
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+SALARY     DEPT_NUM
+---------- --------
+      NULL     NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+(EXPR)               (EXPR) SALARY     DEPT_NUM
+-------------------- ------ ---------- --------
+NULL                 %%%%%        NULL     NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+LAST_NAME  FIRST_NAME STATE_OF_MARRIAGE    DEPARTMENT  SALARY    
+---------- ---------- -------------------- ----------- ----------
+green      roger      Married              Admin depts     175500
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+MARITAL_STATUS MAR_STATUS
+-------------- ----------
+<group_begin>
+             1          1
+             2          2
+             3          3
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+(EXPR)               (EXPR)              
+-------------------- --------------------
+crinar    jessica    crinar    jessica   
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+LAST_NAME  FIRST_NAME DEPT_NUM SALARY    
+---------- ---------- -------- ----------
+<group_begin>
+clark      dinah          9000      37000
+crinar     jessica        3500      39500
+green      roger          9000     175500
+howard     jerry          1000      65000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+ROJ_NAME
+----------
+<group_begin>
+dinah     
+NULL      
+NULL      
+NULL      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+TBL1_NAME            TBL3_NAME           
+-------------------- --------------------
+<group_begin>
+crinar    jessica    crinar    jessica   
+green     roger      crinar    jessica   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s12
+
+TBL1_NAME            TBL3_NAME           
+-------------------- --------------------
+<group_begin>
+crinar    jessica    crinar    jessica   
+green     roger      crinar    jessica   
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

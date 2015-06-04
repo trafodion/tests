@@ -1,0 +1,72 @@
+<section_begin>  a05s1
+
+(EXPR)
+--------
+BAAAAAAA
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a05s2
+
+CHAR17_2 SDEC17_NUNIQ        
+-------- --------------------
+<group_begin>
+AAAAAAAA                -2086
+AAAAAAAA                -1802
+AAAAAAAA                 -812
+AAAAAAAA                  -60
+AAAAAAAA                  -60
+BAAAAAAA                -4495
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s3
+
+CHAR17_2 SDEC17_NUNIQ        
+-------- --------------------
+<group_begin>
+AAAAAAAA                -2086
+AAAAAAAA                -1802
+AAAAAAAA                 -812
+AAAAAAAA                  -60
+BAAAAAAA                -4495
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a05s6
+
+C2   C4      
+---- --------
+<group_begin>
+AA   BA      
+BA   AA      
+BA   AA      
+DA   NULL    
+NULL BA      
+NULL DA      
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a05s7
+
+C4
+--------
+<group_begin>
+AA      
+AA      
+BA      
+BA      
+DA      
+NULL    
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

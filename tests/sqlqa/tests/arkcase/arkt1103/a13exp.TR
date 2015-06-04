@@ -1,0 +1,90 @@
+<section_begin>  a13s0
+
+A           B          
+----------- -----------
+         39          39
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s1
+
+A           B          
+----------- -----------
+         39          39
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s2
+
+A           B          
+----------- -----------
+         39          39
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s3
+
+A           B           C          
+----------- ----------- -----------
+         39          39          39
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s4
+
+A           B           C          
+----------- ----------- -----------
+         39          39          39
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s5
+
+A           B           C          
+----------- ----------- -----------
+         39          39          39
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s6
+
+A           B           C          
+----------- ----------- -----------
+         39          39        NULL
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s7
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+         39          39          39          39
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s8
+
+A           C           D          
+----------- ----------- -----------
+         39          39          39
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a13s9
+
+A           B           C           D          
+----------- ----------- ----------- -----------
+         39          39          39          39
+
+--- 1 row(s) selected.
+
+<section_end>

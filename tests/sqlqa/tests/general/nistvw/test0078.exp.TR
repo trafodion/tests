@@ -1,0 +1,22 @@
+<section_begin>  s1
+
+PNUM EMPNUM
+---- ------
+<group_begin>
+P1   E1    
+P1   E2    
+P2   E1    
+P2   E2    
+P2   E3    
+P2   E4    
+P3   E1    
+P4   E1    
+P4   E4    
+P5   E1    
+P5   E4    
+P6   E1    
+<group_end>
+
+--- 12 row(s) selected.
+
+<section_end>

@@ -1,0 +1,27 @@
+<section_begin>  a06s1
+
+PIC_X_A PIC_X_B PIC_X_C
+------- ------- -------
+<group_begin>
+ al     F       al     
+ al     F       di     
+B       A       ed     
+JO      D       em     
+P       P       P      
+al      F       al     
+al      Q       al     
+al      E       bo     
+jo      C       ek     
+jo      Z       jo     
+joe     C       go     
+joe     Z       in     
+joe     A       jo     
+joe     B       to     
+pam     D       al     
+qrs     a       x      
+red     B       go     
+<group_end>
+
+--- 17 row(s) selected.
+
+<section_end>

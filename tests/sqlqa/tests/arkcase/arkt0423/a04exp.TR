@@ -1,0 +1,383 @@
+<section_begin>  a04s0
+
+SUPPNUM
+-------
+<group_begin>
+     15
+      6
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s1
+
+SUPPNUM
+-------
+<group_begin>
+     15
+      6
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s2
+
+SUPPNUM
+-------
+<group_begin>
+     15
+      6
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s3
+
+SUPPNUM
+-------
+<group_begin>
+     15
+      6
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a04s4
+
+SUPPNUM
+-------
+<group_begin>
+     15
+      2
+      6
+      8
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s5
+
+SUPPNUM
+-------
+<group_begin>
+      2
+      6
+     15
+      8
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s6
+
+SUPPNUM
+-------
+<group_begin>
+      3
+     10
+      1
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s7
+
+SUPPNUM
+-------
+<group_begin>
+      2
+      3
+     10
+      1
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a04s8
+
+SUPPNUM
+-------
+     15
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s9
+
+SUPPNUM
+-------
+<group_begin>
+      2
+     15
+      3
+      6
+      1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s10
+
+SUPPNUM
+-------
+<group_begin>
+      2
+     15
+      3
+      6
+      1
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s11
+
+SUPPNAME
+------------------
+<group_begin>
+DATA TERMINAL CO  
+DATADRIVE         
+DISPLAY INC       
+INFOMATION STORAGE
+TANDEM COMPUTERS  
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s12
+
+SUPPNUM
+-------
+<group_begin>
+      2
+     15
+      6
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s13
+
+SUPPNUM
+-------
+<group_begin>
+      2
+     15
+      6
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s14
+
+SUPPNAME
+------------------
+<group_begin>
+DATA TERMINAL CO  
+DATADRIVE         
+INFOMATION STORAGE
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s15
+
+EMPNAME
+------------------
+<group_begin>
+THOMAS RUDLOFF    
+KLAUS SAFFERT     
+PETER SMITH       
+DONALD TAYLOR     
+STEVE COOK        
+SHERRIE WONG      
+TONY CRAFT        
+GEORGE FORSTER    
+RICHARD BARTON    
+JIMMY SCHNEIDER   
+WALTER LANCASTER  
+JOHN JONES        
+MARLENE BONNY     
+GEORGE FRENCHMAN  
+DAVID TERRY       
+KARL HELMSTED     
+HEIDI WEIGL       
+XAVER SEDLMEYER   
+DAVE CLARK        
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a04s16
+
+EMPNAME
+------------------
+<group_begin>
+THOMAS RUDLOFF    
+KLAUS SAFFERT     
+PETER SMITH       
+DONALD TAYLOR     
+STEVE COOK        
+SHERRIE WONG      
+TONY CRAFT        
+GEORGE FORSTER    
+RICHARD BARTON    
+JIMMY SCHNEIDER   
+WALTER LANCASTER  
+JOHN JONES        
+MARLENE BONNY     
+GEORGE FRENCHMAN  
+DAVID TERRY       
+KARL HELMSTED     
+HEIDI WEIGL       
+XAVER SEDLMEYER   
+DAVE CLARK        
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a04s17
+
+EMPNAME
+------------------
+<group_begin>
+THOMAS RUDLOFF    
+KLAUS SAFFERT     
+PETER SMITH       
+DONALD TAYLOR     
+STEVE COOK        
+SHERRIE WONG      
+TONY CRAFT        
+GEORGE FORSTER    
+RICHARD BARTON    
+JIMMY SCHNEIDER   
+WALTER LANCASTER  
+JOHN JONES        
+MARLENE BONNY     
+GEORGE FRENCHMAN  
+DAVID TERRY       
+KARL HELMSTED     
+HEIDI WEIGL       
+XAVER SEDLMEYER   
+DAVE CLARK        
+<group_end>
+
+--- 19 row(s) selected.
+
+<section_end>
+<section_begin>  a04s18
+
+PARTNUM
+-------
+<group_begin>
+   4102
+   4103
+   5504
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s19
+
+PARTNUM
+-------
+<group_begin>
+   4102
+   4103
+   5504
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s20
+
+PARTNUM
+-------
+<group_begin>
+   4102
+   4103
+   5504
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s21
+
+PARTNUM
+-------
+<group_begin>
+   4102
+   4103
+   5504
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a04s22
+
+COL_1
+------
+  4103
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s23
+
+PARTNUM
+-------
+   4103
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a04s24
+
+SALESMAN ORDERNUM
+-------- --------
+<group_begin>
+     205       66
+     207       41
+     212       45
+     221      122
+     225       48
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a04s25
+
+SALESMAN ORDERNUM
+-------- --------
+<group_begin>
+     205       66
+     207       41
+     212       45
+     221      122
+     225       48
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

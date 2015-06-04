@@ -1,0 +1,432 @@
+<section_begin>  a17s2
+
+ROW_KEY SMALLINT_SIGNED SMALLINT_UNSIGNED INTEGER_SIGNED INTEGER_UNSIGNED LARGEINT_SIGNED      NUMERIC_S_4_0 NUMERIC_S_4_2 NUMERIC_S_9_2 NUMERIC_U_9_9 NUMERIC_S_18_9       NUMERIC_S_18_18      REAL_           DOUBLE_PRECISION         DECIMAL_S_3_1 DECIMAL_U_1_0 DECIMAL_S_18_2      
+------- --------------- ----------------- -------------- ---------------- -------------------- ------------- ------------- ------------- ------------- -------------------- -------------------- --------------- ------------------------ ------------- ------------- --------------------
+<group_begin>
+AAAA             -32768                 0    -2147483648                0 -9223372036000000000         -9999        -99.99   -9999999.99   0.000000000 -999999999.999999999 -0.99999999999999999   -3.4028235E38              -1.15792E77         -99.9             0 -9999999999999999.99
+BBBB                 -1                 1             -1                1                   -1            -1         -1.23         -1.23   0.123456789         -1.234567898 -0.12345678987654321        -2.0E-38 -2.9999999999999997E-308          -1.2             1                -1.23
+CCCC                  0             32767              0       2147483647                    0             0          0.00          0.00   0.555555555          0.000000000 0.000000000000000000             0.0                      0.0           0.0             5                 0.00
+DDDD                  1             32768              1       2147483648                    1             1          1.23          1.23   0.888888888          1.234567898 0.123456789876543212         2.0E-38  2.9999999999999997E-308           1.2             8                 1.23
+EEEE              32767             65535     2147483647       4294967295  9223372036000000000          9999         99.99    9999999.99   0.999999999  999999999.999999999 0.999999999999999999    3.4028235E38   1.7976931348623155E308          99.9             9  9999999999999999.99
+FFFF               NULL              NULL           NULL             NULL                 NULL          NULL          NULL          NULL          NULL                 NULL                 NULL            NULL                     NULL          NULL          NULL                 NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s3
+
+SMALLINT_SIGNED
+---------------
+<group_begin>
+         -32768
+             -1
+              0
+              1
+          32767
+           NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s4
+
+SMALLINT_SIGNED
+---------------
+<group_begin>
+         -32768
+             -1
+              0
+              1
+          32767
+           NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s5
+
+SMALLINT_SIGNED
+---------------
+<group_begin>
+         -32768
+             -1
+              0
+              1
+          32767
+           NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s6
+
+SMALLINT_SIGNED
+---------------
+<group_begin>
+         -32768
+             -1
+              0
+              1
+          32767
+           NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s7
+
+SMALLINT_SIGNED
+--------------------
+<group_begin>
+              -32768
+                  -1
+                   0
+                   1
+               32767
+                NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s8
+
+SMALLINT_UNSIGNED
+-----------------
+<group_begin>
+                0
+                1
+            32767
+            32768
+            65535
+             NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s9
+
+SMALLINT_UNSIGNED
+-----------------
+<group_begin>
+                0
+                1
+            32767
+            32768
+            65535
+             NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s10
+
+SMALLINT_UNSIGNED
+-----------------
+<group_begin>
+                0
+                1
+            32767
+            32768
+            65535
+             NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s11
+
+SMALLINT_UNSIGNED
+-----------------
+<group_begin>
+                0
+                1
+            32767
+            32768
+            65535
+             NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s12
+
+SMALLINT_UNSIGNED
+--------------------
+<group_begin>
+                   0
+                   1
+               32767
+               32768
+               65535
+                NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s13
+
+INTEGER_SIGNED
+--------------
+<group_begin>
+   -2147483648
+            -1
+             0
+             1
+    2147483647
+          NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s14
+
+INTEGER_SIGNED
+--------------
+<group_begin>
+   -2147483648
+            -1
+             0
+             1
+    2147483647
+          NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s15
+
+INTEGER_SIGNED
+--------------
+<group_begin>
+   -2147483648
+            -1
+             0
+             1
+    2147483647
+          NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s16
+
+INTEGER_SIGNED
+--------------
+<group_begin>
+   -2147483648
+            -1
+             0
+             1
+    2147483647
+          NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s17
+
+INTEGER_SIGNED
+--------------------
+<group_begin>
+         -2147483648
+                  -1
+                   0
+                   1
+          2147483647
+                NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s18
+
+INTEGER_UNSIGNED
+----------------
+<group_begin>
+               0
+               1
+      2147483647
+      2147483648
+      4294967295
+            NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s19
+
+INTEGER_UNSIGNED
+----------------
+<group_begin>
+               0
+               1
+      2147483647
+      2147483648
+      4294967295
+            NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s20
+
+INTEGER_UNSIGNED
+----------------
+<group_begin>
+               0
+               1
+      2147483647
+      2147483648
+      4294967295
+            NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s21
+
+INTEGER_UNSIGNED
+----------------
+<group_begin>
+               0
+               1
+      2147483647
+      2147483648
+      4294967295
+            NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s22
+
+INTEGER_UNSIGNED
+--------------------
+<group_begin>
+                   0
+                   1
+          2147483647
+          2147483648
+          4294967295
+                NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s23
+
+LARGEINT_SIGNED
+--------------------
+<group_begin>
+-9223372036000000000
+                  -1
+                   0
+                   1
+ 9223372036000000000
+                NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s24
+
+LARGEINT_SIGNED
+--------------------
+<group_begin>
+-9223372036000000000
+                  -1
+                   0
+                   1
+ 9223372036000000000
+                NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s25
+
+LARGEINT_SIGNED
+--------------------
+<group_begin>
+-9223372036000000000
+                  -1
+                   0
+                   1
+ 9223372036000000000
+                NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s26
+
+LARGEINT_SIGNED
+--------------------
+<group_begin>
+-9223372036000000000
+                  -1
+                   0
+                   1
+ 9223372036000000000
+                NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s27
+
+LARGEINT_SIGNED
+--------------------
+<group_begin>
+-9223372036000000000
+                  -1
+                   0
+                   1
+ 9223372036000000000
+                NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a17s28
+
+SMALLINT_SIGNED SMALLINT_UNSIGNED INTEGER_SIGNED INTEGER_UNSIGNED LARGEINT_SIGNED      NUMERIC_S_4_0 NUMERIC_S_4_2 NUMERIC_S_9_2 NUMERIC_U_9_9 NUMERIC_S_18_9       NUMERIC_S_18_18      REAL_                    DOUBLE_PRECISION         DECIMAL_S_3_1 DECIMAL_U_1_0 DECIMAL_S_18_2      
+--------------- ----------------- -------------- ---------------- -------------------- ------------- ------------- ------------- ------------- -------------------- -------------------- ------------------------ ------------------------ ------------- ------------- --------------------
+<group_begin>
+         -32768                 0    -2147483648                0 -9223372036000000000         -9999        -99.99   -9999999.99   0.000000000 -999999999.999999999 -0.99999999999999999   -3.4028234663852886E38              -1.15792E77         -99.9             0 -9999999999999999.99
+             -1                 1             -1                1                   -1            -1         -1.23         -1.23   0.123456789         -1.234567898 -0.12345678987654321  -2.0000000102211272E-38 -2.9999999999999997E-308          -1.2             1                -1.23
+              0             32767              0       2147483647                    0             0          0.00          0.00   0.555555555          0.000000000 0.000000000000000000                      0.0                      0.0           0.0             5                 0.00
+              1             32768              1       2147483648                    1             1          1.23          1.23   0.888888888          1.234567898 0.123456789876543212   2.0000000102211272E-38  2.9999999999999997E-308           1.2             8                 1.23
+          32767             65535     2147483647       4294967295  9223372036000000000          9999         99.99    9999999.99   0.999999999  999999999.999999999 0.999999999999999999    3.4028234663852886E38   1.7976931348623155E308          99.9             9  9999999999999999.99
+           NULL              NULL           NULL             NULL                 NULL          NULL          NULL          NULL          NULL                 NULL                 NULL                     NULL                     NULL          NULL          NULL                 NULL
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>

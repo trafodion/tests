@@ -1,0 +1,294 @@
+<section_begin>  a03s0
+
+MEDIUM_INT MEDIUM_INT
+---------- ----------
+<group_begin>
+      8000       8000
+     10000      10000
+      8000       8000
+      9000       9000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s2
+
+(EXPR)
+--------------------
+<group_begin>
+            64000000
+           100000000
+            64000000
+            81000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s3
+
+LARGE_INT
+--------------------
+<group_begin>
+                 200
+          1000000000
+               -1000
+                 999
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s4
+
+LARGE_INT
+--------------------
+<group_begin>
+                 200
+          1000000000
+               -1000
+                 999
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s5
+
+(EXPR)
+--------------------
+<group_begin>
+                -200
+         -1000000000
+                1000
+                -999
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s6
+
+(EXPR)
+--------------------
+<group_begin>
+                -200
+         -1000000000
+                1000
+                -999
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s7
+
+(EXPR)
+------------
+<group_begin>
+      180.00
+      100.00
+      120.00
+      160.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s8
+
+(EXPR)
+--------------------
+<group_begin>
+               290.0
+              1280.0
+              1280.0
+              1100.0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s9
+
+(EXPR)        (EXPR)       
+------------- -------------
+<group_begin>
+          900           100
+          899           200
+          100             0
+          100             0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s10
+
+(EXPR) PIC_X_6
+------ -------
+<group_begin>
+   3.5      15
+   1.5      10
+   2.5      15
+   3.5      20
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s11
+
+(EXPR)        (EXPR)      
+------------- ------------
+<group_begin>
+          190          180
+          190         -900
+          190         -900
+          200            0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s12
+
+(EXPR)
+-------------
+<group_begin>
+          300
+          300
+          260
+          260
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s13
+
+(EXPR)     (EXPR)      
+---------- ------------
+<group_begin>
+      -910      1005.00
+      -920      1006.00
+      -920      1006.00
+      -920      1006.00
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s14
+
+(EXPR)
+--------------------
+<group_begin>
+              200000
+              299700
+             1000000
+             1000000
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s15
+
+(EXPR)       LARGE_INT           
+------------ --------------------
+<group_begin>
+large_int =                   200
+large_int =            1000000000
+large_int =                 -1000
+large_int =                   999
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s16
+
+MEDIUM_INT (EXPR)    CHAR_1
+---------- --------- ------
+<group_begin>
+      8000 char_1 =  D     
+     10000 char_1 =  A     
+      8000 char_1 =  A     
+      9000 char_1 =  D     
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s17
+
+(EXPR) (EXPR) (EXPR)      SMALL_INT
+------ ------ ----------- ---------
+<group_begin>
+100 =     100 small_int =        90
+100 =     100 small_int =        10
+100 =     100 small_int =      1000
+100 =     100 small_int =        80
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s18
+
+(EXPR)     (EXPR)  (EXPR)      SMALL_INT
+---------- ------- ----------- ---------
+<group_begin>
+100 * 10 =    1000 small_int =        90
+100 * 10 =    1000 small_int =        10
+100 * 10 =    1000 small_int =      1000
+100 * 10 =    1000 small_int =        80
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s19
+
+(EXPR)
+---------------
+<group_begin>
+only a constant
+only a constant
+only a constant
+only a constant
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s20
+
+(EXPR)
+------
+<group_begin>
+      
+      
+      
+      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a03s21
+
+(EXPR)
+------
+<group_begin>
+      
+      
+      
+      
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

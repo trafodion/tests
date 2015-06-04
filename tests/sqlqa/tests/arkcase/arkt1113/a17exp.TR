@@ -1,0 +1,325 @@
+<section_begin>  a17s0
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s1
+
+(EXPR)  (EXPR)   
+------- ---------
+      0         0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s2
+
+(EXPR)               (EXPR)  (EXPR)   
+-------------------- ------- ---------
+                   1       0         0
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s3
+
+(EXPR)  (EXPR)   
+------- ---------
+     50         2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s4
+
+TEMPERATURE WEIGHT (EXPR)  (EXPR)   
+----------- ------ ------- ---------
+         50      1      50         2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s5
+
+TEMPERATURE WEIGHT (EXPR)  (EXPR)   
+----------- ------ ------- ---------
+         50      1      50         2
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s6
+
+LINE_ITEM   CITY       STATE TEMPERATURE WEIGHT
+----------- ---------- ----- ----------- ------
+<group_begin>
+          1 Austin     TX             50      1
+          2 Austin     TX             40      1
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s7
+
+TEMPERATURE WEIGHT (EXPR)  (EXPR)   
+----------- ------ ------- ---------
+<group_begin>
+         40      1      40         2
+         50      1      50         2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s8
+
+(EXPR)
+--------
+   50.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s9
+
+S_DISTINCT S_ALL   
+---------- --------
+      7.07     7.07
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s10
+
+S_DISTINCT
+------------------------
+      7.0710678118654755
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s11
+
+S_ALL
+--------
+    7.07
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s12
+
+V        S       
+-------- --------
+   50.00    50.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s13
+
+(EXPR)   (EXPR)  
+-------- --------
+   50.00    50.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s14
+
+VARIANCE_OF_A_TIMES_TEMP_PLUS_B A_SQUARED_TIMES_VARIANCE_TEMP
+------------------------------- -----------------------------
+                        5000.00                       5000.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s15
+
+STDDEV_OF_A_TIMES_TEMP_PLUS_B ABS_A_TIMES_STDDEV_TEMP
+----------------------------- -----------------------
+                        70.71                   70.71
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s16
+
+LINE_ITEM   CITY       STATE TEMPERATURE WEIGHT
+----------- ---------- ----- ----------- ------
+<group_begin>
+          1 Austin     TX             50      1
+          2 Austin     TX             40      1
+          3 Austin     TX             60      2
+          4 Austin     TX             84      2
+         11 Cupertino  CA             65      1
+         12 Cupertino  CA             65      2
+         13 Cupertino  CA             65      2
+         14 Cupertino  CA             65      1
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a17s17
+
+AVG_TEMPERATURE COMPARE_TO_MEAN COUNT_LESS_1
+--------------- --------------- ------------
+          61.75            0.00         7.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s18
+
+TEMPERATURE WEIGHT A         
+----------- ------ ----------
+<group_begin>
+         40      1          2
+         50      1          8
+         60      2         24
+         65      1         23
+         65      1         23
+         65      2         19
+         65      2         19
+         84      2          0
+<group_end>
+
+--- 8 row(s) selected.
+
+<section_end>
+<section_begin>  a17s19
+
+VARIANCE_TEMP
+-------------
+       164.50
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s20
+
+CITY       VARIANCE_TEMP
+---------- -------------
+<group_begin>
+Austin            319.60
+Cupertino           0.00
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s21
+
+VARIANCE_TEMP
+-------------
+       146.36
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s22
+
+STATE TEMPERATURE
+----- -----------
+<group_begin>
+CA             65
+TX             40
+TX             50
+TX             60
+TX             84
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>
+<section_begin>  a17s23
+
+STATE (EXPR)  
+----- --------
+<group_begin>
+CA        0.00
+TX       18.85
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a17s24
+
+VARIANCE_TEMP STDDEV_TEMP_SQUARED
+------------- -------------------
+       164.50              164.49
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s25
+
+VARIANCE_FORMULA_1 VARIANCE_FORMULA_2
+------------------ ------------------
+             16450              16450
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s26
+
+(EXPR)   (EXPR)  
+-------- --------
+  128.25   128.25
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s27
+
+(EXPR)   (EXPR)   (EXPR)  
+-------- -------- --------
+  164.50    70.50   164.50
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s28
+
+LINE_ITEM   CITY       STATE TEMPERATURE WEIGHT
+----------- ---------- ----- ----------- ------
+<group_begin>
+          1 Austin     TX             50      1
+          2 Austin     TX             40      1
+          3 Austin     TX             60      2
+          4 Austin     TX             84      2
+          5 Austin     NULL         NULL   NULL
+         11 Cupertino  CA             65      1
+         12 Cupertino  CA             65      2
+         13 Cupertino  CA             65      2
+         14 Cupertino  CA             65      1
+<group_end>
+
+--- 9 row(s) selected.
+
+<section_end>
+<section_begin>  a17s29
+
+(EXPR)   (EXPR)  
+-------- --------
+   74.00    14.00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a17s30
+
+VARIANCE_TEMP STDDEV_TEMP_SQUARED
+------------- -------------------
+       164.50              164.49
+
+--- 1 row(s) selected.
+
+<section_end>

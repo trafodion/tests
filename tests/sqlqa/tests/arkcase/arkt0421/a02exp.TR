@@ -1,0 +1,147 @@
+<section_begin>  a02s0
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+     10
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s1
+
+SUPPNUM
+-------
+<group_begin>
+      1
+      2
+      3
+     10
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a02s2
+
+PARTNUM
+-------
+   4101
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a02s3
+
+CUSTNUM
+-------
+<group_begin>
+     21
+    123
+    143
+    324
+    543
+    926
+   1234
+   3333
+   5635
+   7654
+   7777
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a02s4
+
+CUSTNUM
+-------
+<group_begin>
+     21
+    123
+    143
+    324
+    543
+    926
+   1234
+   3333
+   5635
+   7654
+   7777
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a02s5
+
+CUSTNUM
+-------
+<group_begin>
+     21
+    123
+    143
+    324
+    543
+    926
+   1234
+   3333
+   5635
+   7654
+   7777
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a02s6
+
+CUSTNUM
+-------
+<group_begin>
+     21
+    123
+    143
+    324
+    543
+    926
+   1234
+   3333
+   5635
+   7654
+   7777
+<group_end>
+
+--- 11 row(s) selected.
+
+<section_end>
+<section_begin>  a02s7
+
+SUPPNUM
+-------
+<group_begin>
+      6
+      8
+     15
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>
+<section_begin>  a02s8
+
+SUPPNUM
+-------
+<group_begin>
+      6
+      8
+     15
+<group_end>
+
+--- 3 row(s) selected.
+
+<section_end>

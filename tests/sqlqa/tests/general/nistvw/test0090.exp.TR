@@ -1,0 +1,27 @@
+<section_begin>  s1
+
+DOUBLETEST
+------------------------
+           123456.123456
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s2
+
+DOUBLETEST               CNT        
+------------------------ -----------
+           123456.123456           1
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+(EXPR)
+--------------------
+                   0
+
+--- 1 row(s) selected.
+
+<section_end>

@@ -1,0 +1,231 @@
+<section_begin>  a01s0
+
+VARCHAR5_10 UBIN15_UNIQ CHAR0_10 UDEC0_2000  UBIN0_1000  VARCHAR0_4
+----------- ----------- -------- ----------- ----------- ----------
+<group_begin>
+ABAAAAAA              3 ABAA               0           0 CAAAAAAA  
+ACAAAAAAI             6 ACAA               0           0 CAAAAAAA  
+ABB                   8 AAAA               0           0 CAAAAAAA  
+AAB                  10 AAAA               0           0 CAAAAAAA  
+AA                   11 ABAA               0           0 CAAAAAAA  
+ABC                  12 ADAA               0           0 CAAAAAAA  
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s2
+
+UBIN3_UNIQ VARCHAR0_4
+---------- ----------
+<group_begin>
+      2999 AAAAAAAA  
+      3000 BAAAAAAA  
+      1499 CAAAAAAA  
+      1500 CAAAAAAA  
+      2998 CAAAAAAA  
+      1498 DAAAAAAA  
+         1 DAAAAAAA  
+<group_end>
+
+--- 7 row(s) selected.
+
+<section_end>
+<section_begin>  a01s3
+
+UBIN3_UNIQ VARCHAR0_4
+---------- ----------
+      2999 AAAAAAAA  
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s4
+
+VARCHAR11_2      VARCHAR2_10     VARCHAR15_UNIQ VARCHAR2_100             
+---------------- --------------- -------------- -------------------------
+<group_begin>
+AAAA             AE              DEAACAAE       ATAAAAAAAAAAAAAA         
+AAAA             AB              FGAADAAE       AYAAAAAAAAAAAAAA         
+AAAA             AA              DDAABAAD       CIAAAAAAAAAAAAAA         
+BAAA             BB              CCAAKAAB       DQAAAAAAAAAAAAAA         
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s5
+
+VARCHAR11_2      VARCHAR2_10     VARCHAR15_UNIQ VARCHAR2_100             
+---------------- --------------- -------------- -------------------------
+AAAA             AE              DEAACAAE       ATAAAAAAAAAAAAAA         
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s6
+
+VARCHAR13_100 SDEC13_UNIQ CHAR14_20 VARCHAR15_UNIQ UBIN15_UNIQ
+------------- ----------- --------- -------------- -----------
+<group_begin>
+AG                   4217 AB        FGAAAAAB              1188
+ARAA                 1413 CC        EJAAJAA               3889
+AM                   3030 AC        BEAAGAAC              4412
+AJAA                 3112 AE        FJAAGAA               4559
+AM                   3030 AC        BEAAGAAD              5000
+AM                   3030 AE        BEAAGAAC              6000
+AM                   3030 AE        BEAAGAAE              7000
+AM                   3031 AC        BEAAGAAC              8000
+AM                   3031 AC        BEAAGAAF              9000
+AM                   3031 AC        BEAAGAAG             10000
+AM                   3031 AD        BEAAGAAD             11000
+AM                   3050 AC        BEAAGAAC             12000
+AN                   3030 AC        BEAAGAAC             13000
+<group_end>
+
+--- 13 row(s) selected.
+
+<section_end>
+<section_begin>  a01s7
+
+VARCHAR13_100 SDEC13_UNIQ CHAR14_20 VARCHAR15_UNIQ UBIN15_UNIQ
+------------- ----------- --------- -------------- -----------
+AG                   4217 AB        FGAAAAAB              1188
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s8
+
+CREAL           CFLOAT                   CHAR17_2
+--------------- ------------------------ --------
+<group_begin>
+            1.0                      1.0 AAAAAAAA
+          500.0                 100000.0 AAAAAAAA
+          100.0                 100000.0 AAAAAAAA
+            1.0                 100000.0 AAAAAAAA
+         1.0E10                 100000.0 AAAAAAAA
+          500.0                      1.0 BAAAAAAA
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s9
+
+CREAL           CFLOAT                   CHAR17_2
+--------------- ------------------------ --------
+            1.0                      1.0 AAAAAAAA
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s10
+
+SDEC9_UNIQ           SDEC0_100   SDEC1_20 SBIN0_4    
+-------------------- ----------- -------- -----------
+<group_begin>
+                -100         -89       -5          -2
+                -101         -52      -12          -2
+                -200         -44       -6          -1
+                -201         -81       -2           0
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>
+<section_begin>  a01s12
+
+SDEC9_UNIQ           SDEC0_100   SDEC1_20 SBIN0_4    
+-------------------- ----------- -------- -----------
+<group_begin>
+                -101         -52      -12          -2
+                -100         -89       -5          -2
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>
+<section_begin>  a01s13
+
+CINTERVALYM CINTERVALDS         CDATE     
+----------- ------------------- ----------
+<group_begin>
+ 0-01        0 07:00:00.000001  1998-08-26
+ 0-01        7 00:00:00.000001  1998-08-27
+ 0-00        0 07:00:00.000001  1998-08-28
+ 1-01        0 07:00:00.000001  1998-08-29
+ 0-00        0 07:00:00.000002  1998-08-30
+ 0-01        0 07:00:00.000002  1998-08-31
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s14
+
+CINTERVALYM CINTERVALDS         CDATE     
+----------- ------------------- ----------
+ 0-01        0 07:00:00.000001  1998-08-26
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s15
+
+CDATE      CTIME   
+---------- --------
+<group_begin>
+1910-10-17 00:00:00
+1776-06-07 01:00:00
+1900-01-01 01:01:01
+1776-06-04 02:00:00
+1998-01-01 02:02:02
+2000-01-01 03:03:03
+<group_end>
+
+--- 6 row(s) selected.
+
+<section_end>
+<section_begin>  a01s16
+
+CDATE      CTIME   
+---------- --------
+1910-10-17 00:00:00
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  a01s17
+
+CBITPK  CBITIX           
+------- -----------------
+<group_begin>
+     11                 1
+     12                 2
+     13                 3
+     14                 4
+      1                 5
+      2                 6
+      3                 7
+      4                 8
+      5                 9
+     29                10
+     10                10
+     30                10
+     20                10
+     31                10
+<group_end>
+
+--- 14 row(s) selected.
+
+<section_end>
+<section_begin>  a01s18
+
+CBITPK  CBITIX           
+------- -----------------
+     11                 1
+
+--- 1 row(s) selected.
+
+<section_end>
