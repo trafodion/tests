@@ -1,6 +1,6 @@
 # @@@ START COPYRIGHT @@@
 #
-# (C) Copyright 2014 Hewlett-Packard Development Company, L.P.
+# (C) Copyright 2014-2015 Hewlett-Packard Development Company, L.P.
 #
 #  Licensed under the Apache License, Version 2.0 (the "License");
 #  you may not use this file except in compliance with the License.
@@ -24,6 +24,7 @@ import tests.lib.hpdci as hpdci
 hpdci.prog_parse_args_from_initfile()
 
 import tests.updatestats.cache_hist.tunit
+import tests.updatestats.neccol.tunit
 
 class TestUpdatestats(unittest.TestCase):
     """Legacy Regression Test: updatestats"""
@@ -66,6 +67,12 @@ class TestUpdatestats(unittest.TestCase):
         # == NO GLOBAL TABLES
         testlist=[]
         self.run_testunit(tests.updatestats.cache_hist.tunit, testlist)
+
+    # @unittest.skip('skip this test')
+    def test_neccol(self):
+        # == NO GLOBAL TABLES
+        testlist=[]
+        self.run_testunit(tests.updatestats.neccol.tunit, testlist)
 
 if __name__ == "__main__":
     #unittest.main()
