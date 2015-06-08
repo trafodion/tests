@@ -3491,7 +3491,7 @@ void LogInfo(TestInfo *pTestInfo)
   		}
 	}
 	returncode=SQLFreeStmt(hstmt,SQL_CLOSE);
-//	isUCS2 = specialMode(hstmt, _T("ISO_MAPPING"), _T("UTF8"));
+	isUCS2 = specialMode(hstmt, _T("ISO_MAPPING"), _T("UTF8"));
 }
 
 
@@ -3743,7 +3743,6 @@ TCHAR* removeQuotes(TCHAR* in, TCHAR* output) {
     }
 }
 
-/*  Remove specialMode as it doesn't apply in trafodion --Jieping
 BOOL specialMode(SQLHANDLE hstmt, TCHAR* cqd, TCHAR* mode) {
     SQLRETURN ret;
     SQLTCHAR data[256];
@@ -3766,9 +3765,6 @@ BOOL specialMode(SQLHANDLE hstmt, TCHAR* cqd, TCHAR* mode) {
     ret = SQLExecDirect(hstmt, (SQLTCHAR*)_T("CONTROL QUERY DEFAULT SHOWCONTROL_UNEXTERNALIZED_ATTRS 'OFF'"), SQL_NTS);
     return FALSE;
 }
-
-*/
-
 
 /*Type: 1: Convert to UTF-8, truncate to lenght "len" in byte, then convert back mbs
 		2: Convert to UCS2, truncate to lenght "len" in byte, then convert back mbs

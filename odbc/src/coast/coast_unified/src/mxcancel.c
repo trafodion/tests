@@ -211,9 +211,9 @@ void *cancel_thread(void *dummy)
 		returncode = SQLCancel(hstmt);
 		if (returncode == SQL_ERROR)
 		{
-			RepeatCancel = FindError(_T("70100"),henv,hdbc,hstmt);
+			RepeatCancel = FindError(_T("8007"),henv,hdbc,hstmt);
 			if (RepeatCancel == TRUE) {
-				LogMsg(ERRMSG,_T("[70100][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
+				LogMsg(ERRMSG,_T("[8007][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
 				TEST_FAILED;
 			}
 			else {
@@ -543,9 +543,9 @@ PassFail TestMXSQLCancel(TestInfo *pTestInfo)
 				{
 					returncode = SQLCancel(hstmt);
 					if (returncode == SQL_ERROR) {
-						RepeatCancel = FindError(_T("70100"),henv,hdbc,hstmt);
+						RepeatCancel = FindError(_T("8007"),henv,hdbc,hstmt);
 						if (RepeatCancel == TRUE) {
-							LogMsg(ERRMSG,_T("[70100][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
+							LogMsg(ERRMSG,_T("[8007][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
 							TEST_FAILED;
 						}
 						else {
@@ -592,10 +592,10 @@ PassFail TestMXSQLCancel(TestInfo *pTestInfo)
 										returncode = SQLCancel(hstmt);
 										if (returncode == SQL_ERROR)
 										{
-											RepeatCancel = FindError(_T("70100"),henv,hdbc,hstmt);
+											RepeatCancel = FindError(_T("8007"),henv,hdbc,hstmt);
 											if (RepeatCancel == TRUE)
 											{
-												LogMsg(ERRMSG,_T("[70100][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
+												LogMsg(ERRMSG,_T("[8007][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
 												TEST_FAILED;
 											}
 											else
@@ -941,9 +941,9 @@ PassFail TestMXSQLCancel(TestInfo *pTestInfo)
 					returncode = SQLCancel(hstmt_array[n]);
 					if (returncode == SQL_ERROR)
 					{
-						RepeatCancel = FindError(_T("70100"),henv,hdbc,hstmt_array[n]);
+						RepeatCancel = FindError(_T("8007"),henv,hdbc,hstmt_array[n]);
 						if (RepeatCancel == TRUE) {
-							LogMsg(ERRMSG,_T("[70100][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
+							LogMsg(ERRMSG,_T("[8007][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
 							TEST_FAILED;
 						}
 						else {
@@ -988,10 +988,10 @@ PassFail TestMXSQLCancel(TestInfo *pTestInfo)
 										returncode = SQLCancel(hstmt_array[n]);
 										if (returncode == SQL_ERROR)
 										{
-											RepeatCancel = FindError(_T("70100"),henv,hdbc,hstmt_array[n]);
+											RepeatCancel = FindError(_T("8007"),henv,hdbc,hstmt_array[n]);
 											if (RepeatCancel == TRUE)
 											{
-												LogMsg(ERRMSG,_T("[70100][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
+												LogMsg(ERRMSG,_T("[8007][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
 												TEST_FAILED;
 											}
 											else
@@ -1338,10 +1338,10 @@ PassFail TestMXSQLCancel(TestInfo *pTestInfo)
 				returncode = SQLCancel(hstmt);
 				if (returncode == SQL_ERROR)
 				{
-					RepeatCancel = FindError(_T("70100"),henv,hdbc,hstmt);
+					RepeatCancel = FindError(_T("8007"),henv,hdbc,hstmt);
 					if (RepeatCancel == TRUE)
 					{
-						LogMsg(ERRMSG,_T("[70100][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
+						LogMsg(ERRMSG,_T("[8007][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
 						TEST_FAILED;
 					}
 					else
@@ -1460,9 +1460,9 @@ PassFail TestMXSQLCancel(TestInfo *pTestInfo)
 				returncode = SQLCancel(hstmt);
 				if (returncode == SQL_ERROR)
 				{
-					RepeatCancel = FindError(_T("70100"),henv,hdbc,hstmt);
+					RepeatCancel = FindError(_T("8007"),henv,hdbc,hstmt);
 					if (RepeatCancel == TRUE) {
-						LogMsg(ERRMSG,_T("[70100][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
+						LogMsg(ERRMSG,_T("[8007][Operation Aborted] >> The data source was unable to process the cancel request.\n"));
 						TEST_FAILED;
 					}
 					else {

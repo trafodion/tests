@@ -111,9 +111,9 @@ PassFail TestMXSQLColumns( TestInfo *pTestInfo)
 		SWORD		ColNullable;
 		TCHAR		*Remark;
 	} TableCol[] = {
-							{_T("--"),SQL_CHAR,_T("char"),_T("(10) CHARACTER SET ISO88591"),_T("CHAR"),10,10,0,0,SQL_NULLABLE,_T("CHARACTER  CHARACTER SET ISO88591")},
-							{_T("--"),SQL_VARCHAR,_T("varchar"),_T("(10) CHARACTER SET ISO88591"),_T("VARCHAR"),10,10,0,0,SQL_NULLABLE,_T("VARCHAR  CHARACTER SET ISO88591")},
-							{_T("--"),SQL_VARCHAR,_T("long varchar"),_T(" CHARACTER SET ISO88591"),_T("VARCHAR"),2000,2000,0,0,SQL_NULLABLE,_T("VARCHAR  CHARACTER SET ISO88591")},
+							{_T("--"),SQL_CHAR,_T("char"),_T("(10) CHARACTER SET ISO88591"),_T("CHAR"),10,10,0,0,SQL_NULLABLE,_T("CHARACTER CHARACTER SET ISO88591")},
+							{_T("--"),SQL_VARCHAR,_T("varchar"),_T("(10) CHARACTER SET ISO88591"),_T("VARCHAR"),10,10,0,0,SQL_NULLABLE,_T("VARCHAR CHARACTER SET ISO88591")},
+							{_T("--"),SQL_VARCHAR,_T("long varchar"),_T(" CHARACTER SET ISO88591"),_T("VARCHAR"),2000,2000,0,0,SQL_NULLABLE,_T("VARCHAR CHARACTER SET ISO88591")},
 							{_T("--"),SQL_DECIMAL,_T("decimal"),_T("(10,5)"),_T("DECIMAL SIGNED"),10,12,5,10,SQL_NULLABLE,_T("SIGNED DECIMAL ")},
 							{_T("--"),SQL_DECIMAL,_T("decimal"),_T("(5,2) unsigned"),_T("DECIMAL UNSIGNED"),5,7,2,10,SQL_NULLABLE,_T("UNSIGNED DECIMAL ")},
 							{_T("--"),SQL_NUMERIC,_T("numeric"),_T("(10,5)"),_T("NUMERIC SIGNED"),10,12,5,10,SQL_NULLABLE,_T("SIGNED NUMERIC ")},
@@ -137,9 +137,9 @@ PassFail TestMXSQLColumns( TestInfo *pTestInfo)
 							{_T("--"),SQL_NUMERIC,_T("numeric"),_T("(10,5) unsigned"),_T("NUMERIC UNSIGNED"),10,12,5,10,SQL_NULLABLE,_T("UNSIGNED NUMERIC ")},
 							{_T("--"),SQL_NUMERIC,_T("numeric"),_T("(18,5) unsigned"),_T("NUMERIC UNSIGNED"),18,20,5,10,SQL_NULLABLE,_T("UNSIGNED NUMERIC ")},
 							{_T("--"),SQL_NUMERIC,_T("numeric"),_T("(30,10) unsigned"),_T("NUMERIC UNSIGNED"),30,32,10,10,SQL_NULLABLE,_T("UNSIGNED NUMERIC ")},
-							{_T("--"),SQL_WCHAR,_T("char"),_T("(10)  CHARACTER SET UCS2"),_T("NCHAR"),10,20,0,0,SQL_NULLABLE,_T("CHARACTER  CHARACTER SET UCS2")},
-							{_T("--"),SQL_WVARCHAR,_T("varchar"),_T("(10) CHARACTER SET UCS2"),_T("NCHAR VARYING"),10,20,0,0,SQL_NULLABLE,_T("VARCHAR  CHARACTER SET UCS2")},
-							{_T("--"),SQL_WVARCHAR,_T("long varchar"),_T(" CHARACTER SET UCS2"),_T("NCHAR VARYING"),2000,4000,0,0,SQL_NULLABLE,_T("VARCHAR  CHARACTER SET UCS2")},
+							{_T("--"),SQL_WCHAR,_T("char"),_T("(10)  CHARACTER SET UCS2"),_T("NCHAR"),10,20,0,0,SQL_NULLABLE,_T("CHARACTER CHARACTER SET UCS2")},
+							{_T("--"),SQL_WVARCHAR,_T("varchar"),_T("(10) CHARACTER SET UCS2"),_T("NCHAR VARYING"),10,20,0,0,SQL_NULLABLE,_T("VARCHAR CHARACTER SET UCS2")},
+							{_T("--"),SQL_WVARCHAR,_T("long varchar"),_T(" CHARACTER SET UCS2"),_T("NCHAR VARYING"),2000,4000,0,0,SQL_NULLABLE,_T("VARCHAR CHARACTER SET UCS2")},
 							{_T("endloop"),}
 						};
 
@@ -389,7 +389,8 @@ PassFail TestMXSQLColumns( TestInfo *pTestInfo)
 
 	TESTCASE_BEGIN("Setup for SQLColumns tests\n");
 
-	if(!FullConnect(pTestInfo))
+        if(!FullConnectWithOptions(pTestInfo,CONNECT_ODBC_VERSION_3))
+//	if(!FullConnect(pTestInfo))
 	{
 		LogMsg(NONE,_T("Unable to connect\n"));
 		TEST_FAILED;
