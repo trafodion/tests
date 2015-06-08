@@ -1,0 +1,25 @@
+[ODBC]
+#traceFlags              = DEBUG
+#traceStart              = 0
+#TraceFile               = ODBCtracefile.log
+#MaxTraceFileSize        = 1024
+
+[ODBC Data Sources]
+TDM_Default_DataSource  = TRAFODBC
+
+DataSourceName          = Driver
+
+[DataSourceName]
+Driver                  = TRAFODBC
+
+[TDM_Default_DataSource]
+Description                 = Default Data Source
+Catalog                     = TRAFODION
+Schema                      = ODBCTEST
+DataLang                    = 0
+FetchBufferSize             = SYSTEM_DEFAULT
+Server                      = TCP:rhel-cdh1.hpl.hp.com:37800
+SQL_ATTR_CONNECTION_TIMEOUT = SYSTEM_DEFAULT
+SQL_LOGIN_TIMEOUT           = SYSTEM_DEFAULT
+SQL_QUERY_TIMEOUT           = NO_TIMEOUT
+

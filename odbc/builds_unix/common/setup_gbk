@@ -1,0 +1,4 @@
+export LC_ALL=zh_CN.gb18030
+export LANG=zh_CN.gb18030
+echo "LANG=$LANG"
+echo "LC_ALL=$LC_ALL"
