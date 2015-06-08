@@ -128,8 +128,6 @@ def _init(hptestmgr, testlist=[]):
     
     subprocess.call("sed -e 's/TEST_SCHEMA_1/" + defs.my_schema + "/g' " + defs.test_dir + "/c38.sql > " + defs.work_dir + "/c38.sql", shell=True)
 
-    subprocess.call("sed -e 's/TEST_SCHEMA_1/" + defs.my_schema + "/g' " + defs.test_dir + "/c39.sql > " + defs.work_dir + "/c39.sql", shell=True)
-    
     subprocess.call("sed -e 's/TEST_SCHEMA_1/" + defs.my_schema + "/g' " + defs.test_dir + "/c40.sql > " + defs.work_dir + "/c40.sql", shell=True)
     
     subprocess.call("sed -e 's/TEST_SCHEMA_1/" + defs.my_schema + "/g' " + defs.test_dir + "/c46.sql > " + defs.work_dir + "/c46_1.sql", shell=True)

@@ -866,8 +866,8 @@ def test0032(desc="create unique index"):
     stmt = 'drop index TRAFODION.GENERAL_QUERYCANCEL.LORDERLINEX_q2p;'
     output = _dci.cmdexec(stmt)
 
-    stmt = 'cleanup index TRAFODION.GENERAL_QUERYCANCEL.LORDERLINEX_q2p;'
-    output = _dci.cmdexec(stmt)
+    #stmt = 'cleanup index TRAFODION.GENERAL_QUERYCANCEL.LORDERLINEX_q2p;'
+    #output = _dci.cmdexec(stmt)
 
     stmt = 'drop table f32_lineitem cascade;'
     output = _dci.cmdexec(stmt)
@@ -886,7 +886,7 @@ def test0033(desc="create table like"):
 
     qid = exec_obeyfile("c33.sql", "test033.log")
 
-    time.sleep(1)
+    #time.sleep(1)
 
     stmt = 'control query cancel qid "' + qid + '";'
     output = _dci.cmdexec(stmt)
@@ -1001,7 +1001,7 @@ def test0036(desc="load 100000 with truncate table(90000)"):
     check_logfile("test036.log")
     
     #need cleanup
-    stmt = 'cleanup table f36 ;'
+    stmt = 'drop table f36 cascade ;'
     output = _dci.cmdexec(stmt)
     #_dci.expect_complete_msg(output)
 
@@ -1035,7 +1035,7 @@ def test0037(desc="load 90000 with truncate table(100000)"):
     check_logfile("test037.log")
 
     #need cleanup
-    stmt = 'cleanup table f37 ;'
+    stmt = 'drop table f37 cascade;'
     output = _dci.cmdexec(stmt)
     #_dci.expect_complete_msg(output)
 
@@ -1076,41 +1076,6 @@ def test0038(desc="load with NO RECOVERY into"):
 
     _testmgr.testcase_end(desc)
 
-def test0039(desc="load with NO POPULATE INDEXES into"):
-
-    global _testmgr
-    global _testlist
-    global _dci
-    if not _testmgr.testcase_begin(_testlist):
-        return
-
-    stmt = 'drop table f39 cascade;'
-    output = _dci.cmdexec(stmt)
-    stmt = 'create table f39 like f00 ;'
-    output = _dci.cmdexec(stmt)
-
-    stmt = 'select count(*) from f39;'
-    output = _dci.cmdexec(stmt)
-    _dci.expect_str_token(output, '0')
-
-    qid = exec_obeyfile("c39.sql", "test039.log")
-
-    time.sleep(1)
-
-    stmt = 'control query cancel qid "' + qid + '";'
-    output = _dci.cmdexec(stmt)
-    _dci.expect_complete_msg(output)
-
-    check_logfile("test039.log")
-
-    stmt = 'select count(*) from f39;'
-    output = _dci.cmdexec(stmt)
-    #_dci.expect_str_token(output, '0')
-
-    stmt = 'drop table f39 cascade;'
-    output = _dci.cmdexec(stmt)
-
-    _testmgr.testcase_end(desc)
 
 def test0040(desc="load with NO DUPLICATE CHECK into"):
 
