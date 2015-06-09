@@ -1,0 +1,37 @@
+<section_begin>  s1
+
+ADD2
+-----------
+         98
+
+--- 1 row(s) selected.
+
+<section_end>
+
+<section_begin>  s2
+
+ADD2
+-----------
+        123
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s3
+
+ADD2
+-----------
+        102
+
+--- 1 row(s) selected.
+
+<section_end>
+<section_begin>  s4
+
+ADD2
+-----------
+       NULL
+
+--- 1 row(s) selected.
+
+<section_end>
