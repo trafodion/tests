@@ -1,0 +1,23 @@
+============================================================
+== this NOMAD input file is used to test NomadPC funtionality
+============================================================
+STARTUP: 
+   testid=m3;
+   create 1 process;
+   use table MARVINCAT.MARVINSCH.BIGKEY1;
+   MaximumRecords = 1000;
+   fill randomly to 50%;
+
+AllProcesses:
+   use table (#table0);
+   SequentialSubsetSize=(20,30);
+   repeat for 3 minutes {
+     10% sequential inserts;
+     10% random inserts;
+     10% sequential updates;
+     10% random updates;
+     10% sequential deletes;
+     10% random deletes;
+     10% sequential selects;
+     30% random selects;
+     }

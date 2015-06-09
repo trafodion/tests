@@ -1,0 +1,9 @@
+started Wed May 20 16:43:23 2015
+current Wed May 20 16:43:48 2015
+STARTED
+Process ID:1
+Actions:0  Transactions(commit:0 abort:0)
+
+SQL     FS
+Error   Error   Count
+------  ------  -----

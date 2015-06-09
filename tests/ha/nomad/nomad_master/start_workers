@@ -1,0 +1,6 @@
+#!/bin/bash
+../nomad_worker/NomadWorker 0 ./M3NOMAD/M3000.in ./M3NOMAD/M3000.log &
+../nomad_worker/NomadWorker 1 ./M3NOMAD/M3001.in ./M3NOMAD/M3001.log &
+../nomad_worker/NomadWorker 2 ./M3NOMAD/M3002.in ./M3NOMAD/M3002.log &
+../nomad_worker/NomadWorker 3 ./M3NOMAD/M3003.in ./M3NOMAD/M3003.log &
+../nomad_worker/NomadWorker 4 ./M3NOMAD/M3004.in ./M3NOMAD/M3004.log &

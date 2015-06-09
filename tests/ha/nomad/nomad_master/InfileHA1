@@ -1,0 +1,32 @@
+============================================================
+== this NOMAD input file is used to provide a load during HA testing
+============================================================
+STARTUP:
+   testid=h1;
+   create 5 process;
+   create 5 tables like TRAFODION.SEABASE.HERO1;
+   MaximumRecords = 1000;
+   fill randomly to 50%;
+   StopOnError=no;
+
+ALLPROCESSES:
+   SequentialSubsetSize=(10,30);
+   TransactionSize=(1,3);
+   ConcurrentConnections=1;
+   repeat for 10 minutes {
+     25% sequential inserts;
+     25% sequential updates;
+     25% sequential deletes;
+     25% sequential selects;
+     }
+
+#PROCESS0:
+   use table (#table0);
+#PROCESS1:
+   use table (#table1);
+#PROCESS2:
+   use table (#table2);
+#PROCESS3:
+   use table (#table3);
+#PROCESS4:
+   use table (#table4);

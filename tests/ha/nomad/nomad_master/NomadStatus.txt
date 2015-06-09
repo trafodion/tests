@@ -1,0 +1,9 @@
+started Tue May 26 20:33:21 2015
+current Tue May 26 20:43:51 2015
+FINISHED (everything completed ok, as far as I can tell)
+Process ID:3
+Actions:634  Transactions(commit:303 abort:0)
+
+SQL     FS
+Error   Error   Count
+------  ------  -----

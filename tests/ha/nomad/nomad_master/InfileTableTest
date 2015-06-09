@@ -1,0 +1,22 @@
+============================================================
+== this NOMAD input file is used to test Nomad functionality
+============================================================
+STARTUP:
+   testid=m1;
+   create 1 process;
+   create 2  tables with 9 columns;
+   create 1  table with 5 columns;
+   MaximumRecords = 100;
+   fill randomly to 50%;
+   StopOnError;
+
+#PROCESS0:
+   use table (#table0,#table1,#table2);
+   TransactionSize=(1,3);
+   ConcurrentConnections=1;
+   repeat for 5 minutes {
+     25% random updates;
+     25% random inserts;
+     25% random deletes;
+     25% random selects;
+     }

@@ -1,0 +1,525 @@
+#!/bin/bash
+
+ function usage()
+{
+	cat <<EOF
+
+This script contains all the ways to down nodes, disks and processes.
+It is used to aid in the testing of fault tolerance.
+
+NOTE: All torpedo commands are logged to $QA_DIR/logs/torpedo_$USER.log
+
+Usage: torpedo <up-down-option>  --method=<method>
+
+<up-down-option> is one of the following with a corresponding <method>
+     =========================
+
+   --down_node=[ <node-name> | <nid> | lead_tm_node | mxoas_node | random_node ]
+
+		 <node-name>: this is the node name (i.e. n001, n002, n003...)
+		       <nid>: this is the Trafodion node-id number (i.e. 0, 1, 2, ...)
+		lead_tm_node: this will figure out and use whatever node the lead TM is running in
+		    dcs_node: this will figure out and use whatever node the DCS Master is running in
+		 random_node: this will choose a random node of the instance
+
+      Valid <method> values for '--down_node' option are:
+         --method=[ sqshell | kill_monitor | kill_tm | linux_reboot ]
+
+				     sqshell: uses the sqshell's command down <nid>
+				kill_monitor: kills the Trafodion monitor with killall --signal KILL monitor
+				     kill_tm: kills the tm with killall --signal KILL tm
+				linux_reboot: uses the linux command reboot
+
+      Examples: torpedo --down_node=n001 --method=kill_monitor
+                torpedo --down_node=0 --method=linux_reboot
+                torpedo --down_node=lead_tm_node --method=sqshell
+                torpedo --down_node=random_node --method=kill_tm
+     =========================
+NOTE: All torpedo commands are logged to $QA_DIR/logs/torpedo_$USER.log
+     =========================
+
+EOF
+}
+
+# NOTES for future upgrades:
+#    - down a Linux platform disk (/ (root), /tmp, or /var)
+
+
+#===========================
+# some useful functions
+#
+# Functions in bash can only return a completion code
+# to simulate a returned value from these functions use them as follows:
+#    result=$(function_name arguments)
+#===========================
+function get_node_name()
+{
+	# NOTE: must use sqshell to get node name instead of parsing sqconfig because of
+	# the possibility that a spare node (with a different node-name) might have
+	# been swapped in for a given nid
+	local nid=$1
+	echo `sqshell -c node | grep "\[$nid\]" | awk '{print $2}' | cut -d "=" -f 2 | sed 's@,@@' `
+#	echo `sqshell -c node | grep "\[$nid\]" | sed -e "s@^.*=\(n[0-9]*\),.*@\1@"`
+}
+#===========================
+function get_nid()
+{
+	# NOTE: must use sqshell to get nid instead of parsing sqconfig because of
+	# the possibility that a spare node (with a different node-name) might have
+	# been swapped in for a given nid
+	local node_name=$1
+	echo `sqshell -c node | grep "=$node_name," | sed -e "s@^.*Node\[\([0-9]*\)\]=.*@\1@"`
+}
+#===========================
+# get_process_nid(process-name)
+function get_process_nid()
+{
+	local PROCESS=$1
+	NID=`sqps | grep " $PROCESS " | sed -e "s@,@ @" | awk '{printf "%d",$2}' `
+	echo "$NID"
+}
+#===========================
+# get_disk_nid(disk-name[_p|_b])
+function get_disk_nid()
+{
+	local DISK=$1
+	local disk_process_type
+
+	# DISK is <disk-name>_p, or <disk-name>_b
+	# strip _p or _b off of end of DISK name
+   disk_process_type=`echo $DISK | sed -e "s@^.*\(_.\)@\1@"`
+	if [ "$disk_process_type" == "_p" ]; then
+		DISK=`echo $DISK | sed -e "s@_p@@"`
+		NID=`sqps | grep "\- $DISK " | sed -e "s@,@ @" | awk '{printf "%d",$2}' `
+	elif [ "$disk_process_type" == "_b" ]; then
+		DISK=`echo $DISK | sed -e "s@_b@@"`
+		NID=`sqps | grep "B $DISK " | sed -e "s@,@ @" | awk '{printf "%d",$2}' `
+	else
+		echo "***ERROR: must specify <disk-name>_p or <disk-name>_b"
+		usage
+		exit 1
+	fi
+	echo "$NID"
+}
+#===========================
+# get_disk_node_name(disk-name[_p|_b])
+function get_disk_node_name()
+{
+	local NID=$(get_disk_nid $1)
+	local disk_node_name=$(get_node_name $NID)
+	echo $disk_node_name
+}
+#===========================
+
+# initialize and clear all options
+TORPEDO_LOG=$QA_DIR/logs/torpedo_$USER.log
+down_node=0
+NODE=
+down_device=0
+up_device=0
+DEVICE=
+down_process=0
+PROCESS=
+METHOD=
+
+# make sure we are NOT running as root
+if [ "$USER" == "root" ]; then
+    echo "***ERROR: cannot be ran from root, must be ran as a SeaQuest userid."
+    exit -1
+fi
+
+# parse command line arguments
+args=`getopt -o h --longoptions=down_node:,down_device:,up_device:,down_process:,method: -- "$@"`
+if [ $? -ne 0 ] ; then
+	usage
+	exit 1
+fi
+
+eval set -- "$args"
+while true ; do
+	case "$1" in
+		--down_node)
+         down_node=1
+         NODE=$2
+			if [ "$NODE" == "lead_tm_node" ]; then
+				NODE=`echo "status tm *" > temp1; echo "quit" >> temp1;dtmci < temp1 | \
+					grep true | awk '{print $1}'`
+			elif [ "$NODE" == "mxoas_node" ]; then
+				NODE=`sqshell -c ps | grep mxoas | sed -e "s@,@ @" | awk {'print $2'} | sed -e "s@^0*@@"`
+			elif [ "$NODE" == "random_node" ]; then
+				# get count of nodes and randomly choose one
+				node_count=`sqshell -c node | grep " Node\[" | wc -l`
+				let random_num=$RANDOM%$node_count
+				let random_num+=1
+				NODE=`sqshell -c node | grep " Node\[" -m$random_num | sed -s "s@^.*=\(n[0-9]*\),.*@\1@" | awk 'END{ print $1}' `
+			fi
+
+         shift ;;
+		--down_device) down_device=1; DEVICE=$2; shift ;;
+		--up_device) up_device=1; DEVICE=$2; shift ;;
+		--down_process) down_process=1; PROCESS=$2; shift ;;
+		--method) method_specified=1; METHOD=$2; shift ;;
+		--) shift ; break ;;
+		*) usage ; exit 1 ;;
+	esac
+	shift
+done
+# validate all arguments and make sure they make sense
+
+# make sure only one down_ option was specified
+let option_count=down_node+down_device+down_process+up_device
+if [ $option_count \> 1 ]; then
+	echo "option_count=$option_count"
+	echo "***ERROR: only one option can be specified"
+	usage
+	exit 1
+fi
+if [ $option_count == 0 ]; then
+	echo "***ERROR: please specify one option"
+	usage
+	exit 1
+fi
+
+# make sure SQ instance is up
+is_SQ_up=`sqps | grep "has not been started" | wc -l `
+if [ $is_SQ_up -ne 0 ]; then
+	echo "***ERROR: SeaQuest instance is not started."
+	exit 1
+fi
+
+#========================================
+# do down_device option
+if [ $down_device == 1 ]; then
+
+	# for certain options, randomly choose primary or mirror if none was specified
+	if [ "$DEVICE" = "random_disk" ]; then
+#echo "***DEBUG: randomly adding _p or _m to $DEVICE"
+		let PorB=$RANDOM%2
+		if [ $PorB == 0 ]; then
+			DEVICE="${DEVICE}_p"
+		else
+			DEVICE="${DEVICE}_m"
+		fi
+	fi
+
+   device_type=`echo $DEVICE | sed -e "s@^.*\(_.\)@\1@"`
+	disk_name=`echo $DEVICE | sed -e "s@\(^.*\)_.@\1@"`
+
+	# validate disk name was either <disk-name>_p or <disk-name>_m
+	if [[ "$device_type" != "_p" && "$device_type" != "_m" ]]; then
+		echo "***ERROR: must specify <disk-name>_p, <disk-name>_m, random_disk_p or random_disk_m"
+		exit 1
+	fi
+
+	# if random_disk option then randomly choose a disk
+	if [ "$DEVICE" = "random_disk_p" -o "$DEVICE" = "random_disk_m" ]; then
+
+		# get count of devices and randomly choose one
+		device_count=`sqps | grep "TSE\|ASE" | grep "A--" | wc -l`
+		#echo "***DEBUG: device_count=$device_count"
+		if [ $device_count = 0 ]; then
+			echo "***ERROR: invalid 'down_device' option or device name '$DEVICE' not found"
+			exit 1
+		fi
+		let random_num=$RANDOM%$device_count
+		let random_num+=1
+		#echo "***DEBUG: random_num=$random_num"
+		disk_name=`sqps | grep "TSE\|ASE" | grep "A--" -m$random_num | awk 'END{ print $6}' `
+		#echo "***DEBUG: PROCESS_NAME='$PROCESS_NAME' "
+	fi
+
+	disk_node=$(get_disk_node_name ${disk_name}_p)
+	disk_nid=$(get_nid $disk_node)
+
+	echo
+	echo `date +%F_%T` "***INFO: downing device $disk_name$device_type from node $disk_node(nid $disk_nid) method=$METHOD" | tee --append $TORPEDO_LOG
+	echo
+
+	case "$METHOD" in
+		serevive)
+			# This method does not need to execute on the node where the disk is
+			if [ "$device_type" == "_p" ]; then
+				serevive $disk_name -a downp
+			elif [ "$device_type" == "_m" ]; then
+				serevive $disk_name -a downm
+			fi
+
+			;;
+		linux_path)
+			if [ "$device_type" == "_p" ]; then
+				PREFIX="/database"
+			elif [ "$device_type" == "_m" ]; then
+				PREFIX="/databasem"
+			fi
+
+			# This method has the potential of trashing the disk at the linux file system level
+			# This method needs to issue commands from a node in the rack 
+			# where the disk resides so, we'll just use the disk's current node.
+			disk_name="\\"$disk_name
+			disk_paths=`pdsh -w $disk_node lunmgr --print $PREFIX/$USER/$disk_name | \
+				grep "with paths" | \
+				sed -e "s@^.*\[\(sd[a-z]*\),\(sd[a-z]*\)\]@\1\n\2@"`
+
+			# echo "offline".... to take the path down
+			for disk_path in $disk_paths; do
+				echo `date +%F_%T` "***INFO: downing path $disk_path" | tee --append $TORPEDO_LOG
+				# need to be ran from root so we'll use staf to issue
+				# the command so we don't have to mess with sudo stuff
+				pdsh -w ${CLUSTERNAME}-hn1 \
+					staf local process start shell returnstdout stderrtostdout wait \
+						command "pdsh -w $disk_node \"echo offline \> /sys/block/$disk_path/device/state\" " >> $TORPEDO_LOG
+			done
+			;;
+		*)
+			echo "***ERROR: invalid <method> for 'down_device' option"
+			exit 1
+			;;
+	esac
+fi
+
+#========================================
+# do up_device option
+if [ $up_device == 1 ]; then
+
+   device_type=`echo $DEVICE | sed -e "s@^.*\(_.\)@\1@"`
+	disk_name=`echo $DEVICE | sed -e "s@\(^.*\)_.@\1@"`
+
+	# validate disk name was either <disk-name>_p or <disk-name>_m
+	if [[ "$device_type" != "_p" && "$device_type" != "_m" ]]; then
+		echo "***ERROR: must specify <disk-name>_p or <disk-name>_m"
+		exit 1
+	fi
+
+	disk_node=$(get_disk_node_name ${disk_name}_p)
+	disk_nid=$(get_nid $disk_node)
+
+	echo
+	echo `date +%F_%T` "***INFO: uping device $DEVICE from node $disk_node(nid $disk_nid) method=$METHOD"
+	echo "***WARNING: disk device may need to have linux file system rebuilt on it prior to an sqrevive"
+	echo
+
+	case "$METHOD" in
+		linux_path)
+			if [ "$device_type" == "_p" ]; then
+				PREFIX="/database"
+			elif [ "$device_type" == "_m" ]; then
+				PREFIX="/databasem"
+			fi
+			# This method has the potential of trashing the disk at the linux file system level
+			# This method needs to issue commands from a node in the rack 
+			# where the disk resides so, we'll just use the disk's current node.
+			disk_name="\\"$disk_name
+			disk_paths=`pdsh -w $disk_node lunmgr --print $PREFIX/$USER/$disk_name | \
+				grep "with paths" | \
+				sed -e "s@^.*\[\(sd[a-z]*\),\(sd[a-z]*\)\]@\1\n\2@"`
+
+			# echo "running".... to get the path back up and running
+			for disk_path in $disk_paths; do
+				echo `date +%F_%T` "***INFO: uping path $disk_path" | tee --append $TORPEDO_LOG
+				# need to be ran from root so we'll use staf to issue
+				# the command so we don't have to mess with sudo stuff
+				pdsh -w ${CLUSTERNAME}-hn1 \
+					staf local process start shell returnstdout stderrtostdout wait \
+						command "pdsh -w $disk_node \"echo running \> /sys/block/$disk_path/device/state\" " >> $TORPEDO_LOG
+			done
+			;;
+		*)
+			echo
+			echo "***ERROR: invalid <method> '$METHOD' for 'up_device' option"
+			echo
+			exit 1
+			;;
+	esac
+fi
+
+#========================================
+# do down_node option
+if [ $down_node == 1 ]; then
+
+	# figure out which the user specified, node-name or nid
+	NID=`echo $NODE | sed -e "s@^n[0-9]*@@"`
+	if [ "$NID" == "" ]; then
+		# we have a node-name, get the nid
+		NID=$(get_nid $NODE)
+		NODE_NAME=$NODE
+	else
+		# we have nid, get node-name
+		NODE_NAME=$(get_node_name $NODE)
+		NID=$NODE
+	fi
+
+	if [ "$NID" == "" -o "$NODE_NAME" == "" ]; then
+		echo "***ERROR: '$NODE' is an invalid node-name or nid."
+		exit 1
+	fi
+
+	echo
+	echo `date +%F_%T` "***INFO: downing node $NODE_NAME(nid $NID) method=$METHOD" | tee --append $TORPEDO_LOG
+	echo
+
+#echo "***DEBUG: exiting before downing node"
+#exit 1
+
+	case "$METHOD" in
+		sqshell)
+			echo "down $NID" | sqshell -a
+# show the output of sqshell for now
+# echo "down $NID" | sqshell -a > /dev/null 2>&1
+			;;
+		kill_monitor)
+			pdsh -w $NODE_NAME killall --signal KILL monitor
+			;;
+		kill_tm)
+			pdsh -w $NODE_NAME killall --signal KILL tm
+			;;
+		# an hidden method that should not be used by anyone except those
+		# people that understand what this method is
+		kill_wdt)
+			pdsh -w ${CLUSTERNAME}-hn1 \
+				staf local process start shell returnstdout stderrtostdout wait \
+					command "pdsh -w $NODE_NAME rm -f /dev/watchdog" >> $TORPEDO_LOG
+			;;
+		linux_reboot)
+			# 'reboot' needs to be ran from root so we'll use staf to issue
+			# the command so we don't have to mess with sudo stuff
+			pdsh -w ${CLUSTERNAME}-hn1 \
+				staf local process start shell returnstdout stderrtostdout wait \
+					command "pdsh -w $NODE_NAME reboot" >> $TORPEDO_LOG
+			;;
+		*)
+			echo "***ERROR: invalid <method> '$METHOD' for 'down_node' option"
+			exit 1
+			;;
+	esac
+fi
+
+#========================================
+# do down_process options
+if [ $down_process == 1 ]; then
+
+	# for certain options, randomly choose primary or backup if none was specified
+	if [ "$PROCESS" = "random_tse" -o "$PROCESS" = "random_ase" -o "$PROCESS" = "random_amp" ]; then
+#echo "***DEBUG: randomly adding _p or _b to $PROCESS"
+		let PorB=$RANDOM%2
+		if [ $PorB == 0 ]; then
+			PROCESS="${PROCESS}_p"
+		else
+			PROCESS="${PROCESS}_b"
+		fi
+	fi
+
+	# check if process is a specific disk, 
+	process_name=`echo $PROCESS | sed -e "s@\(^.*\)_.@\1@"`
+	is_disk=`sqps | grep dp2 | grep $process_name | wc -l `
+	# if its a disk it MUST have _p or _b
+	if [ $is_disk != 0 ]; then
+#echo "***DEBUG: '$PROCESS' is a disk process"
+	   process_type=`echo $PROCESS | sed -e "s@^.*\(_.\)@\1@"`
+		if [[ "$process_type" != "_p" && "$process_type" != "_b" ]]; then
+			echo "***ERROR: must specify <disk-process>_p or <disk-process>_b"
+			exit 1
+		fi
+	fi
+
+	case "$PROCESS" in
+		random_tse_p)
+			mask=" TSE  ES--A-- "
+			;;
+		random_tse_b)
+			mask=" TSE  ES--A-B "
+			;;
+		random_ase_p)
+			mask=" ASE  ES--A-- "
+			;;
+		random_ase_b)
+			mask=" ASE  ES--A-B "
+			;;
+		random_amp_p)
+			mask=" AMP  ES--A-- "
+			;;
+		random_amp_b)
+			mask=" AMP  ES--A-B "
+			;;
+		random_backout)
+			mask=" backout"
+			;;
+		*_p | *_b)
+			# _p or _b only valid for TSE disk process names
+			if [ "$process_type" == "_p" ]; then
+				mask=" TSE  .*A-- $process_name "
+			elif [ "$process_type" == "_b" ]; then
+				mask=" TSE  .*A-B $process_name "
+			else
+				echo "***ERROR: _p and _b are only supported for <disk-process>.  '$PROCESS' is invalid."
+				exit 1
+			fi
+			;;
+		*)
+			# assume user specified a specific process name
+			mask=$PROCESS
+			;;
+	esac
+
+	# get count of processes, based on mask, and randomly choose one
+#echo "***DEBUG: mask='$mask'"
+	process_count=`sqps | grep "$mask" | wc -l`
+#echo "***DEBUG: process_count=$process_count"
+	if [ $process_count = 0 ]; then
+		echo "***ERROR: invalid 'down_process' option or process name '$PROCESS' not found"
+		exit 1
+	fi
+	let random_num=$RANDOM%$process_count
+	let random_num+=1
+#echo "***DEBUG: random_num=$random_num"
+	PROCESS_NAME=`sqps | grep "$mask" -m$random_num | awk 'END{ print $6}' `
+#echo "***DEBUG: PROCESS_NAME='$PROCESS_NAME' "
+
+	case "$PROCESS" in
+		random_backout)
+			NID=$(get_process_nid $PROCESS_NAME)
+			NODE_NAME=$(get_node_name $NID)
+			PID=`sqps | grep " $PROCESS_NAME " | sed -e "s@,@ @" | awk '{print $3}' `
+			PROCESS_NAME_pb=$PROCESS_NAME
+			;;
+			
+		*_p | *_b)
+		   process_type=`echo $PROCESS | sed -e "s@^.*\(_.\)@\1@"`
+
+			if [ "$process_type" == "_p" ]; then
+				PROCESS_NAME_pb="${PROCESS_NAME}_p"
+				disk_flags="A-\- "
+			else
+				PROCESS_NAME_pb="${PROCESS_NAME}_b"
+				disk_flags="A-B "
+			fi
+			NID=$(get_disk_nid "$PROCESS_NAME_pb")
+			NODE_NAME=$(get_node_name $NID)
+			PID=`sqps | grep $disk_flags | grep "$PROCESS_NAME " | sed -e "s@,@ @" | awk '{print $3}' `
+			;;
+		*)
+			echo
+			echo "***ERROR: downing a specific process name is not supported, yet."
+			echo "          Please manually use sqshell's kill command."
+			echo
+			exit 1
+			;;
+	esac
+
+	echo
+	echo `date +%F_%T` "***INFO: downing process $PROCESS_NAME_pb, $NODE_NAME(nid $NID),pid $PID method=$METHOD" | tee --append $TORPEDO_LOG
+	echo
+
+	case "$METHOD" in
+		sqshell)
+			echo "kill $NID,$PID" | sqshell -a
+			;;
+		linux_kill)
+			pdsh -w $NODE_NAME "kill -s KILL $PID"
+			;;
+		*)
+			echo  `date +%F_%T` "***ERROR: invalid <method> '$METHOD' for 'down_process' option" | tee --append $TORPEDO_LOG
+			exit 1
+			;;
+	esac
+fi
+
