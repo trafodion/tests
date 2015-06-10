@@ -1,0 +1,15 @@
+<section_begin>  f1
+
+N_NAME                    REVENUE             
+------------------------- --------------------
+<group_begin>
+INDONESIA                         117539253.38
+CHINA                             111181341.34
+INDIA                             105282778.94
+JAPAN                             102335098.14
+VIETNAM                            99481730.87
+<group_end>
+
+--- 5 row(s) selected.
+
+<section_end>

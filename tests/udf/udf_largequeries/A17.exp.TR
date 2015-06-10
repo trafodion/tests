@@ -1,0 +1,12 @@
+<section_begin>  f1
+
+L_SHIPMODE HIGH_LINE_COUNT      LOW_LINE_COUNT      
+---------- -------------------- --------------------
+<group_begin>
+AIR                       12442                18787
+REG AIR                   12504                18919
+<group_end>
+
+--- 2 row(s) selected.
+
+<section_end>

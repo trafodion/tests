@@ -1,0 +1,14 @@
+<section_begin>  f1
+
+SUPP_NATION               CUST_NATION               L_YEAR REVENUE             
+------------------------- ------------------------- ------ --------------------
+<group_begin>
+ETHIOPIA                  JORDAN                      1995         101111869.42
+ETHIOPIA                  JORDAN                      1996          99808398.22
+JORDAN                    ETHIOPIA                    1995         108535115.09
+JORDAN                    ETHIOPIA                    1996         109785669.58
+<group_end>
+
+--- 4 row(s) selected.
+
+<section_end>

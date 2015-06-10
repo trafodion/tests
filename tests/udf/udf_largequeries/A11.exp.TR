@@ -1,0 +1,9 @@
+<section_begin>  f1
+
+S_SUPPKEY   S_NAME                    S_ADDRESS                                S_PHONE         (EXPR)              
+----------- ------------------------- ---------------------------------------- --------------- --------------------
+       5990 Supplier#000005990        HuBcD,34d5MsLAEUphmVRTzPJn6yXHXqOuc lzhI 33-511-757-5149           1959406.83
+
+--- 1 row(s) selected.
+
+<section_end>
