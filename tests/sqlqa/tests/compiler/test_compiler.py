@@ -24,6 +24,7 @@ import tests.lib.hpdci as hpdci
 hpdci.prog_parse_args_from_initfile()
 
 import tests.compiler.explain.tunit
+import tests.compiler.hbasepart.tunit
 import tests.compiler.joinelim.tunit
 import tests.compiler.skey.tunit
 import tests.compiler.smf1.tunit
@@ -74,6 +75,12 @@ class TestCompiler(unittest.TestCase):
         # == GLOBAL TABLES: g_tpch2x, g_tpcds1x, g_wisc32
         testlist=[]
         self.run_testunit(tests.compiler.explain.tunit, testlist)
+
+    # @unittest.skip('skip this test')
+    def test_hbasepart(self):
+        # == GLOBAL TABLES: g_tpch2x
+        testlist=[]
+        self.run_testunit(tests.compiler.hbasepart.tunit, testlist)
 
     # @unittest.skip('skip this test')
     def test_joinelim(self):
