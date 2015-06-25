@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -7,12 +28,12 @@
 #include "common.h"
 #include "log.h"
 
-/* SEAQUEST: Need to make sure that the ID used here as SQ_GRANTEE is
+/* Need to make sure that the ID used here as SQ_GRANTEE is
  *           registered on the target system.  There is a script
  *           src/scripts/regLDAPuser.sql that can be obeyed from sqlci
  *           on the target, if the IDs have not been registered.
  */
-/* SEAQUEST */ #define SQ_GRANTEE "QAUSER_EXECS" /* "DB__ROOT" */
+/* SQ */ #define SQ_GRANTEE "QAUSER_EXECS" /* "DB__ROOT" */
 
 #define NAME_LEN		300
 #define NUM_TABPRIV_OUTPUTS	8
@@ -40,7 +61,7 @@ PassFail TestMXSQLTablePrivileges( TestInfo *pTestInfo)
 	TCHAR			TableQualifier[NAME_LEN],TableOwner[NAME_LEN],*TableStr;
 
 	TCHAR			*TableName;
-	TCHAR			*Grantor; //Assume that we log on NSK as role.user
+	TCHAR			*Grantor; //Assume that we log on as role.user
 
 	TCHAR			oTableQualifier[NAME_LEN];  
 	TCHAR			oTableOwner[NAME_LEN];

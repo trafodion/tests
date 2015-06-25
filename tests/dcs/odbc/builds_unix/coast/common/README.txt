@@ -1,10 +1,30 @@
-Go to the proper machine that has the right OS (linux, HP-UX, etc)
+-- @@@ START COPYRIGHT @@@
+--
+-- (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+--
+--  Licensed under the Apache License, Version 2.0 (the "License");
+--  you may not use this file except in compliance with the License.
+--  You may obtain a copy of the License at
+--
+--      http://www.apache.org/licenses/LICENSE-2.0
+--
+--  Unless required by applicable law or agreed to in writing, software
+--  distributed under the License is distributed on an "AS IS" BASIS,
+--  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+--  See the License for the specific language governing permissions and
+--  limitations under the License.
+--
+-- @@@ END COPYRIGHT @@@
+
+
+
+Go to the proper machine that has the right OS (linux,etc)
 
 to build it:
 (1) . ./setup.sh
 (2) make clean
 (3) make
-    <NOTE: make will also create soft links for *.char files and MXODSN;
+    <NOTE: make will also create soft links for *.char files and TRAFDSN;
      they are needed for running the program>
 
 to run it:
@@ -14,13 +34,12 @@ to run it:
    be done once per machine.
 
 (B) On the client side:
-(1) Make sure that MXODSN has an entry for the data source that you are
+(1) Make sure that TRAFDSN has an entry for the data source that you are
     going to provide to the -d option
 (2) Modify env.sh to have your dsn/usrid/password/charset
 (3) . ./setup.sh
 (4) . ./env.sh
 (5) ./run.sh
-(6) Once you are done, please move the log file(s) to the location where
     the file(s) can be saved.
 
 A few notes if you are running the UNICODE version:
@@ -66,14 +85,4 @@ A few notes if you are running the UNICODE version:
 
     ucnv_fromUChars(icu_conv->locale,....)
     ucnv_toUChars(icu_conv->locale,...)
-(5) On Seaquest, we no longer support inserting a GBK or SJIS characters into
-    a ISO88591 column.  They can only be inserted into a UCS2 column (Seaquest
-    M5 feature) or UTF8 column (Seaquest M6 feature).  If you declare a 
-    column with no attribute, they will be treated as ISO88591.  If you 
-    intend to insert a GBK/SJIS column, you will have to declare the column
-    as 
-    colname char(10) character set ucs2
-    colname varchar(10) character set ucs2
-    The Neoview version of xxx.char files have a lot of ISO88591 columns for
-    GBK/SJIS,  they will no longer work in Seaquest anymore.
 

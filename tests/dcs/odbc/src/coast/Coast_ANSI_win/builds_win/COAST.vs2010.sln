@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COAST", "COAST.vs2010.vcxproj", "{E4020104-5DB9-485B-8071-8A055D74BB58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Charset|Win32 = Charset|Win32
+		Charset|x64 = Charset|x64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		LDAP|Win32 = LDAP|Win32
+		LDAP|x64 = LDAP|x64
+		Trafodion|Win32 = Trafodion|Win32
+		Trafodion|x64 = Trafodion|x64
+		R22|Win32 = R22|Win32
+		R22|x64 = R22|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		WM|Win32 = WM|Win32
+		WM|x64 = WM|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Charset|Win32.ActiveCfg = Charset|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Charset|Win32.Build.0 = Charset|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Charset|x64.ActiveCfg = Charset|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Charset|x64.Build.0 = Charset|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Debug|Win32.Build.0 = Debug|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Debug|x64.ActiveCfg = Debug|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Debug|x64.Build.0 = Debug|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.LDAP|Win32.ActiveCfg = LDAP|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.LDAP|Win32.Build.0 = LDAP|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.LDAP|x64.ActiveCfg = LDAP|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.LDAP|x64.Build.0 = LDAP|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Trafodion|Win32.ActiveCfg = Trafodion|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Trafodion|Win32.Build.0 = Trafodion|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Trafodion|x64.ActiveCfg = Trafodion|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Trafodion|x64.Build.0 = Trafodion|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.R22|Win32.ActiveCfg = R22|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.R22|Win32.Build.0 = R22|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.R22|x64.ActiveCfg = R22|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.R22|x64.Build.0 = R22|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Release|Win32.ActiveCfg = Release|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Release|Win32.Build.0 = Release|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Release|x64.ActiveCfg = Release|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.Release|x64.Build.0 = Release|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.WM|Win32.ActiveCfg = WM|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.WM|Win32.Build.0 = WM|Win32
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.WM|x64.ActiveCfg = WM|x64
+		{E4020104-5DB9-485B-8071-8A055D74BB58}.WM|x64.Build.0 = WM|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

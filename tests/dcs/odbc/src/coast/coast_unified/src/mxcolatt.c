@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -35,8 +56,8 @@ PassFail TestMXSQLColAttributes(TestInfo *pTestInfo)
 #define			NUMBER_OF_COLUMNS		29
 
 #ifdef _LP64
-	SQLINTEGER pfDesc_4bytes; // sushil
-	SQLLEN	   pfDesc_8bytes; // sushil
+	SQLINTEGER pfDesc_4bytes; 
+	SQLLEN	   pfDesc_8bytes; 
 #endif
 	SQLLEN		pfDesc; // Use for 32 bit
 	int			dw;
@@ -332,7 +353,7 @@ PassFail TestMXSQLColAttributes(TestInfo *pTestInfo)
 						LogMsg(NONE,_T("pfDesc Expected: %d\tActual: %d\n"),ColAttr[icol-1].pDes[iatt],pfDesc);*/
 					}
 					else{
-						//if (_tcscmp(rgbDesc, _T("NEO")) != 0){
+						//if (_tcscmp(rgbDesc, _T("TRAFODION")) != 0){
 						if (_tcscmp(rgbDesc, _T("TRAFODION")) != 0){
 							LogMsg(NONE,_T("%d\n"), iatt);
 							TEST_FAILED;	
@@ -359,7 +380,7 @@ PassFail TestMXSQLColAttributes(TestInfo *pTestInfo)
 						*/
 					}	
 					else{
-						//if (_tcscmp(rgbDesc, _T("NEO")) != 0){
+						//if (_tcscmp(rgbDesc, _T("TRAFODION")) != 0){
 						if (_tcscmp(rgbDesc, _T("TRAFODION")) != 0){
 							TEST_FAILED;	
 							LogMsg(ERRMSG,_T("Column C%d & ColAtt %s, Line = %d\n"),icol,SQLDescToChar(DescType[iatt],TempStr),__LINE__);

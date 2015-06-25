@@ -1,3 +1,22 @@
+# @@@ START COPYRIGHT @@@
+#
+# (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+#
+#  Licensed under the Apache License, Version 2.0 (the "License");
+#  you may not use this file except in compliance with the License.
+#  You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+#  Unless required by applicable law or agreed to in writing, software
+#  distributed under the License is distributed on an "AS IS" BASIS,
+#  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#  See the License for the specific language governing permissions and
+#  limitations under the License.
+#
+# @@@ END COPYRIGHT @@@
+
+
 use Encode;
 
 die "Wong argument!\nUsage: encode.pl charset\ncharset: ASCII|LATIN1|SJIS|GBK(GB2)" if ($#ARGV != 0);
@@ -4113,92 +4132,92 @@ sub generate_script
 	print OUT "	SQLColumnPrivileges_TableCol_Col_22  \"" . $h{"C23"} . "\""."\n";
 	print OUT "	SQLColumnPrivileges_TableCol_Col_23  \"" . $h{"C24"} . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_0   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_0   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_0 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_0  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_0  \"" . $wc[0] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_1   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_1   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_1 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_1  \"\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_1  \"\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_2   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_2   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_2 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_2  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_2  \"\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_3   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_3   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_3 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_3  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_3  \"" . $wc[1] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_4   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_4   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_4 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_4  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_4  \"\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_5   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_5   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_5 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_5  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_5  \"" . $wc[2] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_6   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_6   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_6 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_6  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_6  \"%\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_7   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_7   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_7 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_7  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_7  \"" . $wc[3] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_8   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_8   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_8 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_8  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_8  \"" . $wc[4] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_9   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_9   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_9 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_9  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_9  \"%\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_10   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_10   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_10 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_10  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_10  \"" . $wc[5] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_11   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_11   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_11 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_11  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_11  \"" . $wc[6] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_12   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_12   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_12 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_12  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_12  \"" . $wc[7] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_13   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_13   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_13 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_13  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_13  \"" . $wc[8] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_14   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_14   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_14 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_14  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_14  \"" . $wc[9] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_15   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_15   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_15 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_15  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_15  \"" . $wc[10] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_16   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_16   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_16 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_16  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_16  \"" . $wc[11] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_17   \"NEO\""."\n";
+	print OUT "	SQLColumnPrivileges_ColumnWC_TabQua_17   \"TRAFODION\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabOwner_17 \"" . $delimited . $h{"TABLE_NAME1"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_TabName_17  \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLColumnPrivileges_ColumnWC_ColName_17  \"" . $wc[12] . "\""."\n";
@@ -4296,27 +4315,27 @@ sub generate_script
 	print OUT "	SQLTablePrivileges_TableCol_Col_29   \"" . $h{"C30"} . " numeric(18,5) unsigned\""."\n";
 	print OUT "	SQLTablePrivileges_TableCol_Col_30   \"" . $h{"C31"} . " numeric(30,10) unsigned\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_0   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_0   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_0 \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_0  \"" . $wc[1] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_1   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_1   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_1 \"%\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_1  \"" . $wc[2] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_2   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_2   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_2 \"DEFINI%\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_2  \"%\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_3   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_3   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_3 \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_3  \"%\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_4   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_4   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_4 \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_4  \"NULL\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_5   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_5   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_5 \"%\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_5  \"%\""."\n";
 	print OUT ""."\n";
@@ -4324,23 +4343,23 @@ sub generate_script
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_6 \"NULL\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_6  \"NULL\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_7   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_7   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_7 \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_7  \"" . $wc[3] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_8   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_8   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_8 \"%\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_8  \"" . $wc[4] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_9   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_9   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_9 \"%\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_9  \"" . $wc[5] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_10   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_10   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_10 \"%\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_10  \"" . $wc[6] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_11   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_11   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_11 \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_11  \"" . $wc[7] . "\""."\n";
 	print OUT ""."\n";
@@ -4360,7 +4379,7 @@ sub generate_script
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_15 \"%\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_15  \"%\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_16   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_16   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_16 \"\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_16  \"\""."\n";
 	print OUT ""."\n";
@@ -4372,16 +4391,16 @@ sub generate_script
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_18 \"%\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_18  \"" . $wc[8] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_19   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC_TabQua_19   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabOwner_19 \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC_TabName_19  \"\""."\n";
 	print OUT ""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC2_TabQua_0   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC2_TabQua_0   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC2_TabOwner_0 \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC2_TabName_0  \"" . $wc[9] . "\""."\n";
 	print OUT ""."\n";
-	print OUT "	SQLTablePrivileges_ColumnWC2_TabQua_1   \"NEO\""."\n";
+	print OUT "	SQLTablePrivileges_ColumnWC2_TabQua_1   \"TRAFODION\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC2_TabOwner_1 \"" . $delimited . $h{"TABLE_NAME2"} . "" . $delimited . "\""."\n";
 	print OUT "	SQLTablePrivileges_ColumnWC2_TabName_1  \"" . $wc[10] . "\""."\n";
 	print OUT "[END]"."\n";

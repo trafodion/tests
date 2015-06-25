@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -35,8 +56,8 @@ PassFail TestSQLDescribeParam(TestInfo *pTestInfo, int MX_MP_SPECIFIC)
 								#ifdef UNICODE
 								,SQL_WCHAR,SQL_WVARCHAR,SQL_WVARCHAR,SQL_CHAR,SQL_VARCHAR,SQL_VARCHAR
 								#endif			
-							};										// SQL_DOUBLE for SQL_FLOAT SQL/MX limitation
-																	//SQL_BIGINT replaced by SQL_NUMERIC in SQL/MX
+							};										// SQL_DOUBLE for SQL_FLOAT limitation
+																	//SQL_BIGINT replaced by SQL_NUMERIC 
 	SWORD		MPSQLType[] = 
 							{
 								SQL_CHAR,SQL_VARCHAR,SQL_DECIMAL,SQL_NUMERIC,SQL_SMALLINT,SQL_INTEGER,SQL_REAL,
@@ -49,7 +70,7 @@ PassFail TestSQLDescribeParam(TestInfo *pTestInfo, int MX_MP_SPECIFIC)
 								,SQL_WCHAR,SQL_WVARCHAR,SQL_WVARCHAR,SQL_CHAR,SQL_VARCHAR,SQL_VARCHAR
 								#endif
 							};						
-    SQLULEN cp; // sushil
+    SQLULEN cp; 
 	SWORD		cs, cnull;
 #ifdef UNICODE
 	SQLULEN		ColPrec[] =   {10,10,10,10,5,10,7,15,15,10,8,26,19,2000,19,19,128,128,128,10,18,30,10,10,2000,40,40,2000};

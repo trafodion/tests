@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -27,7 +48,7 @@ PassFail TestMXSQLEndTran(TestInfo *pTestInfo)
 							{
 								//"create table testtransact(c1 TCHAR(20),c2 integer)",
 								//"create table testtransact(c1 TCHAR(20),c2 integer) NO PARTITION",
-                                // The  NO PARTITION is to help speed up this test on NEO/clustered systems with POS turned on.
+                                // The  NO PARTITION is to help speed up this test on clustered systems with POS turned on.
 								_T("--"),
 								_T("--"),
 								_T("--"),
@@ -38,7 +59,7 @@ PassFail TestMXSQLEndTran(TestInfo *pTestInfo)
 	UWORD			fType[] = { SQL_ROLLBACK, SQL_COMMIT };
 	TCHAR			*TypeDesc[] = { _T("SQL_ROLLBACK"), _T("SQL_COMMIT") };
 	TCHAR			*Output;
-	SQLLEN			OutputLen; // sushil
+	SQLLEN			OutputLen; 
 	struct
 	{
 		SWORD	ExeRes[2];

@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -158,7 +179,7 @@ PassFail TestMXSQLGetData(TestInfo *pTestInfo)
 #endif
 
 	TCHAR	*CCharOutput[MAX_NUM1];
-	SQLLEN	OutputLen1[MAX_NUM1]; // sushil
+	SQLLEN	OutputLen1[MAX_NUM1]; //  
 	TCHAR	*DrpTab1,*CrtTab1,*InsTab1,*SelTab1;
 
 //==========================================================================================
@@ -280,9 +301,9 @@ PassFail TestMXSQLGetData(TestInfo *pTestInfo)
 	short int			CSShortOutput[MAX_NUM2];
 	unsigned short int	CUShortOutput[MAX_NUM2];
 	short int			CShortOutput[MAX_NUM2];
-	int					CSLongOutput[MAX_NUM2]; // sushil
-	unsigned int		CULongOutput[MAX_NUM2]; // sushil
-	int					CLongOutput[MAX_NUM2]; // sushil
+	int					CSLongOutput[MAX_NUM2]; //  
+	unsigned int		CULongOutput[MAX_NUM2]; //  
+	int					CLongOutput[MAX_NUM2]; //  
 
 	struct
 	{
@@ -450,7 +471,7 @@ PassFail TestMXSQLGetData(TestInfo *pTestInfo)
 			unsigned short int	hour;
 			unsigned short int	minute;
 			unsigned short int	second;
-			unsigned int		fraction; // sushil
+			unsigned int		fraction; //  
 		} OutputTimestampDef;
 		TCHAR					*OutputLVCharDef;
 		char					*OutputBigintDef;
@@ -482,7 +503,7 @@ PassFail TestMXSQLGetData(TestInfo *pTestInfo)
 	char					*NumDefOutput;
 	signed short int		SSintDefOutput;
 	unsigned short int		USintDefOutput;
-	signed int				SLintDefOutput; // sushil
+	signed int				SLintDefOutput; //  
 	char					*ULintDefOutput;
 	float					RealDefOutput;
 	double					FloatDefOutput;
@@ -502,7 +523,7 @@ PassFail TestMXSQLGetData(TestInfo *pTestInfo)
     wchar_t					*UTF8LVCharDefOutput;
 #endif
 
-	SQLLEN					DefOutputLen[MAX_NUM4]; // sushil
+	SQLLEN					DefOutputLen[MAX_NUM4]; //  
 	TCHAR					conversionbuffer[NAME_LEN*2];
 	int						sizeconversion=0;
 	
@@ -528,7 +549,7 @@ PassFail TestMXSQLGetData(TestInfo *pTestInfo)
 						{999}};
 
 	TCHAR	*COutputlessBuf[MAX_NUM3];
-	SQLLEN	OutputLenlessbuf[MAX_NUM3]; // sushil
+	SQLLEN	OutputLenlessbuf[MAX_NUM3]; //  
 	TCHAR	*DrpTab6,*CrtTab6,*InsTab6,*SelTab6;
 
 	int		i,k;

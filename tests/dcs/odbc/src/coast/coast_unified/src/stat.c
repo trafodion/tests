@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -103,15 +124,15 @@ PassFail TestSQLStatistics(TestInfo *pTestInfo, int MX_MP_SPECIFIC)
 		TCHAR		*TabOwner;
 		TCHAR		*TabName;
 	} StatisticsWC[] = {								/* wild cards from here */
-							//{"TANDEM_SYSTEM_NSK",pTestInfo->Schema,""},
+							//{"TRAFODIN",pTestInfo->Schema,""},
 							//{"endloop",},
 							//{"",pTestInfo->Schema,""}, 
 							//{"",pTestInfo->Schema,"OBJECTS"}, 
 							//{"",pTestInfo->Schema,""}, 
-							//{"TANDEM_SYSTEM_NSK",pTestInfo->Schema,""},
+							//{"TRAFODIN",pTestInfo->Schema,""},
 							// Changing schema name to ODBC_SCHEMA for R2.0	
-							//{"TANDEM_SYSTEM_NSK","DEFINITION_SCHEMA_VERSION_1000","TSTTBLST"},
-							//{"TANDEM_SYSTEM_NSK","DEFINITION_SCHEMA_VERSION_1000","TSTTBLEI"},
+							//{"TRAFODIN","DEFINITION_SCHEMA_VERSION_1000","TSTTBLST"},
+							//{"TRAFODIN","DEFINITION_SCHEMA_VERSION_1000","TSTTBLEI"},
 							{pTestInfo->Catalog,pTestInfo->Schema,_T("--")},
 							{pTestInfo->Catalog,pTestInfo->Schema,_T("--")},
 							{_T("endloop"),}
@@ -127,8 +148,8 @@ PassFail TestSQLStatistics(TestInfo *pTestInfo, int MX_MP_SPECIFIC)
 		SWORD		TabNameLen;
 	} StatisticsWC2[] = {								/* wild cards from here */
 							{pTestInfo->Catalog, (SWORD)-1, pTestInfo->Schema,(SWORD)-1, _T("--"),(SWORD)-1},
-						  //{"TANDEM_SYSTEM_NSK", (SWORD)4, pTestInfo->Schema,(SWORD)2, "OBJECTS",(SWORD)2},
-						  //{"TANDEM_SYSTEM_NSK", (SWORD)0, pTestInfo->Schema,(SWORD)0, "OBJECTS",(SWORD)0},
+						  //{"TRAFODIN", (SWORD)4, pTestInfo->Schema,(SWORD)2, "OBJECTS",(SWORD)2},
+						  //{"TRAFODIN", (SWORD)0, pTestInfo->Schema,(SWORD)0, "OBJECTS",(SWORD)0},
 							{_T("endloop"),}
 						};
 	
@@ -139,15 +160,15 @@ PassFail TestSQLStatistics(TestInfo *pTestInfo, int MX_MP_SPECIFIC)
 		TCHAR		*TabOwner;
 		TCHAR		*TabName;
 	} StatisticsWC3[] = {				/* wild cards from here */
-							//{"TANDEM_SYSTEM_NSK",pTestInfo->Schema,""},
+							//{"TRAFODIN",pTestInfo->Schema,""},
 							//{"endloop",},
 							//{"",pTestInfo->Schema,""}, 
 							//{"",pTestInfo->Schema,"OBJECTS"}, 
 							//{"",pTestInfo->Schema,""}, 
-							//{"TANDEM_SYSTEM_NSK",pTestInfo->Schema,""},
+							//{"TRAFODIN",pTestInfo->Schema,""},
 							// Changing schema name to ODBC_SCHEMA for R2.0					
-							//{"TANDEM_SYSTEM_NSK","DEFINITION_SCHEMA_VERSION_1000","TsTtBlSt"},
-							//{"TANDEM_SYSTEM_NSK","DEFINITION_SCHEMA_VERSION_1000","tStTbLeI"},
+							//{"TRAFODIN","DEFINITION_SCHEMA_VERSION_1000","TsTtBlSt"},
+							//{"TRAFODIN","DEFINITION_SCHEMA_VERSION_1000","tStTbLeI"},
 							{pTestInfo->Catalog,pTestInfo->Schema,_T("--")},
 							{pTestInfo->Catalog,pTestInfo->Schema,_T("--")},
 							{_T("endloop"),}

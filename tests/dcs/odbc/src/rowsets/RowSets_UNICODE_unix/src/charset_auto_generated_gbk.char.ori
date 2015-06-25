@@ -1,0 +1,144 @@
+-- @@@ START COPYRIGHT @@@
+--
+-- (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+--
+--  Licensed under the Apache License, Version 2.0 (the "License");
+--  you may not use this file except in compliance with the License.
+--  You may obtain a copy of the License at
+--
+--      http://www.apache.org/licenses/LICENSE-2.0
+--
+--  Unless required by applicable law or agreed to in writing, software
+--  distributed under the License is distributed on an "AS IS" BASIS,
+--  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+--  See the License for the specific language governing permissions and
+--  limitations under the License.
+--
+-- @@@ END COPYRIGHT @@@
+
+
+
+-- This text file is for testing ASCII version. Be careful when modifying its contents.
+-- Syntax:
+-- TABLE_NAMEx    : where x is an interger, present a table name with a fixed size of 10 characters. Ex: TABLE_NAME1, TABLE_NAME2, ...
+-- TABLE_NAMEx_y  : where x, y are intergers, present a table name with size of y characters. Ex: TABLE_NAME1_10, TABLE_NAME2_128, ...
+-- TABLE_NAMEx_A  : where x is an interger, and A is a letter. After the conversion, the table name becomes TABLE_NAMExA.
+--                  This syntax is used in api SQLForeignKeys. Ex: TABLE_NAME1_A  --> TABLE_NAME1A
+-- Cx             : where x is an interger, present a column name. Ex: C1, C2, C01, C02, ...
+-- Cx             : where x is an interger, present a column name. Ex: C1, C2, C01, C02, ...
+-- LITERALx_y     : where x, y are intergers, present a literal of size y in characters. Ex: LITERAL0_15, LITERAL1_10, ...
+-- BLITERALx_y    : where x, y are intergers, present a literal of size y in bytes. Ex: BLITERAL0_15, BLITERAL1_10, ...
+-- BLITERALx_y_z  : where x, y, z are intergers, present a literal of size z in bytes. y is the maximum size of the result string.
+--                  And (z-y) is the number of space characters added to the end. Ex: BLITERAL0_15_20, BLITERAL1_10_30, ...
+-- WILDCARD_m|(.)n: where m, n are strings, present a wildcard conversion from m to n. m is the original string, n is a wildcard string.
+--                  Each dot character (.) presents for one character in m to be ignored without conversion.
+--                  Ex: WILDCARD_OBJECTS|OBJ%, WILDCARD_VIEWS|V___S, WILDCARD_CREATE_TIME|......%TIME
+
+[SchemaName 1]
+	SchemaName "TRUNG_TEST"
+
+[END]
+
+
+[Rowsets 61]
+	
+	-- REGULAR
+	ExecSQLStr0 "DROP TABLE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" CASCADE"
+	ExecSQLStr1 "CREATE TABLE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" ( "®iï¯—•ò´…ÀÚ×âÆ´û" CHAR( 20 ) CHARACTER SET utf8 NOT NULL, "ÏwóöÍP‘–ìãøƒãÈÍqœá" CHAR( 20 ) CHARACTER SET UCS2, "à€†â×âëFï–ÑÎ ÔˆCÏJˆÏ" VARCHAR( 20 ) CHARACTER SET utf8, "ðB¤ÏR†¼™‰ ¤‡pÛµ“]" VARCHAR( 20 ) CHARACTER SET UCS2, "Ä¼Æîúdëyô…ŒÔ˜ÐÀd‹¥" LONG VARCHAR( 20 ) CHARACTER SET utf8, "ÓÈÖÚóˆ§“‘Ïbô ¬SˆÕ‹–" LONG VARCHAR( 20 ) CHARACTER SET UCS2, "Ÿv‡ÛÕÞ’Ò¹ÚÊœˆðÓùŸóŠþ" NCHAR( 20 ), "·ãÀ`ëtÕrõ‹‘ºMÚÊò¼ìj" NCHAR VARYING( 20 ), "“Îç¶Í›ßÕŸÑ¼ÖxŒ›«L" DECIMAL (8, 0) SIGNED, "ŠÓÈ™iÆé»~¶õÁ¨÷ŒÓ³" DECIMAL (8, 0) UNSIGNED, "÷áô†óÝlÛ¾ˆÙïOŸ¾þH" NUMERIC (8, 0) SIGNED, "®XµgªIÑÝùxÞûÐ~öÓÞÙy" NUMERIC (8, 0) UNSIGNED, "Šó–ÀßÕ‰¨çŠ‘à—C·ä¼’" TINYINT SIGNED, "æXÎ×ÃÕóDÅwÐ§îLª˜â‰\" TINYINT UNSIGNED, "ŸÞÕä†ôxÎñÁI‚ÜìëÝŽÂR" SMALLINT SIGNED, "ƒ™˜MóÁÇR˜dèÎcû@ÏG" SMALLINT UNSIGNED, "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" INTEGER SIGNED NOT NULL, "Ú‹·íÈTÉù¶{ƒÍæá‘u‡þ" INTEGER UNSIGNED, "üf M»Wõþæo†jÊí ý“r" LARGEINT NOT NULL NOT DROPPABLE, "‚Åá‹ÎEÔ˜–›ÅÜZÍeë¬" REAL, "ò‹ÛW›¢¬y—½­p¶ÔÐøë‡" FLOAT(54), "Ç{œÞ—E¼ßóOÕË‚œ®dÌA¶F" DOUBLE PRECISION, "ÜÏƒA¯]Ùb‘ª cì…åÃªg" DATE, "é}úRÃ«ñ…±bœÉÝi™Ïž÷ü@" TIME, "äHÉÙ´¼Ê¯âÃÃÖ®KÁ†Ø€Áî" TIMESTAMP, "êŒÁ×uìŸø¿þÑ§gäÞ" INTERVAL YEAR, "ÁÏ›ˆà‡í€Ððföl¾ËÎs÷Ø" INTERVAL MONTH, "@ã¤ºÍ´õàëñŽ½]‰GC‘±" INTERVAL DAY, "ÐŸ“dµxÇÆèÏÈZ—¬¶ÍÇžÌÅ" INTERVAL HOUR, "I°Ð‘fôÞŸ’Òd„ƒï•À" INTERVAL MINUTE, "¸WÍ–ãÎâ©¶gÀÔÕCÍúÁi" INTERVAL SECOND, "®žóó¶[ÇcÖs‰°åªÄ†çn" INTERVAL YEAR TO MONTH, "——ÞÄû\Éì¹Îõ¥äz•ðíX" INTERVAL DAY TO HOUR, "æ‰®TÏè÷z÷fí‰Ûm‚@Êá—©" INTERVAL DAY TO MINUTE, "ì­†ø¹Yƒ±ùjÃÍšDÊÝñy±" INTERVAL DAY TO SECOND, "°t‚´‡DÉcØVëúÃûÆÒ‹Øõ" INTERVAL HOUR TO MINUTE, "ÏMÇÇÊøåNµ‚Ã×U”Ùæa" INTERVAL HOUR TO SECOND, "ˆîékÚ–÷Ã‚õ»\îÆ³zèßµð" INTERVAL MINUTE TO SECOND, "½×äº•÷„cóÓµéëùÑhß_" NUMERIC (19, 0) SIGNED, "êX´’ÛnÍ›ûÁžlÎA‘Á" NUMERIC (19, 0) UNSIGNED, PRIMARY KEY ( "üf M»Wõþæo†jÊí ý“r" ), CONSTRAINT "Àï™¹îôÓ€×{ä§›cÐŽšlçø" CHECK ( "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" < 50000 ) )"
+	ExecSQLStr2 "INSERT INTO "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" ( "®iï¯—•ò´…ÀÚ×âÆ´û", "ÏwóöÍP‘–ìãøƒãÈÍqœá", "à€†â×âëFï–ÑÎ ÔˆCÏJˆÏ", "ðB¤ÏR†¼™‰ ¤‡pÛµ“]", "Ä¼Æîúdëyô…ŒÔ˜ÐÀd‹¥", "ÓÈÖÚóˆ§“‘Ïbô ¬SˆÕ‹–", "Ÿv‡ÛÕÞ’Ò¹ÚÊœˆðÓùŸóŠþ", "·ãÀ`ëtÕrõ‹‘ºMÚÊò¼ìj", "“Îç¶Í›ßÕŸÑ¼ÖxŒ›«L", "ŠÓÈ™iÆé»~¶õÁ¨÷ŒÓ³", "÷áô†óÝlÛ¾ˆÙïOŸ¾þH", "®XµgªIÑÝùxÞûÐ~öÓÞÙy", "Šó–ÀßÕ‰¨çŠ‘à—C·ä¼’", "æXÎ×ÃÕóDÅwÐ§îLª˜â‰\", "ŸÞÕä†ôxÎñÁI‚ÜìëÝŽÂR", "ƒ™˜MóÁÇR˜dèÎcû@ÏG", "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚", "Ú‹·íÈTÉù¶{ƒÍæá‘u‡þ", "üf M»Wõþæo†jÊí ý“r", "‚Åá‹ÎEÔ˜–›ÅÜZÍeë¬", "ò‹ÛW›¢¬y—½­p¶ÔÐøë‡", "Ç{œÞ—E¼ßóOÕË‚œ®dÌA¶F", "ÜÏƒA¯]Ùb‘ª cì…åÃªg", "é}úRÃ«ñ…±bœÉÝi™Ïž÷ü@", "äHÉÙ´¼Ê¯âÃÃÖ®KÁ†Ø€Áî", "êŒÁ×uìŸø¿þÑ§gäÞ", "ÁÏ›ˆà‡í€Ððföl¾ËÎs÷Ø", "@ã¤ºÍ´õàëñŽ½]‰GC‘±", "ÐŸ“dµxÇÆèÏÈZ—¬¶ÍÇžÌÅ", "I°Ð‘fôÞŸ’Òd„ƒï•À", "¸WÍ–ãÎâ©¶gÀÔÕCÍúÁi", "®žóó¶[ÇcÖs‰°åªÄ†çn", "——ÞÄû\Éì¹Îõ¥äz•ðíX", "æ‰®TÏè÷z÷fí‰Ûm‚@Êá—©", "ì­†ø¹Yƒ±ùjÃÍšDÊÝñy±", "°t‚´‡DÉcØVëúÃûÆÒ‹Øõ", "ÏMÇÇÊøåNµ‚Ã×U”Ùæa", "ˆîékÚ–÷Ã‚õ»\îÆ³zèßµð", "½×äº•÷„cóÓµéëùÑhß_", "êX´’ÛnÍ›ûÁžlÎA‘Á" ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ? )"
+	ExecSQLStr3 "SELECT * FROM "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" ORDER BY "üf M»Wõþæo†jÊí ý“r""
+	ExecSQLStr4 "DELETE FROM "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ""
+	ExecSQLStr5 "DELETE FROM "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" WHERE CURRENT OF TABLECURSOR"
+	ExecSQLStr6 "DELETE FROM "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" WHERE "®iï¯—•ò´…ÀÚ×âÆ´û" = ? AND "à€†â×âëFï–ÑÎ ÔˆCÏJˆÏ" = ? AND "Ä¼Æîúdëyô…ŒÔ˜ÐÀd‹¥" = ? AND "ÓÈÖÚóˆ§“‘Ïbô ¬SˆÕ‹–" = ? AND "Ÿv‡ÛÕÞ’Ò¹ÚÊœˆðÓùŸóŠþ" = ? AND "·ãÀ`ëtÕrõ‹‘ºMÚÊò¼ìj" = ?"
+	ExecSQLStr7 "UPDATE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" SET "®iï¯—•ò´…ÀÚ×âÆ´û"=?, "ÏwóöÍP‘–ìãøƒãÈÍqœá"=?, "à€†â×âëFï–ÑÎ ÔˆCÏJˆÏ"=?, "ðB¤ÏR†¼™‰ ¤‡pÛµ“]" = ?, "Ä¼Æîúdëyô…ŒÔ˜ÐÀd‹¥"=?, "ÓÈÖÚóˆ§“‘Ïbô ¬SˆÕ‹–"=?, "Ÿv‡ÛÕÞ’Ò¹ÚÊœˆðÓùŸóŠþ"=?, "·ãÀ`ëtÕrõ‹‘ºMÚÊò¼ìj" = ?, "“Îç¶Í›ßÕŸÑ¼ÖxŒ›«L"=?, "ŠÓÈ™iÆé»~¶õÁ¨÷ŒÓ³"=?, "÷áô†óÝlÛ¾ˆÙïOŸ¾þH"=?, "®XµgªIÑÝùxÞûÐ~öÓÞÙy" = ?, "Šó–ÀßÕ‰¨çŠ‘à—C·ä¼’"=?, "æXÎ×ÃÕóDÅwÐ§îLª˜â‰\"=?, "ŸÞÕä†ôxÎñÁI‚ÜìëÝŽÂR"=?, "ƒ™˜MóÁÇR˜dèÎcû@ÏG" = ?, "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" = ?, "Ú‹·íÈTÉù¶{ƒÍæá‘u‡þ"=?, "‚Åá‹ÎEÔ˜–›ÅÜZÍeë¬"=?, "ò‹ÛW›¢¬y—½­p¶ÔÐøë‡" = ?, "Ç{œÞ—E¼ßóOÕË‚œ®dÌA¶F"=?, "ÜÏƒA¯]Ùb‘ª cì…åÃªg"=?, "é}úRÃ«ñ…±bœÉÝi™Ïž÷ü@"=?, "äHÉÙ´¼Ê¯âÃÃÖ®KÁ†Ø€Áî" = ?, "êŒÁ×uìŸø¿þÑ§gäÞ"=?, "ÁÏ›ˆà‡í€Ððföl¾ËÎs÷Ø"=?, "@ã¤ºÍ´õàëñŽ½]‰GC‘±"=?, "ÐŸ“dµxÇÆèÏÈZ—¬¶ÍÇžÌÅ" = ?, "I°Ð‘fôÞŸ’Òd„ƒï•À"=?, "¸WÍ–ãÎâ©¶gÀÔÕCÍúÁi"=?, "®žóó¶[ÇcÖs‰°åªÄ†çn"=?, "——ÞÄû\Éì¹Îõ¥äz•ðíX" = ?, "æ‰®TÏè÷z÷fí‰Ûm‚@Êá—©" = ?, "ì­†ø¹Yƒ±ùjÃÍšDÊÝñy±" = ?, "°t‚´‡DÉcØVëúÃûÆÒ‹Øõ" = ?, "ÏMÇÇÊøåNµ‚Ã×U”Ùæa" = ?, "ˆîékÚ–÷Ã‚õ»\îÆ³zèßµð" = ?, "½×äº•÷„cóÓµéëùÑhß_" = ?, "êX´’ÛnÍ›ûÁžlÎA‘Á" = ? WHERE "üf M»Wõþæo†jÊí ý“r" = ?"
+	
+	-- No parition table.
+	ExecSQLStr8 "CREATE TABLE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" ( "®iï¯—•ò´…ÀÚ×âÆ´û" CHAR( 20 ) CHARACTER SET utf8 NOT NULL, "ÏwóöÍP‘–ìãøƒãÈÍqœá" CHAR( 20 ) CHARACTER SET UCS2, "à€†â×âëFï–ÑÎ ÔˆCÏJˆÏ" VARCHAR( 20 ) CHARACTER SET utf8, "ðB¤ÏR†¼™‰ ¤‡pÛµ“]" VARCHAR( 20 ) CHARACTER SET UCS2, "Ä¼Æîúdëyô…ŒÔ˜ÐÀd‹¥" LONG VARCHAR( 20 ) CHARACTER SET utf8, "ÓÈÖÚóˆ§“‘Ïbô ¬SˆÕ‹–" LONG VARCHAR( 20 ) CHARACTER SET UCS2, "Ÿv‡ÛÕÞ’Ò¹ÚÊœˆðÓùŸóŠþ" NCHAR( 20 ), "·ãÀ`ëtÕrõ‹‘ºMÚÊò¼ìj" NCHAR VARYING( 20 ), "“Îç¶Í›ßÕŸÑ¼ÖxŒ›«L" DECIMAL (8, 0) SIGNED, "ŠÓÈ™iÆé»~¶õÁ¨÷ŒÓ³" DECIMAL (8, 0) UNSIGNED, "÷áô†óÝlÛ¾ˆÙïOŸ¾þH" NUMERIC (8, 0) SIGNED, "®XµgªIÑÝùxÞûÐ~öÓÞÙy" NUMERIC (8, 0) UNSIGNED, "Šó–ÀßÕ‰¨çŠ‘à—C·ä¼’" TINYINT SIGNED, "æXÎ×ÃÕóDÅwÐ§îLª˜â‰\" TINYINT UNSIGNED, "ŸÞÕä†ôxÎñÁI‚ÜìëÝŽÂR" SMALLINT SIGNED, "ƒ™˜MóÁÇR˜dèÎcû@ÏG" SMALLINT UNSIGNED, "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" INTEGER SIGNED NOT NULL, "Ú‹·íÈTÉù¶{ƒÍæá‘u‡þ" INTEGER UNSIGNED, "üf M»Wõþæo†jÊí ý“r" LARGEINT NOT NULL NOT DROPPABLE, "‚Åá‹ÎEÔ˜–›ÅÜZÍeë¬" REAL, "ò‹ÛW›¢¬y—½­p¶ÔÐøë‡" FLOAT(54), "Ç{œÞ—E¼ßóOÕË‚œ®dÌA¶F" DOUBLE PRECISION, "ÜÏƒA¯]Ùb‘ª cì…åÃªg" DATE, "é}úRÃ«ñ…±bœÉÝi™Ïž÷ü@" TIME, "äHÉÙ´¼Ê¯âÃÃÖ®KÁ†Ø€Áî" TIMESTAMP, "êŒÁ×uìŸø¿þÑ§gäÞ" INTERVAL YEAR, "ÁÏ›ˆà‡í€Ððföl¾ËÎs÷Ø" INTERVAL MONTH, "@ã¤ºÍ´õàëñŽ½]‰GC‘±" INTERVAL DAY, "ÐŸ“dµxÇÆèÏÈZ—¬¶ÍÇžÌÅ" INTERVAL HOUR, "I°Ð‘fôÞŸ’Òd„ƒï•À" INTERVAL MINUTE, "¸WÍ–ãÎâ©¶gÀÔÕCÍúÁi" INTERVAL SECOND, "®žóó¶[ÇcÖs‰°åªÄ†çn" INTERVAL YEAR TO MONTH, "——ÞÄû\Éì¹Îõ¥äz•ðíX" INTERVAL DAY TO HOUR, "æ‰®TÏè÷z÷fí‰Ûm‚@Êá—©" INTERVAL DAY TO MINUTE, "ì­†ø¹Yƒ±ùjÃÍšDÊÝñy±" INTERVAL DAY TO SECOND, "°t‚´‡DÉcØVëúÃûÆÒ‹Øõ" INTERVAL HOUR TO MINUTE, "ÏMÇÇÊøåNµ‚Ã×U”Ùæa" INTERVAL HOUR TO SECOND, "ˆîékÚ–÷Ã‚õ»\îÆ³zèßµð" INTERVAL MINUTE TO SECOND, "½×äº•÷„cóÓµéëùÑhß_" NUMERIC (19, 0) SIGNED, "êX´’ÛnÍ›ûÁžlÎA‘Á" NUMERIC (19, 0) UNSIGNED, PRIMARY KEY ( "üf M»Wõþæo†jÊí ý“r" ), CONSTRAINT "Àï™¹îôÓ€×{ä§›cÐŽšlçø" CHECK ( "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" < 50000 ) ) NO PARTITION "
+
+	-- HASH by table.
+	ExecSQLStr9 "CREATE TABLE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" ( "®iï¯—•ò´…ÀÚ×âÆ´û" CHAR( 20 ) CHARACTER SET utf8 NOT NULL, "ÏwóöÍP‘–ìãøƒãÈÍqœá" CHAR( 20 ) CHARACTER SET UCS2, "à€†â×âëFï–ÑÎ ÔˆCÏJˆÏ" VARCHAR( 20 ) CHARACTER SET utf8, "ðB¤ÏR†¼™‰ ¤‡pÛµ“]" VARCHAR( 20 ) CHARACTER SET UCS2, "Ä¼Æîúdëyô…ŒÔ˜ÐÀd‹¥" LONG VARCHAR( 20 ) CHARACTER SET utf8, "ÓÈÖÚóˆ§“‘Ïbô ¬SˆÕ‹–" LONG VARCHAR( 20 ) CHARACTER SET UCS2, "Ÿv‡ÛÕÞ’Ò¹ÚÊœˆðÓùŸóŠþ" NCHAR( 20 ), "·ãÀ`ëtÕrõ‹‘ºMÚÊò¼ìj" NCHAR VARYING( 20 ), "“Îç¶Í›ßÕŸÑ¼ÖxŒ›«L" DECIMAL (8, 0) SIGNED, "ŠÓÈ™iÆé»~¶õÁ¨÷ŒÓ³" DECIMAL (8, 0) UNSIGNED, "÷áô†óÝlÛ¾ˆÙïOŸ¾þH" NUMERIC (8, 0) SIGNED, "®XµgªIÑÝùxÞûÐ~öÓÞÙy" NUMERIC (8, 0) UNSIGNED, "Šó–ÀßÕ‰¨çŠ‘à—C·ä¼’" TINYINT SIGNED, "æXÎ×ÃÕóDÅwÐ§îLª˜â‰\" TINYINT UNSIGNED, "ŸÞÕä†ôxÎñÁI‚ÜìëÝŽÂR" SMALLINT SIGNED, "ƒ™˜MóÁÇR˜dèÎcû@ÏG" SMALLINT UNSIGNED, "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" INTEGER SIGNED NOT NULL, "Ú‹·íÈTÉù¶{ƒÍæá‘u‡þ" INTEGER UNSIGNED, "üf M»Wõþæo†jÊí ý“r" LARGEINT NOT NULL NOT DROPPABLE, "‚Åá‹ÎEÔ˜–›ÅÜZÍeë¬" REAL, "ò‹ÛW›¢¬y—½­p¶ÔÐøë‡" FLOAT(54), "Ç{œÞ—E¼ßóOÕË‚œ®dÌA¶F" DOUBLE PRECISION, "ÜÏƒA¯]Ùb‘ª cì…åÃªg" DATE, "é}úRÃ«ñ…±bœÉÝi™Ïž÷ü@" TIME, "äHÉÙ´¼Ê¯âÃÃÖ®KÁ†Ø€Áî" TIMESTAMP, "êŒÁ×uìŸø¿þÑ§gäÞ" INTERVAL YEAR, "ÁÏ›ˆà‡í€Ððföl¾ËÎs÷Ø" INTERVAL MONTH, "@ã¤ºÍ´õàëñŽ½]‰GC‘±" INTERVAL DAY, "ÐŸ“dµxÇÆèÏÈZ—¬¶ÍÇžÌÅ" INTERVAL HOUR, "I°Ð‘fôÞŸ’Òd„ƒï•À" INTERVAL MINUTE, "¸WÍ–ãÎâ©¶gÀÔÕCÍúÁi" INTERVAL SECOND, "®žóó¶[ÇcÖs‰°åªÄ†çn" INTERVAL YEAR TO MONTH, "——ÞÄû\Éì¹Îõ¥äz•ðíX" INTERVAL DAY TO HOUR, "æ‰®TÏè÷z÷fí‰Ûm‚@Êá—©" INTERVAL DAY TO MINUTE, "ì­†ø¹Yƒ±ùjÃÍšDÊÝñy±" INTERVAL DAY TO SECOND, "°t‚´‡DÉcØVëúÃûÆÒ‹Øõ" INTERVAL HOUR TO MINUTE, "ÏMÇÇÊøåNµ‚Ã×U”Ùæa" INTERVAL HOUR TO SECOND, "ˆîékÚ–÷Ã‚õ»\îÆ³zèßµð" INTERVAL MINUTE TO SECOND, "½×äº•÷„cóÓµéëùÑhß_" NUMERIC (19, 0) SIGNED, "êX´’ÛnÍ›ûÁžlÎA‘Á" NUMERIC (19, 0) UNSIGNED, PRIMARY KEY ( "üf M»Wõþæo†jÊí ý“r" ), CONSTRAINT "Àï™¹îôÓ€×{ä§›cÐŽšlçø" CHECK ( "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" < 50000 ) ) HASH2 PARTITION BY ( "üf M»Wõþæo†jÊí ý“r" ) "
+
+	-- Surrogate key table.
+	ExecSQLStr10 "CREATE TABLE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" ( "®iï¯—•ò´…ÀÚ×âÆ´û" CHAR( 20 ) CHARACTER SET utf8 NOT NULL, "ÏwóöÍP‘–ìãøƒãÈÍqœá" CHAR( 20 ) CHARACTER SET UCS2, "à€†â×âëFï–ÑÎ ÔˆCÏJˆÏ" VARCHAR( 20 ) CHARACTER SET utf8, "ðB¤ÏR†¼™‰ ¤‡pÛµ“]" VARCHAR( 20 ) CHARACTER SET UCS2, "Ä¼Æîúdëyô…ŒÔ˜ÐÀd‹¥" LONG VARCHAR( 20 ) CHARACTER SET utf8, "ÓÈÖÚóˆ§“‘Ïbô ¬SˆÕ‹–" LONG VARCHAR( 20 ) CHARACTER SET UCS2, "Ÿv‡ÛÕÞ’Ò¹ÚÊœˆðÓùŸóŠþ" NCHAR( 20 ), "·ãÀ`ëtÕrõ‹‘ºMÚÊò¼ìj" NCHAR VARYING( 20 ), "“Îç¶Í›ßÕŸÑ¼ÖxŒ›«L" DECIMAL (8, 0) SIGNED, "ŠÓÈ™iÆé»~¶õÁ¨÷ŒÓ³" DECIMAL (8, 0) UNSIGNED, "÷áô†óÝlÛ¾ˆÙïOŸ¾þH" NUMERIC (8, 0) SIGNED, "®XµgªIÑÝùxÞûÐ~öÓÞÙy" NUMERIC (8, 0) UNSIGNED, "Šó–ÀßÕ‰¨çŠ‘à—C·ä¼’" TINYINT SIGNED, "æXÎ×ÃÕóDÅwÐ§îLª˜â‰\" TINYINT UNSIGNED, "ŸÞÕä†ôxÎñÁI‚ÜìëÝŽÂR" SMALLINT SIGNED, "ƒ™˜MóÁÇR˜dèÎcû@ÏG" SMALLINT UNSIGNED, "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" INTEGER SIGNED NOT NULL, "Ú‹·íÈTÉù¶{ƒÍæá‘u‡þ" INTEGER UNSIGNED, "üf M»Wõþæo†jÊí ý“r" LARGEINT GENERATED BY DEFAULT AS IDENTITY NOT NULL NOT DROPPABLE, "‚Åá‹ÎEÔ˜–›ÅÜZÍeë¬" REAL, "ò‹ÛW›¢¬y—½­p¶ÔÐøë‡" FLOAT(54), "Ç{œÞ—E¼ßóOÕË‚œ®dÌA¶F" DOUBLE PRECISION, "ÜÏƒA¯]Ùb‘ª cì…åÃªg" DATE, "é}úRÃ«ñ…±bœÉÝi™Ïž÷ü@" TIME, "äHÉÙ´¼Ê¯âÃÃÖ®KÁ†Ø€Áî" TIMESTAMP, "êŒÁ×uìŸø¿þÑ§gäÞ" INTERVAL YEAR, "ÁÏ›ˆà‡í€Ððföl¾ËÎs÷Ø" INTERVAL MONTH, "@ã¤ºÍ´õàëñŽ½]‰GC‘±" INTERVAL DAY, "ÐŸ“dµxÇÆèÏÈZ—¬¶ÍÇžÌÅ" INTERVAL HOUR, "I°Ð‘fôÞŸ’Òd„ƒï•À" INTERVAL MINUTE, "¸WÍ–ãÎâ©¶gÀÔÕCÍúÁi" INTERVAL SECOND, "®žóó¶[ÇcÖs‰°åªÄ†çn" INTERVAL YEAR TO MONTH, "——ÞÄû\Éì¹Îõ¥äz•ðíX" INTERVAL DAY TO HOUR, "æ‰®TÏè÷z÷fí‰Ûm‚@Êá—©" INTERVAL DAY TO MINUTE, "ì­†ø¹Yƒ±ùjÃÍšDÊÝñy±" INTERVAL DAY TO SECOND, "°t‚´‡DÉcØVëúÃûÆÒ‹Øõ" INTERVAL HOUR TO MINUTE, "ÏMÇÇÊøåNµ‚Ã×U”Ùæa" INTERVAL HOUR TO SECOND, "½×äº•÷„cóÓµéëùÑhß_" NUMERIC (19, 0) SIGNED, "êX´’ÛnÍ›ûÁžlÎA‘Á" NUMERIC (19, 0) UNSIGNED, "ˆîékÚ–÷Ã‚õ»\îÆ³zèßµð" INTERVAL MINUTE TO SECOND, PRIMARY KEY ( "üf M»Wõþæo†jÊí ý“r" ), CONSTRAINT "Àï™¹îôÓ€×{ä§›cÐŽšlçø" CHECK ( "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" < 50000 ) )"
+
+	-- SET table
+	ExecSQLStr11 "CREATE SET TABLE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" ( "®iï¯—•ò´…ÀÚ×âÆ´û" CHAR( 20 ) CHARACTER SET utf8 NOT NULL, "ÏwóöÍP‘–ìãøƒãÈÍqœá" CHAR( 20 ) CHARACTER SET UCS2, "à€†â×âëFï–ÑÎ ÔˆCÏJˆÏ" VARCHAR( 20 ) CHARACTER SET utf8, "ðB¤ÏR†¼™‰ ¤‡pÛµ“]" VARCHAR( 20 ) CHARACTER SET UCS2, "Ä¼Æîúdëyô…ŒÔ˜ÐÀd‹¥" LONG VARCHAR( 20 ) CHARACTER SET utf8, "ÓÈÖÚóˆ§“‘Ïbô ¬SˆÕ‹–" LONG VARCHAR( 20 ) CHARACTER SET UCS2, "Ÿv‡ÛÕÞ’Ò¹ÚÊœˆðÓùŸóŠþ" NCHAR( 20 ), "·ãÀ`ëtÕrõ‹‘ºMÚÊò¼ìj" NCHAR VARYING( 20 ), "“Îç¶Í›ßÕŸÑ¼ÖxŒ›«L" DECIMAL (8, 0) SIGNED, "ŠÓÈ™iÆé»~¶õÁ¨÷ŒÓ³" DECIMAL (8, 0) UNSIGNED, "÷áô†óÝlÛ¾ˆÙïOŸ¾þH" NUMERIC (8, 0) SIGNED, "®XµgªIÑÝùxÞûÐ~öÓÞÙy" NUMERIC (8, 0) UNSIGNED, "Šó–ÀßÕ‰¨çŠ‘à—C·ä¼’" TINYINT SIGNED, "æXÎ×ÃÕóDÅwÐ§îLª˜â‰\" TINYINT UNSIGNED, "ŸÞÕä†ôxÎñÁI‚ÜìëÝŽÂR" SMALLINT SIGNED, "ƒ™˜MóÁÇR˜dèÎcû@ÏG" SMALLINT UNSIGNED, "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" INTEGER SIGNED NOT NULL, "Ú‹·íÈTÉù¶{ƒÍæá‘u‡þ" INTEGER UNSIGNED, "üf M»Wõþæo†jÊí ý“r" LARGEINT NOT NULL NOT DROPPABLE, "‚Åá‹ÎEÔ˜–›ÅÜZÍeë¬" REAL, "ò‹ÛW›¢¬y—½­p¶ÔÐøë‡" FLOAT(54), "Ç{œÞ—E¼ßóOÕË‚œ®dÌA¶F" DOUBLE PRECISION, "ÜÏƒA¯]Ùb‘ª cì…åÃªg" DATE, "é}úRÃ«ñ…±bœÉÝi™Ïž÷ü@" TIME, "äHÉÙ´¼Ê¯âÃÃÖ®KÁ†Ø€Áî" TIMESTAMP, "êŒÁ×uìŸø¿þÑ§gäÞ" INTERVAL YEAR, "ÁÏ›ˆà‡í€Ððföl¾ËÎs÷Ø" INTERVAL MONTH, "@ã¤ºÍ´õàëñŽ½]‰GC‘±" INTERVAL DAY, "ÐŸ“dµxÇÆèÏÈZ—¬¶ÍÇžÌÅ" INTERVAL HOUR, "I°Ð‘fôÞŸ’Òd„ƒï•À" INTERVAL MINUTE, "¸WÍ–ãÎâ©¶gÀÔÕCÍúÁi" INTERVAL SECOND, "®žóó¶[ÇcÖs‰°åªÄ†çn" INTERVAL YEAR TO MONTH, "——ÞÄû\Éì¹Îõ¥äz•ðíX" INTERVAL DAY TO HOUR, "æ‰®TÏè÷z÷fí‰Ûm‚@Êá—©" INTERVAL DAY TO MINUTE, "ì­†ø¹Yƒ±ùjÃÍšDÊÝñy±" INTERVAL DAY TO SECOND, "°t‚´‡DÉcØVëúÃûÆÒ‹Øõ" INTERVAL HOUR TO MINUTE, "ÏMÇÇÊøåNµ‚Ã×U”Ùæa" INTERVAL HOUR TO SECOND, "ˆîékÚ–÷Ã‚õ»\îÆ³zèßµð" INTERVAL MINUTE TO SECOND, "½×äº•÷„cóÓµéëùÑhß_" NUMERIC (19, 0) SIGNED, "êX´’ÛnÍ›ûÁžlÎA‘Á" NUMERIC (19, 0) UNSIGNED, PRIMARY KEY ( "üf M»Wõþæo†jÊí ý“r" ), CONSTRAINT "Àï™¹îôÓ€×{ä§›cÐŽšlçø" CHECK ( "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" < 50000 ) )"
+
+	-- MULTISET table
+	ExecSQLStr12 "CREATE MULTISET TABLE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" ( "®iï¯—•ò´…ÀÚ×âÆ´û" CHAR( 20 ) CHARACTER SET utf8 NOT NULL, "ÏwóöÍP‘–ìãøƒãÈÍqœá" CHAR( 20 ) CHARACTER SET UCS2, "à€†â×âëFï–ÑÎ ÔˆCÏJˆÏ" VARCHAR( 20 ) CHARACTER SET utf8, "ðB¤ÏR†¼™‰ ¤‡pÛµ“]" VARCHAR( 20 ) CHARACTER SET UCS2, "Ä¼Æîúdëyô…ŒÔ˜ÐÀd‹¥" LONG VARCHAR( 20 ) CHARACTER SET utf8, "ÓÈÖÚóˆ§“‘Ïbô ¬SˆÕ‹–" LONG VARCHAR( 20 ) CHARACTER SET UCS2, "Ÿv‡ÛÕÞ’Ò¹ÚÊœˆðÓùŸóŠþ" NCHAR( 20 ), "·ãÀ`ëtÕrõ‹‘ºMÚÊò¼ìj" NCHAR VARYING( 20 ), "“Îç¶Í›ßÕŸÑ¼ÖxŒ›«L" DECIMAL (8, 0) SIGNED, "ŠÓÈ™iÆé»~¶õÁ¨÷ŒÓ³" DECIMAL (8, 0) UNSIGNED, "÷áô†óÝlÛ¾ˆÙïOŸ¾þH" NUMERIC (8, 0) SIGNED, "®XµgªIÑÝùxÞûÐ~öÓÞÙy" NUMERIC (8, 0) UNSIGNED, "Šó–ÀßÕ‰¨çŠ‘à—C·ä¼’" TINYINT SIGNED, "æXÎ×ÃÕóDÅwÐ§îLª˜â‰\" TINYINT UNSIGNED, "ŸÞÕä†ôxÎñÁI‚ÜìëÝŽÂR" SMALLINT SIGNED, "ƒ™˜MóÁÇR˜dèÎcû@ÏG" SMALLINT UNSIGNED, "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" INTEGER SIGNED NOT NULL, "Ú‹·íÈTÉù¶{ƒÍæá‘u‡þ" INTEGER UNSIGNED, "üf M»Wõþæo†jÊí ý“r" LARGEINT NOT NULL NOT DROPPABLE, "‚Åá‹ÎEÔ˜–›ÅÜZÍeë¬" REAL, "ò‹ÛW›¢¬y—½­p¶ÔÐøë‡" FLOAT(54), "Ç{œÞ—E¼ßóOÕË‚œ®dÌA¶F" DOUBLE PRECISION, "ÜÏƒA¯]Ùb‘ª cì…åÃªg" DATE, "é}úRÃ«ñ…±bœÉÝi™Ïž÷ü@" TIME, "äHÉÙ´¼Ê¯âÃÃÖ®KÁ†Ø€Áî" TIMESTAMP, "êŒÁ×uìŸø¿þÑ§gäÞ" INTERVAL YEAR, "ÁÏ›ˆà‡í€Ððföl¾ËÎs÷Ø" INTERVAL MONTH, "@ã¤ºÍ´õàëñŽ½]‰GC‘±" INTERVAL DAY, "ÐŸ“dµxÇÆèÏÈZ—¬¶ÍÇžÌÅ" INTERVAL HOUR, "I°Ð‘fôÞŸ’Òd„ƒï•À" INTERVAL MINUTE, "¸WÍ–ãÎâ©¶gÀÔÕCÍúÁi" INTERVAL SECOND, "®žóó¶[ÇcÖs‰°åªÄ†çn" INTERVAL YEAR TO MONTH, "——ÞÄû\Éì¹Îõ¥äz•ðíX" INTERVAL DAY TO HOUR, "æ‰®TÏè÷z÷fí‰Ûm‚@Êá—©" INTERVAL DAY TO MINUTE, "ì­†ø¹Yƒ±ùjÃÍšDÊÝñy±" INTERVAL DAY TO SECOND, "°t‚´‡DÉcØVëúÃûÆÒ‹Øõ" INTERVAL HOUR TO MINUTE, "ÏMÇÇÊøåNµ‚Ã×U”Ùæa" INTERVAL HOUR TO SECOND, "ˆîékÚ–÷Ã‚õ»\îÆ³zèßµð" INTERVAL MINUTE TO SECOND, "½×äº•÷„cóÓµéëùÑhß_" NUMERIC (19, 0) SIGNED, "êX´’ÛnÍ›ûÁžlÎA‘Á" NUMERIC (19, 0) UNSIGNED, PRIMARY KEY ( "üf M»Wõþæo†jÊí ý“r" ), CONSTRAINT "Àï™¹îôÓ€×{ä§›cÐŽšlçø" CHECK ( "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" < 50000 ) )"
+
+	-- INSERT_SELECT
+	ExecSQLStr13 "CREATE TABLE "ÛËÛf¸Ãœð„ëäÄÓDÖåý–ÑE" ( "®iï¯—•ò´…ÀÚ×âÆ´û" CHAR( 20 ) CHARACTER SET utf8 NOT NULL, "ÏwóöÍP‘–ìãøƒãÈÍqœá" CHAR( 20 ) CHARACTER SET UCS2, "à€†â×âëFï–ÑÎ ÔˆCÏJˆÏ" VARCHAR( 20 ) CHARACTER SET utf8, "ðB¤ÏR†¼™‰ ¤‡pÛµ“]" VARCHAR( 20 ) CHARACTER SET UCS2, "Ä¼Æîúdëyô…ŒÔ˜ÐÀd‹¥" LONG VARCHAR( 20 ) CHARACTER SET utf8, "ÓÈÖÚóˆ§“‘Ïbô ¬SˆÕ‹–" LONG VARCHAR( 20 ) CHARACTER SET UCS2, "Ÿv‡ÛÕÞ’Ò¹ÚÊœˆðÓùŸóŠþ" NCHAR( 20 ), "·ãÀ`ëtÕrõ‹‘ºMÚÊò¼ìj" NCHAR VARYING( 20 ), "“Îç¶Í›ßÕŸÑ¼ÖxŒ›«L" DECIMAL (8, 0) SIGNED, "ŠÓÈ™iÆé»~¶õÁ¨÷ŒÓ³" DECIMAL (8, 0) UNSIGNED, "÷áô†óÝlÛ¾ˆÙïOŸ¾þH" NUMERIC (8, 0) SIGNED, "®XµgªIÑÝùxÞûÐ~öÓÞÙy" NUMERIC (8, 0) UNSIGNED, "Šó–ÀßÕ‰¨çŠ‘à—C·ä¼’" TINYINT SIGNED, "æXÎ×ÃÕóDÅwÐ§îLª˜â‰\" TINYINT UNSIGNED, "ŸÞÕä†ôxÎñÁI‚ÜìëÝŽÂR" SMALLINT SIGNED, "ƒ™˜MóÁÇR˜dèÎcû@ÏG" SMALLINT UNSIGNED, "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" INTEGER SIGNED NOT NULL, "Ú‹·íÈTÉù¶{ƒÍæá‘u‡þ" INTEGER UNSIGNED, "üf M»Wõþæo†jÊí ý“r" LARGEINT NOT NULL NOT DROPPABLE, "‚Åá‹ÎEÔ˜–›ÅÜZÍeë¬" REAL, "ò‹ÛW›¢¬y—½­p¶ÔÐøë‡" FLOAT(54), "Ç{œÞ—E¼ßóOÕË‚œ®dÌA¶F" DOUBLE PRECISION, "ÜÏƒA¯]Ùb‘ª cì…åÃªg" DATE, "é}úRÃ«ñ…±bœÉÝi™Ïž÷ü@" TIME, "äHÉÙ´¼Ê¯âÃÃÖ®KÁ†Ø€Áî" TIMESTAMP, "êŒÁ×uìŸø¿þÑ§gäÞ" INTERVAL YEAR, "ÁÏ›ˆà‡í€Ððföl¾ËÎs÷Ø" INTERVAL MONTH, "@ã¤ºÍ´õàëñŽ½]‰GC‘±" INTERVAL DAY, "ÐŸ“dµxÇÆèÏÈZ—¬¶ÍÇžÌÅ" INTERVAL HOUR, "I°Ð‘fôÞŸ’Òd„ƒï•À" INTERVAL MINUTE, "¸WÍ–ãÎâ©¶gÀÔÕCÍúÁi" INTERVAL SECOND, "®žóó¶[ÇcÖs‰°åªÄ†çn" INTERVAL YEAR TO MONTH, "——ÞÄû\Éì¹Îõ¥äz•ðíX" INTERVAL DAY TO HOUR, "æ‰®TÏè÷z÷fí‰Ûm‚@Êá—©" INTERVAL DAY TO MINUTE, "ì­†ø¹Yƒ±ùjÃÍšDÊÝñy±" INTERVAL DAY TO SECOND, "°t‚´‡DÉcØVëúÃûÆÒ‹Øõ" INTERVAL HOUR TO MINUTE, "ÏMÇÇÊøåNµ‚Ã×U”Ùæa" INTERVAL HOUR TO SECOND, "ˆîékÚ–÷Ã‚õ»\îÆ³zèßµð" INTERVAL MINUTE TO SECOND, "½×äº•÷„cóÓµéëùÑhß_" NUMERIC (19, 0) SIGNED, "êX´’ÛnÍ›ûÁžlÎA‘Á" NUMERIC (19, 0) UNSIGNED, PRIMARY KEY ( "üf M»Wõþæo†jÊí ý“r" ), CONSTRAINT C17T CHECK ( "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" < 50000 ) )"
+	ExecSQLStr14 "INSERT INTO "ÛËÛf¸Ãœð„ëäÄÓDÖåý–ÑE" SELECT * FROM "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" WHERE "üf M»Wõþæo†jÊí ý“r" = ?"
+	ExecSQLStr15 "DROP TABLE "ÛËÛf¸Ãœð„ëäÄÓDÖåý–ÑE" CASCADE"
+
+	-- Index
+	ExecSQLStrIndex0 "CREATE INDEX "Êv•«Öyä€ÝêüÃÒ¡º¹ÉèÛ" ON "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ"( "üf M»Wõþæo†jÊí ý“r" )"
+	ExecSQLStrIndex1 "DROP INDEX "Êv•«Öyä€ÝêüÃÒ¡º¹ÉèÛ" CASCADE"
+
+	-- RI
+	ExecSQLStrRI0 "CONTROL QUERY DEFAULT REF_CONSTRAINT_NO_ACTION_LIKE_RESTRICT 'ON'"
+	ExecSQLStrRI1 "CREATE TABLE "×’¬Ó˜ÑŸ†|›»“£†÷½Û" LIKE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ""
+	ExecSQLStrRI2 "ALTER TABLE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" ADD CONSTRAINT CCRI FOREIGN KEY( "®iï¯—•ò´…ÀÚ×âÆ´û" ) REFERENCES "×’¬Ó˜ÑŸ†|›»“£†÷½Û"( "®iï¯—•ò´…ÀÚ×âÆ´û")"
+	ExecSQLStrRI3 "DROP TABLE "×’¬Ó˜ÑŸ†|›»“£†÷½Û" CASCADE"
+
+	-- Volatile
+	ExecSQLStrVolatile0 "CREATE VOLATILE TABLE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" ( "®iï¯—•ò´…ÀÚ×âÆ´û" CHAR( 20 ) CHARACTER SET utf8 NOT NULL, "ÏwóöÍP‘–ìãøƒãÈÍqœá" CHAR( 20 ) CHARACTER SET UCS2, "à€†â×âëFï–ÑÎ ÔˆCÏJˆÏ" VARCHAR( 20 ) CHARACTER SET utf8, "ðB¤ÏR†¼™‰ ¤‡pÛµ“]" VARCHAR( 20 ) CHARACTER SET UCS2, "Ä¼Æîúdëyô…ŒÔ˜ÐÀd‹¥" LONG VARCHAR( 20 ) CHARACTER SET utf8, "ÓÈÖÚóˆ§“‘Ïbô ¬SˆÕ‹–" LONG VARCHAR( 20 ) CHARACTER SET UCS2, "Ÿv‡ÛÕÞ’Ò¹ÚÊœˆðÓùŸóŠþ" NCHAR( 20 ), "·ãÀ`ëtÕrõ‹‘ºMÚÊò¼ìj" NCHAR VARYING( 20 ), "“Îç¶Í›ßÕŸÑ¼ÖxŒ›«L" DECIMAL (8, 0) SIGNED, "ŠÓÈ™iÆé»~¶õÁ¨÷ŒÓ³" DECIMAL (8, 0) UNSIGNED, "÷áô†óÝlÛ¾ˆÙïOŸ¾þH" NUMERIC (8, 0) SIGNED, "®XµgªIÑÝùxÞûÐ~öÓÞÙy" NUMERIC (8, 0) UNSIGNED, "Šó–ÀßÕ‰¨çŠ‘à—C·ä¼’" TINYINT SIGNED, "æXÎ×ÃÕóDÅwÐ§îLª˜â‰\" TINYINT UNSIGNED, "ŸÞÕä†ôxÎñÁI‚ÜìëÝŽÂR" SMALLINT SIGNED, "ƒ™˜MóÁÇR˜dèÎcû@ÏG" SMALLINT UNSIGNED, "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" INTEGER SIGNED NOT NULL, "Ú‹·íÈTÉù¶{ƒÍæá‘u‡þ" INTEGER UNSIGNED, "üf M»Wõþæo†jÊí ý“r" LARGEINT NOT NULL NOT DROPPABLE, "‚Åá‹ÎEÔ˜–›ÅÜZÍeë¬" REAL, "ò‹ÛW›¢¬y—½­p¶ÔÐøë‡" FLOAT(54), "Ç{œÞ—E¼ßóOÕË‚œ®dÌA¶F" DOUBLE PRECISION, "ÜÏƒA¯]Ùb‘ª cì…åÃªg" DATE, "é}úRÃ«ñ…±bœÉÝi™Ïž÷ü@" TIME, "äHÉÙ´¼Ê¯âÃÃÖ®KÁ†Ø€Áî" TIMESTAMP, "êŒÁ×uìŸø¿þÑ§gäÞ" INTERVAL YEAR, "ÁÏ›ˆà‡í€Ððföl¾ËÎs÷Ø" INTERVAL MONTH, "@ã¤ºÍ´õàëñŽ½]‰GC‘±" INTERVAL DAY, "ÐŸ“dµxÇÆèÏÈZ—¬¶ÍÇžÌÅ" INTERVAL HOUR, "I°Ð‘fôÞŸ’Òd„ƒï•À" INTERVAL MINUTE, "¸WÍ–ãÎâ©¶gÀÔÕCÍúÁi" INTERVAL SECOND, "®žóó¶[ÇcÖs‰°åªÄ†çn" INTERVAL YEAR TO MONTH, "——ÞÄû\Éì¹Îõ¥äz•ðíX" INTERVAL DAY TO HOUR, "æ‰®TÏè÷z÷fí‰Ûm‚@Êá—©" INTERVAL DAY TO MINUTE, "ì­†ø¹Yƒ±ùjÃÍšDÊÝñy±" INTERVAL DAY TO SECOND, "°t‚´‡DÉcØVëúÃûÆÒ‹Øõ" INTERVAL HOUR TO MINUTE, "ÏMÇÇÊøåNµ‚Ã×U”Ùæa" INTERVAL HOUR TO SECOND, "ˆîékÚ–÷Ã‚õ»\îÆ³zèßµð" INTERVAL MINUTE TO SECOND, "½×äº•÷„cóÓµéëùÑhß_" NUMERIC (19, 0) SIGNED, "êX´’ÛnÍ›ûÁžlÎA‘Á" NUMERIC (19, 0) UNSIGNED, PRIMARY KEY ( "üf M»Wõþæo†jÊí ý“r" ) )"
+	ExecSQLStrVolatile1 "DROP VOLATILE TABLE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" CASCADE"
+
+	-- MVS
+	ExecSQLStrMVS0 "ALTER TABLE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" ATTRIBUTE ALL MVS ALLOWED"
+	ExecSQLStrMVS1 "CREATE TABLE "Ÿ¢še‰È¿ûº½á”ÜpÙ™‰sœQ" ( "®iï¯—•ò´…ÀÚ×âÆ´û" CHAR( 20 ) NOT NULL, "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" INTEGER SIGNED, "üf M»Wõþæo†jÊí ý“r" LARGEINT NOT NULL NOT DROPPABLE, PRIMARY KEY ( "üf M»Wõþæo†jÊí ý“r" ), CONSTRAINT "„MÏÉöyšgë§—Þðòâuêì" CHECK ( "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" < 50000 ) )"
+	ExecSQLStrMVS2 "CREATE VIEW "‡åÑyâ\ûM“Ü‘Ñ€¹o" AS SELECT A."®iï¯—•ò´…ÀÚ×âÆ´û" AS "ÈÌÖµäË«’¸ˆÏd‘‰ÚZ±·ÈÙ", A."î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" AS "õHÍ¬ÊÚÜÓõL÷r®hàÐŒp¾J", A."üf M»Wõþæo†jÊí ý“r" AS "Íêôºnû„Ù^â{›ß™Üã¾", B."®iï¯—•ò´…ÀÚ×âÆ´û" AS "°…ŸZ¢ížÀŒÕö„¿äC½WŸW", B."î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" AS "±QåƒÂóî¥ÍñãhÕ¤œºÐÖ‹^", B."üf M»Wõþæo†jÊí ý“r" AS "Úz‰cÞ°¿ë®C„Ä¶ºìòHÒü" FROM "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" A, "Ÿ¢še‰È¿ûº½á”ÜpÙ™‰sœQ" B WHERE A."üf M»Wõþæo†jÊí ý“r" = B."üf M»Wõþæo†jÊí ý“r";"
+	ExecSQLStrMVS3 "CREATE MV "•â”Õ~ÆŠŠGÚpÛÝäŠ" REFRESH ON STATEMENT INITIALIZE ON CREATE AS SELECT A."®iï¯—•ò´…ÀÚ×âÆ´û" AS "ÈÌÖµäË«’¸ˆÏd‘‰ÚZ±·ÈÙ", A."î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" AS "õHÍ¬ÊÚÜÓõL÷r®hàÐŒp¾J", A."üf M»Wõþæo†jÊí ý“r" AS "Íêôºnû„Ù^â{›ß™Üã¾", B."®iï¯—•ò´…ÀÚ×âÆ´û" AS "°…ŸZ¢ížÀŒÕö„¿äC½WŸW", B."î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" AS "±QåƒÂóî¥ÍñãhÕ¤œºÐÖ‹^", B."üf M»Wõþæo†jÊí ý“r" AS "Úz‰cÞ°¿ë®C„Ä¶ºìòHÒü" FROM "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" A, "Ÿ¢še‰È¿ûº½á”ÜpÙ™‰sœQ" B WHERE A."üf M»Wõþæo†jÊí ý“r" = B."üf M»Wõþæo†jÊí ý“r";"
+	ExecSQLStrMVS4 "DROP VIEW "‡åÑyâ\ûM“Ü‘Ñ€¹o" CASCADE;"
+	ExecSQLStrMVS5 "DROP MV "•â”Õ~ÆŠŠGÚpÛÝäŠ" CASCADE;"
+	ExecSQLStrMVS6 "DROP TABLE "Ÿ¢še‰È¿ûº½á”ÜpÙ™‰sœQ" CASCADE;"
+
+	-- ExecSQLStrMVS0 "ALTER TABLE "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" ATTRIBUTE ALL MVS ALLOWED"
+	-- ExecSQLStrMVS1 "CREATE TABLE "Ÿ¢še‰È¿ûº½á”ÜpÙ™‰sœQ" ( "®iï¯—•ò´…ÀÚ×âÆ´û" CHAR( 20 ) NOT NULL, "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" INTEGER SIGNED, "üf M»Wõþæo†jÊí ý“r" LARGEINT NOT NULL NOT DROPPABLE, PRIMARY KEY ( "üf M»Wõþæo†jÊí ý“r" ), CONSTRAINT C17AC CHECK ( "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" < 50000 ) )"
+	-- ExecSQLStrMVS2 "CREATE VIEW "‡åÑyâ\ûM“Ü‘Ñ€¹o" AS SELECT A."®iï¯—•ò´…ÀÚ×âÆ´û" AS A"®iï¯—•ò´…ÀÚ×âÆ´û", A."î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" AS A"î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚", A."üf M»Wõþæo†jÊí ý“r" AS A"üf M»Wõþæo†jÊí ý“r", B."®iï¯—•ò´…ÀÚ×âÆ´û" AS B"®iï¯—•ò´…ÀÚ×âÆ´û", B."î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" AS B"î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚", B."üf M»Wõþæo†jÊí ý“r" AS B"üf M»Wõþæo†jÊí ý“r" FROM "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" A, "Ÿ¢še‰È¿ûº½á”ÜpÙ™‰sœQ" B WHERE A."üf M»Wõþæo†jÊí ý“r" = B."üf M»Wõþæo†jÊí ý“r";"
+	-- ExecSQLStrMVS3 "CREATE MV "•â”Õ~ÆŠŠGÚpÛÝäŠ" REFRESH ON STATEMENT INITIALIZE ON CREATE AS SELECT A."®iï¯—•ò´…ÀÚ×âÆ´û" AS A"®iï¯—•ò´…ÀÚ×âÆ´û", A."î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" AS A"î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚", A."üf M»Wõþæo†jÊí ý“r" AS A"üf M»Wõþæo†jÊí ý“r", B."®iï¯—•ò´…ÀÚ×âÆ´û" AS B"®iï¯—•ò´…ÀÚ×âÆ´û", B."î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" AS B"î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚", B."üf M»Wõþæo†jÊí ý“r" AS B"üf M»Wõþæo†jÊí ý“r" FROM "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" A, "Ÿ¢še‰È¿ûº½á”ÜpÙ™‰sœQ" B WHERE A."üf M»Wõþæo†jÊí ý“r" = B."üf M»Wõþæo†jÊí ý“r";"
+	-- ExecSQLStrMVS4 "DROP VIEW "‡åÑyâ\ûM“Ü‘Ñ€¹o" CASCADE;"
+	-- ExecSQLStrMVS5 "DROP MV "•â”Õ~ÆŠŠGÚpÛÝäŠ" CASCADE;"
+	-- ExecSQLStrMVS6 "DROP TABLE "Ÿ¢še‰È¿ûº½á”ÜpÙ™‰sœQ" CASCADE;"
+
+	-- Before Trigger
+	ExecSQLStrBeforeTrigger0 "DROP TRIGGER "Ñ†TÀöóôîÓÌ—æ„“‡·V";"
+	ExecSQLStrBeforeTrigger1 "CREATE TRIGGER "Ñ†TÀöóôîÓÌ—æ„“‡·V" BEFORE INSERT ON "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" REFERENCING NEW AS NEWROW FOR EACH ROW WHEN (NEWROW."üf M»Wõþæo†jÊí ý“r" > 0 ) SET NEWROW."½×äº•÷„cóÓµéëùÑhß_" = 987654321098765, NEWROW."êX´’ÛnÍ›ûÁžlÎA‘Á"=987654321098765;"
+
+	-- AfterTrigger
+	ExecSQLStrAfterTrigger0 "DROP TRIGGER "áï‹üå×±ß°s“çóvÌçÇ›í";"
+	ExecSQLStrAfterTrigger1 "DROP TABLE "ÈÌÖµäË«’¸ˆÏd‘‰ÚZ±·ÈÙ" CASCADE"
+	ExecSQLStrAfterTrigger2 "CREATE TRIGGER "áï‹üå×±ß°s“çóvÌçÇ›í" AFTER INSERT ON "ëÍÜÕÙ¦ˆ²¿âNùLØÄŠÞ" REFERENCING NEW AS NEWROW FOR EACH ROW WHEN ( NEWROW."üf M»Wõþæo†jÊí ý“r" > 5 ) INSERT INTO "ÈÌÖµäË«’¸ˆÏd‘‰ÚZ±·ÈÙ" VALUES ( NEWROW."®iï¯—•ò´…ÀÚ×âÆ´û",NEWROW."î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚",NEWROW."üf M»Wõþæo†jÊí ý“r" );"
+	ExecSQLStrAfterTrigger3 "CREATE TABLE "ÈÌÖµäË«’¸ˆÏd‘‰ÚZ±·ÈÙ" ( "®iï¯—•ò´…ÀÚ×âÆ´û" CHAR( 20 ) NOT NULL, "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" INTEGER SIGNED, "üf M»Wõþæo†jÊí ý“r" LARGEINT NOT NULL NOT DROPPABLE, PRIMARY KEY ( "üf M»Wõþæo†jÊí ý“r" ), CONSTRAINT "™r˜l“ÄÜyÌhìÍ’híMÇw¬—" CHECK ( "î¦ÀqïŽ²Nì„§‹×ÜÝŽŸú‚" < 50000 ) )"
+	ExecSQLStrAfterTrigger4 "DELETE FROM "ÈÌÖµäË«’¸ˆÏd‘‰ÚZ±·ÈÙ""
+
+	Digit_2_Charset0 "Œhó­…„šY÷žµt¼ÒÃãÄí†`ëöïÆÊY®lí‚ŒhŒhŒhŒhŒh"
+	Digit_2_Charset1 "ÌƒÜYˆ­àiàçŒ€þIÞÑÇ…ê—Ûdˆ™·¯·¿´öÌƒÌƒÌƒÌƒÌƒ"
+	Digit_2_Charset2 "È[Æ…{—fŠVÒD–qð§ŸÉÆï¼‡·Ç¿Tô·Á”È[È[È[È[È["
+	Digit_2_Charset3 "°Þ›™–´ÜÚÌmºÏò‘ª•ž¶ÙÞ’ÒNÖ””§‹r°Þ°Þ°Þ°Þ°Þ"
+	Digit_2_Charset4 "ÊÕ†¤Ç¸ÃôÌ™ó´ÌÎ¶ôÀ¬é›„È—æßKÅã¸ÊÕÊÕÊÕÊÕÊÕ"
+	Digit_2_Charset5 "¹æç“¹æŽÊ¹æÙ«Šò‰ÙÍüÄ¶ºbýsŸÖÃßÅO¹æ¹æ¹æ¹æ¹æ"
+	Digit_2_Charset6 "ÜE»^¹Èñ‚²‡öØÛP´zÐz”ùŠÇ³\ÊûÂ¡Â¡ÜEÜEÜEÜEÜE"
+	Digit_2_Charset7 "·d‘üá‘ÉSÆøâ¾K¯j·dŽ|´©é¶°d»÷L·d·d·d·d·d"
+	Digit_2_Charset8 "ºd·ôæ›X ïÍ‹Ö‚O²ÍëÌÁÅ˜ÊÜôî\ºdºdºdºdºdºd"
+	Digit_2_Charset9 "‰uÈëžÔ—Qåß¸céÀ‰uñžél¿¦Ýáê«r°¹‰u‰u‰u‰u‰u"
+	Digit_2_Charset10 "Èò“´­bâ±í|ŒšÄ™Š²‡y¾bì]™yš¤éã¾DÈòÈòÈòÈòÈò"
+
+	Digit_2_Ascii0 "00000000000000000000"
+	Digit_2_Ascii1 "11111111111111111111"
+	Digit_2_Ascii2 "22222222222222222222"
+	Digit_2_Ascii3 "33333333333333333333"
+	Digit_2_Ascii4 "44444444444444444444"
+	Digit_2_Ascii5 "55555555555555555555"
+	Digit_2_Ascii6 "66666666666666666666"
+	Digit_2_Ascii7 "77777777777777777777"
+	Digit_2_Ascii8 "88888888888888888888"
+	Digit_2_Ascii9 "99999999999999999999"
+	Digit_2_Ascii10 "AAAAAAAAAAAAAAAAAAAA"
+
+	String_OverFlow "Êê¿¿ÙÈ÷gÀ¸ŠžÛÒÄŸ “ÎÈÔÒößêoÂëØ¢ï²ÊêòÕ¼JÊêÖl‚äÊê®B÷¹"
+[END]
+
+

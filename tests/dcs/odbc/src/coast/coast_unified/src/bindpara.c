@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <time.h>
 #include <windows.h>
@@ -377,7 +398,7 @@ PassFail TestMXSQLBindParameter(TestInfo *pTestInfo)
 		unsigned short int	hour;
 		unsigned short int	minute;
 		unsigned short int	second;
-		unsigned int	fraction; // sushil
+		unsigned int	fraction; 
 	} CTIMESTAMPTOSQL = {1993,12,30,11,33,41,123456};
 
 	struct
@@ -388,7 +409,7 @@ PassFail TestMXSQLBindParameter(TestInfo *pTestInfo)
 		unsigned short int	hour;
 		unsigned short int	minute;
 		unsigned short int	second;
-		unsigned int		fraction; // sushil
+		unsigned int		fraction; 
 	} CTIMESTAMPTOSQL1 = {1993,12,30,0,0,0,0};
 
 	struct
@@ -399,7 +420,7 @@ PassFail TestMXSQLBindParameter(TestInfo *pTestInfo)
 		unsigned short int	hour;
 		unsigned short int	minute;
 		unsigned short int	second;
-		unsigned int		fraction; // sushil
+		unsigned int		fraction; 
 	} CTIMESTAMPTOSQL2 = {1993,12,30,11,33,41,0};
 
 	struct
@@ -471,7 +492,7 @@ PassFail TestMXSQLBindParameter(TestInfo *pTestInfo)
 			unsigned short int	hour;
 			unsigned short int	minute;
 			unsigned short int	second;
-			unsigned int		fraction; // sushil
+			unsigned int		fraction; 
 		} TimestampValue;
 		TCHAR				*LongVarCharValue;
  		char				*BigintValue;
@@ -1106,9 +1127,9 @@ PassFail TestMXSQLBindParameter(TestInfo *pTestInfo)
 	TCHAR	*InsTab10 = _T("INSERT INTO SQLBINDPARAM10 VALUES (?)");
 	TCHAR	*SelTab10 = _T("SELECT * FROM SQLBINDPARAM10");
 
-	SQLLEN	InValue = SQL_NTS, InValue1 = 0, InValueNullData = SQL_NULL_DATA; // sushil
+	SQLLEN	InValue = SQL_NTS, InValue1 = 0, InValueNullData = SQL_NULL_DATA; 
 	TCHAR	OutValue[NAME_LEN*2];  // double for UCS2
-	SQLLEN	OutValueLen = SQL_NTS; // sushil
+	SQLLEN	OutValueLen = SQL_NTS; 
 	
 //===========================================================================================================
 	var_list_t *var_list;

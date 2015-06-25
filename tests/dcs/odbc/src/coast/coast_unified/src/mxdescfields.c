@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 /* *******************************************************************************************
 	filenmame: MXDescField.c
 
@@ -121,14 +142,14 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 	// variables to hold descriptor values
 	   //descriptor header fields
 	SQLSMALLINT		AllocTypeValue;
-	SQLULEN 		ArraySize; // sushil
+	SQLULEN 		ArraySize; 
 	SQLUSMALLINT*	ArrayStatusPtr;
-	SQLLEN*			BindOffsetPtr; // sushil
+	SQLLEN*			BindOffsetPtr; 
 	SQLINTEGER		BindType;
 	//TCHAR            bef_guard[9] = "00000000";
 	SQLSMALLINT		DescCount;
 	//TCHAR            aft_guard[9] = "00000000";
-	SQLULEN*    	RowsProcessedPtr; // sushil
+	SQLULEN*    	RowsProcessedPtr; 
 	  //descriptor record fields
 	SQLINTEGER		AutoUniqueValue;
 	SQLTCHAR			BaseColumnName[MAX_BUFFER_LEN];
@@ -163,7 +184,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 	SQLSMALLINT		Unnamed;
 	SQLSMALLINT		Unsigned;
 	SQLSMALLINT		Updatable;
-	/* SEAQUEST */ TCHAR tmpbuf[MAX_BUFFER_LEN];
+	/* SQ */ TCHAR tmpbuf[MAX_BUFFER_LEN];
 
 	//used in set
 	SQLINTEGER		_tcslen;
@@ -191,7 +212,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 	TIMESTAMP_STRUCT apdShipTimestamp, ardShipTimestamp;
 
 #ifdef _LP64
-	SQLLEN      ipdProjDesc64 = SQL_NTS; // sushil: ???
+	SQLLEN      ipdProjDesc64 = SQL_NTS; 
 	SQLLEN  	ipdProjCode = SQL_NTS,		irdProjCode ,
 				ipdEmpNum = SQL_NTS,		irdEmpNum ,
 				ipdProjDesc = SQL_NTS,		irdProjDesc ,
@@ -292,9 +313,9 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 //	IRD_REC IRD_ExpData[MAX_BOUND_PARAM] =
 //	{
 //		//AutoUniqueValue	BaseColumnName			BaseTableName			CaseSensitive	CatalogName				ConciseType			DatetimeIntervalCode	DatetimeIntervalPrecision	DisplaySize		FixedPrecScale		Label						Length	Prefix		Suffix		LocalTypeName	Name					Nullable		NumPrecRadix	OctetLen	Precision	Scale	SchemaName			Searchable			TableName		Type			TypeName		Unamed		Unsigned	Updateable
-//		{ SQL_FALSE,		_T("PROJCODE"),			_T("PROJECT"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_INTEGER,		0,						0,							10,				SQL_FALSE,			_T("Project/Code"),			/* SEAQUEST 10 */4,		_T(""),		_T(""),		_T(""),			_T("PROJCODE"),			SQL_NO_NULLS,	/* SEAQUEST 0 */10,				4,			10,			0,		pTestInfo->Schema,	SQL_PRED_BASIC,		_T("PROJECT"),	SQL_INTEGER,	_T("INTEGER"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
-//		{ SQL_FALSE,		_T("EMPNUM"),			_T("PROJECT"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_INTEGER,		0,						0,							10,				SQL_FALSE,			_T("Employee/Number"),		/* SEAQUEST 10 */4,		_T(""),		_T(""),		_T(""),			_T("EMPNUM"),			SQL_NO_NULLS,	/* SEAQUEST 0 */10,				4,			10,			0,		pTestInfo->Schema,	SQL_PRED_BASIC,		_T("PROJECT"),	SQL_INTEGER,	_T("INTEGER"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
-//		{ SQL_FALSE,		_T("PROJDESC"),			_T("PROJECT"),			SQL_TRUE,		pTestInfo->Catalog,		/* SEAQUEST SQL_WCHAR */SQL_VARCHAR,			0,						0,							18,				SQL_FALSE,			_T("Project/Description"),	/* SEAQUEST 13 */18,		/* SEAQUEST _T("N'") */_T("'"),	_T("'"),	/* SEAQUEST _T("") */ _T("VARCHAR CHARACTER SET ISO88591"),			_T("PROJDESC"),			SQL_NO_NULLS,	0,				/* SEAQUEST 24 */18,			/* SEAQUEST 0 */18,			0,		pTestInfo->Schema,	SQL_PRED_SEARCHABLE,_T("PROJECT"),	/* SEAQUEST SQL_WCHAR */SQL_VARCHAR,		_T("VARCHAR"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+//		{ SQL_FALSE,		_T("PROJCODE"),			_T("PROJECT"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_INTEGER,		0,						0,							10,				SQL_FALSE,			_T("Project/Code"),			/* SQ 10 */4,		_T(""),		_T(""),		_T(""),			_T("PROJCODE"),			SQL_NO_NULLS,	/* SQ 0 */10,				4,			10,			0,		pTestInfo->Schema,	SQL_PRED_BASIC,		_T("PROJECT"),	SQL_INTEGER,	_T("INTEGER"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+//		{ SQL_FALSE,		_T("EMPNUM"),			_T("PROJECT"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_INTEGER,		0,						0,							10,				SQL_FALSE,			_T("Employee/Number"),		/* SQ 10 */4,		_T(""),		_T(""),		_T(""),			_T("EMPNUM"),			SQL_NO_NULLS,	/* SQ 0 */10,				4,			10,			0,		pTestInfo->Schema,	SQL_PRED_BASIC,		_T("PROJECT"),	SQL_INTEGER,	_T("INTEGER"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+//		{ SQL_FALSE,		_T("PROJDESC"),			_T("PROJECT"),			SQL_TRUE,		pTestInfo->Catalog,		/* SQ SQL_WCHAR */SQL_VARCHAR,			0,						0,							18,				SQL_FALSE,			_T("Project/Description"),	/* SQ 13 */18,		/* SQ _T("N'") */_T("'"),	_T("'"),	/* SQ _T("") */ _T("VARCHAR CHARACTER SET ISO88591"),			_T("PROJDESC"),			SQL_NO_NULLS,	0,				/* SQ 24 */18,			/* SQ 0 */18,			0,		pTestInfo->Schema,	SQL_PRED_SEARCHABLE,_T("PROJECT"),	/* SQ SQL_WCHAR */SQL_VARCHAR,		_T("VARCHAR"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
 //		{ SQL_FALSE,		_T("START_DATE"),		_T("PROJECT"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_TYPE_DATE,		SQL_CODE_DATE,			0,							10,				SQL_FALSE,			_T("Start/Date"),			10,		_T("{d'"),	_T("'}"),	_T(""),			_T("START_DATE"),		SQL_NO_NULLS,	0,				6,			0,			0,		pTestInfo->Schema,	SQL_PRED_BASIC,		_T("PROJECT"),	SQL_DATETIME,	_T("DATE"),		SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
 //		{ SQL_FALSE,		_T("SHIP_TIMESTAMP"),	_T("PROJECT"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_TYPE_TIMESTAMP, SQL_CODE_TIMESTAMP,		0,							26,				SQL_FALSE,			_T("Timestamp/Shipped"),	26,		_T("{ts'"),	_T("'}"),	_T(""),			_T("SHIP_TIMESTAMP"),	SQL_NO_NULLS,	0,				16,			6,			0,		pTestInfo->Schema,	SQL_PRED_BASIC,		_T("PROJECT"),	SQL_DATETIME,	_T("TIMESTAMP"),SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN}
 //	};
@@ -304,9 +325,9 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 	IRD_REC IRD_ExpData[MAX_BOUND_PARAM] =
 	{
 		//AutoUniqueValue	BaseColumnName		BaseTableName		CaseSensitive	CatalogName				ConciseType							DatetimeIntervalCode	DatetimeIntervalPrecision	DisplaySize		FixedPrecScale		Label		Length					Prefix							Suffix			LocalTypeName												Name		Nullable		NumPrecRadix		OctetLen			Precision			Scale		SchemaName			Searchable			TableName	Type							TypeName		Unamed		Unsigned	Updateable
-		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_INTEGER,						0,						0,							10,				SQL_FALSE,			_T("--"),	/* SEAQUEST 10 */4,		_T(""),							_T(""),			_T(""),														_T("--"),	SQL_NO_NULLS,	/* SEAQUEST 0 */10,	4,					10,					0,			pTestInfo->Schema,	SQL_PRED_BASIC,		_T("--"),	SQL_INTEGER,						_T("INTEGER"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
-		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_INTEGER,						0,						0,							10,				SQL_FALSE,			_T("--"),	/* SEAQUEST 10 */4,		_T(""),							_T(""),			_T(""),														_T("--"),	SQL_NO_NULLS,	/* SEAQUEST 0 */10,	4,					10,					0,			pTestInfo->Schema,	SQL_PRED_BASIC,		_T("--"),	SQL_INTEGER,						_T("INTEGER"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
-		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_TRUE,		pTestInfo->Catalog,		/* SEAQUEST SQL_WCHAR */SQL_VARCHAR,0,						0,							18,				SQL_FALSE,			_T("--"),	/* SEAQUEST 13 */18,	/* SEAQUEST _T("N'") */_T("'"),	_T("'"),		/* SEAQUEST _T("") */ _T("VARCHAR CHARACTER SET ISO88591"),	_T("--"),	SQL_NO_NULLS,	0,					/* SEAQUEST 24 */18,/* SEAQUEST 0 */18,	0,			pTestInfo->Schema,	SQL_PRED_SEARCHABLE,_T("--"),	/* SEAQUEST SQL_WCHAR */SQL_VARCHAR,_T("VARCHAR"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_INTEGER,						0,						0,							10,				SQL_FALSE,			_T("--"),	/* SQ 10 */4,		_T(""),							_T(""),			_T(""),														_T("--"),	SQL_NO_NULLS,	/* SQ 0 */10,	4,					10,					0,			pTestInfo->Schema,	SQL_PRED_BASIC,		_T("--"),	SQL_INTEGER,						_T("INTEGER"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_INTEGER,						0,						0,							10,				SQL_FALSE,			_T("--"),	/* SQ 10 */4,		_T(""),							_T(""),			_T(""),														_T("--"),	SQL_NO_NULLS,	/* SQ 0 */10,	4,					10,					0,			pTestInfo->Schema,	SQL_PRED_BASIC,		_T("--"),	SQL_INTEGER,						_T("INTEGER"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
+		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_TRUE,		pTestInfo->Catalog,		/* SQ SQL_WCHAR */SQL_VARCHAR,0,						0,							18,				SQL_FALSE,			_T("--"),	/* SQ 13 */18,	/* SQ _T("N'") */_T("'"),	_T("'"),		/* SQ _T("") */ _T("VARCHAR CHARACTER SET ISO88591"),	_T("--"),	SQL_NO_NULLS,	0,					/* SQ 24 */18,/* SQ 0 */18,	0,			pTestInfo->Schema,	SQL_PRED_SEARCHABLE,_T("--"),	/* SQ SQL_WCHAR */SQL_VARCHAR,_T("VARCHAR"),	SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
 		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_TYPE_DATE,						SQL_CODE_DATE,			0,							10,				SQL_FALSE,			_T("--"),	10,						_T("{d'"),						_T("'}"),		_T(""),														_T("--"),	SQL_NO_NULLS,	0,					6,					0,					0,			pTestInfo->Schema,	SQL_PRED_BASIC,		_T("--"),	SQL_DATETIME,						_T("DATE"),		SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN},
 		{ SQL_FALSE,		_T("--"),			_T("--"),			SQL_FALSE,		pTestInfo->Catalog,		SQL_TYPE_TIMESTAMP,					SQL_CODE_TIMESTAMP,		0,							26,				SQL_FALSE,			_T("--"),	26,						_T("{ts'"),						_T("'}"),		_T(""),														_T("--"),	SQL_NO_NULLS,	0,					16,					6,					0,			pTestInfo->Schema,	SQL_PRED_BASIC,		_T("--"),	SQL_DATETIME,						_T("TIMESTAMP"),SQL_NAMED,	SQL_TRUE,	SQL_ATTR_READWRITE_UNKNOWN}
 	};
@@ -316,11 +337,11 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 	IPD_REC IPD_ExpData[MAX_BOUND_PARAM] =
 	{
 		//	CaseSensitive	ConciseType		DatetimeIntervalCode	DatetimeIntervalPrecision	FixedPrecScale	Length							LocalTypeName												Name						Nullable		NumPrecRadix	OctetLen						ParameterType		Precision	Scale	Type			TypeName									Unamed									Unsigned
-		{ 	SQL_FALSE,		SQL_INTEGER,			0,					/* SEAQUEST 0 */ 10,	SQL_FALSE ,		/* SEAQUEST 0 */ 4,				_T(""),														/*PROJCODE*/_T("--"),		SQL_NO_NULLS,	10,				4,								SQL_PARAM_INPUT,	10,			0,		SQL_INTEGER,	_T("INTEGER"),								/* SEAQUEST SQL_NAMED */ SQL_UNNAMED,	SQL_TRUE},
-		{ 	SQL_FALSE,		SQL_INTEGER,			0,					/* SEAQUEST 0 */ 10,	SQL_FALSE,		/* SEAQUEST 0 */MAX_BUFFER_LEN,	_T(""),														/*EMPNUM*/_T("--"),			SQL_NO_NULLS,	10,				/* SEAQUEST 4 */ MAX_BUFFER_LEN,SQL_PARAM_INPUT,	10,			0,		SQL_INTEGER,	_T("INTEGER"),								/* SEAQUEST SQL_NAMED */ SQL_UNNAMED,	SQL_TRUE},
-		{ 	SQL_TRUE,		SQL_WCHAR,				0,					/* SEAQUEST 0 */ 18,	SQL_FALSE,		/* SEAQUEST 13 */18,			/* SEAQUEST _T("") */ _T("VARCHAR CHARACTER SET ISO88591"),	/*PROJDESC*/_T("--"),		SQL_NO_NULLS,	0,				/* SEAQUEST 18 */36,			SQL_PARAM_INPUT,	0,			0,		SQL_WCHAR,		/* SEAQUEST _T("VARCHAR") */ _T("NCHAR"),	/* SEAQUEST SQL_NAMED */ SQL_UNNAMED,	SQL_TRUE},
-		{ 	SQL_FALSE,		SQL_TYPE_DATE,			SQL_CODE_DATE,		0,						SQL_FALSE,		10,								_T(""),														/*START_DATE*/_T("--"),		SQL_NO_NULLS,	0,				6,								SQL_PARAM_INPUT,	0,			0,		SQL_DATETIME,	_T("DATE"),									/* SEAQUEST SQL_NAMED */ SQL_UNNAMED,	SQL_TRUE},
-		{ 	SQL_FALSE,		SQL_TYPE_TIMESTAMP,		SQL_CODE_TIMESTAMP,	/* SEAQUEST 0 */ 6,		SQL_FALSE,		/* SEAQUEST 19 */ 26,			_T(""),														/*SHIP_TIMESTAMP*/_T("--"),	SQL_NO_NULLS,	0,				16,								SQL_PARAM_INPUT,	6,			0,		SQL_DATETIME,	_T("TIMESTAMP"),							/* SEAQUEST SQL_NAMED */ SQL_UNNAMED,	SQL_TRUE}
+		{ 	SQL_FALSE,		SQL_INTEGER,			0,					/* SQ 0 */ 10,	SQL_FALSE ,		/* SQ 0 */ 4,				_T(""),														/*PROJCODE*/_T("--"),		SQL_NO_NULLS,	10,				4,								SQL_PARAM_INPUT,	10,			0,		SQL_INTEGER,	_T("INTEGER"),								/* SQ SQL_NAMED */ SQL_UNNAMED,	SQL_TRUE},
+		{ 	SQL_FALSE,		SQL_INTEGER,			0,					/* SQ 0 */ 10,	SQL_FALSE,		/* SQ 0 */MAX_BUFFER_LEN,	_T(""),														/*EMPNUM*/_T("--"),			SQL_NO_NULLS,	10,				/* SQ 4 */ MAX_BUFFER_LEN,SQL_PARAM_INPUT,	10,			0,		SQL_INTEGER,	_T("INTEGER"),								/* SQ SQL_NAMED */ SQL_UNNAMED,	SQL_TRUE},
+		{ 	SQL_TRUE,		SQL_WCHAR,				0,					/* SQ 0 */ 18,	SQL_FALSE,		/* SQ 13 */18,			/* SQ _T("") */ _T("VARCHAR CHARACTER SET ISO88591"),	/*PROJDESC*/_T("--"),		SQL_NO_NULLS,	0,				/* SQ 18 */36,			SQL_PARAM_INPUT,	0,			0,		SQL_WCHAR,		/* SQ _T("VARCHAR") */ _T("NCHAR"),	/* SQ SQL_NAMED */ SQL_UNNAMED,	SQL_TRUE},
+		{ 	SQL_FALSE,		SQL_TYPE_DATE,			SQL_CODE_DATE,		0,						SQL_FALSE,		10,								_T(""),														/*START_DATE*/_T("--"),		SQL_NO_NULLS,	0,				6,								SQL_PARAM_INPUT,	0,			0,		SQL_DATETIME,	_T("DATE"),									/* SQ SQL_NAMED */ SQL_UNNAMED,	SQL_TRUE},
+		{ 	SQL_FALSE,		SQL_TYPE_TIMESTAMP,		SQL_CODE_TIMESTAMP,	/* SQ 0 */ 6,		SQL_FALSE,		/* SQ 19 */ 26,			_T(""),														/*SHIP_TIMESTAMP*/_T("--"),	SQL_NO_NULLS,	0,				16,								SQL_PARAM_INPUT,	6,			0,		SQL_DATETIME,	_T("TIMESTAMP"),							/* SQ SQL_NAMED */ SQL_UNNAMED,	SQL_TRUE}
 	};
 
 	APP_REC APP_ExpData[MAX_BOUND_PARAM] =
@@ -329,12 +350,12 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 	    {SQL_C_SSHORT,	    NULL,       0,              0,                  NULL,					0,					0,													0,              NULL,               0,          0,	    SQL_C_SSHORT},		
 		{SQL_C_SSHORT,	    NULL,       0,              0,                  NULL,					0,					0,													0,              NULL,               0,          0,	    SQL_C_SSHORT},
 #ifdef UNICODE
-		{SQL_C_TCHAR,	    NULL,       0,              0,                  NULL,   /* SEAQUEST 13 */MAX_BUFFER_LEN,    0,					/* SEAQUEST MAX_BUFFER_LEN */MAX_BUFFER_LEN*2,	NULL,				0,			0,		SQL_C_TCHAR},	
+		{SQL_C_TCHAR,	    NULL,       0,              0,                  NULL,   /* SQ 13 */MAX_BUFFER_LEN,    0,					/* SQ MAX_BUFFER_LEN */MAX_BUFFER_LEN*2,	NULL,				0,			0,		SQL_C_TCHAR},	
 #else	
-		{SQL_C_TCHAR,	    NULL,       0,              0,                  NULL,   /* SEAQUEST 13 */MAX_BUFFER_LEN,    0,					/* SEAQUEST MAX_BUFFER_LEN */MAX_BUFFER_LEN,	NULL,				0,			0,		SQL_C_TCHAR},		
+		{SQL_C_TCHAR,	    NULL,       0,              0,                  NULL,   /* SQ 13 */MAX_BUFFER_LEN,    0,					/* SQ MAX_BUFFER_LEN */MAX_BUFFER_LEN,	NULL,				0,			0,		SQL_C_TCHAR},		
 #endif
 		{SQL_C_TYPE_DATE,   NULL,	    SQL_CODE_DATE,	0,                  NULL,					10,					0,													0,              NULL,               0,          0,	    SQL_DATETIME},		
-		{SQL_C_TYPE_TIMESTAMP,NULL,     SQL_CODE_TIMESTAMP,	0,              NULL,   /* SEAQUEST 19 */0,					0,													0,              NULL,               0,          0,	    SQL_DATETIME}		
+		{SQL_C_TYPE_TIMESTAMP,NULL,     SQL_CODE_TIMESTAMP,	0,              NULL,   /* SQ 19 */0,					0,													0,              NULL,               0,          0,	    SQL_DATETIME}		
 	};
 
 //===========================================================================================================
@@ -1033,7 +1054,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 							}
 
 							//check the default value
-							/* SEAQUEST 
+							/* SQ 
 							if ( ParameterType != SQL_PARAM_INPUT)
 							{
 								LogMsg(ERRMSG,_T("SQL_DESC_PARAMETER_TYPE (case %d): expected SQL_PARAM_INPUT and found %d, (FieldIndex: %d) line %d\n"),  i, ParameterType, FieldIndex, __LINE__);
@@ -1042,7 +1063,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 								break;
 							}	
 							*/
-							/* SEAQUEST new */
+							/* SQ new */
 							if ( ParameterType > 0)
 							{
 								LogMsg(ERRMSG,_T("SQL_DESC_PARAMETER_TYPE (case %d): expected NOTHING and found %d, (FieldIndex: %d) line %d\n"),  i, ParameterType, FieldIndex, __LINE__);
@@ -1050,7 +1071,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 								TESTCASE_END;
 								break;			
 							}
-							/* end of SEAQUEST new */
+							/* end of SQ new */
 							TESTCASE_END;
 							break;
 
@@ -1256,7 +1277,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 			    break;
 
 		    case SQL_C_TCHAR:
-/* SEAQUEST1 new */
+/* SQ1 new */
 				//set SQL_DESC_LENGTH : ignored for all except TCHAR data
 //				LogMsg(NONE,_T("SQLSetDescField to set attribute SQL_DESC_LENGTH for descriptor hDesc[0] when I = %d \n"), i);
 				LogMsg(NONE,_T("SQLSetDescField to set attribute SQL_DESC_LENGTH for descriptor hDesc[0] when I = %d and SQL_DESC_LENGTH = %d \n"), i, MAX_BUFFER_LEN);
@@ -1268,7 +1289,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 					TEST_FAILED;
 					TEST_RETURN;
 				}
-/* End of SEAQUEST1 new */
+/* End of SQ1 new */
 			    	//set SQL_DESC_OCTET_LENGTH : ignored for all except TCHAR data
 				LogMsg(NONE,_T("SQLSetDescField to set attribute SQL_DESC_OCTET_LENGTH for descriptor hDesc[0] when I = %d and SQL_DESC_OCTET_LENGTH = %d\n"), i, MAX_BUFFER_LEN);
 			    returncode = SQLSetDescField(hDesc[0], (SQLSMALLINT)i, SQL_DESC_OCTET_LENGTH, (SQLPOINTER)MAX_BUFFER_LEN, 0);
@@ -1518,7 +1539,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 			    }
 
 			    break;
-			    /* SEAQUEST1 case SQL_WCHAR: */
+			    /* SQ1 case SQL_WCHAR: */
 //		     case SQL_C_WCHAR:
 		     case SQL_C_TCHAR:
 			    //set SQL_DESC_LENGTH : ignored for all except TCHAR data
@@ -1532,7 +1553,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 				    TEST_FAILED;
 				    TEST_RETURN;
 			    }
-/* SEAQUEST1 new */
+/* SQ1 new */
 			    //set SQL_DESC_OCTET_LENGTH : ignored for all except TCHAR data
 //			    LogMsg(NONE,_T("SQLSetDescField to set attribute SQL_DESC_OCTET_LENGTH for descriptor hDesc[1] when I = %d \n"), i);
 			    LogMsg(NONE,_T("SQLSetDescField to set attribute SQL_DESC_OCTET_LENGTH for descriptor hDesc[1] when I = %d and SQL_DESC_OCTET_LENGTH = %d\n"), i, MAX_BUFFER_LEN);
@@ -1544,7 +1565,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 					TEST_FAILED;
 					TEST_RETURN;
 			    }
-/* end of SEAQUEST1 new */
+/* end of SQ1 new */
 			    break;
 		    case SQL_INTERVAL:
 			    //set SQL_DESC_DATETIME_INTERVAL_PRECISION
@@ -1664,9 +1685,9 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 			//set datetime_interval_code if required
 			switch (APP_ExpData[i-1].appType)
 			{
-			// SEAQUEST1 case SQL_C_TYPE_DATE:
-			// SEAQUEST1 case SQL_C_TYPE_TIMESTAMP:
-				/* SEAQUEST1 new */
+			// SQ1 case SQL_C_TYPE_DATE:
+			// SQ1 case SQL_C_TYPE_TIMESTAMP:
+				/* SQ1 new */
 			case SQL_DATETIME:
 				//set SQL_DESC_DATETIME_INTERVAL_CODE
 				returncode = SQLSetDescField(hDesc[2], (SQLSMALLINT)i, SQL_DESC_DATETIME_INTERVAL_CODE, (SQLPOINTER)APP_ExpData[i-1].appDatetimeIntervalCode, 0);
@@ -1691,7 +1712,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 					TEST_RETURN;
 				}
 
-#if 0 /* SEAQUEST1 */
+#if 0 /* SQ1 */
 				//set SQL_DESC_OCTET_LENGTH_PTR
 				_tcslen = SQL_NTS;
 				returncode = SQLSetDescField(hDesc[2], (SQLSMALLINT)i, SQL_DESC_OCTET_LENGTH_PTR, &_tcslen, 0);
@@ -1711,8 +1732,8 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 					TEST_FAILED;
 					TEST_RETURN;
 				}
-#endif /* SEAQUEST1 */
-/* SEAQUEST1 new */
+#endif /* SQ1 */
+/* SQ1 new */
 				//set SQL_DESC_OCTET_LENGTH : ignored for all except CHAR data
 //				LogMsg(NONE,_T("SQLSetDescField to set attrbute SQL_DESC_OCTET_LENGTH for descriptor hDesc[2] when I = %d \n"), i);
 				LogMsg(NONE,_T("SQLSetDescField to set attribute SQL_DESC_OCTET_LENGTH for descriptor hDesc[2] when I = %d and SQL_DESC_OCTET_LENGTH = %d\n"), i, MAX_BUFFER_LEN);
@@ -1744,7 +1765,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 			}//end switch for data types
 
 			//set SQL_DESC_OCTET_LENGTH to value MAX_BUFFER_LEN
-#if 0 /* SEAQUEST1 */
+#if 0 /* SQ1 */
 			returncode = SQLSetDescField(hDesc[2], (SQLSMALLINT)i, SQL_DESC_OCTET_LENGTH, (SQLPOINTER)MAX_BUFFER_LEN, 0);
 			if(!CHECKRC(SQL_SUCCESS,returncode,"SQLSetDescField:SQL_DESC_OCTET_LENGTH"))	
 			{
@@ -1753,7 +1774,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 				TEST_FAILED;
 				TEST_RETURN;
 			}
-#endif /* SEAQUEST1 */
+#endif /* SQ1 */
 
 			switch (i)		//to set data values
 			{
@@ -1916,15 +1937,15 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 		while (TRUE)
 		{
 			returncode = SQLFetch(hstmt1);
-			if (returncode != SQL_SUCCESS /* SEAQUEST */ && returncode != SQL_NO_DATA_FOUND)
+			if (returncode != SQL_SUCCESS /* SQ */ && returncode != SQL_NO_DATA_FOUND)
 			{
 				LogAllErrorsVer3(henv,hdbc,hstmt1);
 				LogMsg(ERRMSG,_T("Cannot fetch data. returncode=%d line %d\n"), returncode, __LINE__);
 				// This is where the 1st error is coming from
 				break;
 			}
-			/* SEAQUEST2 new */ 
-			// SEAQUEST2 if (returncode == SQL_SUCCESS)
+			/* SQ2 new */ 
+			// SQ2 if (returncode == SQL_SUCCESS)
 			else if (returncode == SQL_SUCCESS)
 			{
 //				LogMsg(SHORTTIMESTAMP+LINEAFTER, _T(" ProjCode = %d\t EmpNum = %d\n"), ardProjCode, ardEmpNum);
@@ -1933,12 +1954,12 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 				ardStartDate.year,ardStartDate.month,ardStartDate.day,
 				ardShipTimestamp.year, ardShipTimestamp.month, ardShipTimestamp.day, ardShipTimestamp.hour, ardShipTimestamp.minute, ardShipTimestamp.second);
 			}
-			/* SEAQUEST2 * new */
+			/* SQ2 * new */
 			else
 			{
 				break;
 			}
-			/* end of SEAQUEST2 new */
+			/* end of SQ2 new */
 		}
 	
 	}//end if
@@ -2422,7 +2443,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 													//go to next desc_field
 										}
 										//check value
-										/* SEAQUEST IPD_ExpData[j-1].ipdDatetimeIntervalPrecision = 0; */ //default
+										/* SQ IPD_ExpData[j-1].ipdDatetimeIntervalPrecision = 0; */ //default
 										if (DatetimeIntervalPrecision == IPD_ExpData[j-1].ipdDatetimeIntervalPrecision) 
 										{
 											//LogMsg(NONE, _T("DatetimeIntervalPrecision = %d\n"), DatetimeIntervalPrecision);
@@ -2546,14 +2567,14 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 											break;			//go to next desc_field
 										}
 										//check value
-										/* SEAQUEST NEW*/
+										/* SQ NEW*/
 										if (cwcscmp((TCHAR*)Name, _T(""), TRUE) == 0)
 										{
 										LogMsg(NONE, _T("The SQL_DESC_NAME for IPD is NULL because the driver does not support Named Parameters\n"));
 										}
 										else if (cwcscmp((TCHAR*)Name, (TCHAR*)IPD_ExpData[j-1].ipdName, TRUE) == 0)
-										/* end of SEAQUEST NEW*/
-										// SEAQUEST if (cwcscmp((TCHAR*)Name, (TCHAR*)IPD_ExpData[j-1].ipdName, TRUE) == 0)
+										/* end of SQ NEW*/
+										// SQ if (cwcscmp((TCHAR*)Name, (TCHAR*)IPD_ExpData[j-1].ipdName, TRUE) == 0)
 										{
 											
 											//LogMsg(NONE, _T("Name = %s\n"), Name);
@@ -3191,7 +3212,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 											break;			//go to next desc_field
 										}
 										//check value
-										if (!(_tcsicmp((TCHAR*)Label, (TCHAR*)/* SEAQUEST IRD_ExpData[j-1].irdLabel */ removeQuotes(IRD_ExpData[j-1].irdLabel,tmpbuf))))
+										if (!(_tcsicmp((TCHAR*)Label, (TCHAR*)/* SQ IRD_ExpData[j-1].irdLabel */ removeQuotes(IRD_ExpData[j-1].irdLabel,tmpbuf))))
 										{
 											
 //											LogMsg(NONE, _T("Label = %s\n"), Label);
@@ -3407,7 +3428,7 @@ PassFail TestMXSQLSetGetDescFields(TestInfo *pTestInfo)
 										
 										}
 										//check value
-										/* SEAQUEST IRD_ExpData[j-1].irdNumPrecRadix = 2; */
+										/* SQ IRD_ExpData[j-1].irdNumPrecRadix = 2; */
 										if (NumPrecRadix == IRD_ExpData[j-1].irdNumPrecRadix) 
 										{
 //											LogMsg(NONE, _T("NumPrecRadix = %d\n"), NumPrecRadix);

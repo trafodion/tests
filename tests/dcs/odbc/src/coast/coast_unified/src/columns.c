@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -46,7 +67,7 @@ PassFail TestMXSQLColumns( TestInfo *pTestInfo)
 	SWORD		oColRadix;
 	SWORD		oColNullable;
 	TCHAR		oRemark[REM_LEN];
-	SQLLEN		oTableQualifierlen; // sushil
+	SQLLEN		oTableQualifierlen; 
 	SQLLEN		oTableOwnerlen;
 	SQLLEN		oTableNamelen;
 	SQLLEN		oColNamelen;
@@ -64,15 +85,15 @@ PassFail TestMXSQLColumns( TestInfo *pTestInfo)
 	int totatt = 18;
 	SWORD numOfCols = 0;
 	SWORD pcbDesc;
-	SQLLEN pfDesc; // sushil
+	SQLLEN pfDesc; 
 	TCHAR cn[COLNAME_LEN];
 	SWORD cl;
 	SWORD st;
-	SQLULEN cp; // sushil
+	SQLULEN cp; 
 	SWORD cs, cnull;
 	TCHAR rgbDesc[RGB_MAX_LEN];
 	TCHAR *CharOutput[40];
-	SQLLEN stringlength; // sushil
+	SQLLEN stringlength; 
 	TCHAR *TabName;
 	TCHAR *MVSName[3];
 
@@ -593,7 +614,7 @@ PassFail TestMXSQLColumns( TestInfo *pTestInfo)
 							LogMsg(NONE,Heading);
 							if (_tcslen(TableQualifier) == 0)
 							{
-								//_tcscpy(TableQualifier, _T("NEO"));
+								//_tcscpy(TableQualifier, _T("TRAFODION"));
 								_tcscpy(TableQualifier, _T("TRAFODION"));
 							}
 							if ((cwcscmp(TableQualifier,oTableQualifier,TRUE) == 0) 
@@ -837,7 +858,7 @@ PassFail TestMXSQLColumns( TestInfo *pTestInfo)
 							LogMsg(NONE,Heading);
 							if (_tcslen(TableQualifier) == 0)
 							{
-								//_tcscpy(TableQualifier, _T("NEO"));
+								//_tcscpy(TableQualifier, _T("TRAFODION"));
 								_tcscpy(TableQualifier, _T("TRAFODION"));
 							}
 							if ((cwcscmp(TableQualifier,oTableQualifier,TRUE) == 0) 
@@ -1228,9 +1249,6 @@ PassFail TestMXSQLColumns( TestInfo *pTestInfo)
             printSymbol(ColumnWC[k].ColName,displayBuf.col));
         LogMsg(NONE,Heading);
 
-		/* SEAQUEST
-		returncode = SQLColumns(hstmt,(SQLTCHAR*)ColumnWC[k].TabQua,(SWORD)_tcslen(ColumnWC[k].TabQua),(SQLTCHAR*)ColumnWC[k].TabOwner,(SWORD)_tcslen(ColumnWC[k].TabOwner),(SQLTCHAR*)ColumnWC[k].TabName,(SWORD)_tcslen(ColumnWC[k].TabName),(SQLTCHAR*)ColumnWC[k].ColName,(SWORD)_tcslen(ColumnWC[k].ColName));
-		*/
 		returncode = SQLColumns(hstmt,(SQLTCHAR*)ColumnWC[k].TabQua,(SWORD)_tcslen(ColumnWC[k].TabQua),
 									  (SQLTCHAR*)ColumnWC[k].TabOwner,(SWORD)_tcslen(ColumnWC[k].TabOwner),
 									  (SQLTCHAR*)removeQuotes(ColumnWC[k].TabName,displayBuf.tab),(SWORD)_tcslen(displayBuf.tab),

@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 /**************************************************************
 ** common.c
 **
@@ -16,7 +37,7 @@
 #include "log.h"
 
 #ifdef unixcli
-#define NSK_PLATFORM
+#define PLATFORM
 #define far
 #endif
 
@@ -2617,7 +2638,7 @@ TrueFalse FullConnect(TestInfo *pTestInfo)
    }
 
    /* 6-5-00:
-      Need to turn Autocommit off since SQL/MX will close all open cursors that are
+      Need to turn Autocommit off since it will close all open cursors that are
       open if the end of ANY of the cursors is reached. */
    /*returncode = SQLSetConnectOption(hdbc, SQL_AUTOCOMMIT, SQL_AUTOCOMMIT_OFF);
    if(!CHECKRC(SQL_SUCCESS,returncode,"SQLAllocConnect")){
@@ -3183,7 +3204,7 @@ TrueFalse GetDataAll( TestInfo* ti, void *buffer, SQLULEN cbBuf,
 		    /* get data for column */
 		  	*pRetCode = SQLGetData((SQLHANDLE) ti->hstmt, (UWORD)(iCol+1), 
 				SQL_C_TCHAR, tempStr, 
-				MAX_STRING_SIZE-1, (SQLLEN*)&iNumChars ); // sushil
+				MAX_STRING_SIZE-1, (SQLLEN*)&iNumChars ); 
 			/* check for NULL data case */
 			if  (iNumChars == SQL_NULL_DATA)
 			{
@@ -3390,7 +3411,6 @@ void LogResults(void)
 
 void LogResultsTest(TCHAR *ProcName)
 {
-// SEAQUEST	LogMsg(LINEBEFORE+LINEAFTER+SHORTTIMESTAMP,_T("\t%s \t--> \tTotal Tests=\t%d  \tFailed=\t%d\n"),ProcName, _gTestCount - _gTestIndvCount,_gTestFailedCount - _gTestFailedIndvCount);
 	LogMsg(LINEBEFORE+LINEAFTER,_T("%-35s TEST RESULT: %s Cases=%d Failed=%d\n"), ProcName, ((_gTestFailedCount - _gTestFailedIndvCount) ? _T("FAIL") : _T("PASS")), _gTestCount - _gTestIndvCount, _gTestFailedCount - _gTestFailedIndvCount);
 	_gTestIndvCount = _gTestCount;
 	_gTestFailedIndvCount = _gTestFailedCount;

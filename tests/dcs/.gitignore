@@ -25,6 +25,7 @@ sftp-config.json
 *.gz
 *.exe
 *.ncb
-
+*.suo
+*.sdf
 # Test configuration
 summary.sum

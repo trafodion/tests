@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 // COAST.cpp : Defines the entry point for the console application.
 //
 #include <stdlib.h>    
@@ -15,7 +36,6 @@
 #define RUNALL	1
 #define RUNFILE	2
 #define RUNAPI	3
-// SEAQUEST #define	ARGS	_T("d:u:p:c:f:")
 #define	ARGS	_T("d:u:p:l:c:f:m:r:")
 
 TestInfo		*pTestInfo;
@@ -27,9 +47,7 @@ TCHAR *strapi;//[100];
 TCHAR *strOption;//[100];
 TCHAR *inputfile;//[100];
 TFILE *scriptFD = NULL;
-/* SEAQUEST new */
 TCHAR *machine = _T("local");
-/* end of SEAQUEST new */
 
 TCHAR *charset_filenames[] = {_T("charset_auto_generated_ascii.char"),
 							 _T("charset_auto_generated_sjis.char"),
@@ -39,7 +57,7 @@ TCHAR *charset_filenames[] = {_T("charset_auto_generated_ascii.char"),
 							 _T("charset_auto_generated_ksc.char"),
 							 _T("charset_auto_generated_eucjp.char"),
 							 _T("charset_auto_generated_latin1.char"),
-/* SEAQUEST */				 _T("charset_auto_generated_gbk.char")
+				 _T("charset_auto_generated_gbk.char")
 						 };
 
 TCHAR fileout_dir[1024];
@@ -127,7 +145,7 @@ bool m_ColumnPrivileges30		= FALSE;
 bool m_TablePrivileges30		= FALSE;
 bool m_Unicode30				= FALSE;
 
-// SQLMX and NDCS Features
+// Features
 bool m_QueryID					= FALSE;
 bool m_Hash2					= FALSE;
 bool m_LargeBlock				= FALSE;
@@ -296,7 +314,7 @@ int _tmain(int argc, TCHAR* argv[])
 					else if (!_tcsicmp(charset,_T("LATIN1"))) {
 						_tcscpy(charset_file,charset_filenames[7]);
 					}
-/* SEAQUEST new */
+
 					else if (!_tcsicmp(charset,_T("GBK"))) {
 						_tcscpy(charset_file,charset_filenames[8]);
 #if defined(unixcli)&&defined(UNICODE)
@@ -306,16 +324,13 @@ int _tmain(int argc, TCHAR* argv[])
 //#endif
 #endif
 					}
-/* end of SEAQUEST new */
 					else 
 						errflag++;
 				}
 				break;
-/* SEAQUEST new */
 			case 'm':
 				machine = tcs_optarg;
 				break;
-/* end of SEAQUESET new */
 			default :
 				errflag++;
 		}
@@ -814,7 +829,7 @@ int	Run30Tests ()
 		//m_PartialDateTimeInput30 = TRUE;
 		//m_PartialDateTimeOutput30 = TRUE;
 
-		// SQLMX and NDCS Features
+		// Features
 		m_QueryID = TRUE;
 		m_Hash2 = TRUE;
 		m_LargeBlock = TRUE;
@@ -996,7 +1011,7 @@ int	Run30Tests ()
 	}
 	if (m_LargeBlock)
 	{
-		_putts(_T("Running SQLMX LargeBlock feature tests.\r\n"));
+		_putts(_T("Running LargeBlock feature tests.\r\n"));
 		TestLargeBlock(pTestInfo);
 		LogResultsTest(_T("LargeBlock"));
 	}
@@ -1008,7 +1023,7 @@ int	Run30Tests ()
 	}
 	if (m_QueryID)
 	{
-		_putts(_T("Running SQLMX QueryID feature tests.\r\n"));
+		_putts(_T("Running QueryID feature tests.\r\n"));
 		TestQueryID(pTestInfo);
 		LogResultsTest(_T("Query ID"));
 	}

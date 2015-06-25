@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -22,7 +43,7 @@ PassFail TestMXSQLGetDiagField(TestInfo *pTestInfo)
 	SQLHANDLE 			henv;
 	SQLHANDLE 			hdbc;
 	SQLHANDLE			hstmt;
-	SQLLEN				DiagInfoIntPtr64; //sushil
+	SQLLEN				DiagInfoIntPtr64; 
 	SQLINTEGER   		DiagInfoIntPtr;
 	SQLRETURN			DiagInfoReturnPtr;
 	SQLTCHAR	*			DiagInfoCharPtr;
@@ -261,7 +282,7 @@ PassFail TestMXSQLGetDiagField(TestInfo *pTestInfo)
 		}
 		DiagInfoIntPtr64 = 0;
 		DiagInfoIntPtr = 0;
-		#ifdef _LP64 // sushil
+		#ifdef _LP64 
 		returncode = SQLGetDiagField(SQL_HANDLE_STMT,hstmt,0,SQL_DIAG_ROW_COUNT,(SQLSMALLINT *)&DiagInfoIntPtr64,sizeof(DiagInfoIntPtr),(SQLSMALLINT *)&StringLengthPtr);
 		#else
 		returncode = SQLGetDiagField(SQL_HANDLE_STMT,hstmt,0,SQL_DIAG_ROW_COUNT,(SQLSMALLINT *)&DiagInfoIntPtr,sizeof(DiagInfoIntPtr),(SQLSMALLINT *)&StringLengthPtr);

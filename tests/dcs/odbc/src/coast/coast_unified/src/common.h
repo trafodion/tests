@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #ifndef __COMMONH      /* this prevents multiple copies of this... */
 #define __COMMONH      /* ...include file from being #included... */
 
@@ -40,9 +61,9 @@
 	#define _TCS_MEMSET_DEFINED
 	#endif // end def _TCS_MEMSET_DEFINED
 
-	// HP Neoview Session Name connection attribute
+	// Session Name connection attribute
 	#define SQL_ATTR_SESSIONNAME            5000
-	/* Max Neoview Session Name length including terminating null */
+	/* Max Session Name length including terminating null */
 	#define SQL_MAX_SESSIONNAME_LEN 25
 	// Attribute to get the 64bit rowcount when using the 32-bit ODBC driver
 	#define SQL_ATTR_ROWCOUNT64_PTR         5001
@@ -179,7 +200,7 @@ struct TestInfo {
 struct ColumnInfo	{
 	SQLTCHAR	Name[MAX_COLUMN_NAME];
 	SWORD	SqlType;
-	SQLULEN	Prec; // sushil
+	SQLULEN	Prec; 
 	SWORD	Scale;
 	SWORD	Nullable;
 	SQLULEN	DisplaySize;

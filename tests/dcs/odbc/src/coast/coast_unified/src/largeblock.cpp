@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -96,7 +117,7 @@ PassFail TestLargeBlock(TestInfo *pTestInfo)
 		{2, _T("--"),	{ld_input,_T("{ts '1992-12-31 23:45:23.123456'}")}, _T("--"),     {ld_output,_T("2007-12-30 12:15:20.123456")}},
 		{3, _T("--"),	{ld_input,ld_input,_T("123456.001")},	            _T("--"),     {ld_output,ld_output,_T("654321.001")}},
 		{4, _T("--"),	{_T("123450"),ld_input,_T("123456.001"),ld_input},  _T("--"),     {_T("123450"),ld_output,_T("654321.001"),ld_output}},
-		{18,_T("--"),	{ld_input,_T("'0123456789'"),_T("'0123456789'"),ld_input,_T("1234.56789"),_T("5678.12345"),_T("-1234"),_T("6789"),_T("-12345"),_T("56789"),_T("12340"),_T("12300"),_T("12345670"),_T("{d '1993-12-30'}"),_T("{t '11:45:23'}"),_T("{ts '1992-12-31 23:45:23.123456'}"),_T("-9876543"),_T("12345678.9012345678901234567890")},_T("--"),{ld_output,datastr1_output,datastr1_output,ld_output,_T("9876.54321"),_T("8765.12345"),_T("-4321"),_T("9876"),_T("-54321"),_T("98765"),_T("43210.0"),_T("32100.0"),_T("76543210.0"),DATE_FORMAT2,_T("12:25:21"),_T("2007-10-30 12:25:21.123456"),_T("-6563455"),/* SEAQUEST _T("-12345678.1234567890000000000000") */ _T("-12345678.123456789")}},
+		{18,_T("--"),	{ld_input,_T("'0123456789'"),_T("'0123456789'"),ld_input,_T("1234.56789"),_T("5678.12345"),_T("-1234"),_T("6789"),_T("-12345"),_T("56789"),_T("12340"),_T("12300"),_T("12345670"),_T("{d '1993-12-30'}"),_T("{t '11:45:23'}"),_T("{ts '1992-12-31 23:45:23.123456'}"),_T("-9876543"),_T("12345678.9012345678901234567890")},_T("--"),{ld_output,datastr1_output,datastr1_output,ld_output,_T("9876.54321"),_T("8765.12345"),_T("-4321"),_T("9876"),_T("-54321"),_T("98765"),_T("43210.0"),_T("32100.0"),_T("76543210.0"),DATE_FORMAT2,_T("12:25:21"),_T("2007-10-30 12:25:21.123456"),_T("-6563455"), _T("-12345678.123456789")}},
         //This section is for Bignum testing
 		{2, _T("--"),	{ld_input,_T("1234567890.12345678")},               _T("--"),		{ld_output,_T("123456789.12345678")}},
 		{2, _T("--"),	{ld_input,_T("12345678901234567890.12345678901234567890123456789012345678901")},_T("--"),{ld_output,_T("-123456789012345678901234567890.123456789012345678901234567890123456789012345678901000")}},

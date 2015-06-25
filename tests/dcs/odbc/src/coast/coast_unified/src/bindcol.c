@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -274,7 +295,7 @@ PassFail TestMXSQLBindCol(TestInfo *pTestInfo)
 						{999}};
 
 	TCHAR			*CCharOutput[MAX_NUM1];
-	SQLLEN			OutputLen1[MAX_NUM1]; // sushil
+	SQLLEN			OutputLen1[MAX_NUM1]; 
 
 	TCHAR			*TestSQLType[] = {
 										_T("SQL_CHAR"),			_T("SQL_VARCHAR"),			_T("SQL_DECIMAL"),
@@ -439,9 +460,9 @@ PassFail TestMXSQLBindCol(TestInfo *pTestInfo)
 	short int			CSShortOutput[MAX_NUM2];
 	unsigned short int	CUShortOutput[MAX_NUM2];
 	short int			CShortOutput[MAX_NUM2];
-	int					CSLongOutput[MAX_NUM2]; // sushil: SQL_C_LONG corresponds to a 32 bit container, so changed this from a long to int
-	unsigned int		CULongOutput[MAX_NUM2]; // sushil: SQL_C_ULONG corresponds to a 32 bit container, so changed this from a long to int
-	int					CLongOutput[MAX_NUM2];	// sushil: SQL_C_LONG corresponds to a 32 bit container, so changed this from a long to int
+	int					CSLongOutput[MAX_NUM2]; // SQL_C_LONG corresponds to a 32 bit container, so changed this from a long to int
+	unsigned int		CULongOutput[MAX_NUM2]; // SQL_C_ULONG corresponds to a 32 bit container, so changed this from a long to int
+	int					CLongOutput[MAX_NUM2];	// SQL_C_LONG corresponds to a 32 bit container, so changed this from a long to int
 
 	struct
 	{
@@ -488,7 +509,7 @@ PassFail TestMXSQLBindCol(TestInfo *pTestInfo)
 
 	float			CFloatOutput[MAX_NUM2];
 	double			CDoubleOutput[MAX_NUM2];
-	SQLLEN			OutputLen2[MAX_NUM2]; // sushil
+	SQLLEN			OutputLen2[MAX_NUM2]; 
 
 	TCHAR			*TestSQLType1[] = {_T("SQL_CHAR"),_T("SQL_VARCHAR"),_T("SQL_DATE"),_T("SQL_TIMESTAMP"),_T("SQL_LONGVARCHAR"),
 										_T("SQL_WCHAR"),_T("SQL_WVARCHAR"),_T("SQL_WLONGVARCHAR"),_T("SQL_WLONGVARCHAR")};
@@ -629,7 +650,7 @@ PassFail TestMXSQLBindCol(TestInfo *pTestInfo)
 #ifndef _WM
 		DATE_STRUCT             OutputDateDef;
 #else
-        TCHAR                    OutputDateDef[10];  // Teradata's mode return SQL_DATE as a string
+        TCHAR                    OutputDateDef[10];  // return SQL_DATE as a string
 #endif
 		TIME_STRUCT             OutputTimeDef;
 		TIMESTAMP_STRUCT        OutputTimestampDef;
@@ -724,7 +745,7 @@ PassFail TestMXSQLBindCol(TestInfo *pTestInfo)
 	char					*NumDefOutput;
 	signed short int		SSintDefOutput = 0;
 	unsigned short int		USintDefOutput = 0;
-	int	  			        SLintDefOutput = 0; // Sushil: SQL_C_LONG is a 32 bit container
+	int	  			        SLintDefOutput = 0; // SQL_C_LONG is a 32 bit container
 	char					*ULintDefOutput = 0;
 	float					RealDefOutput = 0;
 	double					FloatDefOutput = 0;
@@ -732,7 +753,7 @@ PassFail TestMXSQLBindCol(TestInfo *pTestInfo)
 #ifndef _WM
 	DATE_STRUCT				DateDefOutput;
 #else
-    TCHAR                    DateDefOutput[10];  // Teradata's mode return SQL_DATE as a string
+    TCHAR                    DateDefOutput[10];  // SQL_DATE returned as a string
 #endif
 	TIME_STRUCT				TimeDefOutput;
 	TIMESTAMP_STRUCT		TimestampDefOutput;
@@ -742,7 +763,7 @@ PassFail TestMXSQLBindCol(TestInfo *pTestInfo)
 	wchar_t					*VCharDefOutputUCS2;
 	wchar_t					*LVCharDefOutputUCS2;
 	wchar_t					*NLVUTF8CharDefOutput;
-	SQLLEN					DefOutputLen[MAX_NUM4]; // sushil
+	SQLLEN					DefOutputLen[MAX_NUM4]; 
 	TCHAR					conversionbuffer[512];
 	int						sizeconversion=0;
 

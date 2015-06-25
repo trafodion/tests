@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -477,7 +498,7 @@ PassFail TestMXSQLCancel(TestInfo *pTestInfo)
 	TESTCASE_END;	//end creates and inserts
 
 //====================================================================================================================
-#if 0 /* SEAQUEST */ /* This was commented out in the UNIX UNICODE version.  Do the same here. */
+#if 0 /* This was commented out in the UNIX UNICODE version.  Do the same here. */
 	_tprintf(_T("Test SQLCancel with ASYNC mode, one hstmt\n"));
 	TESTCASE_BEGIN("Test Positive Functionality of SQLCancel with ASYNC mode, one hstmt\n");
 	returncode = SQLSetStmtOption(hstmt,SQL_ASYNC_ENABLE,SQL_ASYNC_ENABLE_ON);
@@ -1269,7 +1290,7 @@ PassFail TestMXSQLCancel(TestInfo *pTestInfo)
 	}//End for s loop
 
 //====================================================================================================================
-#endif /* SEAQUEST */
+#endif 
 
 	_tprintf(_T("Test SQLCancel for functions that need data\n"));
 	TESTCASE_BEGIN("Test Positive Functionality of SQLCancel for functions that need data.\n");

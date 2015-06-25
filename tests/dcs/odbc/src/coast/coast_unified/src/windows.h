@@ -1,21 +1,23 @@
-/*************************************************************************
-*
-// @@@ START COPYRIGHT @@@
-//
-//  Copyright 1998
-//  Compaq Computer Corporation
-//     Protected as an unpublished work.
-//        All rights reserved.
-//
-//  The computer program listings, specifications, and documentation
-//  herein are the property of Compaq Computer Corporation or a
-//  third party supplier and shall not be reproduced, copied,
-//  disclosed, or used in whole or in part for any reason without
-//  the prior express written permission of Compaq Computer
-//  Corporation.
-//
-// @@@ END COPYRIGHT @@@ 
-**************************************************************************/
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
 
 #ifndef WINDOWS_H_
 #define WINDOWS_H_
@@ -28,8 +30,8 @@
 #include "unix_extra.h"
 
 #ifdef unixcli
-#ifndef NSK_PLATFORM
-#define NSK_PLATFORM
+#ifndef PLATFORM
+#define PLATFORM
 #include <unistd.h>
 #endif
 #endif
@@ -708,10 +710,10 @@ char *_strdup( const char *strSource );
 #define strdup _strdup
 
 
-// change the NT limit to NSK limit
+// change the NT limit  
 #define _I64_MAX	LLONG_MAX
 
-//============== NSK Driver Conversion ============================
+//============== Driver Conversion ============================
 
 #define FULL_SYSTEM_LEN 25
 #define FULL_VOL_LEN 25
@@ -721,11 +723,11 @@ char *_strdup( const char *strSource );
 #define PRODUCT_NO_SIZE 8
 #define MAX_ERROR_TEXT_LEN 512
 
-#define ODBC_DRIVER		"NonStop ODBC/MX"
-#define DSNFILE			"MXODSN"
+#define ODBC_DRIVER		
+#define DSNFILE			"TRAFDSN"
 #define SYSTEM_PATH		"$SYSTEM.SYSTEM"
 
-#define SYSTEM_DSNFILE	"$SYSTEM.SYSTEM.MXODSN"
+#define SYSTEM_DSNFILE	"$SYSTEM.SYSTEM.TRAFDSN"
 #define USER_DSNFILE	DSNFILE
 
 enum FILE_STATUS { FILE_CLOSED, FILE_OPENED, FILE_ERROR };

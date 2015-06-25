@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -28,13 +49,11 @@ PassFail TestMXSQLProcedureColumns(TestInfo *pTestInfo)
 	TCHAR			*ProcStr;
   	TCHAR			ProcCatalog[NAME_LEN],ProcSchema[NAME_LEN],ProcName[NAME_LEN];
     TCHAR           ColName[NAME_LEN];
-/* SEAQUEST */
 char                    tmpbuf[1024];
 TCHAR                   *myTestSch;
 TCHAR                   *createSchStr;
 TCHAR                   *setSchStr;
 TCHAR                   *dropSchStr;
-/* end of SEAQUEST */
 	TCHAR			oProcCatalog[NAME_LEN];
 	TCHAR			oProcSchema[NAME_LEN];
 	TCHAR			oProcName[NAME_LEN];
@@ -54,7 +73,7 @@ TCHAR                   *dropSchStr;
 	SDWORD			oCharOctetLen;
 	SDWORD			oOrdinalPos;
 	TCHAR			oIsNullable[NAME_LEN];
-	SQLLEN		oProcCataloglen; // sushil
+	SQLLEN		oProcCataloglen; 
 	SQLLEN		oProcSchemalen;
 	SQLLEN		oProcNamelen;
 	SQLLEN		oColNamelen;
@@ -233,7 +252,6 @@ TCHAR                   *dropSchStr;
 	//TESTCASE_END; 
 
 	ProcStr = (TCHAR *)malloc(MAX_NOS_SIZE);
-/* SEAQUEST */
         myTestSch = (TCHAR *)malloc(MAX_NOS_SIZE);
         createSchStr = (TCHAR *)malloc(MAX_NOS_SIZE);
         setSchStr = (TCHAR *)malloc(MAX_NOS_SIZE);
@@ -270,7 +288,6 @@ TCHAR                   *dropSchStr;
                 TEST_FAILED;
                 LogAllErrors(henv,hdbc,hstmt);
         }
-/* end of SEAQUEST */
 
 	while (_tcsicmp(CreateProc[i].DropProc,_T("endloop")) != 0)
 	{
@@ -307,11 +324,11 @@ TCHAR                   *dropSchStr;
 	}
 
 	_tcscpy(ProcCatalog, pTestInfo->Catalog);
-	_tcscpy(ProcSchema, myTestSch /*SEAQUEST pTestInfo->Schema*/);
+	_tcscpy(ProcSchema, myTestSch /*SQ pTestInfo->Schema*/);
 	
 	_stprintf(Heading,_T("Test Positive Functionality of SQLProcedureColumns \n"));
 	TESTCASE_BEGINW(Heading);
-	returncode = SQLProcedureColumns(hstmt,(SQLTCHAR*)pTestInfo->Catalog,(SWORD)_tcslen(pTestInfo->Catalog),(SQLTCHAR*)myTestSch/* SEAQUEST pTestInfo->Schema*/,(SWORD)_tcslen(myTestSch/* SEAQUEST pTestInfo->Schema*/),(SQLTCHAR *)_T("%"),(SWORD)1,(SQLTCHAR *)_T("%"),(SWORD)1);
+	returncode = SQLProcedureColumns(hstmt,(SQLTCHAR*)pTestInfo->Catalog,(SWORD)_tcslen(pTestInfo->Catalog),(SQLTCHAR*)myTestSch/* SQ pTestInfo->Schema*/,(SWORD)_tcslen(myTestSch/* SQ pTestInfo->Schema*/),(SQLTCHAR *)_T("%"),(SWORD)1,(SQLTCHAR *)_T("%"),(SWORD)1);
 	if(!CHECKRC(SQL_SUCCESS,returncode,"SQLProcedureColumns"))
 	{
 		TEST_FAILED;
@@ -556,7 +573,7 @@ TCHAR                   *dropSchStr;
 	_tcscpy(ProcName,_T("junkproc"));
 	_tcscpy(ColName,_T("C1"));
 
-	returncode = SQLProcedureColumns(hstmt,(SQLTCHAR*)pTestInfo->Catalog,(SWORD)_tcslen(pTestInfo->Catalog),(SQLTCHAR*)myTestSch /* SEAQUEST pTestInfo->Schema */,(SWORD)_tcslen(myTestSch /* SEAQUEST pTestInfo->Schema*/),(SQLTCHAR*)ProcName,(SWORD)_tcslen(ProcName),(SQLTCHAR*)ColName,(SWORD)_tcslen(ColName));
+	returncode = SQLProcedureColumns(hstmt,(SQLTCHAR*)pTestInfo->Catalog,(SWORD)_tcslen(pTestInfo->Catalog),(SQLTCHAR*)myTestSch /* SQ pTestInfo->Schema */,(SWORD)_tcslen(myTestSch /* SQ pTestInfo->Schema*/),(SQLTCHAR*)ProcName,(SWORD)_tcslen(ProcName),(SQLTCHAR*)ColName,(SWORD)_tcslen(ColName));
 	if(!CHECKRC(SQL_INVALID_HANDLE,returncode,"SQLProcedureColumns"))
 	{
 		TEST_FAILED;

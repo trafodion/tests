@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdlib.h>    
 #include <stdio.h>
 #include <stdarg.h>
@@ -8,8 +29,8 @@
 #include "basedef.h"
 #include "log.h"
 #include "common.h"
-#define NSK_PLATFORM
-#if !defined(NSK_PLATFORM)
+#define PLATFORM
+#if !defined(PLATFORM)
 	#include <io.h>
 #endif
 
@@ -34,7 +55,7 @@ short LogInit(TCHAR *LogFileName,int RetryCount,TCHAR *ErrorString)
    /* if the caller wants to use STDOUT as logfile it must first be...*/
    /*...closed as C automatically opens it when programs start running */
    /* NOTE: this is commented out for now because on a PC the getenv("STDOUT") */
-   /*       function call returns NULL, although it works on a Tandem system */
+   /*       function call returns NULL, although it works on certain system */
    //if(_tcscmp(LogFileName,getenv("STDOUT"))==0) _tfclose(stdout);
 
    /* set the local global values */
@@ -188,7 +209,7 @@ short LogMsg(int Options,TCHAR *Format, ...)
 short LogSetMark()
 {
 	short ReturnCode;
-#ifndef NSK_PLATFORM
+#ifndef PLATFORM
 	short FileHandle;
 	TFILE *Logfile;
 	int error;
@@ -196,7 +217,7 @@ short LogSetMark()
    
   ReturnCode=0;
 
-#ifdef NSK_PLATFORM
+#ifdef PLATFORM
   {
 /*	Logfile=fopen(LgLogFileName,"r+");
 	error=fgetpos(Logfile, position);
@@ -223,7 +244,7 @@ short LogSetMark()
 short LogSetEofAtMark()
 {
 	short ReturnCode;
-#ifndef NSK_PLATFORM
+#ifndef PLATFORM
 	short FileHandle;
 	TFILE *Logfile;
 	int error;
@@ -231,7 +252,7 @@ short LogSetEofAtMark()
    
    ReturnCode=0;
 
-#ifdef NSK_PLATFORM
+#ifdef PLATFORM
   {
 /*	Logfile=fopen(LgLogFileName,"r+");
 	error=fsetpos(Logfile, position);

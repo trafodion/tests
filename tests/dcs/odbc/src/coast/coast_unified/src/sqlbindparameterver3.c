@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <time.h>
 #include <windows.h>
@@ -143,7 +164,7 @@ PassFail TestMXSQLBindParameterVer3(TestInfo *pTestInfo)
 				_T("--"),_T("--"),_T("9.000001"),_T("12.001101"),_T("1234"),_T("12345"),_T("12340"),_T("12300"),_T("12345670"),DATE_FORMAT,_T("11:45:23"),_T("1992-12-31 23:45:23.123456"),_T("--"),_T("123456"),_T("--"),_T("--"),_T("--")
 #endif
 			},
-			//These 3 cases are added for Walmart - leading zeros
+			//These 3 cases are added for - leading zeros
 			{	SQL_C_TCHAR,
 				_T("--"),
 #ifdef UNICODE
@@ -467,7 +488,7 @@ PassFail TestMXSQLBindParameterVer3(TestInfo *pTestInfo)
 		unsigned short int	hour;
 		unsigned short int	minute;
 		unsigned short int	second;
-		unsigned int	fraction; // sushil
+		unsigned int	fraction; 
 	} CTIMESTAMPTOSQL = {1993,12,30,11,33,41,123456};
 
 	struct
@@ -478,7 +499,7 @@ PassFail TestMXSQLBindParameterVer3(TestInfo *pTestInfo)
 		unsigned short int	hour;
 		unsigned short int	minute;
 		unsigned short int	second;
-		unsigned int		fraction; // sushil
+		unsigned int		fraction; //  
 	} CTIMESTAMPTOSQL1 = {1993,12,30,0,0,0,0};
 
 	struct
@@ -489,7 +510,7 @@ PassFail TestMXSQLBindParameterVer3(TestInfo *pTestInfo)
 		unsigned short int	hour;
 		unsigned short int	minute;
 		unsigned short int	second;
-		unsigned int		fraction; // sushil
+		unsigned int		fraction; //  
 	} CTIMESTAMPTOSQL2 = {1993,12,30,11,33,41,0};
 
 	struct
@@ -562,7 +583,7 @@ PassFail TestMXSQLBindParameterVer3(TestInfo *pTestInfo)
 			unsigned short int	hour;
 			unsigned short int	minute;
 			unsigned short int	second;
-			unsigned int		fraction; // sushil
+			unsigned int		fraction; //  
 		} TimestampValue;
 		TCHAR				*LongVarCharValue;
 		#ifdef WIN32
@@ -1144,7 +1165,7 @@ PassFail TestMXSQLBindParameterVer3(TestInfo *pTestInfo)
 
 	SQLLEN	InValue = SQL_NTS, InValue1 = 0, InValueNullData = SQL_NULL_DATA;
 	TCHAR	OutValue[NAME_LEN*2];
-	SQLLEN	OutValueLen = SQL_NTS; // sushil
+	SQLLEN	OutValueLen = SQL_NTS; //  
 	
 //===========================================================================================================
 //************************************************
@@ -1183,7 +1204,7 @@ PassFail TestMXSQLBindParameterVer3(TestInfo *pTestInfo)
 			unsigned short int	hour;
 			unsigned short int	minute;
 			unsigned short int	second;
-			unsigned int	fraction; // sushil
+			unsigned int	fraction; //  
 		} TimestampValue2;
 		TCHAR				*OutputValue[MAX_BINDPARAM7];
 	} CDataValueTOSQL7[] = 

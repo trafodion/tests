@@ -1,13 +1,31 @@
+# @@@ START COPYRIGHT @@@
+#
+# (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+#
+#  Licensed under the Apache License, Version 2.0 (the "License");
+#  you may not use this file except in compliance with the License.
+#  You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+#  Unless required by applicable law or agreed to in writing, software
+#  distributed under the License is distributed on an "AS IS" BASIS,
+#  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#  See the License for the specific language governing permissions and
+#  limitations under the License.
+#
+# @@@ END COPYRIGHT @@@
+
+
 # DEFINES
 C = g++ 
 CC = $(C)
 LINK = $(CC)
 LINK2 = g++ 
-CLEANUP = $(OBJ)/*.o ./*.char run.sh env.sh MXODSN
+CLEANUP = $(OBJ)/*.o ./*.char run.sh env.sh 
 EXENAME = coast
 SRCDIR = ../../../../src/coast/coast_unified/src
 LIBPATH = ../../../../drivers_unix/linux64
-#LIBPATH = /opt/home/saruna/odbcqa/traf/drivers_unix/linux64
 INCLUDE = -I. -I$(SRCDIR) -I$(LIBPATH) 
 OBJ=./obj
 TSTOBJS =$(SRCDIR)/afcon.o \
@@ -189,8 +207,8 @@ all: $(TSTOBJS)
 	ln -f -s ../../../common/TRAFDSN_ANSI ./TRAFDSN
 	ln -f -s ../../common/run.sh ./run.sh
 	echo "export ODBCTEST_DSN=TDM_Default_DataSource" >> env.sh
-	echo "export ODBCTEST_USER=sql_user" >> env.sh
-	echo "export ODBCTEST_PASS=redhat06" >> env.sh
+	echo "export ODBCTEST_USER=userid" >> env.sh
+	echo "export ODBCTEST_PASS=password" >> env.sh
 	echo "export ODBCTEST_CHARSET=ASCII" >> env.sh
 	echo "export ODBCTEST_OS=linux64" >> env.sh
 	chmod -R 777 *	

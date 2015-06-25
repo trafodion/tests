@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -31,13 +52,11 @@ PassFail TestMXSQLProcedures(TestInfo *pTestInfo)
 	SWORD			onuminpar,onumoutpar,onumresset,optype;
 	SQLLEN			opqualen,opownerlen,opnamelen,onuminparlen,onumoutparlen,onumressetlen,oremarklen,optypelen;
 
-	/* SEAQUEST */
 	char			tmpbuf[1024];
 	TCHAR			*myTestSch;
 	TCHAR			*createSchStr;
 	TCHAR			*setSchStr;
 	TCHAR			*dropSchStr;
-	/* end of SEAQUEST */
 
 	struct	
 	{
@@ -108,7 +127,6 @@ PassFail TestMXSQLProcedures(TestInfo *pTestInfo)
 
 	ProcStr = (TCHAR *)malloc(MAX_NOS_SIZE);
 
-/* SEAQUEST */
 	myTestSch = (TCHAR *)malloc(MAX_NOS_SIZE);
 	createSchStr = (TCHAR *)malloc(MAX_NOS_SIZE);
 	setSchStr = (TCHAR *)malloc(MAX_NOS_SIZE);
@@ -145,7 +163,6 @@ PassFail TestMXSQLProcedures(TestInfo *pTestInfo)
 		TEST_FAILED;
 		LogAllErrors(henv,hdbc,hstmt);
 	}
-/* end of SEAQUEST */
 
 	while (_tcsicmp(CreateProc[i].DropProc,_T("endloop")) != 0)
 	{
@@ -184,7 +201,7 @@ PassFail TestMXSQLProcedures(TestInfo *pTestInfo)
 	
 	_stprintf(Heading,_T("Test Positive Functionality of SQLProcedures \n"));
 	TESTCASE_BEGINW(Heading);
-	returncode = SQLProcedures(hstmt,(SQLTCHAR*)pTestInfo->Catalog,(SWORD)_tcslen(pTestInfo->Catalog),(SQLTCHAR*)/* SEAQUEST pTestInfo->Schema */ myTestSch,(SWORD)_tcslen(/* SEAQUEST pTestInfo->Schema */ myTestSch),(SQLTCHAR *)_T("%"),(SWORD)1);
+	returncode = SQLProcedures(hstmt,(SQLTCHAR*)pTestInfo->Catalog,(SWORD)_tcslen(pTestInfo->Catalog),(SQLTCHAR*)/* SQ pTestInfo->Schema */ myTestSch,(SWORD)_tcslen(/* SQ pTestInfo->Schema */ myTestSch),(SQLTCHAR *)_T("%"),(SWORD)1);
 	if(!CHECKRC(SQL_SUCCESS,returncode,"SQLProcedures"))
 	{
 		TEST_FAILED;
@@ -228,7 +245,7 @@ PassFail TestMXSQLProcedures(TestInfo *pTestInfo)
 					_stprintf(Heading,_T("SQLProcedures: Comparing Results\n"));
 					TESTCASE_BEGINW(Heading);
 					if ((_tcsicmp(pTestInfo->Catalog,opqua) == 0) 
-					&& (_tcsicmp(/* SEAQUEST pTestInfo->Schema */ myTestSch,opowner) == 0) 
+					&& (_tcsicmp(/* SQ pTestInfo->Schema */ myTestSch,opowner) == 0) 
 					&& (_tcsicmp(Procedure[i].ProcName,opname) == 0) 
 					&& (Procedure[i].NumInParams == onuminpar) 
 					&& (Procedure[i].NumOutParams == onumoutpar) 
@@ -237,7 +254,7 @@ PassFail TestMXSQLProcedures(TestInfo *pTestInfo)
 					&& (ProcType == optype))
 					{
 						LogMsg(NONE,_T("Catalog Name expect: %s and actual: %s are matched\n"),pTestInfo->Catalog,opqua);
-						LogMsg(NONE,_T("Schema Name expect: %s and actual: %s are matched\n"),/* SEAQUEST pTestInfo->Schema */ myTestSch,opowner);
+						LogMsg(NONE,_T("Schema Name expect: %s and actual: %s are matched\n"),/* SQ pTestInfo->Schema */ myTestSch,opowner);
 						LogMsg(NONE,_T("ProcName expect: %s and actual: %s are matched\n"),Procedure[i].ProcName,opname);
 						LogMsg(NONE,_T("NumInParams expect: %d and actual: %d are matched\n"),Procedure[i].NumInParams,onuminpar);
 						LogMsg(NONE,_T("NumOutParams expect: %d and actual: %d are matched\n"),Procedure[i].NumOutParams,onumoutpar);
@@ -250,8 +267,8 @@ PassFail TestMXSQLProcedures(TestInfo *pTestInfo)
 						TEST_FAILED;	
 						if (_tcsicmp(pTestInfo->Catalog,opqua) != 0)
 							LogMsg(ERRMSG,_T("Catalog Name expect: %s and actual: %s are not matched\n"),pTestInfo->Catalog,opqua);
-						if (_tcsicmp(/* SEAQUEST pTestInfo->Schema */ myTestSch,opowner) != 0) 
-							LogMsg(ERRMSG,_T("Schema Name expect: %s and actual: %s are not matched\n"),/* SEAQUEST pTestInfo->Schema */ myTestSch,opowner);
+						if (_tcsicmp(/* SQ pTestInfo->Schema */ myTestSch,opowner) != 0) 
+							LogMsg(ERRMSG,_T("Schema Name expect: %s and actual: %s are not matched\n"),/* SQ pTestInfo->Schema */ myTestSch,opowner);
 						if (_tcsicmp(Procedure[i].ProcName,opname) != 0) 
 							LogMsg(ERRMSG,_T("ProcName expect: %s and actual: %s are not matched\n"),Procedure[i].ProcName,opname);
 						if (Procedure[i].NumInParams != onuminpar) 
@@ -305,7 +322,7 @@ PassFail TestMXSQLProcedures(TestInfo *pTestInfo)
 	hstmt = (SQLHANDLE)NULL;
 	_tcscpy(ProcName,_T("junkproc"));
 
-	returncode = SQLProcedures(hstmt,(SQLTCHAR*)pTestInfo->Catalog,(SWORD)_tcslen(pTestInfo->Catalog),(SQLTCHAR*)/* SEAQUEST pTestInfo->Schema */ myTestSch,(SWORD)_tcslen(/* SEAQUEST pTestInfo->Schema */ myTestSch),(SQLTCHAR*)ProcName,(SWORD)_tcslen(ProcName));
+	returncode = SQLProcedures(hstmt,(SQLTCHAR*)pTestInfo->Catalog,(SWORD)_tcslen(pTestInfo->Catalog),(SQLTCHAR*)/* SQ pTestInfo->Schema */ myTestSch,(SWORD)_tcslen(/* SQ pTestInfo->Schema */ myTestSch),(SQLTCHAR*)ProcName,(SWORD)_tcslen(ProcName));
 	if(!CHECKRC(SQL_INVALID_HANDLE,returncode,"SQLProcedures"))
 	{
 		TEST_FAILED;

@@ -1,7 +1,25 @@
-/*
+-- @@@ START COPYRIGHT @@@
+--
+-- (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+--
+--  Licensed under the Apache License, Version 2.0 (the "License");
+--  you may not use this file except in compliance with the License.
+--  You may obtain a copy of the License at
+--
+--      http://www.apache.org/licenses/LICENSE-2.0
+--
+--  Unless required by applicable law or agreed to in writing, software
+--  distributed under the License is distributed on an "AS IS" BASIS,
+--  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+--  See the License for the specific language governing permissions and
+--  limitations under the License.
+--
+-- @@@ END COPYRIGHT @@@
+
+
+
 -- This text file is for Trafodion GBK version testing, becuase Hbase only suppoer ASCII, so all schema names and table names are changed to ASCII names.
 -- Be careful when modifying the content.
-*/
 
 
 [SchemaName 1]
@@ -615,7 +633,7 @@
 
 	-- Make sure the table name is not double-quoted
 	-- This will ensure a uniqueness needed for multiple instances
-	-- can be run on the same Neoview server
+	-- can be run on the same server
 	SQLForeignKeys_TableNames_1 ""区请导区帮识条处请简导1""
 	SQLForeignKeys_TableNames_2 ""区请导区帮识条处请简导2""
 	SQLForeignKeys_TableNames_3 ""区请导区帮识条处请简导3""
@@ -2545,92 +2563,92 @@
 	SQLColumnPrivileges_TableCol_Col_22  ""梦戏与_12345""
 	SQLColumnPrivileges_TableCol_Col_23  ""梦戏与_12345""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_0   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_0   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_0 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_0  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_0  ""区请导区_选识远过网础""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_1   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_1   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_1 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_1  ""
 	SQLColumnPrivileges_ColumnWC_ColName_1  ""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_2   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_2   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_2 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_2  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_2  ""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_3   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_3   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_3 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_3  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_3  ""区请导区_选识远过网础""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_4   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_4   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_4 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_4  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_4  ""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_5   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_5   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_5 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_5  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_5  ""区请导区_选识远过网础""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_6   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_6   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_6 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_6  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_6  "%"
 
-	SQLColumnPrivileges_ColumnWC_TabQua_7   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_7   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_7 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_7  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_7  ""区%""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_8   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_8   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_8 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_8  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_8  ""区请导%""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_9   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_9   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_9 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_9  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_9  "%"
 
-	SQLColumnPrivileges_ColumnWC_TabQua_10   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_10   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_10 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_10  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_10  ""区请导区%""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_11   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_11   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_11 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_11  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_11  ""区请导区_选识远%""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_12   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_12   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_12 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_12  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_12  ""区请导区_______""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_13   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_13   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_13 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_13  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_13  ""_____选识远过网础""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_14   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_14   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_14 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_14  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_14  ""区请导区_选识远过网础""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_15   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_15   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_15 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_15  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_15  ""区请导区__识远过网础""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_16   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_16   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_16 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_16  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_16  ""_请导区_选识远过网_""
 
-	SQLColumnPrivileges_ColumnWC_TabQua_17   "NEO"
+	SQLColumnPrivileges_ColumnWC_TabQua_17   "TRAFODION"
 	SQLColumnPrivileges_ColumnWC_TabOwner_17 ""区请导区_导选态请网请""
 	SQLColumnPrivileges_ColumnWC_TabName_17  ""区请导区_区电脑远请""
 	SQLColumnPrivileges_ColumnWC_ColName_17  ""区请导区_选识远过网_""
@@ -2680,151 +2698,151 @@
 	SQLTablePrivileges_TableCol_Col_32   ""梦戏与_12345" numeric(18,5) unsigned"
 	SQLTablePrivileges_TableCol_Col_33   ""梦戏与_12345" numeric(30,10) unsigned"
 
-	SQLTablePrivileges_ColumnWC_TabQua_0   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_0   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_0 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_0  ""区请导区_区电脑远请""
 
-	SQLTablePrivileges_ColumnWC_TabQua_1   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_1   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_1 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_1  "%"
 
-	SQLTablePrivileges_ColumnWC_TabQua_2   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_2   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_2 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_2  ""区请导%""
 
-	SQLTablePrivileges_ColumnWC_TabQua_3   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_3   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_3 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_3  ""区请导%""
 
-	SQLTablePrivileges_ColumnWC_TabQua_4   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_4   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_4 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_4  "%"
 
-	SQLTablePrivileges_ColumnWC_TabQua_5   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_5   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_5 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_5  "%"
 
-	SQLTablePrivileges_ColumnWC_TabQua_6   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_6   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_6 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_6  "NULL"
 
-	SQLTablePrivileges_ColumnWC_TabQua_7   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_7   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_7 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_7  ""
 
-	SQLTablePrivileges_ColumnWC_TabQua_8   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_8   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_8 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_8  "%"
 
-	SQLTablePrivileges_ColumnWC_TabQua_9   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_9   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_9 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_9  ""
 
-	SQLTablePrivileges_ColumnWC_TabQua_10   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_10   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_10 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_10  "%"
 
-	SQLTablePrivileges_ColumnWC_TabQua_11   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_11   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_11 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_11  ""
 
-	SQLTablePrivileges_ColumnWC_TabQua_12   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_12   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_12 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_12  ""
 
-	SQLTablePrivileges_ColumnWC_TabQua_13   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_13   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_13 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_13  ""区请导区_区电脑远请""
 
-	SQLTablePrivileges_ColumnWC_TabQua_14   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_14   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_14 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_14  ""
 
-	SQLTablePrivileges_ColumnWC_TabQua_15   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_15   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_15 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_15  ""区请导区_区电脑远请""
 
-	SQLTablePrivileges_ColumnWC_TabQua_16   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_16   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_16 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_16  ""区请导区_区电脑远请""
 
-	SQLTablePrivileges_ColumnWC_TabQua_17   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_17   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_17 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_17  ""区请导%""
 
-	SQLTablePrivileges_ColumnWC_TabQua_18   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_18   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_18 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_18  "%"
 
-	SQLTablePrivileges_ColumnWC_TabQua_19   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_19   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_19 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_19  ""区请导区_区电脑远_""
 
-	SQLTablePrivileges_ColumnWC_TabQua_20   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_20   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_20 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_20  "%"
 
-	SQLTablePrivileges_ColumnWC_TabQua_21   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_21   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_21 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_21  ""区请导区_区电脑__""
 
-	SQLTablePrivileges_ColumnWC_TabQua_22   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_22   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_22 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_22  ""区_导区_区电脑远请""
 
-	SQLTablePrivileges_ColumnWC_TabQua_23   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_23   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_23 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_23  "__________"
 
-	SQLTablePrivileges_ColumnWC_TabQua_24   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_24   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_24 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_24  ""______电脑远请""
 
-	SQLTablePrivileges_ColumnWC_TabQua_25   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_25   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_25 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_25  ""区请导区_区电脑__""
 
-	SQLTablePrivileges_ColumnWC_TabQua_26   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_26   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_26 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_26  ""______电脑远请""
 
-	SQLTablePrivileges_ColumnWC_TabQua_27   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_27   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_27 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_27  ""______电脑远请""
 
-	SQLTablePrivileges_ColumnWC_TabQua_28   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_28   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_28 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_28  "NULL"
 
-	SQLTablePrivileges_ColumnWC_TabQua_29   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_29   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_29 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_29  ""区请导区_区电脑远请""
 
-	SQLTablePrivileges_ColumnWC_TabQua_30   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_30   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_30 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_30  "NULL"
 
-	SQLTablePrivileges_ColumnWC_TabQua_31   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_31   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_31 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_31  "NULL"
 
-	SQLTablePrivileges_ColumnWC_TabQua_32   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_32   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_32 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_32  "NULL"
 
-	SQLTablePrivileges_ColumnWC_TabQua_33   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_33   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_33 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_33  ""区请导区%""
 
-	SQLTablePrivileges_ColumnWC_TabQua_34   "NEO"
+	SQLTablePrivileges_ColumnWC_TabQua_34   "TRAFODION"
 	SQLTablePrivileges_ColumnWC_TabOwner_34 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC_TabName_34  ""区请导区%""
 
-	SQLTablePrivileges_ColumnWC2_TabQua_0   "NEO"
+	SQLTablePrivileges_ColumnWC2_TabQua_0   "TRAFODION"
 	SQLTablePrivileges_ColumnWC2_TabOwner_0 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC2_TabName_0  ""区请导区_区电脑远请""
 
-	SQLTablePrivileges_ColumnWC2_TabQua_1   "NEO"
+	SQLTablePrivileges_ColumnWC2_TabQua_1   "TRAFODION"
 	SQLTablePrivileges_ColumnWC2_TabOwner_1 ""区请导区_导选态请网请""
 	SQLTablePrivileges_ColumnWC2_TabName_1  ""区请导区_区电脑远请""
 

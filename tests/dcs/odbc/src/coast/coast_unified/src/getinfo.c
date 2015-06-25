@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -22,7 +43,7 @@ PassFail TestMXSQLGetInfo(TestInfo *pTestInfo)
  	SQLHANDLE 	hdbc;
  	SQLHANDLE	hstmt;
 	union{
-	    SQLLEN      longInfoValue; // sushil
+	    SQLLEN      longInfoValue; //  
 		SQLUINTEGER	intInfoValue;
 		SQLUSMALLINT smiInfoValue;
 		//char charInfoValue[MAX_LEN_BUF+1];
@@ -378,7 +399,7 @@ PassFail TestMXSQLGetInfo(TestInfo *pTestInfo)
 		{SQL_DEFAULT_TXN_ISOLATION,&default_txn_isolation,4, 0},
 		{SQL_DESCRIBE_PARAMETER,describe_parameter,1, 1},
 		{SQL_DM_VER, dm_ver, strlen(dm_ver), 1},
-#ifdef _LP64 // sushil
+#ifdef _LP64 //  
 		{SQL_DRIVER_HDBC,&driver_hdbc,8, 0},
 		{SQL_DRIVER_HENV,&driver_henv,8, 0},
 #else
@@ -386,7 +407,7 @@ PassFail TestMXSQLGetInfo(TestInfo *pTestInfo)
 		{SQL_DRIVER_HENV,&driver_henv,4, 0},
 #endif
 //		{SQL_DRIVER_HLIB,&driver_hlib,4, 0},
-#ifdef _LP64 // sushil
+#ifdef _LP64 //  
 		{SQL_DRIVER_HSTMT,&driver_hstmt,8, 0},
 #else
 		{SQL_DRIVER_HSTMT,&driver_hstmt,4, 0},
@@ -586,7 +607,7 @@ PassFail TestMXSQLGetInfo(TestInfo *pTestInfo)
 		pcbInfoValue=INVALID_pcbINFOVALUE;
 
 		if(SQL_DRIVER_HSTMT==ExpectedResults[i].InfoType){
-			u1.longInfoValue=(unsigned long)hstmt; // sushil
+			u1.longInfoValue=(unsigned long)hstmt; //  
 		}
 
 		returncode = SQLGetInfo((SQLHANDLE)hdbc,ExpectedResults[i].InfoType,(char *)u1.charInfoValue,
@@ -604,7 +625,6 @@ PassFail TestMXSQLGetInfo(TestInfo *pTestInfo)
 				case SQL_DRIVER_NAME:
 				case SQL_DRIVER_VER:
 				case SQL_SERVER_NAME:
-	//	/* SEAQUEST */	case SQL_DRIVER_HLIB:
 					break;
 				default:
 					if(ExpectedResults[i].InfoValueLength!=pcbInfoValue){
@@ -1011,7 +1031,7 @@ PassFail TestMXSQLGetInfo(TestInfo *pTestInfo)
 		TESTCASE_BEGINW(Heading);
 		
 		if(SQL_DRIVER_HSTMT==ExpectedResults[i].InfoType){
-			u1.longInfoValue=(unsigned long)hstmt; // sushil
+			u1.longInfoValue=(unsigned long)hstmt; //  
 		}
 
 		returncode = SQLGetInfo((SQLHANDLE)hdbc,ExpectedResults[i].InfoType,u1.charInfoValue,
@@ -1061,7 +1081,7 @@ PassFail TestMXSQLGetInfo(TestInfo *pTestInfo)
 		TESTCASE_BEGINW(Heading);
 		
 		if(SQL_DRIVER_HSTMT==ExpectedResults[i].InfoType){
-			u1.longInfoValue=(unsigned long)hstmt; // sushil
+			u1.longInfoValue=(unsigned long)hstmt; //  
 		}
 
 		returncode = SQLGetInfo((SQLHANDLE)hdbc,ExpectedResults[i].InfoType,

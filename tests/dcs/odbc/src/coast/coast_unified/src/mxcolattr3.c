@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -36,8 +57,8 @@ PassFail TestMXSQLColAttributeVer3(TestInfo *pTestInfo)
 #define			NUMBER_OF_COLUMNS		29
 
 #ifdef _LP64
-	SQLINTEGER pfDesc_4bytes; // sushil
-	SQLLEN	   pfDesc_8bytes; // sushil
+	SQLINTEGER pfDesc_4bytes; 
+	SQLLEN	   pfDesc_8bytes; 
 #endif
     SQLLEN		pfDesc; // 4 bytes
 	int			dw;
@@ -349,17 +370,17 @@ PassFail TestMXSQLColAttributeVer3(TestInfo *pTestInfo)
 					_tcscpy ((TCHAR*)expDesc, _T("TRAFODION"));
 #ifdef _LP64
 					if ((cwcscmp((TCHAR*)rgbDesc,(TCHAR*)expDesc,TRUE) == 0) && (pcbDesc == 0) && (ColAttr[icol-1].pDes[iatt] == pfDesc_8bytes
-						/* SEAQUEST this is the UNICODE version, there are a few exceptions. */
+						/* this is the UNICODE version, there are a few exceptions. */
 						|| (ColAttr[icol-1].pDes[iatt] == SQL_VARCHAR && pfDesc_8bytes == SQL_WVARCHAR)
 						|| (ColAttr[icol-1].pDes[iatt] == SQL_CHAR && pfDesc_8bytes == SQL_WCHAR)
-						/* end of SEAQUEST */
+						/* end of */
 						)) 
 #else
 					if ((cwcscmp((TCHAR*)rgbDesc,(TCHAR*)expDesc,TRUE) == 0) && (pcbDesc == 0) && (ColAttr[icol-1].pDes[iatt] == pfDesc
-						/* SEAQUEST this is the UNICODE version, there are a few exceptions. */
+						/* this is the UNICODE version, there are a few exceptions. */
 						|| (ColAttr[icol-1].pDes[iatt] == SQL_VARCHAR && pfDesc == SQL_WVARCHAR)
 						|| (ColAttr[icol-1].pDes[iatt] == SQL_CHAR && pfDesc == SQL_WCHAR)
-						/* end of SEAQUEST */
+						/* end of */
 						)) 
 #endif
 					{
@@ -385,21 +406,21 @@ PassFail TestMXSQLColAttributeVer3(TestInfo *pTestInfo)
 				else{
 #ifdef _LP64
 					if ((cwcscmp((TCHAR*)ColAttr[icol-1].rDes[iatt-PF_COLUMNS],(TCHAR*)rgbDesc, TRUE) == 0
-						/* SEAQUEST this is the UNICODE version, there are a few exceptions. */
+						/* this is the UNICODE version, there are a few exceptions. */
 						|| (cwcscmp((TCHAR*)ColAttr[icol-1].rDes[iatt-PF_COLUMNS],_T("VARCHAR"), TRUE) == 0 &&
 							cwcscmp((TCHAR*)rgbDesc,_T("NCHAR VARYING"), TRUE) == 0)
 						|| (cwcscmp((TCHAR*)ColAttr[icol-1].rDes[iatt-PF_COLUMNS],_T("CHAR"), TRUE) == 0 &&
 							cwcscmp((TCHAR*)rgbDesc,_T("NCHAR"), TRUE) == 0)
-						/* end of SEAQUEST */
+						/* end of */
 						) && (pcbDesc == (SWORD)_tcslen((const char*)rgbDesc)*sizeof(TCHAR)) && (pfDesc_8bytes == 0)) 
 #else
 					if ((cwcscmp((TCHAR*)ColAttr[icol-1].rDes[iatt-PF_COLUMNS],(TCHAR*)rgbDesc, TRUE) == 0
-						/* SEAQUEST this is the UNICODE version, there are a few exceptions. */
+						/* this is the UNICODE version, there are a few exceptions. */
 						|| (cwcscmp((TCHAR*)ColAttr[icol-1].rDes[iatt-PF_COLUMNS],_T("VARCHAR"), TRUE) == 0 &&
 							cwcscmp((TCHAR*)rgbDesc,_T("NCHAR VARYING"), TRUE) == 0)
 						|| (cwcscmp((TCHAR*)ColAttr[icol-1].rDes[iatt-PF_COLUMNS],_T("CHAR"), TRUE) == 0 &&
 							cwcscmp((TCHAR*)rgbDesc,_T("NCHAR"), TRUE) == 0)
-						/* end of SEAQUEST */
+						/* end of */
 						) && (pcbDesc == (SWORD)_tcslen((const TCHAR *)rgbDesc)*sizeof(TCHAR)) && (pfDesc == 0)) 
 #endif
 					{

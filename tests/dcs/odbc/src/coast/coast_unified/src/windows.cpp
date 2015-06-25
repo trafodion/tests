@@ -1,21 +1,22 @@
-/*************************************************************************
-*
-// @@@ START COPYRIGHT @@@
-//
-//  Copyright 1998
-//  Compaq Computer Corporation
-//     Protected as an unpublished work.
-//        All rights reserved.
-//
-//  The computer program listings, specifications, and documentation
-//  herein are the property of Compaq Computer Corporation or a
-//  third party supplier and shall not be reproduced, copied,
-//  disclosed, or used in whole or in part for any reason without
-//  the prior express written permission of Compaq Computer
-//  Corporation.
-//
-// @@@ END COPYRIGHT @@@ 
-**************************************************************************/
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
 
 //#include <fs\feerrors.h>
 #include <stdio.h>
@@ -283,7 +284,7 @@ BOOL GetComputerName (LPSTR lpBuffer, LPDWORD nSize)
 /*
 int GetWindowText(HWND hWnd, LPTSTR lpString, int nMaxCount )
 {
-	NSK_PROCESS_HANDLE pHandle;
+	PROCESS_HANDLE pHandle;
 	short retlen = 0;
 	lpString[0]=0;
 
@@ -417,7 +418,7 @@ DWORD	GetCurrentProcessId()
 	short processId;
 	short cpuNumber;
 	short errorDetail;
-	NSK_PROCESS_HANDLE pHandle;
+	PROCESS_HANDLE pHandle;
 
 	if ((error = PROCESSHANDLE_NULLIT_ (pHandle)) != 0)
 		return -1;
@@ -454,7 +455,7 @@ DWORD	GetCurrentProcessId()
 }
 */
 
-//========================= NSK Driver Conversion ====================
+//========================= Driver Conversion ====================
 /*
 char *fcvt(double value,int count,int *dec,int *sign ) throw ()
 {

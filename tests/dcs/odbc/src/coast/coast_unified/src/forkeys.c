@@ -1,3 +1,24 @@
+/**
+  @@@ START COPYRIGHT @@@
+
+  (C) Copyright 2015 Hewlett-Packard Development Company, L.P.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  @@@ END COPYRIGHT @@@
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -25,14 +46,9 @@ PassFail TestMXSQLForeignKeys(TestInfo *pTestInfo)
  	SQLHANDLE			hstmt;
 	TCHAR				TQualifier[NAME_LEN],TOwner[NAME_LEN];
 	TCHAR				*Output[NUM_OUTPUTS_PK],*Results[NUM_OUTPUTS_PK];
-	SQLLEN				OutputLen[NUM_OUTPUTS_PK] = {NAME_LEN,NAME_LEN,NAME_LEN,NAME_LEN,NAME_LEN,NAME_LEN}; // sushil
+	SQLLEN				OutputLen[NUM_OUTPUTS_PK] = {NAME_LEN,NAME_LEN,NAME_LEN,NAME_LEN,NAME_LEN,NAME_LEN}; 
     int failedFlag = 0;
 
-	/* SEAQUEST
-	TCHAR	*ColType[] = {_T(" char(10) CHARACTER SET ISO88591"),
-						_T(" varchar(10) CHARACTER SET ISO88591"),
-						_T(" long varchar(10) CHARACTER SET ISO88591"),
-	end of SEAQUEST */
 	TCHAR	*ColType[] = {_T(" char(10) CHARACTER SET ucs2"),
 						_T(" varchar(10) CHARACTER SET ucs2"),
 						_T(" long varchar(10) CHARACTER SET ucs2"),
@@ -156,17 +172,17 @@ PassFail TestMXSQLForeignKeys(TestInfo *pTestInfo)
 			switch (j)
 			{
 				case 0:
-                    // The  NO PARTITION is to help speed up this test on NEO/clustered systems with POS turned on.
+                    // The  NO PARTITION is to help speed up this test on clustered systems with POS turned on.
 					_stprintf(CreateTbl,_T("create table %s (%s %s not null not droppable, %s %s, primary key(%s)) NO PARTITION"),
 							TableNames[j], ColName[0], ColType[i], ColName[1], ColType[i], ColName[0]);
 					break;
 				case 1:
-                    // The  NO PARTITION is to help speed up this test on NEO/clustered systems with POS turned on.
+                    // The  NO PARTITION is to help speed up this test on clustered systems with POS turned on.
 					_stprintf(CreateTbl,_T("create table %s (%s %s not null not droppable, %s %s, primary key(%s), foreign key (%s) references %s(%s)) NO PARTITION"),
 							TableNames[j], ColName[2], ColType[i], ColName[3], ColType[i], ColName[2], ColName[3], TableNames[j-1], ColName[0]);
 					break;
 				case 2:
-                    // The  NO PARTITION is to help speed up this test on NEO/clustered systems with POS turned on.
+                    // The  NO PARTITION is to help speed up this test on clustered systems with POS turned on.
 					_stprintf(CreateTbl,_T("create table %s (%s %s not null not droppable, %s %s, primary key(%s), foreign key (%s) references %s(%s)) NO PARTITION"),
 							TableNames[j], ColName[4], ColType[i], ColName[5], ColType[i], ColName[4], ColName[5], TableNames[j-1], ColName[2]);
 					break;
@@ -295,7 +311,7 @@ PassFail TestMXSQLForeignKeys(TestInfo *pTestInfo)
 					for (j = 0; j < NUM_OUTPUTS_PK; j++)
 					{
 						Output[j] = (TCHAR *)malloc(NAME_LEN);
-						/* SEAQUEST */  OutputLen[j] = NAME_LEN;
+						OutputLen[j] = NAME_LEN;
 						returncode = SQLBindCol(hstmt,(SWORD)(j+1),SQL_C_TCHAR,Output[j],NAME_LEN,&OutputLen[j]);
 						if(!CHECKRC(SQL_SUCCESS,returncode,"SQLBindCol"))
 						{
@@ -324,7 +340,7 @@ PassFail TestMXSQLForeignKeys(TestInfo *pTestInfo)
 								for (j = 0; j < NUM_OUTPUTS_PK; j++)
 								{
 									_itot(k+1,Results[8],10);
-									//if ((_tcscmp(Output[j], _T("NEO")) != 0) && (_tcslen(Results[j]) != 0))
+									//if ((_tcscmp(Output[j], _T("TRAFODION")) != 0) && (_tcslen(Results[j]) != 0))
 									if ((_tcscmp(Output[j], _T("TRAFODION")) != 0) && (_tcslen(Results[j]) != 0))
 									{
 										if (cstrncmp(Results[j],Output[j],TRUE,_tcslen(Results[j])) == 0)
